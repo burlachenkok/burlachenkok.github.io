@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Information about old website
+title: My story
 published: true
 ---
 
