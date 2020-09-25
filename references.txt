@@ -1,0 +1,8 @@
+https://frontender.info/build-blog-jekyll-github-pages/
+
+https://jekyllrb.com/
+https://www.tablesgenerator.com/markdown_tables
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
+https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://jekyllrb.com/docs/front-matter/
