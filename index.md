@@ -14,7 +14,7 @@ th, td {
 
 <div style="background-color:yellow"> This website is under construction </div>
 
-Konstantin Burlachenko. Ph.D. candidate and member of Professor [Peter Richtarik's Optimization and Machine Learning Lab](https://richtarik.org/) of
+My name is Konstantin Burlachenko and I am a Ph.D. candidate and member of Professor [Peter Richtarik's Optimization and Machine Learning Lab](https://richtarik.org/) of
 [Computer, Electrical and Mathematical Sciences and Engineering of KAUST University](https://cemse.kaust.edu.sa/)
 
 ---

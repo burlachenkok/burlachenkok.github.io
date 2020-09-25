@@ -11,7 +11,7 @@ I am a Ph.D. candidate and member of Professor Peter Richtarik's Optimization an
 ---
 
 I got a Master's degree in CS and Control Systems from Bauman Moscow State University in 2009.
-After that worked at a number of companies, most recently as a Senior Developer at Yandex and NVIDIA and a Principal Engineer at HUAWEI.
+After my graduation I worked at a number of companies, most recently as a Senior Developer at Yandex and NVIDIA and a Principal Engineer at HUAWEI.
 
 My current research focus is currently on stochastic math optimization and it's applications. Broadly area of my interests covers:
 
