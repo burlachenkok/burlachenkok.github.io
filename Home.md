@@ -1,0 +1,32 @@
+---
+layout: page
+title: Bio
+permalink: /home/
+---
+
+Some information about you!
+
+### Bio
+
+I’m a PhD candidate supervised by Peter Richtárik, working on optimization theory and its applications in Machine Learning.
+I got a Master’s degree in CS and Control Systems from Bauman Moscow State University in 2009. 
+After that worked at a number of companies, most recently as a Senior Developer at Yandex and NVidia and a Principal Engineer at Huawei.
+
+
+### Interests
+
+* Software development
+* Math Optimization
+* Federated Learning
+* Computer graphics and computer vision
+* Forecasting models from various fields of science and engineering including STAT, CS. 
+
+### Education
+
+* MS in CS and Control Systems, Bauman Moscow State University in 2009 
+* [Data Models and Optimization Graduate Certificate from Stanford](https://online.stanford.edu/programs/data-models-and-optimization-graduate-certificate)
+* [Artificial intelligence graduate certificate from Stanford](https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate)
+
+### Contact me
+
+[konstantin.burlachenko@kaust.edu.sa](mailto:konstantin.burlachenko@kaust.edu.sa)
