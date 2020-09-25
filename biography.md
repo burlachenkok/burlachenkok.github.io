@@ -5,9 +5,9 @@ permalink: /biography/
 ---
 
 ### Bio
-I’m a PhD candidate supervised by Peter Richtárik, working on optimization theory and its applications in Machine Learning.
-I got a Master’s degree in CS and Control Systems from Bauman Moscow State University in 2009. 
-After that worked at a number of companies, most recently as a Senior Developer at Yandex and NVidia and a Principal Engineer at Huawei.
+I am a PhD candidate supervised by Peter Richtarik, working on optimization theory and its applications in Machine Learning.
+I got a Master's degree in CS and Control Systems from Bauman Moscow State University in 2009. 
+After that worked at a number of companies, most recently as a Senior Developer at Yandex and NVIDIA and a Principal Engineer at HUAWEI.
 
 
 ### Interests
