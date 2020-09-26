@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About old website and it's content
+title: Old website
 published: true
 ---
 

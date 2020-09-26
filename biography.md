@@ -6,7 +6,7 @@ permalink: /biography/
 
 ### Konstantin Burlachenko - Biography
 
-I am a Ph.D. candidate and member of Professor Peter Richtarik's Optimization and Machine Learning Lab.
+I am a CS Ph.D. student and member of Professor Peter Richtarik's Optimization and Machine Learning Lab.
 
 ---
 
