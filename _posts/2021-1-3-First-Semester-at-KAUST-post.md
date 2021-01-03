@@ -32,7 +32,7 @@ If you're a student, you love math, and you're working under create future Machi
 ## GPU and GPGPU Programming, CS380
 
 This is an interesting intensive course which covers both compute and graphical pipelines of modern GPUs teched by [prof. Markus Hadwiger](https://www.kaust.edu.sa/en/study/faculty/markus-hadwiger).
-Course webpage: https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx
+Course webpage: [https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx](https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx)
 
 What is an extra benefit the level of the details has different scales - from low-level hardware aspects of GPU to high-level programming concepts.
 The course is very useful for people who want to work with GPU and obtain maximum benefit from it for computation or graphical projects. 
@@ -59,4 +59,4 @@ Graduate Seminars is a non-credit weekly seminar in various fields which has a c
 which share their research or observations. 
 
 In one of the seminars, it was an interesting recommendation from [prof. Peter Wonka](http://peterwonka.net/) about graduate (MS/Ph.D.) studies and what does it mean:
-https://www.youtube.com/watch?v=ln9pOPOCl9k&feature=youtu.be
+[https://www.youtube.com/watch?v=ln9pOPOCl9k](https://www.youtube.com/watch?v=ln9pOPOCl9k)
