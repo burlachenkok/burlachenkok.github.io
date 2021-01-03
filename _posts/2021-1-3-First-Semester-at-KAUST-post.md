@@ -1,17 +1,12 @@
 ---
 layout: post
-title: First Semester at KAUST as CEMSE/CS Ph.D. student (Fall, 2020)
+title: First Semester at KAUST as CEMSE/CS Ph.D.
 published: true
 ---
 
-# General 
+My first Semester at KAUST as CEMSE/CS Ph.D. student (Fall, 2020).
 
-As a former remote Stanford Student, I can compare classes at [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) and Stanford. 
-In terms of time consumption for me as a student, it's the same and if the material is new for me it will take 20 hours/week to deeply learn the subject through papers and books.
-
-The benefit of the KAUST is that at Stanford some classes are so huge (500 and more students in one course) that there is no way to have a dialog with the professor. Professors at Stanford try to mitigate this.
-
-At KAUST classes are smaller (20-30 students) and professors are also world level scientists.
+At KAUST classes are smaller (20-30 students) and professors are world level scientists.
 
 KAUST culture gives the opportunity to have direct dialogue with professors on the subject to obtain deep insights! Or even inspiration for paper!
 
