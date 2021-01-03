@@ -19,8 +19,7 @@ KAUST culture give opportunity to have direct dialogue with professors on the su
 
 As a part of my academic load I took several interesting classes at KAUST during my first semester which I can used for PhD qualification requirements in the first semester.
 
-## Stochastic Gradient Descent Methods, CS 331 with prof.Peter Richtarik
-
+## Stochastic Gradient Descent Methods, CS 331 
 "Stochastic gradient descent (SGD) in one or another of its many variants is the workhorse method for training modern supervised machine learning models. 
 However, the world of SGD methods is vast and expanding, which makes it hard for practitioners and even experts to understand its landscape and inhabitants. 
 This course is a mathematically rigorous and comprehensive introduction to the field, and is based on the latest results and insights."
@@ -32,13 +31,18 @@ This is the first course in the world of such kind. Reasons:
 
 The are a lot of materials. And in my personal feeling this course should have 6 credits.
 
+The course is teached by [prof.Peter Richtarik](https://richtarik.org/) and has a lot of interaction with the students. 
+If you're a student, you love math, and you're working under create future Machine Learning/AI you should enrool into it definetly!
+
 ## GPU and GPGPU Programming, CS380
 
-This is ant interesting intensive coourse which covers both compute and graphical pipiles of modern GPUs.
-https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx
+This is ant interesting intensive coourse which covers both compute and graphical pipiles of modern GPUs teched by [prof. Markus Hadwiger](https://www.kaust.edu.sa/en/study/faculty/markus-hadwiger).
+Course webpage: https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx
 
 What is an extra benefit the level of the details has different scales - from low-level hardware aspects of GPU to high level programming concepts.
-Course is very useful. My final project for the course: [Final project report](https://bitbucket.org/konstantin_burlachenko/opt_studio/src/master/docs/CS380ProjectFinalReport.pdf)
+Course is very useful for people who want to work with GPU and obtain maximum benefit from it for the computation or graphical projects. 
+
+My final project for the course: [Final project report](https://bitbucket.org/konstantin_burlachenko/opt_studio/src/master/docs/CS380ProjectFinalReport.pdf)
 
 ## Stochastic Processes, STAT250
 
@@ -49,11 +53,15 @@ Contents: Probability theory, Introduction to Random Processes and main concepts
 Covering different forms of stochastic processes and usefull properties and tool work wtih them: 
 
 Poisson processes, Gaussian processes, Branching processes, Linear filters, ARMA models, Markov disrete and continious time chains, elements of queuing theory.
-                  
+
+I was enrolled into the course and course has time limited exams. Course is very interesting and prof. David Bollin is very interactive professor and nice professor.
+If you're familiar with Probability Theory, Functional Analysis it will help in first part of the course. But not relax too much!
+
+                
 ## CS 398 Graduate Seminar
 
 Graduate Seminars is non-credit weekly seminar in various fields which has connection to CEMSE division where speakers are professors from KAUST or another universities, 
 which share their research or observations. 
 
-In one of the seminar was interesting recomentation from prof. Peter Wonka http://peterwonka.net/ about graduate (MS/PhD) studies and what does it mean:
+In one of the seminar was interesting recomentation from [prof.Peter Wonka](http://peterwonka.net/) about graduate (MS/PhD) studies and what does it mean:
 https://www.youtube.com/watch?v=ln9pOPOCl9k&feature=youtu.be
