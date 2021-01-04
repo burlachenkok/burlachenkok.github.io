@@ -5,7 +5,7 @@ permalink: /biography/
 ---
 
 
-I am a CS Ph.D. student and member of Professor Peter Richtarik's Optimization and Machine Learning Lab in the CEMSE Division at KAUST.
+I am a CS Ph.D. student and member of [Professor Peter Richtarik's](https://richtarik.org/) Optimization and Machine Learning Lab in the CEMSE Division at KAUST.
 
 ---
 
