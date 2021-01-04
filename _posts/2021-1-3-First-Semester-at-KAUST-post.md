@@ -22,7 +22,9 @@ In this post, I would like to give some small insides about all of them.
 
 There are a lot of materials. And in my personal feeling, this course should have 6 credits.
 
-The course was taught by [prof. Peter Richtarik](https://richtarik.org/) and has a lot of interaction with the students.
+The course was taught by [prof. Peter Richtarik](https://richtarik.org/) and has a lot of interaction with the students. 
+In particular, the professor proceeds with lecture materials only if everybody understands what is going on.
+
 If you're a student, you love math, and you're working to create future Machine Learning/AI you should enroll in it definitely!
 
 From [course description](https://courses.kaust.edu.sa/StudentCourses/GetPdf?fileName=2021-Fall-CS_331-00110657.pdf&isExternal=False): 
