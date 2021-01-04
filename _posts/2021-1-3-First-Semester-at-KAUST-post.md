@@ -4,9 +4,9 @@ title: First Semester at KAUST as CEMSE/CS Ph.D.
 published: true
 ---
 
-This is a post about my first Semester at KAUST as CEMSE/CS Ph.D. student (Fall, 2020).
+This is a post about my first semester (Fall, 2020) at KAUST.
 
-At KAUST classes are small (20-30 students per class) and professors are world-level scientists.
+At KAUST classes are not big and professors are world-level scientists.
 
 This gives the opportunity to have direct dialogue with professors on the subject to obtain deep insights and obtain inspiration for the paper.
 
