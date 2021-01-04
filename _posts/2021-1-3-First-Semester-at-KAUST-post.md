@@ -6,18 +6,22 @@ published: true
 
 My first Semester at KAUST as CEMSE/CS Ph.D. student (Fall, 2020).
 
-At KAUST classes are smaller (20-30 students) and professors are world level scientists.
+At KAUST classes are small (20-30 students per class) and professors are world-level scientists.
 
-KAUST culture gives the opportunity to have direct dialogue with professors on the subject to obtain deep insights! Or even inspiration for paper!
+This gives the opportunity to have direct dialogue with professors on the subject to obtain deep insights! Or even inspiration for paper!
 
 # Classes that I took:
 
-As a part of my academic load, I took several interesting classes at KAUST during my first semester which I can use for Ph.D. qualification requirements in the first semester.
+As a subpart of my academic load, I took several interesting classes at KAUST during my first semester which I can use for Ph.D. qualification requirements.
 
-## Stochastic Gradient Descent Methods, CS 331 
-"Stochastic gradient descent (SGD) in one or another of its many variants is the workhorse method for training modern supervised machine learning models. 
+In this post, I would like to give some small insides about all of them.
+
+## Stochastic Gradient Descent Methods, CS 331
+
+From [course description](https://courses.kaust.edu.sa/StudentCourses/GetPdf?fileName=2021-Fall-CS_331-00110657.pdf&isExternal=False): 
+*"Stochastic gradient descent (SGD) in one or another of its many variants is the workhorse method for training modern supervised machine learning models. 
 However, the world of SGD methods is vast and expanding, which makes it hard for practitioners and even experts to understand its landscape and inhabitants. 
-This course is a mathematically rigorous and comprehensive introduction to the field, and is based on the latest results and insights."
+This course is a mathematically rigorous and comprehensive introduction to the field, and is based on the latest results and insights."*
 
 This is the first course in the world of such kind. Reasons:
 
