@@ -34,10 +34,14 @@ This course is a mathematically rigorous and comprehensive introduction to the f
 
 This is the first course in the world of such kind. Reasons:
 
-* It covers recent materials from 2010-2020.
+* It covers recent materials from 2010 - 2020 in the theory of SGD. 
 * Material covers tools to analyze existing algorithms and ways construct own algorithms suitable for a specific situation or specific Hardware
-* Original methods have been developed not in a very uniform way. This course systematize this and bring unification without loss of convergence guarantees
- 
+* Original methods have been developed not in a very uniform way. This course systematize this and bring unification without loss of convergence guarantees.
+
+In my opinion, this method has not been spread enough in other communities who are clients of SGD (robotics, vision, machine learning) and use optimization paradigm in their models, but have no ideas about the recent development in the field of mathematical optimization.
+
+Exception: specialized research groups.
+
 ## GPU and GPGPU Programming, CS380
 
 This is an interesting and intensive course which covers both compute and graphical pipelines of modern GPUs teched by [prof. Markus Hadwiger](https://www.kaust.edu.sa/en/study/faculty/markus-hadwiger).
