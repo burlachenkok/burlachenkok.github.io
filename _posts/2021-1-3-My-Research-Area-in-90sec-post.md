@@ -10,7 +10,6 @@ The topic of my research at King Abdullah University of Science and Technology i
 
 ---
 
-Video:
 <div>
   <div style="position:relative;padding-top:56.25%;">
     <iframe src="https://www.youtube.com/embed/d-n6WFnSXnQ" frameborder="0" allowfullscreen
