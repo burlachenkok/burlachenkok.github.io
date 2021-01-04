@@ -20,9 +20,10 @@ However, the world of SGD methods is vast and expanding, which makes it hard for
 This course is a mathematically rigorous and comprehensive introduction to the field, and is based on the latest results and insights."
 
 This is the first course in the world of such kind. Reasons:
-*It covers recent materials from 2010-2020.
-*Material covered in the cover SGD algorithms and Tools to analyze it, construct own algorithms suitable for a specific situation or specific hardware
-*Original methods have been developed not in a very uniform way of development.
+
+* It covers recent materials from 2010-2020.
+* Material covers tools to analyze existing algorithms and ways construct own algorithms suitable for a specific situation or specific Hardware
+* Original methods have been developed not in a very uniform way. This course systematize this and bring unification without loss of convergence guarantees
 
 There are a lot of materials. And in my personal feeling, this course should have 6 credits.
 
