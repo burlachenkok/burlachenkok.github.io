@@ -8,7 +8,9 @@ This is a post about my first Semester at KAUST as CEMSE/CS Ph.D. student (Fall,
 
 At KAUST classes are small (20-30 students per class) and professors are world-level scientists.
 
-This gives the opportunity to have direct dialogue with professors on the subject to obtain deep insights! Or even inspiration for paper!
+This gives the opportunity to have direct dialogue with professors on the subject to obtain deep insights and obtain inspiration for the paper.
+
+---
 
 # Classes that I took:
 
