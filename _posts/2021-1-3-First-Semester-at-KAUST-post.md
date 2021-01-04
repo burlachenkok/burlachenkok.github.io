@@ -20,6 +20,11 @@ In this post, I would like to give some small insides about all of them.
 
 ## Stochastic Gradient Descent Methods, CS 331
 
+There are a lot of materials. And in my personal feeling, this course should have 6 credits.
+
+The course was taught by [prof. Peter Richtarik](https://richtarik.org/) and has a lot of interaction with the students.
+If you're a student, you love math, and you're working to create future Machine Learning/AI you should enroll in it definitely!
+
 From [course description](https://courses.kaust.edu.sa/StudentCourses/GetPdf?fileName=2021-Fall-CS_331-00110657.pdf&isExternal=False): 
 *"Stochastic gradient descent (SGD) in one or another of its many variants is the workhorse method for training modern supervised machine learning models. 
 However, the world of SGD methods is vast and expanding, which makes it hard for practitioners and even experts to understand its landscape and inhabitants. 
@@ -30,11 +35,6 @@ This is the first course in the world of such kind. Reasons:
 * It covers recent materials from 2010-2020.
 * Material covers tools to analyze existing algorithms and ways construct own algorithms suitable for a specific situation or specific Hardware
 * Original methods have been developed not in a very uniform way. This course systematize this and bring unification without loss of convergence guarantees
-
-There are a lot of materials. And in my personal feeling, this course should have 6 credits.
-
-The course was taught by [prof. Peter Richtarik](https://richtarik.org/) and has a lot of interaction with the students.
-If you're a student, you love math, and you're working to create future Machine Learning/AI you should enroll in it definitely!
  
 ## GPU and GPGPU Programming, CS380
 
