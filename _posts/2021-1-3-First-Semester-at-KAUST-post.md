@@ -38,13 +38,17 @@ If you're a student, you love math, and you're working to create future Machine 
  
 ## GPU and GPGPU Programming, CS380
 
-This is an interesting intensive course which covers both compute and graphical pipelines of modern GPUs teched by [prof. Markus Hadwiger](https://www.kaust.edu.sa/en/study/faculty/markus-hadwiger).
+This is an interesting and intensive course which covers both compute and graphical pipelines of modern GPUs teched by [prof. Markus Hadwiger](https://www.kaust.edu.sa/en/study/faculty/markus-hadwiger).
 Course webpage: [https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx](https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx)
 
 What is an extra benefit the level of the details has different scales - from low-level hardware aspects of GPU to high-level programming concepts.
 The course is very useful for people who want to work with GPU and obtain maximum benefit from it for computation or graphical projects. 
 
 My final project for the course: [Final project report](https://bitbucket.org/konstantin_burlachenko/opt_studio/src/master/docs/CS380ProjectFinalReport.pdf)
+
+Class is very useful for people who are going to use GPU.
+
+Sometimes middleware libraries or tools allow you to mitigate direct GPU programming, but in case of creating something non-traditional, you have to program GPU directly if speed is important to you.
 
 ## Stochastic Processes, STAT250
 
@@ -57,7 +61,7 @@ Covering different forms of stochastic processes and useful properties and tool 
 Poisson processes, Gaussian processes, Branching processes, Linear filters, ARMA models, Markov discrete and continuous-time chains, elements of queuing theory.
 
 The course has time-limited exams. The course is very interesting and [prof. David Bolin](https://www.kaust.edu.sa/en/study/faculty/david-bolin) is a very interactive professor and a nice professor.
-If you're familiar with Probability Theory, Functional Analysis it will help in the first part of the course. But not relax too much!
+If you're familiar with Probability Theory, Functional Analysis it will help in the first part of the course.
                 
 ## CS 398 Graduate Seminar
 
