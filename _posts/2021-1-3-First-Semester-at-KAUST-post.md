@@ -4,7 +4,7 @@ title: First Semester at KAUST as CEMSE/CS Ph.D.
 published: true
 ---
 
-My first Semester at KAUST as CEMSE/CS Ph.D. student (Fall, 2020).
+This is a post about my first Semester at KAUST as CEMSE/CS Ph.D. student (Fall, 2020).
 
 At KAUST classes are small (20-30 students per class) and professors are world-level scientists.
 
@@ -31,9 +31,9 @@ This is the first course in the world of such kind. Reasons:
 
 There are a lot of materials. And in my personal feeling, this course should have 6 credits.
 
-The course was taught by [prof.Peter Richtarik](https://richtarik.org/) and has a lot of interaction with the students. 
-If you're a student, you love math, and you're working under create future Machine Learning/AI you should enroll into it definitely!
-
+The course was taught by [prof. Peter Richtarik](https://richtarik.org/) and has a lot of interaction with the students.
+If you're a student, you love math, and you're working to create future Machine Learning/AI you should enroll in it definitely!
+ 
 ## GPU and GPGPU Programming, CS380
 
 This is an interesting intensive course which covers both compute and graphical pipelines of modern GPUs teched by [prof. Markus Hadwiger](https://www.kaust.edu.sa/en/study/faculty/markus-hadwiger).
@@ -52,11 +52,10 @@ engineering, signal processing, machine learning, bioinformatics, econometrics, 
 Contents: Probability theory, Introduction to Random Processes, and main concepts.
 Covering different forms of stochastic processes and useful properties and tool work with them: 
 
-Poisson processes, Gaussian processes, Branching processes, Linear filters, ARMA models, Markov discrete and continuous time chains, elements of queuing theory.
+Poisson processes, Gaussian processes, Branching processes, Linear filters, ARMA models, Markov discrete and continuous-time chains, elements of queuing theory.
 
-The course has time-limited exams. The course is very interesting and prof. David Bollin is a very interactive professor and a nice professor.
+The course has time-limited exams. The course is very interesting and [prof. David Bolin](https://www.kaust.edu.sa/en/study/faculty/david-bolin) is a very interactive professor and a nice professor.
 If you're familiar with Probability Theory, Functional Analysis it will help in the first part of the course. But not relax too much!
-
                 
 ## CS 398 Graduate Seminar
 
