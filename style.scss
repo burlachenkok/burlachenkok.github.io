@@ -64,6 +64,18 @@ h4 {
   color: $gray;
 }
 
+hr {
+ height: 40px; 
+ width: 100%;
+ background: url(images/hr_1.png);
+ background-repeat: no-repeat;
+ background-position: center;
+ margin-top: 1px;
+ margin-bottom: 1px;
+ border: 0;
+ background-size: contain;
+}
+
 p {
   margin: 15px 0;
 }
