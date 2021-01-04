@@ -12,7 +12,7 @@ This gives the opportunity to have direct dialogue with professors on the subjec
 
 ---
 
-# Classes that I took:
+# Classes that I took (CS331, CS380, STAT250, CS398):
 
 As a subpart of my academic load, I took several interesting classes at KAUST during my first semester which I can use for Ph.D. qualification requirements.
 
@@ -63,7 +63,7 @@ Poisson processes, Gaussian processes, Branching processes, Linear filters, ARMA
 The course has time-limited exams. The course is very interesting and [prof. David Bolin](https://www.kaust.edu.sa/en/study/faculty/david-bolin) is a very interactive professor and a nice professor.
 If you're familiar with Probability Theory, Functional Analysis it will help in the first part of the course.
                 
-## CS 398 Graduate Seminar
+## CS398 Graduate Seminar
 
 Graduate Seminars is a non-credit weekly seminar in various fields which has a connection to the CEMSE division where speakers are professors from KAUST or another university, 
 which share their research or observations. 
