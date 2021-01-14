@@ -9,6 +9,8 @@ This is a post about Open-source KD tree implementation.
 ---
 # Introduction
 
+Inline math $f(x)=x^2$
+
 This is a post dedicated to give a small comment about implementation of KD-tree way for space partitioning (spatial indexing) available at:
 https://github.com/burlachenkok/lw_index_datastructs
 
