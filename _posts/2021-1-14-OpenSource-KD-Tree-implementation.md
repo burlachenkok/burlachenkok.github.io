@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OpenSource KD tree implementation
+tags: markdown jekyll mathjax latex
 published: true
 ---
 
