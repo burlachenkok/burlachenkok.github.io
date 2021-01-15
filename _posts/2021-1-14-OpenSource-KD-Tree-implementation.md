@@ -23,7 +23,7 @@ KD trees allow todo Insert/Search/Delete points in Euclidian space ($$R^d$$) typ
 
 * You compare specified coordinate O(1)
 * You evaluate L2 norm or another norm. So if take into account "d" and evaluate L2 norm just usually it will take O(d) single operations
-* But both this two numbers in case of small d < lg(N) can be hidden into O(1)
+* But both this two numbers in case of $$d < lg(N)$$ can be hidden into O(1)
 
 Range Count / Range search.
 Find all "R" points from all "N" points that lie in a specific range in which is typical: **~R+lg(N)**,
