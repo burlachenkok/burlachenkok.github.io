@@ -9,7 +9,7 @@ This is a post about this paper: [https://arxiv.org/abs/2102.07845](https://arxi
 ---
 # About paper
 
-The new paper: <span style="color:rgb(228,26,28)">"MARINA: Faster Non-Convex Distributed Learning with Compression"</span>, my joint work with  [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Zhize Li](https://zhizeli.github.io/), [Peter Richtarik](https://richtarik.org/).
+The new paper: <span style="color:rgb(228,26,28)">"MARINA: Faster Non-Convex Distributed Learning with Compression"</span>, my joint work with  [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Zhize Li](https://zhizeli.github.io/), [Peter Richtárik](https://richtarik.org/).
 
 <!-- https://colorbrewer2.org/#type=qualitative&scheme=Set1&n=9 -->
 
