@@ -2,11 +2,19 @@
 layout: post
 title:  Faster Non-Convex Distributed Learning with Compression
 published: true
+---
+
+This is a post about this paper: [https://arxiv.org/abs/2102.07845](https://arxiv.org/abs/2102.07845)
 
 ---
 # About paper
 
 Here is the our work: "Faster Non-Convex Distributed Learning with Compression", my joint work Eduard Gorbunov, Zhize Li, Peter Richtarik.
+
+This work brings tramandously improvement into theoretical and pratical convegence speed for non-convex distributed setting.
+
+It allows to plug randomized mapping (with certain properties) which are called by people who is working Stochast Optimization methods as compression operators.
+
 
 # Reference to Arxiv
 
