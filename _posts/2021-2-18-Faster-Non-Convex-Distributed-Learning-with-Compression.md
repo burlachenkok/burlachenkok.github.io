@@ -9,7 +9,7 @@ This is a post about this paper: [https://arxiv.org/abs/2102.07845](https://arxi
 ---
 # About paper
 
-Here is the our work: "Faster Non-Convex Distributed Learning with Compression", my joint work [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Zhize Li](https://zhizeli.github.io/), [Peter Richtarik](https://richtarik.org/).
+The new paper: "MARINA: Faster Non-Convex Distributed Learning with Compression", my joint work [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Zhize Li](https://zhizeli.github.io/), [Peter Richtarik](https://richtarik.org/).
 
 This work brings tramandously improvement into theoretical and pratical convegence speed for non-convex distributed setting with unbiased stoachastic compression.
 
