@@ -4,7 +4,7 @@ title:  Faster Non-Convex Distributed Learning with Compression
 published: true
 ---
 
-This is a post about this paper: [https://arxiv.org/abs/2102.07845](https://arxiv.org/abs/2102.07845)
+<p style="text-align: center;"> This is a post about this paper: [https://arxiv.org/abs/2102.07845](https://arxiv.org/abs/2102.07845) </p>
 
 ---
 # About paper
