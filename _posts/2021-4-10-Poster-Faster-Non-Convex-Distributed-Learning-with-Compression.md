@@ -1,9 +1,10 @@
+---
 layout: post
 title: Poster about Faster Non-Convex Distributed Learning with Compression
 published: true
 ---
 
-Poster for MARINA paper [https://sites.google.com/ucsd.edu/cedo/posters](https://sites.google.com/ucsd.edu/cedo/posters?authuser=0)
+About poster for [MARINA paper](https://arxiv.org/abs/2102.07845) presented at [Poster session](https://sites.google.com/ucsd.edu/cedo/posters)
 
 ---
 
