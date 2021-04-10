@@ -23,7 +23,7 @@ MARINA employs a novel communication compression strategy based on the compressi
 # General observations
 During the poster session in my booth, I have obtained the feeling that rather specialized algorithms for non-convex optimization are working with stationary points like [DIANA](https://arxiv.org/pdf/1904.05115.pdf) or [PAGE](https://arxiv.org/abs/2008.10898) has not been spread enough outside specialized groups in academia and specialized research groups in the industry worked on Federated Learning. 
 
-No matter in what aspect of Science we're working - I suggest for all practitioners in any company they work not to forget and ask themselves two questions:
+No matter in what aspect of Science we’re working, I suggest for all practitioners in any company they work not to forget and ask themselves two questions:
 
 1. Does the algorithm converge in that setting?
 2. If the algorithm converges, then to what does it converge?
