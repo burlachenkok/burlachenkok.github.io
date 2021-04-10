@@ -14,7 +14,7 @@ published: true
 
 At the Communication Efficient Distributed Optimization workshop in a TRIPODS Institute for Theoretical Foundations of Data Science, I have presented a poster about [MARINA](https://arxiv.org/abs/2102.07845), which is my joint work with  [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Zhize Li](https://zhizeli.github.io/), [Peter Richtárik](https://richtarik.org/). Thank you for the organizers, they have tried to simulate interactive poster sessions with a 2D game-like platform. It was a lot of interesting posters. 
 
-Copy of my moster is locating here: [MARINA_Poster_07APR2021](https://burlachenkok.github.io/materials/MARINA_Poster_07APR2021.pdf)
+Copy of my moster is locating here: [MARINA Poster 07-APR-2021](https://burlachenkok.github.io/materials/MARINA_Poster_07APR2021.pdf)
 
 # Marina
 
