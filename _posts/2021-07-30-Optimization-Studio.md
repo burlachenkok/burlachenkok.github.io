@@ -1,5 +1,8 @@
-
-# Opt Studio
+---
+layout: post
+title: About Optimization Studio: shell, plotter, blas and everything in C++
+published: true
+---
 
 This is a project created as a final project at [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) for the course
 [CS 380 GPU and GPGPU Programming, 2020, Fall](https://faculty.kaust.edu.sa/sites/markushadwiger/Pages/CS380.aspx).
