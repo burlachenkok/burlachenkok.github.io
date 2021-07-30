@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Optimization Studio: shell, plotter, blas and everything in C++
+title: Optimization Studio (mini PyTorch) - Complete Shell, Plotter, BLAS in C++
 published: true
 ---
 
