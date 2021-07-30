@@ -14,7 +14,7 @@ Links:
 
 Method of optimization has a long history and in someway they have formed a field of Applied Mathematics. The motivation was to assist researchers to create new algorithms which may be more near to the hardware metal, and decrease the lag time once algorithms come into  products, typically written in C++. This project is a small step to provide need infrastructure in C++ language.
 
-### Computation
+# Computation
 We live in an era when computation assists in the development of different fields. People create specific general-purpose or DSL languages like Matlab, R, Python.
 
 What is circular is that all programming languages infrastructure for Matlab, R, Python, Java, C# is developed in C++. In some sense, these are only an extra level of abstraction. If think completely freely in my opinion it's time to forget to some extent about **Matlab, R, Python** as not necessary level.
@@ -31,19 +31,19 @@ c. If something built-in in the language then it's impossible to write it better
 
 Unfortunately C++ is pretty low level language.
 
-# Components of the syte,
+# Components
 
-### Shell
+## Shell
 Project has an interactive shell like a Python interpreter (or BASH, or R) which allow manipulation with variables and expressions. Shell allows take a look into available variables (vectors, matrices, scalars) and print it (similar to Matlab, R studio), differentiate numerically algebraic expressions.
 
-### Formulas plotter
+## Formulas plotter
 It's possible to visualize expressions (formulas) that represent explicit functions in form of Y=F(X), where F is constucted with the availble algebraic expressions.
 
-### Graph plotter
+## Graph plotter
 There is an extra plotter tool which allows obtaining information from the shell remotely via TCP/IP. It's locating in a separate repository: https://github.com/burlachenkok/plotter_plusplus.
 In Framework there is a need abstraction to send data over TCP/IP network.
 
-### Framework
+## Framework
 
 Internal infrastructure of the project allows working with filesystem, network, regular expression, serializing into the filesystem, and a various day-to-day thing which is absent mostly by design in C++.
 
