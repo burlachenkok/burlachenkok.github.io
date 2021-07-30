@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimization Studio (mini PyTorch) - Complete Shell, Plotter, BLAS in C++
+title: Optimization Studio (mini PyTorch) - Shell, Plotter, BLAS in C++
 published: true
 ---
 This is a project created as a final project at [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) for the course
