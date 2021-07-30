@@ -17,7 +17,7 @@ Method of optimization has a long history and in someway they have formed a fiel
 # Computation
 We live in an era when computation assists in the development of different fields. People create specific general-purpose or DSL languages like Matlab, R, Python.
 
-What is circular is that all programming languages infrastructure for Matlab, R, Python, Java, C# is developed in C++. In some sense, these are only an extra level of abstraction. If think completely freely in my opinion it's time to forget to some extent about **Matlab, R, Python** as not necessary level.
+What is circular is that all programming languages infrastructure for Matlab, R, Python, Java, C# is developed in C++. In some sense, these are only an extra level of abstraction. If think completely freely in my opinion it's time to forget to some extent about Matlab, R, Python as not necessary level.
 
 We can think about Matlab is a domain-specific language for Mathematic. But in 21 century each area of Mathematics is so developed that it requires separate treatment at a fundamental level with computation support. B.Stroustroup put into C++ language in 1994 the following deep principles:
 
