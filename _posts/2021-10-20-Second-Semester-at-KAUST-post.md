@@ -16,19 +16,21 @@ This gives the opportunity to have direct dialogue with professors on the subjec
 
 As a subpart of my academic load, I took classes at KAUST during my second semester which I can use for Ph.D. qualification requirements, and from another side that are important for my academic work.
 
-
 In this post, I would like to give some small insides about all of them.
 
 ## Federated Learning, CS 332
 
-The course was taught by [prof. Peter Richtarik](https://richtarik.org/) and the course are almost paper based.
+The course was taught by professor in CEMSE division [prof. Peter Richtarik](https://richtarik.org/) and the course are almost paper based.
 
 During the class students jointly with professor prepared high quality lecture notes in various subject including: information theory, local optimizaiton methods, second order optimization methods, software and systems for FL,
-cryptography, need background materials to go deep into strong mathematical proves of various statements.
+cryptography, internet of things, background materials to go deep into strong mathematical proves of various statements.
 
-Another part of the class was targeted to create publishable work, which in my case happens. If you're a student, and you want go deep into true multisciplinary direction of AI this can be a choice.
+Another part of the class was targeted to create publishable work, which in my case happens. The class provide hot start for the work.
 
-Especially the FL fields due to it's working regime (across billions of devices in cross-device setting) requires understnading what we are doing. Heuristics method in that field can be used as temporaly solution, but in long term everything should have a strict mathematical form.
+If you're a student, and you want go deep into true multisciplinary direction of AI this FL can be a choice. Especially the FL fields due to it's working regime (across billions of devices in cross-device setting) requires understnading what we are doing. 
+Heuristics method in that field can be used as temporaly solution, but in long term everything should have a strict mathematical form.
+
+The course allow enough freedom for make selection in various topics. The course have opened me eyes that preparing good lecture notes in difficult subjects that are subject for active research in compact form is challenging.
 
 ## Deep Learning for Visual Computing, CS323
 
@@ -55,4 +57,4 @@ I defintely recomend this course.
 ## CS398 Graduate Seminar
 
 Graduate Seminars is a non-credit weekly seminar in various fields which has a connection to the CEMSE division where speakers are professors from KAUST or another university, 
-which share their research or observations. 
+which share their research. This is a list of various talks that have been happend durin Spring, 2021:
