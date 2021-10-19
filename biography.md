@@ -14,11 +14,11 @@ After my graduation I worked at a number of companies, most recently as a Senior
 
 My current research focus is currently on stochastic math optimization and it's applications. Broadly area of my interests covers:
 
-* Scientific software development
-* Math Optimization
+* Scientific Software Development
+* Huge scale Math Optimization
 * Federated Learning
-* Computer graphics and computer vision
-* Forecasting models from various fields of science and engineering
+* Computer Graphics and Computer Vision
+* Forecasting models from various fields of science and engineering that presents essential core of AI
 
 ---
 
