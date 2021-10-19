@@ -3,6 +3,8 @@ layout: post
 title: MARINA paper has been accepted to ICML 2021
 published: true
 ---
+["MARINA: Faster Non-Convex Distributed Learning with Compression"](https://proceedings.mlr.press/v139/gorbunov21a.html) has been accepted to ICML 2021.
+---
 
 Our paper ["MARINA: Faster Non-Convex Distributed Learning with Compression"](https://proceedings.mlr.press/v139/gorbunov21a.html) has been accepted to The Thirty-eighth International Conference on Machine Learning ([ICML 2021](https://icml.cc/Conferences/2021)) proceeding.
 Link to arxiv: [https://arxiv.org/abs/2102.07845](https://arxiv.org/abs/2102.07845).
