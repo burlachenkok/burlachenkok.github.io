@@ -59,16 +59,16 @@ I definitely recommend this course.
 The homework assignments were in [Python](https://www.python.org/) using [PyTorch](https://pytorch.org/docs/stable/index.html). 
 
 There would be no problem if you did not PyTorch before because Homeworks are structured pretty clearly, and in fact, one of their goals is to build your ability to use PyTorch. 
-During a course, I have read original documentation of PyTorch, and it was written nice and clear. I have organized links to references for documentation (my mental picture) for the course with the following table:
+During a course, I have read original documentation of PyTorch, and it was written nice and clear. I have organized links to references for documentation (my mental picture) for the course with the following [table that will allow navigate in PyTorch documentation](https://sites.google.com/site/burlachenkok/pytorch-resources)
 
-* https://sites.google.com/site/burlachenkok/pytorch-resources
+If you have never used Python as programming language, I recommend the following materials:
 
-If you have never used Python as a language, I recommend the following materials:
-
-* These days the book written by author of the language Gvino Van Rossum is converted into Language Tutorial: [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html). If you have never worked with Python, please read this book. In my opinion, it's the correct way to learn a language. The book is straightforward, and it will take 5-7 days to read it.
+* These days the book written by author of the language Gvino Van Rossum is converted into Language Tutorial: [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html). 
 * To obtain at least some technical nuances, I recommend looking into Language Reference [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html)
 * Good resource for finding nuances of Python programming Language is use Table of Content available here: [https://docs.python.org/3.8/contents.html](https://docs.python.org/3.8/contents.html).
 * In the course, you will use a Conda package manager, Jupiter notebooks, to prepare reports. These tools are very easy. My random remarks about that tools: [https://sites.google.com/site/burlachenkok/python-relative-things](https://sites.google.com/site/burlachenkok/python-relative-things).
+
+The most important is language reference. The book is straightforward, and it will take 5-7 days to read it. Before seven days, you did not know Python, and if you read, you will know it and be ready to fight.
 
 ## CS398 Graduate Seminar organized by prof. Ivan Viola
 
