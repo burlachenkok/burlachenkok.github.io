@@ -63,12 +63,10 @@ During a course, I have read original documentation of PyTorch, and it was writt
 
 If you have never used Python as programming language, I recommend the following materials:
 
-* These days the book written by author of the language Gvino Van Rossum is converted into Language Tutorial: [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html). 
+* These days, the book that has been written by the author of the language Gvino Van Rossum is converted into a Language Tutorial: [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html). It will take 5-7 days to read that root book.
 * To obtain at least some technical nuances, I recommend looking into Language Reference [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html)
 * Good resource for finding nuances of Python programming Language is use Table of Content available here: [https://docs.python.org/3.8/contents.html](https://docs.python.org/3.8/contents.html).
 * In the course, you will use a Conda package manager, Jupiter notebooks, to prepare reports. These tools are very easy. My random remarks about that tools: [https://sites.google.com/site/burlachenkok/python-relative-things](https://sites.google.com/site/burlachenkok/python-relative-things).
-
-The most important is language reference. The book is straightforward, and it will take 5-7 days to read it. Before seven days, you did not know Python, and if you read, you will know it and be ready to fight.
 
 ## CS398 Graduate Seminar organized by prof. Ivan Viola
 
