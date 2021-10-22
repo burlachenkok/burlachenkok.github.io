@@ -18,7 +18,7 @@ As a subpart of my academic load, I took classes at KAUST during my second semes
 
 In this post, I would like to give some small insides about all of them.
 
-## Federated Learning, CS 332
+## Federated Learning, CS 332 with prof. Peter Richtarik 
 
 The course was taught by a professor in the CEMSE division [prof. Peter Richtarik](https://richtarik.org/) and the course are almost paper-based.
 
@@ -32,7 +32,7 @@ Heuristics method in that field can be used as a temporary solution, but in the 
 
 The course allows enough freedom to make a selection in various topics. The course has opened my eyes that preparing good lecture notes in difficult subjects in compact form is challenging.
 
-## Deep Learning for Visual Computing, CS323
+## Deep Learning for Visual Computing, CS323 with prof. Bernard Ghannem
 
 Even though I faced Deep Learning methods during my career at NVIDIA and during my academic passing of several classes at Stanford University, this class was very useful.
 
@@ -53,6 +53,6 @@ Another special thank if to a group of amazing teaching assistants. The homework
 
 I definitely recommend this course, especially. 
                 
-## CS398 Graduate Seminar
+## CS398 Graduate Seminar organized by prof. Ivan Violla
 
 Graduate Seminars is a non-credit weekly seminar in various fields connected to the CEMSE division where speakers are professors from KAUST or another university, which share their research. 

@@ -18,7 +18,7 @@ As a subpart of my academic load, I took several interesting classes at KAUST du
 
 In this post, I would like to give some small insides about all of them.
 
-## Stochastic Gradient Descent Methods, CS 331
+## Stochastic Gradient Descent Methods, CS 331 with prof. Peter Richtarik
 
 There are a lot of materials. And in my personal feeling, this course should have 6 credits.
 
@@ -38,7 +38,7 @@ This is the first course in the world of such kind. Reasons:
 * Material covers tools to analyze existing algorithms and ways construct own algorithms suitable for a specific situation or specific Hardware
 * Original methods have been developed not in a very uniform way. This course systematize this and bring unification without loss of convergence guarantees.
 
-## GPU and GPGPU Programming, CS380
+## GPU and GPGPU Programming, CS380 with prof. Markus Hadwiger
 
 This is an interesting and intensive course which covers both compute and graphical pipelines of modern GPUs teched by [prof. Markus Hadwiger](https://www.kaust.edu.sa/en/study/faculty/markus-hadwiger).
 Course webpage: [https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx](https://faculty.kaust.edu.sa/sites/markushadwiger/pages/cs380.aspx)
@@ -52,7 +52,7 @@ Class is very useful for people who are going to use GPU.
 
 Sometimes middleware libraries or tools allow you to mitigate direct GPU programming, but in case of creating something non-traditional, you have to program GPU directly if speed is important to you.
 
-## Stochastic Processes, STAT250
+## Stochastic Processes, STAT250 with prof. David Bolin
 
 Contents of this course are relevant to several disciplines including statistics, communications and information systems, computer
 engineering, signal processing, machine learning, bioinformatics, econometrics, and mathematical finance.
@@ -65,7 +65,7 @@ Poisson processes, Gaussian processes, Branching processes, Linear filters, ARMA
 The course has time-limited exams. The course is very interesting and [prof. David Bolin](https://www.kaust.edu.sa/en/study/faculty/david-bolin) is a very interactive professor and a nice professor.
 If you're familiar with Probability Theory, Functional Analysis it will help in the first part of the course.
                 
-## CS398 Graduate Seminar
+## CS398 Graduate Seminar organized by prof. Markus Hadwiger
 
 Graduate Seminars is a non-credit weekly seminar in various fields which has a connection to the CEMSE division where speakers are professors from KAUST or another university, 
 which share their research or observations. 
