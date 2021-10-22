@@ -44,15 +44,23 @@ highlights and helps filter the interesting results from temporal heuristics tha
 
 The course is a mixture of classical computer vision methods covering works from 2012 like [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) up to recent models, including [Transformers](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), [PointNet++](https://arxiv.org/abs/1706.02413),[ResNeSt](https://arxiv.org/pdf/2004.08955v2.pdf), [GANs](https://arxiv.org/abs/1406.2661) that can be observed as deterministic two parties game, VAE in which output of Encoder in a probabilistic way is plugged into Decoder. Nowadays, VAE is compatible with GANS, e.g., the [NVAE paper](https://arxiv.org/pdf/2007.03898.pdf).
 
-The very unusual thing compared to the education model at Stanford where I took classes [CS229](https://cs229.stanford.edu/), [CS230](https://cs230.stanford.edu/) with prof. [A.Ng](https://hai.stanford.edu/people/andrew-ng) is in the following. 
+The very good and unusual thing compared to the education model at Stanford where I took classes [CS229](https://cs229.stanford.edu/), [CS230](https://cs230.stanford.edu/) with prof. [A.Ng](https://hai.stanford.edu/people/andrew-ng) is in the following. 
 
-Students have to read original papers and have to answer in detail for all materials. The course has opened my eyes that in Applied Machine Learning, it's far easier in 90% of cases to read original papers.
+Students have to read original papers and have to answer in detail and prove that they understand the scope and limitation of approaches from original papers in reading assignments. The course has opened my eyes that in Applied Machine Learning, it's far easier in 90% of cases to read original papers.
 Of course, it's not always a case of considering all Applied Math in general, but in that case, it is. At Stanford classes, students have been encouraged to read original papers, but not has been strictly required.
 
 Another special thank if to a group of amazing teaching assistants. The homework started from the first principles with using PyTorch as computation backend and simple models. Finally, somewhere in the middle, the course starts to consider pretty complicated schemas for image, video, point cloud classification.
+I definitely recommend this course. 
 
-I definitely recommend this course, especially. 
-                
-## CS398 Graduate Seminar organized by prof. Ivan Violla
+The homework assignments were in Python using PyTorch. There would be no problem if you did not PyTorch before because Homeworks are structured pretty clearly, and in fact, one of their goals is to build your ability to use PyTorch.
+
+If you have never used Python as language, I recommend the following materials:
+
+* A lot of time ago, author of the language Gvino Van Rossum wrote a book. These days his book is converted into Language Tutorial: [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html). If you have never worked with Python, please read this book. In my opinion, it's the correct way to learn a language. The book is straightforward, and it will take 5-7 days to read it.
+* Once you read a book, especially if you have C/C++/ASM background, you may ask: "Where is the language standard?". The answer is, "It does not exist at all". To obtain at least some technical nuances, I recommend looking into Language Reference [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html)
+* Third good resource for finding nuances of Python programming Language is use Table of Content available here: [https://docs.python.org/3.8/contents.html](https://docs.python.org/3.8/contents.html).
+* In the course, you will use a conda package manager, Jupiter notebooks, to prepare reports. These tools are very easy, and one day will be enough to figure with all of them. My random remarks about that tools: [https://sites.google.com/site/burlachenkok/python-relative-things](https://sites.google.com/site/burlachenkok/python-relative-things).
+
+## CS398 Graduate Seminar organized by prof. Ivan Viola
 
 Graduate Seminars is a non-credit weekly seminar in various fields connected to the CEMSE division where speakers are professors from KAUST or another university, which share their research. 
