@@ -38,13 +38,13 @@ What is important during a course you will present lectures and make a good pres
 
 ## Deep Learning for Visual Computing, CS323 with prof. Bernard Ghannem
 
-Even though I faced Deep Learning methods during my career at NVIDIA and during my academic passing of several classes at Stanford University, this class was very useful.
+Even though I faced Deep Learning(DL) methods during my career at NVIDIA and during my academic passing of several classes at Stanford University, this class was very useful.
 
 The course was taught by [prof. Bernard Ghannem](https://www.kaust.edu.sa/en/study/faculty/bernard-ghanem) from [Image and Video Understanding Lab](https://cemse.kaust.edu.sa/ivul).
 At the moment of 2021, prof. Bernard Ghanem is also KAUST AI Initiative Leader and Deputy Director of AI Initiative at KAUST. This was a very pretty intensive course in terms of amount materials and homework assignments.
 
 prof. Bernard Ghanem is similar to my advisor, prof. Peter Richtarik encourages questions and discussion during a lecture. Prof. Bernard has an optimization and signal processing background. He accurately
-highlights and helps filter the interesting results from temporal heuristics that the community can not solve exactly. I think this course is beneficial for people who want to catch improvements in state-of-the-art image and video deep learning methods.
+highlights and helps filter the interesting results from temporal heuristics that the community can not solve exactly. I think this course is beneficial for people who want to catch improvements in state-of-the-art image and video DL methods.
 
 The course is a mixture of classical computer vision methods covering works from 2012 like [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) up to recent models, including [Transformers](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), [PointNet++](https://arxiv.org/abs/1706.02413),[ResNeSt](https://arxiv.org/pdf/2004.08955v2.pdf), [GANs](https://arxiv.org/abs/1406.2661) that can be observed as deterministic two parties game, VAE in which output of Encoder in a probabilistic way is plugged into Decoder. Nowadays, VAE is compatible with GANS, e.g., the [NVAE paper](https://arxiv.org/pdf/2007.03898.pdf).
 
@@ -65,11 +65,10 @@ During a course, I have read original documentation of PyTorch, and it was writt
 
 If you have never used Python as a language, I recommend the following materials:
 
-* A lot of time ago, author of the language Gvino Van Rossum wrote a book. These days his book is converted into Language Tutorial: [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html). If you have never worked with Python, please read this book. In my opinion, it's the correct way to learn a language. The book is straightforward, and it will take 5-7 days to read it.
-* Once you read a book, especially if you have C/C++/ASM background, you may ask: "Where is the language standard?". The answer is, "It does not exist at all." To obtain at least some technical nuances, I recommend looking into Language Reference [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html)
-* Third good resource for finding nuances of Python programming Language is use Table of Content available here: [https://docs.python.org/3.8/contents.html](https://docs.python.org/3.8/contents.html).
-* In the course, you will use a conda package manager, Jupiter notebooks, to prepare reports. These tools are very easy, and one day will be enough to figure with all of them. My random remarks about that tools: [https://sites.google.com/site/burlachenkok/python-relative-things](https://sites.google.com/site/burlachenkok/python-relative-things).
-
+* These days the book written by author of the language Gvino Van Rossum is converted into Language Tutorial: [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html). If you have never worked with Python, please read this book. In my opinion, it's the correct way to learn a language. The book is straightforward, and it will take 5-7 days to read it.
+* To obtain at least some technical nuances, I recommend looking into Language Reference [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html)
+* Good resource for finding nuances of Python programming Language is use Table of Content available here: [https://docs.python.org/3.8/contents.html](https://docs.python.org/3.8/contents.html).
+* In the course, you will use a Conda package manager, Jupiter notebooks, to prepare reports. These tools are very easy. My random remarks about that tools: [https://sites.google.com/site/burlachenkok/python-relative-things](https://sites.google.com/site/burlachenkok/python-relative-things).
 
 ## CS398 Graduate Seminar organized by prof. Ivan Viola
 
