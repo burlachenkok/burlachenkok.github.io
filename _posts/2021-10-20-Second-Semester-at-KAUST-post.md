@@ -4,7 +4,7 @@ title: Second Semester at KAUST as CEMSE/CS Ph.D.
 published: true
 ---
 
-This is a post about my second semester (Spring, 2021) at KAUST.
+This is a post about my second semester (Spring, 2021) at [KAUST CEMSE/CS](https://cemse.kaust.edu.sa/).
 
 At KAUST, classes are not big, and professors are world-level scientists.
 
@@ -32,6 +32,10 @@ Heuristics method in that field can be used as a temporary solution, but in the 
 
 The course allows enough freedom to make a selection in various topics. The course has opened my eyes that preparing good lecture notes in difficult subjects in compact form is challenging.
 
+Prof. Peter Richtarik is open to practical and theoretical work in Federated Learning. He has always had time to discuss and help and initiate projects for students in his class.
+
+What is important during a course you will present lectures and make a good presentation in live mode is also not an easy skill, but you can build this skill if you apply it into this course in future. 
+
 ## Deep Learning for Visual Computing, CS323 with prof. Bernard Ghannem
 
 Even though I faced Deep Learning methods during my career at NVIDIA and during my academic passing of several classes at Stanford University, this class was very useful.
@@ -52,14 +56,20 @@ Of course, it's not always a case of considering all Applied Math in general, bu
 Another special thank if to a group of amazing teaching assistants. The homework started from the first principles with using PyTorch as computation backend and simple models. Finally, somewhere in the middle, the course starts to consider pretty complicated schemas for image, video, point cloud classification.
 I definitely recommend this course. 
 
-The homework assignments were in Python using PyTorch. There would be no problem if you did not PyTorch before because Homeworks are structured pretty clearly, and in fact, one of their goals is to build your ability to use PyTorch.
+The homework assignments were in [Python](https://www.python.org/) using [PyTorch](https://pytorch.org/docs/stable/index.html). 
 
-If you have never used Python as language, I recommend the following materials:
+There would be no problem if you did not PyTorch before because Homeworks are structured pretty clearly, and in fact, one of their goals is to build your ability to use PyTorch. 
+During a course, I have read original documentation of PyTorch, and it was written nice and clear. I have organized links to references for documentation (my mental picture) for the course with the following table:
+
+* https://sites.google.com/site/burlachenkok/pytorch-resources
+
+If you have never used Python as a language, I recommend the following materials:
 
 * A lot of time ago, author of the language Gvino Van Rossum wrote a book. These days his book is converted into Language Tutorial: [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html). If you have never worked with Python, please read this book. In my opinion, it's the correct way to learn a language. The book is straightforward, and it will take 5-7 days to read it.
-* Once you read a book, especially if you have C/C++/ASM background, you may ask: "Where is the language standard?". The answer is, "It does not exist at all". To obtain at least some technical nuances, I recommend looking into Language Reference [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html)
+* Once you read a book, especially if you have C/C++/ASM background, you may ask: "Where is the language standard?". The answer is, "It does not exist at all." To obtain at least some technical nuances, I recommend looking into Language Reference [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html)
 * Third good resource for finding nuances of Python programming Language is use Table of Content available here: [https://docs.python.org/3.8/contents.html](https://docs.python.org/3.8/contents.html).
 * In the course, you will use a conda package manager, Jupiter notebooks, to prepare reports. These tools are very easy, and one day will be enough to figure with all of them. My random remarks about that tools: [https://sites.google.com/site/burlachenkok/python-relative-things](https://sites.google.com/site/burlachenkok/python-relative-things).
+
 
 ## CS398 Graduate Seminar organized by prof. Ivan Viola
 
