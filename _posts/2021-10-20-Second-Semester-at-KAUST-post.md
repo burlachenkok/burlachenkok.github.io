@@ -18,6 +18,9 @@ As a subpart of my academic load, I took classes at KAUST during my second semes
 
 In this post, I would like to give some small insides about all of them.
 
+Description of my academic load during the first semester that may be in the area of interest of people who apply to the CEMSE/CS Ph.D.  division of KAUST is described in the previous note: [First-Semester-at-KAUST-post/](https://burlachenkok.github.io/First-Semester-at-KAUST-post/)
+
+
 ## Federated Learning, CS 332 with prof. Peter Richtarik 
 
 The course was taught by a professor in the CEMSE division [prof. Peter Richtarik](https://richtarik.org/) and the course are almost paper-based.
@@ -36,7 +39,7 @@ Prof. Peter Richtarik is open to practical and theoretical work in Federated Lea
 
 What is important during a course you will present lectures and make a good presentation in live mode is also not an easy skill, but you can build this skill if you apply it into this course in future. 
 
-## Deep Learning for Visual Computing, CS323 with prof. Bernard Ghannem
+## Deep Learning for Visual Computing, CS323 with prof. Bernard Ghanem
 
 Even though I faced Deep Learning(DL) methods during my career at NVIDIA and during my academic passing of several classes at Stanford University, this class was very useful.
 
@@ -44,29 +47,29 @@ The course was taught by [prof. Bernard Ghannem](https://www.kaust.edu.sa/en/stu
 At the moment of 2021, prof. Bernard Ghanem is also KAUST AI Initiative Leader and Deputy Director of AI Initiative. 
 
 
-This was a very pretty intensive course in terms of amount materials and homework assignments. prof. Bernard Ghanem encourages questions and discussion during a lecture. He accurately highlighted and helped filter the interesting results from temporal heuristics that the community can not solve exactly. I think this course is beneficial for people who want to catch improvements in state-of-the-art image and video DL methods.
+This was a very pretty intensive course in terms of amount materials and homework assignments. Prof. Bernard Ghanem encourages questions and discussion during a lecture. He accurately highlighted and helped filter the interesting results from temporal heuristics that the community can not solve exactly. This course is beneficial for people who want to catch improvements in state-of-the-art image and video DL methods.
 
 The course is a mixture of classical computer vision methods covering works from 2012 like [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) up to recent models, including [Transformers](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), [PointNet++](https://arxiv.org/abs/1706.02413),[ResNeSt](https://arxiv.org/pdf/2004.08955v2.pdf), [GANs](https://arxiv.org/abs/1406.2661) that can be observed as deterministic two parties game, VAE in which output of Encoder in a probabilistic way is plugged into Decoder. Nowadays, VAE is compatible with GANS, e.g., the [NVAE paper](https://arxiv.org/pdf/2007.03898.pdf).
 
-The very good and unusual thing compared to the education model at Stanford where I took classes [CS229](https://cs229.stanford.edu/), [CS230](https://cs230.stanford.edu/) with prof. [A.Ng](https://hai.stanford.edu/people/andrew-ng) is in the following. 
+The excellent and unusual thing compared to the education model at Stanford where I took classes [CS229](https://cs229.stanford.edu/), [CS230](https://cs230.stanford.edu/) with prof. [A.Ng](https://hai.stanford.edu/people/andrew-ng) is in the following. 
 
-Students have to read original papers and have to answer in detail and prove that they understand the scope and limitation of approaches from original papers in reading assignments. The course has opened my eyes that in Applied Machine Learning, it's far easier in 90% of cases to read original papers.
+Students have to read original papers and answer in detail and prove that they understand the scope and limitation of approaches from original papers in reading assignments. The course has opened my eyes that in Applied Machine Learning, it's far easier in 90% of cases to read original papers.
 Of course, it's not always a case of considering all Applied Math in general, but in that case, it is. At Stanford classes, students have been encouraged to read original papers, but not has been strictly required.
 
-Another special thank if to a group of amazing teaching assistants. The homework started from the first principles with using PyTorch as computation backend and simple models. Finally, somewhere in the middle, the course starts to consider pretty complicated schemas for image, video, point cloud classification.
-I definitely recommend this course. 
+Another special thank if to a group of fantastic teaching assistants. The homework started from the first principles with using PyTorch as computation backend and simple models. Finally, somewhere in the middle, the course considers pretty complicated schemas for image, video, point cloud classification.
+I recommend this course. 
 
 The homework assignments were in [Python](https://www.python.org/) using [PyTorch](https://pytorch.org/docs/stable/index.html). 
 
 There would be no problem if you did not PyTorch before because Homeworks are structured pretty clearly, and in fact, one of their goals is to build your ability to use PyTorch. 
 During a course, I have read original documentation of PyTorch, and it was written nice and clear. I have organized links to references for documentation (my mental picture) for the course with the following [table](https://sites.google.com/site/burlachenkok/pytorch-resources).
 
-If you have never used Python as programming language, I recommend the following materials:
+If you have never used Python as a programming language, I recommend the following materials:
 
-* These days, the root book that that has been written by the author of the language Gvino Van Rossum is converted into a Language Tutorial: [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html). It will take 5-7 days to read it.
+* These days, the root book that has been written by the author of the language Gvino Van Rossum is converted into a Language Tutorial: [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html). It will take 5-7 days to read it.
 * To obtain at least some technical nuances, I recommend looking into Language Reference: [https://docs.python.org/3/reference/index.html](https://docs.python.org/3/reference/index.html)
-* Good resource for finding nuances of Python programming Language is use Table of Content available here: [https://docs.python.org/3.8/contents.html](https://docs.python.org/3.8/contents.html).
-* In the course, you will use a Conda package manager, Jupiter notebooks, to prepare reports. These tools are very easy. My random remarks about that tools: [https://sites.google.com/site/burlachenkok/python-relative-things](https://sites.google.com/site/burlachenkok/python-relative-things).
+* Good resource for finding nuances of Python programming language is the use Table of Content available here: [https://docs.python.org/3.8/contents.html](https://docs.python.org/3.8/contents.html).
+* In the course, you will use a Conda package manager, Jupiter notebooks, to prepare reports. These tools are straightforward. My random remarks about that tools: [https://sites.google.com/site/burlachenkok/python-relative-things](https://sites.google.com/site/burlachenkok/python-relative-things).
 
 ## CS398 Graduate Seminar organized by prof. Ivan Viola
 
