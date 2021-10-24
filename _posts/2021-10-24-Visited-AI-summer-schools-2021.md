@@ -14,7 +14,7 @@ It was a 20 hours school taught mostly by [Lorenzo Rosasco](https://scholar.goog
 
 Link to the summer school: [https://ml.unige.it/education/school/regml2021](https://ml.unige.it/education/school/regml2021). 
 
-Attendance certificate of Konstantin Burlachenko: [link](https://drive.google.com/file/d/12dIYR84d88493L9cNH2E29U3ZyFhiS7O/view)
+Attendance certificate of Konstantin Burlachenko: [Link](https://drive.google.com/file/d/12dIYR84d88493L9cNH2E29U3ZyFhiS7O/view)
 
 # The PRAIRIE/MIAI AI 2021
 
@@ -23,7 +23,7 @@ The PRAIRIE/MIAI AI summer school comprises lectures conducted by renowned exper
 
 Link to the summer school: [https://project.inria.fr/paiss/](https://project.inria.fr/paiss/).
 
-Attendance certificate of Konstantin Burlachenko: [link](https://drive.google.com/file/d/1rnbUF9IyRPjQ5GICwKiwwUkU-6zkufuz/view)
+Attendance certificate of Konstantin Burlachenko: [Link](https://drive.google.com/file/d/1rnbUF9IyRPjQ5GICwKiwwUkU-6zkufuz/view)
 
 # Oxford ML Summer School-2021
 
@@ -96,8 +96,6 @@ Probabilistic causal ML:
 
 ### Computational Pathology (recommended by Lea Goetz)
 
-Computational histopathology reviews:
-
 1. Deep neural network models for computational histopathology: A survey
 [https://arxiv.org/abs/1912.12378](https://arxiv.org/abs/1912.12378)
 2. Deep learning in histopathology: the path to the clinic
@@ -160,7 +158,7 @@ and future methods to address underlying challenges
 
 Link to the summer school: [https://www.oxfordml.school/](https://www.oxfordml.school/)
 
-Attendance certificate of Konstantin Burlachenko: [link](https://drive.google.com/file/d/1NU-C-G7AWNN6ZauUnsRQpLTCGRV6kct4/view)
+Attendance certificate of Konstantin Burlachenko: [Link](https://drive.google.com/file/d/1NU-C-G7AWNN6ZauUnsRQpLTCGRV6kct4/view)
 
 # Optimization without Borders conference and summer school
 
