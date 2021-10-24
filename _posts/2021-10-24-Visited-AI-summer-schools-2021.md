@@ -168,7 +168,7 @@ Attendance certificate of Konstantin Burlachenko: [Link](https://drive.google.co
 
 # Conference and summer school "Optimization without Borders"
 
-HSE University, MIPT, and Sirius University invite you to join the Conference 'Optimization without Borders'. The Conference is dedicated to the 65th anniversary of Prof. [Yurii Nesterov](https://scholar.google.com/citations?user=DJ8Ep8YAAAAJ&hl=en) and the 50th anniversary of Prof. [Vladimir Protasov](https://scholar.google.com/citations?user=pgEzSSYAAAAJ&hl=ru). The main topics of the Conference:
+HSE University, MIPT, and Sirius University invite you to join the Conference 'Optimization without Borders'. The Conference is dedicated to the 65th anniversary of Prof. [Yurii Nesterov](https://scholar.google.com/citations?user=DJ8Ep8YAAAAJ&hl=en) and the 50th anniversary of Prof. [Vladimir Protasov](https://scholar.google.com/citations?user=pgEzSSYAAAAJ&hl=ru).
 
 Link to the summer school: [https://cs.hse.ru/hdilab/opti/](https://cs.hse.ru/hdilab/opti/)
 
