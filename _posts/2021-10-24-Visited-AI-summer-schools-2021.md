@@ -16,6 +16,8 @@ Link to the summer school: [https://ml.unige.it/education/school/regml2021](http
 
 Attendance certificate of Konstantin Burlachenko: [Link](https://drive.google.com/file/d/12dIYR84d88493L9cNH2E29U3ZyFhiS7O/view)
 
+---
+
 # The PRAIRIE/MIAI AI 2021
 
 The PRAIRIE/MIAI AI summer school comprises lectures conducted by renowned experts in different areas of artificial intelligence. The third edition of this summer school will be held online from the 5th to July 9, 2021. It will include presentations on several topics, including computer vision, machine learning, natural language processing, robotics, healthcare. The 2021 summer school will feature lecturers including [Lourdes Agapito (UCL)](https://scholar.google.com/citations?user=IRMX4-4AAAAJ&hl=en), [Stéphanie Allassonnière (Univ. Paris)](https://scholar.google.com/citations?user=9ubMya8AAAAJ&hl=en&oi=sra), [Francis Bach (Inria)](https://scholar.google.com/citations?user=6PJWcFEAAAAJ&hl=en&oi=ao), [Alejandrina Cristià (ENS)](https://scholar.google.com/citations?user=qYeeTuAAAAAJ&hl=en&oi=ao), [Andrew Davison (Imperial)](https://scholar.google.com/citations?user=A0ae1agAAAAJ&hl=en&oi=ao), [Pascale Fung (HKUST)](https://scholar.google.com/citations?user=QEMJWzEAAAAJ&hl=en&oi=ao), [Arthur Gretton (UCL)](https://scholar.google.com/citations?user=OUv7J6QAAAAJ&hl=en&oi=ao), 
@@ -24,6 +26,8 @@ The PRAIRIE/MIAI AI summer school comprises lectures conducted by renowned exper
 Link to the summer school: [https://project.inria.fr/paiss/](https://project.inria.fr/paiss/).
 
 Attendance certificate of Konstantin Burlachenko: [Link](https://drive.google.com/file/d/1rnbUF9IyRPjQ5GICwKiwwUkU-6zkufuz/view)
+
+---
 
 # Oxford ML Summer School-2021
 
@@ -159,6 +163,8 @@ and future methods to address underlying challenges
 Link to the summer school: [https://www.oxfordml.school/](https://www.oxfordml.school/)
 
 Attendance certificate of Konstantin Burlachenko: [Link](https://drive.google.com/file/d/1NU-C-G7AWNN6ZauUnsRQpLTCGRV6kct4/view)
+
+---
 
 # Optimization without Borders conference and summer school
 
