@@ -21,8 +21,9 @@ I will deliver a 10-minute talk in [DistributedML 2021](https://distributedml.or
 <table>
 <tr>
 
-<td> <img height="50px" src="https://burlachenkok.github.io/materials/acm-logo.png"/> </td>
-<td> <img height="50px" src="https://burlachenkok.github.io/materials/clean-logo-white-background-small.png"/> </td>
+<td> <img height="100px" src="https://burlachenkok.github.io/materials/acm-logo.png"/> </td>
+<td> <img height="100px" src="https://burlachenkok.github.io/materials/clean-logo-white-background-small.png"/> </td>
+<td> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
 
 </tr>
 </table>
