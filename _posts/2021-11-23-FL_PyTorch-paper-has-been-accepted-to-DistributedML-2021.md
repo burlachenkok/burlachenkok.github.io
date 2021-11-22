@@ -18,6 +18,6 @@ It was my great pleasure to work with my peers: [Samuel Horváth](https://samuel
 
 I will deliver a 10-minute talk [DistributedML 2021](https://distributedml.org/program/) on the 7th of December 2021, and according to the current program, it will be at 13:30.
 
-![Thumbnail](https://burlachenkok.github.io/materials/acm-logo.png)
+![Thumbnail_ACM](https://burlachenkok.github.io/materials/acm-logo.png)
 
-![Thumbnail](https://burlachenkok.github.io/materials/clean-logo-white-background-small.png)
+![Thumbnail_DML](https://burlachenkok.github.io/materials/clean-logo-white-background-small.png)
