@@ -18,6 +18,9 @@ It was my great pleasure to work with my peers: [Samuel Horváth](https://samuel
 
 I will deliver a 10-minute talk in [DistributedML 2021](https://distributedml.org/program/) on the 7th of December 2021, and according to the current program, it will be at 13:30.
 
+Also, I will deliver a presentation during the [Visual Computing Center Open House](https://cemse.kaust.edu.sa/vcc/events/event/visual-computing-center-open-house) at Saudi Arabia, KAUST(King Abdullah University of Science and Technology), Building 1, level 2, Seaside.
+The [Visual Computing Center Open House](https://cemse.kaust.edu.sa/vcc/events/event/visual-computing-center-open-house) is a series of demonstrations from recent research conducted in the [Visual Computing Center](https://cemse.kaust.edu.sa/vcc) in [KAUST](https://kaust.edu.sa/).
+
 <table>
 <tr>
 
