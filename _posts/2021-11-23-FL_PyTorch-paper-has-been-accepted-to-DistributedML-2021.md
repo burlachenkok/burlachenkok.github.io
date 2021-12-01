@@ -9,7 +9,7 @@ published: true
 ---
 
 Our paper **«FL_PyTorch: Optimization Research Simulator for Federated Learning»** has been accepted to the 2nd International Workshop on [Distributed Machine Learning DistributedML 2021](https://distributedml.org/). 
-The workshop is co-located with [CoNEXT(International Conference on emerging Networking EXperiments and Technologies)](https://conferences2.sigcomm.org/co-next/2021) 
+The workshop is co-located with [ACM CoNEXT(International Conference on emerging Networking EXperiments and Technologies)](https://conferences2.sigcomm.org/co-next/2021) 
 will be virtually held in the beautiful Bavarian city of Munich. 
 All accepted papers will also be included in the conference proceedings and available in the ACM Digital Library. 
 The workshop will take place on the ***7th of December 2021***.
