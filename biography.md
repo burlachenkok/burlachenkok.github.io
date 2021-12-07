@@ -18,7 +18,7 @@ In breadth sense areas of his interests covers:
 
 ---
 
-Konstantin attended in Non-Degree Opportunity program at Stanford and obtained two graduate certificates during my education in that place:
+Konstantin attended in Non-Degree Opportunity program at Stanford and obtained two graduate certificates during his education in that place:
 
 * [Data, Models and Optimization Graduate Certificate](https://online.stanford.edu/programs/data-models-and-optimization-graduate-certificate)
 * [Artificial Intelligence Graduate Certificate](https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate)
