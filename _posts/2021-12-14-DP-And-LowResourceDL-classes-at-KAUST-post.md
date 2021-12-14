@@ -10,7 +10,7 @@ This is a post about Differential Privacy and Efficient DL classes at KAUST
 
 # Classes that I took (CS326, CS394S):
 
-As a subpart of my academic load in Fall-2021, I took two classes CS326 Low Resource DL and CS394S Contemporary Topics in Computer Security.
+As a subpart of my academic load in Fall 2021, I took two classes CS326 Low Resource DL and CS394S Contemporary Topics in Computer Security.
 
 In this post, I would like to give some small insides about all of them.
 
