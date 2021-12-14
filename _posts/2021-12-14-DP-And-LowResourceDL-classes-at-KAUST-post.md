@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Fall 2021 Differential Privacy and Low Resource DL classes at KAUST as CEMSE/CS Ph.D.
+title: Fall 2021 Differential Privacy and Efficient DL classes at KAUST as CEMSE/CS Ph.D.
 published: true
 ---
 
-This is a post about differential Privacy and Low Resource DL classes at KAUST
+This is a post about Differential Privacy and Efficient DL classes at KAUST
 
 ---
 
@@ -14,7 +14,7 @@ As a subpart of my academic load in Fall-2021, I took two classes CS326 Low Reso
 
 In this post, I would like to give some small insides about all of them.
 
-## CS394S Contemporary Topics in Computer Secutiry
+## [CS394S Contemporary Topics in Computer Secutiry](https://registrar-programguide.kaust.edu.sa/Courses/CS-Computer-Science/300/CS-394)
 
 At first glance, it may seem that anonymizing a dataset via stripping it of identifying information about individuals, such as names, addresses, etc., is sufficient to preserve
 the privacy of the data. However, **this is problematic** because an adversary may have some auxiliary information, which may even be publicly available, and can be used to
@@ -38,7 +38,7 @@ DP really exploits heavily various statistical theorems and bounds to construct 
 
 In my project, I have made a review of several papers with viewing from point of view of the connection of DP with Math Optimization in the context of solving ERM formulation.
 
-## CS326: Low-Resource Deep Learning
+## [CS326 Efficient Deep Learning](https://registrar-programguide.kaust.edu.sa/en/Courses/CS-Computer-Science/300/CS-326)
 
 Before going into that class it's better to know in advance what are classical Deep Learning models CNNs, LSTMS and what are practices to work with them.
 
