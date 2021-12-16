@@ -50,7 +50,9 @@ The course provides the ability to build more efficient systems for some importa
 * GANs and Generative Zero-Shot Learning
 * Efficient training for Transformers and Graph Convolution Networks
 
-In terms of the academic load, it includes three assignments, but most grade depends on a course project.
+In terms of the academic load, it includes three assignments, but most grade depends on a course project. If you are targeting grade A it's better to start to work on the project as soon as possible.
 
-The course is very interesting and covers DL from that aspect and [prof. Mohamed Elhoseiny](https://www.kaust.edu.sa/en/study/faculty/mohamed-elhoseiny) is a very interactive professor.
+The course is very interesting and covers several recent DL relative activities in the area of Machine Learning.
+
+Also [prof. Mohamed Elhoseiny](https://www.kaust.edu.sa/en/study/faculty/mohamed-elhoseiny) is a very interactive professor.
                 
