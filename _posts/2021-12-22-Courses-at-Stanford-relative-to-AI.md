@@ -12,7 +12,6 @@ This is a post about systematizing catalog of course at Stanford relative to AI/
 
 Last update: **22-DEC-2021**.
 
-{:class="table table-bordered"}
 | Course Number  | Course Name  | Link  | Slides or Lecture Notes  | Videos   |
 |---|---|---|---|---|
 | CS231N  | Convolution Neural Nets   |  [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)  |  +  |   + |
@@ -50,4 +49,4 @@ Last update: **22-DEC-2021**.
 | CS428 | Computation and Cognition: The Probabilistic Approach | -| - | - |
 | MS&E314/CME336 | Conic Linear Optimization| [https://web.stanford.edu/class/msande314/handout.shtml](https://web.stanford.edu/class/msande314/handout.shtml) | - | + |
 | MATH301 | Advanced topics in covnex optimization, E.Candes | [https://candes.su.domains/teaching/math301/hand.html](https://candes.su.domains/teaching/math301/hand.html) | - | -|
-
+{:.table-striped}
