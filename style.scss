@@ -302,16 +302,13 @@ footer {
 }
 
 .mbtablestyle {
-   border-collapse: collapse;
-
    > table, td, th {
-        border: 1px solid black;
+        border: 1px solid white;
+        border-collapse: collapse;
         }
-
-   > tr:nth-child(even) {
-        background-color: #D6EEEE;
+   > td, th {
+        background-color: #96D4D4;
         }
-
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
