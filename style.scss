@@ -307,6 +307,11 @@ footer {
    > table, td, th {
         border: 1px solid black;
         }
+
+   > tr:nth-child(even) {
+        background-color: #D6EEEE;
+        }
+
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
