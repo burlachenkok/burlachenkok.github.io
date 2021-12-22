@@ -47,3 +47,5 @@ Last update: **22-DEC-2021**.
 | AA274A | Principles of Robotic Autonomy I | https://stanfordasl.github.io/aa274a/ | https://stanfordasl.github.io/aa274a/ | + | - |
 | AA274A | Principles of Robotic Autonomy II | http://web.stanford.edu/class/cs237b/ | + | - |
 | CS428 | Computation and Cognition: The Probabilistic Approach | -| - | - |
+| MS&E314/CME336 | Conic Linear Optimization| https://web.stanford.edu/class/msande314/handout.shtml | - | + |
+| MATH301 | Advanced topics in covnex optimization, E.Candes | https://candes.su.domains/teaching/math301/hand.html | - | -|
