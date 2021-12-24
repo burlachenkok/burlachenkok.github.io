@@ -33,7 +33,7 @@ Last update: **22-DEC-2021**.
 | STATS315B  | Modern Applied Statistics: Elements of Statistical Learning, J.Friedman  |  [http://statweb.stanford.edu/~jhf/stats315b.html](http://statweb.stanford.edu/~jhf/stats315b.html)   |  -  |   - |
 | CS224W  | Machine Learning with Graphs, J.Leskovec |  [http://web.stanford.edu/class/cs224w/](http://web.stanford.edu/class/cs224w/)   |  -  |   + |
 | CS228  | Probabilistic Graphical Models  |  [https://ermongroup.github.io/cs228-notes/](https://ermongroup.github.io/cs228-notes/)   |  -  |   + |
-| CS246  | Mining Massive Data Sets  |  [http://web.stanford.edu/class/cs246/](http://web.stanford.edu/class/cs246/)    |  +  |   - |
+| CS246  | Mining Massive Data Sets, J.Leskovec  |  [http://web.stanford.edu/class/cs246/](http://web.stanford.edu/class/cs246/)    |  +  |   - |
 | CS234  | Reinforcement Learning  | [http://web.stanford.edu/class/cs234/schedule.html](http://web.stanford.edu/class/cs234/schedule.html)    |  -  |   + |
 | CS205A  | Math methods for robotics, vision, graphics  |  [http://graphics.stanford.edu/courses/cs205a/](http://graphics.stanford.edu/courses/cs205a/) |  -  |   + |
 | EE263  | Introduction to linear dynamic systems, S.Boyd  |  [http://ee263.stanford.edu/](http://ee263.stanford.edu/) |  +  |   + |
