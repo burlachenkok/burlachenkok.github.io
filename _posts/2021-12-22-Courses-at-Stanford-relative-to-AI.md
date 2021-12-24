@@ -14,16 +14,15 @@ Last update: **22-DEC-2021**.
 
 | **Course Number**  | **Course Name**  | **Link**  | **Slides or Notes**  | **Videos**  |
 |---|---|---|---|---|
-| CS231N  | Convolution Neural Nets   |  [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)  |  +  |   + |
+| CS231N  | Convolution Neural Nets  |  [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)  |  +  |   + |
 | CS230  | Deep Learning, A.Ng  |  [http://cs230.stanford.edu/](http://cs230.stanford.edu/)  |  -  |   + |
-| CS224N  | NLP with DL   |  [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)  |  +  |   + |
 | CS20SI  | Tensorflow for DL Research  |  [http://web.stanford.edu/class/cs20si/](http://web.stanford.edu/class/cs20si/)  |  -  |   + |
 | STATS385  | Theories of Deep Learnig  |  [https://stats385.github.io/](https://stats385.github.io/)  |  +  |   + |
-| CS224N  | Natural Language Processing with Deep Learning  | [https://web.stanford.edu/class/cs224u/index.html](https://web.stanford.edu/class/cs224u/index.html)  |  -  |   + |
+| CS224N  | Natural Language Processing with Deep Learning, C.Manning | [https://web.stanford.edu/class/cs224n/index.html](https://web.stanford.edu/class/cs224n/index.html)  |  +  |   + |
 | CS224U  | Natural Language Understanding  | [https://web.stanford.edu/class/cs224u/index.html](https://web.stanford.edu/class/cs224u/index.html)  |  -  |   + |
 | CS224V | Conversational Virtual Assistants with Deep Learning |  [https://web.stanford.edu/class/cs224v/schedule.html](https://web.stanford.edu/class/cs224v/schedule.html)  | + |  -  |
 | CS324 | Understanding and Developing Large Language Models | -  | - | - |
-| CS331B  | Representation Learning in Computer Vision  | [http://web.stanford.edu/class/cs331b/schedule.html](http://web.stanford.edu/class/cs331b/schedule.html) |  -  |   + |
+| CS331B  | Representation Learning in Computer Vision, S.Savarese  | [http://web.stanford.edu/class/cs331b/schedule.html](http://web.stanford.edu/class/cs331b/schedule.html) |  -  |   + |
 | CS236  | Deep Generative Models  |  [https://deepgenerativemodels.github.io/syllabus.html](https://deepgenerativemodels.github.io/syllabus.html)  |  -  |   + |
 | CS330  | Deep Multi-Task and Meta Learning, C.Finn |  [https://cs330.stanford.edu/](https://cs330.stanford.edu/)   |  +  |   + |
 | CS229  | Machine Learning, A.Ng  |  [http://cs229.stanford.edu/syllabus.html](http://cs229.stanford.edu/syllabus.html)   |  +  |   + |
@@ -35,7 +34,7 @@ Last update: **22-DEC-2021**.
 | CS228  | Probabilistic Graphical Models  |  [https://ermongroup.github.io/cs228-notes/](https://ermongroup.github.io/cs228-notes/)   |  -  |   + |
 | CS246  | Mining Massive Data Sets, J.Leskovec  |  [http://web.stanford.edu/class/cs246/](http://web.stanford.edu/class/cs246/)    |  +  |   - |
 | CS234  | Reinforcement Learning  | [http://web.stanford.edu/class/cs234/schedule.html](http://web.stanford.edu/class/cs234/schedule.html)    |  -  |   + |
-| CS205A  | Math methods for robotics, vision, graphics  |  [http://graphics.stanford.edu/courses/cs205a/](http://graphics.stanford.edu/courses/cs205a/) |  -  |   + |
+| CS205A  | Math methods for robotics, vision, graphics, D.James  |  [http://graphics.stanford.edu/courses/cs205a/](http://graphics.stanford.edu/courses/cs205a/) |  -  |   + |
 | EE263  | Introduction to linear dynamic systems, S.Boyd  |  [http://ee263.stanford.edu/](http://ee263.stanford.edu/) |  +  |   + |
 | EE364A  | Convex Optimization I, S.Boyd  |  [https://stanford.edu/class/ee364a/](https://stanford.edu/class/ee364a/) |  +  |   + |
 | EE364B  | Convex Optimization I, D.Boyd  |  [https://stanford.edu/class/ee364b/](https://stanford.edu/class/ee364b/) |  +  |   + |
@@ -47,6 +46,6 @@ Last update: **22-DEC-2021**.
 | AA274A | Principles of Robotic Autonomy I, M.Pavone | [https://stanfordasl.github.io/aa274a/](https://stanfordasl.github.io/aa274a/) | + | - |
 | AA274A | Principles of Robotic Autonomy II, M.Pavone | [http://web.stanford.edu/class/cs237b/](http://web.stanford.edu/class/cs237b/) | + | - |
 | CS428 | Computation and Cognition: The Probabilistic Approach | -| - | - |
-| MS&E314/CME336 | Conic Linear Optimization| [https://web.stanford.edu/class/msande314/handout.shtml](https://web.stanford.edu/class/msande314/handout.shtml) | - | + |
+| MS&E314/CME336 | Conic Linear Optimization, Y.Ye | [https://web.stanford.edu/class/msande314/handout.shtml](https://web.stanford.edu/class/msande314/handout.shtml) | - | + |
 | MATH301 | Advanced topics in covnex optimization, E.Candes | [https://candes.su.domains/teaching/math301/hand.html](https://candes.su.domains/teaching/math301/hand.html) | - | -|
 {:.mbtablestyle}
