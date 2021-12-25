@@ -44,7 +44,7 @@ Last update: **22-DEC-2021**.
 | CS223A | Introduction to Robotics, O.Khatib | [https://cs.stanford.edu/groups/manips/teaching/cs223a/](https://cs.stanford.edu/groups/manips/teaching/cs223a/)  | + | + |
 | AA203 | ptimal and Learning-Based Control, M.Pavone | [https://stanfordasl.github.io/aa203/](https://stanfordasl.github.io/aa203/) | + | - |
 | AA274A | Principles of Robotic Autonomy I, M.Pavone | [https://stanfordasl.github.io/aa274a/](https://stanfordasl.github.io/aa274a/) | + | - |
-| AA274A | Principles of Robotic Autonomy II, M.Pavone | [http://web.stanford.edu/class/cs237b/](http://web.stanford.edu/class/cs237b/) | + | - |
+| AA274B | Principles of Robotic Autonomy II, M.Pavone | [http://web.stanford.edu/class/cs237b/](http://web.stanford.edu/class/cs237b/) | + | - |
 | CS428 | Computation and Cognition: The Probabilistic Approach | -| - | - |
 | MS&E314/CME336 | Conic Linear Optimization, Y.Ye | [https://web.stanford.edu/class/msande314/handout.shtml](https://web.stanford.edu/class/msande314/handout.shtml) | - | + |
 | MATH301 | Advanced topics in covnex optimization, E.Candes | [https://candes.su.domains/teaching/math301/hand.html](https://candes.su.domains/teaching/math301/hand.html) | - | -|
