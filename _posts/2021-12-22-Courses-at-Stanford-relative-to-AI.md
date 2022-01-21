@@ -21,7 +21,7 @@ Last update: **22-DEC-2021**.
 | [CS224N](https://web.stanford.edu/class/cs224n/index.html)  | Natural Language Processing with Deep Learning, C.Manning | +  |   + |
 | [CS224U](https://web.stanford.edu/class/cs224u/index.html)  | Natural Language Understanding  | - |   + |
 | [CS224V](https://web.stanford.edu/class/cs224v/schedule.html) | Conversational Virtual Assistants with Deep Learning | + |  -  |
-| [CS324]() | Understanding and Developing Large Language Models | -  | - | - |
+| CS324 | Understanding and Developing Large Language Models | -  | - |
 | [CS331B](http://web.stanford.edu/class/cs331b/schedule.html)  | Representation Learning in Computer Vision, S.Savarese  | - |   + |
 | [CS236](https://deepgenerativemodels.github.io/syllabus.html)  | Deep Generative Models  |  -  |   + |
 | [CS330](https://cs330.stanford.edu/)  | Deep Multi-Task and Meta Learning, C.Finn  |  +  |   + |
@@ -45,7 +45,7 @@ Last update: **22-DEC-2021**.
 | [AA203](https://stanfordasl.github.io/aa203/) | ptimal and Learning-Based Control, M.Pavone | + | - |
 | [AA274A](https://stanfordasl.github.io/aa274a/) | Principles of Robotic Autonomy I, M.Pavone | + | - |
 | [AA274B](http://web.stanford.edu/class/cs237b/) | Principles of Robotic Autonomy II, M.Pavone | + | - |
-| CS428 | Computation and Cognition: The Probabilistic Approach | -| - | - |
+| CS428 | Computation and Cognition: The Probabilistic Approach | -| - |
 | [MS&E314/CME336](https://web.stanford.edu/class/msande314/handout.shtml) | Conic Linear Optimization, Y.Ye | - | + |
 | [MATH301](https://candes.su.domains/teaching/math301/hand.html) | Advanced topics in covnex optimization, E.Candes | - | -|
 {:.mbtablestyle}
