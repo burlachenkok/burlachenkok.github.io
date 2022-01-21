@@ -13,7 +13,7 @@ This is a post about systematizing catalog of course at Stanford relative to AI/
 Last update: **22-DEC-2021**.
 
 | **Course Number**  | **Course Name**  | **Slides or Notes**  | **Videos**  |
-|---|---|---|---|---|
+|---|---|---|---|
 | [CS231N](http://cs231n.stanford.edu/)  | Convolution Neural Nets  |  +  |   + |
 | [CS230](http://cs230.stanford.edu/)  | Deep Learning, A.Ng  |  -  |   + |
 | [CS20SI](http://web.stanford.edu/class/cs20si/)  | Tensorflow for DL Research  |  -  |   + |
