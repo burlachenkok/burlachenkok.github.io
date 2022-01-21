@@ -14,7 +14,7 @@ Last update: **22-DEC-2021**.
 
 | **Course Number**  | **Course Name**  | **Link**  | **Slides or Notes**  | **Videos**  |
 |---|---|---|---|---|
-| CS231N  | Convolution Neural Nets  |  [CS231N](http://cs231n.stanford.edu/)  |  +  |   + |
+| [CS231N](http://cs231n.stanford.edu/)  | Convolution Neural Nets  |  [CS231N](http://cs231n.stanford.edu/)  |  +  |   + |
 | CS230  | Deep Learning, A.Ng  |  [http://cs230.stanford.edu/](http://cs230.stanford.edu/)  |  -  |   + |
 | CS20SI  | Tensorflow for DL Research  |  [http://web.stanford.edu/class/cs20si/](http://web.stanford.edu/class/cs20si/)  |  -  |   + |
 | STATS385  | Theories of Deep Learnig  |  [https://stats385.github.io/](https://stats385.github.io/)  |  +  |   + |
