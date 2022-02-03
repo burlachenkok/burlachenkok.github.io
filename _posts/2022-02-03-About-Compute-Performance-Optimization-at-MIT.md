@@ -4,7 +4,7 @@ title: Performance Engineering course at 6.172 at MIT
 published: true
 ---
 
-This is a post about the advanced course "6-172" at MIT and usefull materials for anybody who optimize code performance.
+This is a post about the advanced course "6-172" at MIT and useful materials for anybody who want to optimize binary code performance.
 
 ---
 
