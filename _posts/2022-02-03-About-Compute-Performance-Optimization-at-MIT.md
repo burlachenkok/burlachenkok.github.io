@@ -4,7 +4,7 @@ title: Performance Engineering course at 6.172 at MIT
 published: true
 ---
 
-This is a post about the advanced course "6-172-performance-engineering-of-software-systems-fall-2018" at MIT.
+This is a post about the advanced course "6-172" at MIT and usefull materials for anybody who optimize code performance.
 
 ---
 
