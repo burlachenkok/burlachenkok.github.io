@@ -18,7 +18,7 @@ The main prof. in the course was [Charles E. Leiserson](https://en.wikipedia.org
 There are a lot of useful materials, and all lectures are interesting. But I would like to bring some insights about several of them:
 
 [Lecture 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec1.pdf) presented a path on how to implement and to even beat [Intel MKL](https://en.wikipedia.org/wiki/Math_Kernel_Library) library for dense matrix multiplication in fp32 on square matrices with 4096 x 4096 elements.
-The lecture demonstrated that standart Python interpreter (CPython) is 51497 slower than highly optimized C code, and standart JAVA platform with is only 5000 slower than C. Table from Lecture-1 with speed comparision of implementations is presented below:
+The lecture demonstrated that standart Python interpreter (CPython) is 51497 slower than highly optimized C code, and standart JAVA platform is 5000 slower than highly(crazy) optimized C. Table from Lecture-1 with speed comparision of implementations is presented below:
 <table>
 <tr><td> <img width="100%" src="https://burlachenkok.github.io/images/blas_compare_speed_of_impl.png"/> </td></tr>
 </table>
