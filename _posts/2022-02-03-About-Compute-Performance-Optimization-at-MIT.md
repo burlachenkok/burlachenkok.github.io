@@ -43,7 +43,7 @@ Table mentioned from Lecture-1 with speed comparision of implementations:
 Another lecture covers topics such: as threads, caches, races, etc.
 What makes this material pretty unique is the fact that it contains real examples of how to improve real algorithms. Unfortunately, a lot of books on such a level of granularity in computing systems do not provide any examples. 
 
-[Lecture 18](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec18.pdf) was a guest talk from prof. Saman Amarasinghe. He gave a lecture where he covered a bit all systems that (it seems) he co-developed with his peers:
+[Lecture 18](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec18.pdf) was a guest talk from prof. [Saman Amarasinghe](https://people.csail.mit.edu/saman/). He gave a lecture where he covered a bit all systems that (it seems) he co-developed with his peers:
 
 * GraphIt  [https://people.csail.mit.edu/jshun/graphit.pdf](https://people.csail.mit.edu/jshun/graphit.pdf)
 * Halide    [https://people.csail.mit.edu/jrk/halide-pldi13.pdf](https://people.csail.mit.edu/jrk/halide-pldi13.pdf)
