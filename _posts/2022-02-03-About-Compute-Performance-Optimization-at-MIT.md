@@ -10,7 +10,9 @@ This is a post about the advanced course "6-172" at MIT with summarizing useful 
 
 The advanced course [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/index.htm) provides various exciting insights on optimizing the performance of code dedicated for the execution in general-purpose CPU processors. The published materials from MIT contains [slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/) and [video of lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf). This course is not about compilers or applying some contemporary math areas to improve performance but about improving algorithm performance in real hardware with careful optimization of performance. So it is about constants that are hidden in the complexity of algorithms.
 
-The main professor in the course was [Charles E. Leiserson](https://en.wikipedia.org/wiki/Charles_E._Leiserson), co-author of the classical book [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844). In some sense, there are a lot of valuable materials, and all lectures are interesting. But I would like to bring some insights about several of them:
+The main professor in the course was [Charles E. Leiserson](https://en.wikipedia.org/wiki/Charles_E._Leiserson), co-author of the classical book [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844). In some sense, there are a lot of valuable materials, and all lectures are interesting. But I would like to bring some insights about several of them.
+
+### Lectures overview
 
 [Lecture 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec1.pdf) presented a path on how to implement and to even beat [Intel MKL](https://en.wikipedia.org/wiki/Math_Kernel_Library) library for dense matrix multiplication in fp32 on square matrices with 4096 x 4096 elements.
 Another thing the lecture demonstrated that standard Python interpreter ([CPython](https://github.com/python/cpython)) is **51497** slower than highly optimized C code, and standart Java virtual machine is **5000** slower than highly( in fact crazy) optimized C. Table from *Lecture-1* with speed comparison of implementations is presented below:
@@ -55,4 +57,6 @@ In his talk [https://www.youtube.com/watch?v=SS5KfIFzfEE](https://www.youtube.co
 
 
 
-**Conclusion.** What makes this material pretty unique is that there are real examples of how to improve real algorithms. Unfortunately, many books on such a level of granularity in computing systems do not provide any examples completely.  
+### Conclusion.
+
+What makes this material pretty unique is that there are real examples of how to improve real algorithms. Unfortunately, many books on such a level of granularity in computing systems do not provide any examples completely.  
