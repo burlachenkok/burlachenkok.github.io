@@ -4,11 +4,11 @@ title: Performance Engineering course at 6.172 at MIT
 published: true
 ---
 
-This is a post about the course "6-172-performance-engineering-of-software-systems-fall-2018" course at MIT.
+This is a post about the advanced course "6-172-performance-engineering-of-software-systems-fall-2018" at MIT.
 
 ---
 
-The course [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/index.htm) provides 
+The advanced course [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/index.htm) provides 
 various exciting insights on optimizing the performance of code dedicated for the execution in general-purpose CPU processors.
 
 The published materials contains [slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/) and [video of lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf).
