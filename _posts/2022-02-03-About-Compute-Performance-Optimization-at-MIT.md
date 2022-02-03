@@ -9,13 +9,11 @@ This is a post about the advanced course "6-172" at MIT and usefull materials fo
 ---
 
 The advanced course [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/index.htm) provides 
-various exciting insights on optimizing the performance of code dedicated for the execution in general-purpose CPU processors.
+various exciting insights on optimizing the performance of code dedicated for the execution in general-purpose CPU processors. The published materials contains [slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/) and [video of lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf).
 
-The published materials contains [slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/) and [video of lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf).
+This course is not about compilers or applying some contemporary math areas for improving performance but about improving algorithm performance in real hardware. It is about constants that are hidden in the complexity of algorithms.
 
-The course is not about compilers or applying some contemporary math areas for improving performance but about improving algorithm performance in real hardware. It is about constants that are hidden in the complexity of algorithms and how to decrease them.
-
-The main prof. in the course was Charles E. Leiserson, co-author of the classical book [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844).
+The main prof. in the course was [Charles E. Leiserson](https://en.wikipedia.org/wiki/Charles_E._Leiserson), co-author of the classical book [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844).
 
 There are a lot of useful materials, and all lectures are interesting. But I would like to bring some insights about several of them:
 
