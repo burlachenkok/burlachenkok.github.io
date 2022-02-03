@@ -46,7 +46,7 @@ What makes this material pretty unique is the fact that it contains real example
 [Lecture 18](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec18.pdf) was a guest talk from prof. [Saman Amarasinghe](https://people.csail.mit.edu/saman/). He gave a lecture where he covered a bit all systems that (it seems) he co-developed with his peers:
 
 * GraphIt  [https://people.csail.mit.edu/jshun/graphit.pdf](https://people.csail.mit.edu/jshun/graphit.pdf)
-* Halide    [https://people.csail.mit.edu/jrk/halide-pldi13.pdf](https://people.csail.mit.edu/jrk/halide-pldi13.pdf)
+* Halide    [https://people.csail.mit.edu/jrk/halide-pldi13.pdf](https://people.csail.mit.edu/jrk/halide-pldi13.pdf), [https://halide-lang.org/](https://halide-lang.org/)
 * OpenTuner [https://ieeexplore.ieee.org/document/7855909](https://ieeexplore.ieee.org/document/7855909)
 
 During the lecture prof. Saman Amarasinghe has mentioned that:
