@@ -51,16 +51,16 @@ What makes this material pretty unique is the fact that it contains real example
 
 [Lecture 18](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec18.pdf) was a guest talk from prof. Saman Amarasinghe. He gave a lecture where he covered a bit all systems that (it seems) he co-developed with his peers:
 
-* GraphIt  (https://people.csail.mit.edu/jshun/graphit.pdf)
-* Halide    (https://people.csail.mit.edu/jrk/halide-pldi13.pdf)
-* OpenTuner (https://ieeexplore.ieee.org/document/7855909) (edited) 
+* GraphIt  [https://people.csail.mit.edu/jshun/graphit.pdf](https://people.csail.mit.edu/jshun/graphit.pdf)
+* Halide    [https://people.csail.mit.edu/jrk/halide-pldi13.pdf](https://people.csail.mit.edu/jrk/halide-pldi13.pdf)
+* OpenTuner [https://ieeexplore.ieee.org/document/7855909](https://ieeexplore.ieee.org/document/7855909)
 
 During the lecture prof. Saman Amarasinghe has mentioned that:
 
-* YouTube processes each video with Halide 
+* [YouTube](https://youtube.com/) processes each video with Halide at input stage
 * Adobe Photoshop is rewritten into Halide
 
-GraphIt is a DSL language that allows tuning real performance for graph algorithms, where algorithms need to be implemented at the low-level/metal level.
+[GraphIt](https://people.csail.mit.edu/jshun/graphit.pdf) is a DSL language that allows tuning real performance for graph algorithms, where algorithms need to be implemented at the low-level/metal level.
 
 Another exciting guest lecture was [Lecture 21](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec21.pdf) with Jon Bentley, who during being D.Knuth student invented KD-trees.
 In his talk [https://www.youtube.com/watch?v=SS5KfIFzfEE](https://www.youtube.com/watch?v=SS5KfIFzfEE), Jon Bentley shows how to make not-empirical Travel Salesman Problem(TSP) workable (typically for) in 40-50 cities, where distance is Euclidian distance in the 2D plane with using various pruning and software optimization tricks.
