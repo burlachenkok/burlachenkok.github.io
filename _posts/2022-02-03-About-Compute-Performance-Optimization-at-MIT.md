@@ -18,17 +18,16 @@ The main prof. in the course was [Charles E. Leiserson](https://en.wikipedia.org
 There are a lot of useful materials, and all lectures are interesting. But I would like to bring some insights about several of them:
 
 [Lecture 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec1.pdf) presented a path on how to implement and even beat Intel MLK library for dense matrix multiplication in fp32 on square matrices with 4096 x 4096 elements.
-The lecture demonstrated that standart Python interpreter (CPython) is 51497 slower than highly optimized C code, and standart JAVA platform with is only 5000 slower than C.
-
-This is coincident with that Bjarne Stroustrup have mentioned in 2017 [https://youtu.be/fX2W3nNjJIo?t=558](https://youtu.be/fX2W3nNjJIo?t=558) at 09:20:
-*"People select the simplest thing to pick up and it's Python..And then they are out of CPU power..I heard about biologists who run a 3-month run, it could be done in 10 minutes. And we know it because it was done when we can not wait for 3 months anymore.."*
-Speedup from that experiment that B.Stroustrup has mentioned in 2017 after moving to C++ from Python is the following: 3*30*24*60/10=12960.
-
-Table mentioned from Lecture-1 with speed comparision of implementations:
+The lecture demonstrated that standart Python interpreter (CPython) is 51497 slower than highly optimized C code, and standart JAVA platform with is only 5000 slower than C. Table from Lecture-1 with speed comparision of implementations is presented below:
 <table>
 <tr><td> <img width="100%" src="https://burlachenkok.github.io/images/blas_compare_speed_of_impl.png"/> </td></tr>
 </table>
 
+This is coincident with that Bjarne Stroustrup have mentioned in 2017 [https://youtu.be/fX2W3nNjJIo?t=558](https://youtu.be/fX2W3nNjJIo?t=558) at 09:20:
+
+*"People select the simplest thing to pick up and it's Python..And then they are out of CPU power..I heard about biologists who run a 3-month run, it could be done in 10 minutes. And we know it because it was done when we can not wait for 3 months anymore.."*
+
+Speedup from that experiment that B.Stroustrup has mentioned in 2017 after moving to C++ from Python is the following: 3*30*24*60/10=12960.
 
 [Lecture 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec2.pdf) summarize John Bentley rules invented from 1990 for the current area. It contains suggestions for improving data structures, loops, logic, functions.
 
