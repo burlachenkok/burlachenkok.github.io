@@ -26,11 +26,7 @@ Speedup from that experiment that B.Stroustrup has mentioned in 2017 after movin
 
 Table mentioned from Lecture-1 with speed comparision of implementations:
 <table>
-<tr>
-
-<td> <img width="100%" src="https://burlachenkok.github.io/images/blas_compare_speed_of_impl.png"/> </td>
-
-</tr>
+<tr><td> <img width="100%" src="https://burlachenkok.github.io/images/blas_compare_speed_of_impl.png"/> </td></tr>
 </table>
 
 
