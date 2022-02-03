@@ -25,7 +25,7 @@ This is coincident with that Bjarne Stroustrup vision that he mentioned in 2017 
 
 *"People select the simplest thing to pick up, and it's Python...And then they are out of CPU power...I heard about biologists who run a 3-month run. It could be done in 10 minutes. And we know it because it was done when we can not wait for three months anymore.."*
 
-Speedup from that experiment that B.Stroustrup mentioned in 2017 after moving to C++ from Python is the following: 3\*30\*24\*60/10=12960.
+Speedup from that experiment that B.Stroustrup mentioned in 2017 after moving to C++ from Python is the following: 3\*30\*24\*60/10=**12960**.
 
 [Lecture 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec2.pdf) summarize John Bentley rules invented around 1990 for the current area 2018+. It contains suggestions for improving data structures, loops, logic, functions.
 
