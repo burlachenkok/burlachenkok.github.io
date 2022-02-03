@@ -26,8 +26,6 @@ This is coincident with that Bjarne Stroustrup have mentioned in 2017 [https://y
 "People select the simplest thing to pick up and it's Python..And then they are out of CPU power..I heard about biologists who run a 3-month run, it could be done in 10 minutes. And we know it because it was done when we can not wait for 3 months anymore.."
 Speedup from that experiment is the following: 3*30*24*60/10=12960.
 
-![6-172-performance-engineering-of-software-systems-fall-2018, L1](images/blas_compare_speed_of_impl.png "Perfomance improvement for BLAS")
-
 [Lecture 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec2.pdf) summarize John Bentley rules invented from 1990 for the current area. It contains suggestions for improving data structures, loops, logic, functions.
 
 [Lecture 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) present several specific Bit Haks tricks that sometimes allow eliminating branches in the code. Sometimes the compiler doesn’t optimize, and you have to do it yourself by hand.
