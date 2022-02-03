@@ -28,7 +28,7 @@ Speedup from that experiment that B.Stroustrup has mentioned in 2017 after movin
 
 [Lecture 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec2.pdf) summarize John Bentley rules invented from 1990 for the current area. It contains suggestions for improving data structures, loops, logic, functions.
 
-[Lecture 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) present several specific Bit Haks tricks that sometimes allow eliminating branches in the code. Sometimes the compiler doesn’t optimize, and you have to do it yourself by hand.
+[Lecture 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) present several specific Bit Haks tricks that sometimes allow eliminating branches in the code. Sometimes the compiler does not optimize, and you have to do it yourself by hand.
 
 [Lecture 4](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec4.pdf) and [Five lecture](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec5.pdf) present several things about how a computer works. And for people aware of System Programming and how the computer is working can skip that.
 
