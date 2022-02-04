@@ -37,7 +37,7 @@ Speedup from that experiment that B.Stroustrup mentioned in 2017 after moving to
 
 [Lecture 11](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec11.pdf) brings strategies for implementing heap allocation (Fixed-size allocation using free lists, Variable-sized allocation using binned free lists) and garbage collector(GC) with mark-and-sweap and stop-and-copy algorithms. Another important thing that the lecture introduces is that if your system has GC, it implies several pretty strong requirements for a language: (a) strong type systems; (b) complete absence of real pointers.
 
-Another lecture covers various topics such: as threads, caches, races. 
+Another lecture covers various topics such as: threads, caches, races, what compilers can and can not do. 
 
 [Lecture 18](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec18.pdf) was a guest talk from prof. [Saman Amarasinghe](https://people.csail.mit.edu/saman/). He gave a lecture where he covered a bit all systems that he co-developed with his peers:
 
