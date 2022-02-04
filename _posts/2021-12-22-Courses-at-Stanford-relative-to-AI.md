@@ -48,4 +48,5 @@ Last update: **22-DEC-2021**.
 | CS428 | Computation and Cognition: The Probabilistic Approach | -| - |
 | [MS&E314/CME336](https://web.stanford.edu/class/msande314/handout.shtml) | Conic Linear Optimization, Y.Ye | - | + |
 | [MATH301](https://candes.su.domains/teaching/math301/hand.html) | Advanced topics in covnex optimization, E.Candes | - | -|
+| [CS149](https://gfxcourses.stanford.edu/cs149/fall21) | Parallel Computing, K.Fatahalian, K.Olukotun | + | -|
 {:.mbtablestyle}
