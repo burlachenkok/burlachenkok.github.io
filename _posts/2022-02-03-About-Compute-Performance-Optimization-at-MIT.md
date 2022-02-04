@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Performance Engineering course at 6.172 at MIT
+title: Performance Engineering course 6.172 at MIT
 published: true
 ---
 
