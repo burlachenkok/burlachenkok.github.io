@@ -21,7 +21,7 @@ Another thing the lecture demonstrated that standard Python interpreter ([CPytho
 <tr><td> <img width="100%" src="https://burlachenkok.github.io/images/blas_compare_speed_of_impl.png"/> </td></tr>
 </table>
 
-This is coincident with that Bjarne Stroustrup vision that he mentioned in 2017 [https://youtu.be/fX2W3nNjJIo?t=558](https://youtu.be/fX2W3nNjJIo?t=558) at 09:20:
+This is coincident with Bjarne Stroustrup story that he shared in 2017 [https://youtu.be/fX2W3nNjJIo?t=558](https://youtu.be/fX2W3nNjJIo?t=558) at 09:20:
 
 *"People select the simplest thing to pick up, and it's Python...And then they are out of CPU power...I heard about biologists who run a 3-month run. It could be done in 10 minutes. And we know it because it was done when we can not wait for three months anymore.."*
 
