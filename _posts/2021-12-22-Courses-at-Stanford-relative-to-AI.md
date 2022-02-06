@@ -10,11 +10,13 @@ This is a post about systematizing catalog of course at Stanford relative to AI/
 
 [Stanford University](https://www.stanford.edu/) provides various courses regarding constructing and tackling different mathematical models that are collectively called AI these days. In that post, I would like to share the catalog of classes relative to AI at Stanford. The note is based on a recommendation of different professors vision from Stanford including Stephen Boyd, Percy Liang, Andrew Ng, Brad Osgood, John Duchi.
 
-Last update: **22-DEC-2021**.
+Last update: **06-FEB-2022**.
 
 | **Course Number**  | **Course Name**  | **Slides or Notes**  | **Videos**  |
 |---|---|---|---|
 | [CS231N](http://cs231n.stanford.edu/)  | Convolution Neural Nets  |  +  |   + |
+| [CS231M](https://web.stanford.edu/class/cs231m/)  | Mobile Computer Vision  |  +  |  - |
+| [CS231A](https://web.stanford.edu/class/cs231a/)  | Computer Vision, From 3D Reconstruction to Recognition |  +  |  - |
 | [CS230](http://cs230.stanford.edu/)  | Deep Learning, A.Ng  |  -  |   + |
 | [CS20SI](http://web.stanford.edu/class/cs20si/)  | Tensorflow for DL Research  |  -  |   + |
 | [STATS385](https://stats385.github.io/)  | Theories of Deep Learnig  |  +  |   + |
