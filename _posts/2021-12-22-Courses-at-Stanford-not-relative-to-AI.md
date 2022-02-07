@@ -13,6 +13,7 @@ Some of selected courses are listed below.
 
 | **Course Number**  | **Course Name**  | **Slides or Notes**  | **Videos**  |
 |---|---|---|---|
+| [EE261](https://see.stanford.edu/course/ee261) | EE261 The Fourier Transform and its Applications | + | + |
 | [CS148](https://web.stanford.edu/class/cs148/) | CS148 Introduction to Computer Graphics and Imaging | + | - |
 | [CS248](https://web.stanford.edu/class/cs248/) | CS248 Interactive Computer Graphics | + | - |
 | [CS348A](http://graphics.stanford.edu/courses/cs348a-21-winter/) | CS348A Computer Graphics Geometric Modeling Processing | + | - |
@@ -20,19 +21,18 @@ Some of selected courses are listed below.
 | [CS348B](http://graphics.stanford.edu/courses/cs348b-00/) | CS348B Image Synthesis | + | - |
 | [EE368](https://web.stanford.edu/class/ee368/) | EE368 Digital Image Processing | + | - |
 | [EE264](https://web.stanford.edu/class/ee264/) | EE264 Digital Signal Processing | + | - |
-| [CS205A](http://graphics.stanford.edu/courses/cs205a/) | CS205A Mathematical Methods for Robotics, Vision, and Graphics | + | - |
-| [CS255A](https://cs.stanford.edu/group/manips/teaching/cs225a/index.html) | CS225A Experimental Robotics| + | - |
 | [CS143](https://web.stanford.edu/class/cs143/) | CS143 Compilers class | + | - |
 | [AA2000](https://web.stanford.edu/~cantwell/AA200_Course_Material/) | AA200 Applied Aerodynamics | + | - |
 | [AA210](https://web.stanford.edu/~cantwell/AA210A_Course_Material/AA210A_Lectures/) | AA210A Fundamentals of Compressible Flow | + | - |
 | [AA242A](https://web.stanford.edu/class/me331a/) | AA242A Classical Dynamics | + | - |
 | [CME308](https://web.stanford.edu/class/cme308/) | CME308 Stochastic Methods in Engineering | + | - |
+| [CS205A](http://graphics.stanford.edu/courses/cs205a/) | CS205A Mathematical Methods for Robotics, Vision, and Graphics | + | - |
+| [CS223A](https://see.stanford.edu/course/cs223a) | CS223A Introduction to Robotics | + | + |
+| [CS255A](https://cs.stanford.edu/group/manips/teaching/cs225a/index.html) | CS225A Experimental Robotics| + | - |
 | [CS327A](http://cs.stanford.edu/groups/manips/teaching/cs327a/) | CS327A Advanced Robotic Manipulation | + | - |
 | [ENGR105](https://online.stanford.edu/courses/engr105-feedback-control-design) | ENGR105 Feedback Control Design | + | - |
 | [MS&E211](https://web.stanford.edu/class/msande310/) | MS&E310 Linear and Nonlinear Optimization | + | - |
 | [CME204](https://online.stanford.edu/courses/me300b-partial-differential-equations-engineering) | CME204 Partial Differential Equations in Engineering | + | - |
 | [CME302](https://online.stanford.edu/courses/cme302-numerical-linear-algebra) | CME302 Numerical Linear Algebra | + | - |
 | [CME304](https://web.stanford.edu/class/cme304/) | CME304 Numerical Optimization | + | - |
-| [EE261](https://see.stanford.edu/course/ee261) | EE261 The Fourier Transform and its Applications | + | + |
-| [CS223A](https://see.stanford.edu/course/cs223a) | CS223A Introduction to Robotics | + | + |
 {:.mbtablestyle}
