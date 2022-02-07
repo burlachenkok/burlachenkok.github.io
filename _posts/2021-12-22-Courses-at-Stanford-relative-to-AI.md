@@ -17,6 +17,7 @@ Last update: **06-FEB-2022**.
 | [CS231N](http://cs231n.stanford.edu/)  | Convolution Neural Nets  |  +  |   + |
 | [CS231M](https://web.stanford.edu/class/cs231m/)  | Mobile Computer Vision  |  +  |  - |
 | [CS231A](https://web.stanford.edu/class/cs231a/)  | Computer Vision, From 3D Reconstruction to Recognition |  +  |  - |
+| [CS231B](http://vision.stanford.edu/teaching/cs231b_spring1415/syllabus.html)  | CS231B: The Cutting Edge of Computer Vision |  +  |  - |
 | [CS230](http://cs230.stanford.edu/)  | Deep Learning, A.Ng  |  -  |   + |
 | [CS20SI](http://web.stanford.edu/class/cs20si/)  | Tensorflow for DL Research  |  -  |   + |
 | [STATS385](https://stats385.github.io/)  | Theories of Deep Learnig  |  +  |   + |
