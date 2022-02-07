@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Courses at Stanford relative to Not-AI
-published: false
+published: true
 ---
 
 This is a post about the catalog of courses at Stanford relative to creating various engineering systems.
@@ -10,8 +10,6 @@ This is a post about the catalog of courses at Stanford relative to creating var
 
 [Stanford University](https://www.stanford.edu/) provides various courses regarding constructing and tackling different mathematical models, that allow constructing engineering systems. 
 Some of selected courses are listed below.
-
-Last update: **07-FEB-2021**.
 
 | **Course Number**  | **Course Name**  | **Slides or Notes**  | **Videos**  |
 |---|---|---|---|
@@ -35,4 +33,6 @@ Last update: **07-FEB-2021**.
 | [CME204](https://online.stanford.edu/courses/me300b-partial-differential-equations-engineering) | CME204 Partial Differential Equations in Engineering | + | - |
 | [CME302](https://online.stanford.edu/courses/cme302-numerical-linear-algebra) | CME302 Numerical Linear Algebra | + | - |
 | [CME304](https://web.stanford.edu/class/cme304/) | CME304 Numerical Optimization | + | - |
+| [EE261](https://see.stanford.edu/course/ee261) | EE261 The Fourier Transform and its Applications | + | + |
+| [CS223A](https://see.stanford.edu/course/cs223a) | CS223A Introduction to Robotics | + | + |
 {:.mbtablestyle}
