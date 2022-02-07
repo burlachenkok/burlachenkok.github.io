@@ -9,7 +9,7 @@ This is a post about the catalog of courses at Stanford relative to creating var
 ---
 
 [Stanford University](https://www.stanford.edu/) provides various courses regarding constructing and tackling different mathematical models, that allow constructing engineering systems. 
-Some of selected courses are listed below.
+Some of the selected courses are listed below.
 
 | **Course Number**  | **Course Name**  | **Slides or Notes**  | **Videos**  |
 |---|---|---|---|
