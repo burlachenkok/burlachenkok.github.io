@@ -10,7 +10,7 @@ This is a post about the catalog of courses at Stanford relative to creating var
 
 [Stanford University](https://www.stanford.edu/) provides various courses regarding constructing and tackling different mathematical models for constructing engineering systems. Some of them with personal bias are listed below. They do not have AI prefix or suffix in it.
 
-Nevertheless, it's upgradable to Machine Learning with one (not easy) step: You localize heuristic and replace it with ML data-driven approach. You can do this if the methodology is not rigorous. In fact, people do even if the methodology is rigorous, but computation is enormous, and there other reasons.
+Nevertheless, it's upgradable to basic Machine Learning with one (not easy) step: You localize heuristic and replace it with ML data-driven approach. You can do this if the methodology is not rigorous. In fact, people do it even if the methodology is rigorous, but computation is enormous, and there other reasons.
 
 | **Course Number**  | **Course Name**  | **Slides or Notes**  | **Videos**  |
 |---|---|---|---|
