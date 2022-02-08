@@ -12,7 +12,7 @@ Our paper ["Faster rates for compressed federated learning with client-variance 
 
 We provide rigorous theory and a rich amount of practical experiments to highlight the benefits of our methods. In terms of practice, we are providing comparisons of several state-of-the-art optimization Federated Learning (FL) algorithms with theoretical and tunable parameters that control the behavior of optimization algorithms.
 
-The provided experiments include non-convex binary classification with convex and nonconvex logistic regression and Image classification ResNet-18@CIFAR10.
+The provided experiments include non-convex binary classification with convex and nonconvex logistic regression and image classifier ResNet-18@CIFAR10.
 
 Our [COFIG](https://arxiv.org/abs/2112.13097) algorithm has demonstrated in honest comparison excellent results.
 
