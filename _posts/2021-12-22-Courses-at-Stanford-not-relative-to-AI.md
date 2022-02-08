@@ -36,11 +36,11 @@ This is a post about the catalog of courses at Stanford relative to creating var
 | [CME304](https://web.stanford.edu/class/cme304/) | CME304 Numerical Optimization | + | - |
 {:.mbtablestyle}
 
-*p.s.*
-There is a vision of John C. Duchi that he has shared in Simons Institute during [Statistical Theory, Privacy and Data Analysis](https://youtu.be/GJXiYzi8KRc?t=591) at 09:51 that in fact, AI underpins a lot of things.
+***p.s.***
+There is a vision of prof. [John C. Duchi](https://web.stanford.edu/~jduchi/) that he has shared in [Simons Institute](https://simons.berkeley.edu/) during [Statistical Theory, Privacy and Data Analysis](https://youtu.be/GJXiYzi8KRc?t=591) at 09:51 that in fact, AI underpins a lot of things.
 And people in Academia at least at the level of John C. Duchi can not state "AI is everything and it solves everything".
 
-In any case, I hope the catalog below will be useful for people who do science and engineering. For example "EE261" is an essential core for understanding and creating devices and approaches in:
+In any case, I hope the catalog below will be useful for people who do science and engineering. For example [EE261](https://see.stanford.edu/course/ee261) is an essential core for understanding and creating devices and approaches in:
 
 * Digital Signal Processing
 * Digital Filters
