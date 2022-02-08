@@ -8,7 +8,9 @@ This is a post about the catalog of courses at Stanford relative to creating var
 
 ---
 
-[Stanford University](https://www.stanford.edu/) provides various courses regarding constructing and tackling different mathematical models for constructing engineering systems. Some of the selected courses with personal bias are listed below. They do not have AI prefix or suffix in it. But it's upgradable to Machine Learning with two steps: You localize some heuristics, you replace with ML approach some heursitc if methodology is nor rigirous.
+[Stanford University](https://www.stanford.edu/) provides various courses regarding constructing and tackling different mathematical models for constructing engineering systems. Some of the selected courses with personal bias are listed below. They do not have AI prefix or suffix in it. 
+
+Nevertheless, it's upgradable to Machine Learning with one (not easy) step: You localize some heuristics and replace them with ML data-driven approach that heuristic (if the methodology is not rigorous, or even maybe even if it is rigorous).
 
 | **Course Number**  | **Course Name**  | **Slides or Notes**  | **Videos**  |
 |---|---|---|---|
