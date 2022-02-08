@@ -12,7 +12,7 @@ Our paper ["Faster rates for compressed federated learning with client-variance 
 
 I was glad to work with my peers [Haoyu Zhao](https://hyzhao.me/) from [Princeton University](https://www.princeton.edu/), [Zhize Li](https://zhizeli.github.io/), and prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/).
 
-We provide a rigorous theory for settings mentioned in the paper and a rich amount of carried practical experiments. We have carried out theoretical and practical comparisons of several state-of-the-art optimization for Federated Learning (FL) settings.
+We provide rigorous theory and a rich amount of practical experiments to highlight the benefits of our methods. In terms of practice, we are providing comparisons of several state-of-the-art optimization Federated Learning (FL) algorithms with theoretical and tunable parameters that control the behavior of optimization algorithms.
 
 The provided experiments include non-convex binary classification with convex and nonconvex logistic regression and Image classification ResNet-18@CIFAR10.
 
