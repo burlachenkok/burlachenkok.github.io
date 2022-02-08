@@ -11,7 +11,7 @@ The new paper ["Faster rates for compressed federated learning with client-varia
 Our paper ["Faster rates for compressed federated learning with client-variance reduction"](https://arxiv.org/abs/2112.13097) has been out.
 
 
-I was glad to work with [Haoyu Zhao](https://hyzhao.me/) from Princeton University and [Zhize Li](https://zhizeli.github.io/), prof. [Peter Richtarik](https://richtarik.org/) from King Abdullah University of Science and Technology.
+I was glad to work with my peers [Haoyu Zhao](https://hyzhao.me/) from [Princeton University](https://www.princeton.edu/), [Zhize Li](https://zhizeli.github.io/), and prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/).
 
 We provide rigorous theory and a rich amount of carried practical experiments. In terms of the last aspect, we are providing comparisons of several state-of-the-art optimization FL algorithms.
 
