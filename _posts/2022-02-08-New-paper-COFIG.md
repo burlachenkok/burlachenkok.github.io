@@ -19,4 +19,4 @@ The provided experiments include non-convex binary classification with convex an
 
 Our [COFIG](https://arxiv.org/abs/2112.13097) algorithm has demonstrated in honest comparison excellent results.
 
-The experimental part for that paper has been done in an advanced research simulator for Federated Learning called [FL_PyTorch](https://dl.acm.org/doi/10.1145/3488659.3493775)
+The experimental part for that paper has been done in an advanced research simulator for Federated Learning called [FL_PyTorch](https://dl.acm.org/doi/10.1145/3488659.3493775) that is currently in process of Alpha testing.
