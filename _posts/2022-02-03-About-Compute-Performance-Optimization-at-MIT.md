@@ -56,8 +56,12 @@ During the lecture prof. Saman Amarasinghe has mentioned that:
 Another exciting guest lecture was [Lecture 21](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec21.pdf) with [Jon Bentley](https://en.wikipedia.org/wiki/Jon_Bentley_(computer_scientist)), who during being [D.Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) student invented KD-trees.
 In his talk [https://www.youtube.com/watch?v=SS5KfIFzfEE](https://www.youtube.com/watch?v=SS5KfIFzfEE), Jon Bentley showed how to make not-empirical [Travel Salesman Problem(TSP)](https://en.wikipedia.org/wiki/Travelling_salesman_problem) workable (typically for) in 40-50 cities, where distance is Euclidian distance in the 2D plane with using various pruning and software optimization tricks.
 
-
-
 # Conclusion.
 
 What makes this material pretty unique is that there are real examples of how to improve real algorithms. Unfortunately, many books on such a level of granularity in computing systems do not provide any examples completely.  
+
+# Reference to Python.
+
+In 2022 Python has gained big popularity. If you for some reason develop a strong system in Python and you want to gain knowledge beyond the root and great book created by Guido van Rossum [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/) - the materials from one Python enthusiast, David Beazley, can be extremely useful for you: 
+* [https://www.dabeaz.com/talks.html](https://www.dabeaz.com/talks.html)
+* [https://www.dabeaz.com/tutorials.html](https://www.dabeaz.com/tutorials.html)
