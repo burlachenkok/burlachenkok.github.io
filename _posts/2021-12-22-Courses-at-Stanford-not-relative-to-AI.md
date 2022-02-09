@@ -47,5 +47,5 @@ In any case, I hope the catalog below will be useful for people who do science a
 * Digital Signal Processing
 * Digital Filters
 * Compressed Sensing
-* Music Composition
+* Music Composition. Catalog of courses relative to Music at Stanford [https://ccrma.stanford.edu/courses](https://ccrma.stanford.edu/courses)
 * Medical Images
