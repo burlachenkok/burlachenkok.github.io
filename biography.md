@@ -12,9 +12,10 @@ Konstantin’s current research focus is on Distributed Stochastic Optimization 
 
 In breadth sense areas of his interests covers:
 
+* Math Optimization
 * Scientific Software Development
-* Computer Graphics and Computer Vision
-* Machine Learning and AI in general
+* Machine Learning and Fundamental principles of AI
+* Computer Graphics, Computer Vision
 
 ---
 
