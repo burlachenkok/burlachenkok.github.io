@@ -10,12 +10,11 @@ He obtained an M.S. degree in Computer Science and Control Systems from the [Bau
 After his graduation, he worked at a number of companies, most recently as a Senior Developer at [Yandex](https://en.wikipedia.org/wiki/Yandex) and [NVIDIA](https://developer.nvidia.com/) and a Principal Engineer at [HUAWEI](https://huawei.ru/).
 Konstantin’s current research focus is on Distributed Stochastic Optimization and Federated Learning.
 
-In breadth sense areas of his interests covers:
+Extra areas of his interests covers:
 
-* Math Optimization
 * Scientific Software Development
 * Machine Learning and Fundamental principles of AI
-* Computer Graphics, Computer Vision
+* Computer Graphics, Computer Vision and Physics simulation
 
 ---
 
