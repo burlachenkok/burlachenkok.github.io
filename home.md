@@ -13,7 +13,7 @@ th, td {
 </style>
 
 My name is Konstantin Burlachenko and I am a CS Ph.D. student and member of Professor [Peter Richtárik's Optimization and Machine Learning Lab](https://richtarik.org/) 
-in the [CEMSE Division at King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/).
+in the [Computer, Electrical, Mathematical Sciences and Engineering (CEMSE) Division at King Abdullah University of Science and Technology (KAUST)](https://cemse.kaust.edu.sa/).
 
 ---
 
