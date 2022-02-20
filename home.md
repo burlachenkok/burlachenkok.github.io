@@ -19,7 +19,7 @@ in the [Computer, Electrical, Mathematical Sciences and Engineering (CEMSE) Divi
 
 ## Contact information
 
---- | --- |
-Email      | [konstantin.burlachenko@kaust.edu.sa](mailto:konstantin.burlachenko@kaust.edu.sa) |
-Home page      | [https://burlachenkok.github.io/](https://burlachenkok.github.io/) |
-Skype      | bruziuz |
+--- |
+[konstantin.burlachenko@kaust.edu.sa](mailto:konstantin.burlachenko@kaust.edu.sa) |
+[https://burlachenkok.github.io/](https://burlachenkok.github.io/) |
+Skype id: bruziuz |
