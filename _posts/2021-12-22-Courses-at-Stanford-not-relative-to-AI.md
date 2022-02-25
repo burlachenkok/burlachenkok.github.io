@@ -36,6 +36,9 @@ Nevertheless, it's upgradable to basic Machine Learning with one (not easy) step
 | [CME204](https://online.stanford.edu/courses/me300b-partial-differential-equations-engineering) | CME204 Partial Differential Equations in Engineering | + | - |
 | [CME302](https://online.stanford.edu/courses/cme302-numerical-linear-algebra) | CME302 Numerical Linear Algebra | + | - |
 | [CME304](https://web.stanford.edu/class/cme304/) | CME304 Numerical Optimization | + | - |
+| [CS245](https://web.stanford.edu/class/cs245/) | CS245 Principles of Data-Intensive Systems | + | - |
+| [Link](https://online.stanford.edu/courses/soe-ydatabases-databases) | Introduction to Databases | + | - |
+
 {:.mbtablestyle}
 
 ***p.s.***
