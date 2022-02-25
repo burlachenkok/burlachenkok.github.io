@@ -39,6 +39,7 @@ Nevertheless, it's upgradable to basic Machine Learning with one (not easy) step
 | [CS245](https://web.stanford.edu/class/cs245/) | CS245 Principles of Data-Intensive Systems | + | - |
 | [Link](https://online.stanford.edu/courses/soe-ydatabases-databases) | Introduction to Databases | + | - |
 
+
 {:.mbtablestyle}
 
 ***p.s.***
