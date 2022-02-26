@@ -45,7 +45,7 @@ Last update: **06-FEB-2022**.
 | [AA228](https://web.stanford.edu/class/aa228/cgi-bin/wp/) | Decision Making Under Uncertainty | -  |   - |
 | [CS348I](http://cs348i.stanford.edu/) | Computer Graphics in the Era of AI | - | - |
 | [CS223A](https://cs.stanford.edu/groups/manips/teaching/cs223a/) | Introduction to Robotics, O.Khatib | + | + |
-| [AA203](https://stanfordasl.github.io/aa203/) | ptimal and Learning-Based Control, M.Pavone | + | - |
+| [AA203](https://stanfordasl.github.io/aa203/) | Optimal and Learning-Based Control, M.Pavone | + | - |
 | [AA274A](https://stanfordasl.github.io/aa274a/) | Principles of Robotic Autonomy I, M.Pavone | + | - |
 | [AA274B](http://web.stanford.edu/class/cs237b/) | Principles of Robotic Autonomy II, M.Pavone | + | - |
 | CS428 | Computation and Cognition: The Probabilistic Approach | -| - |
