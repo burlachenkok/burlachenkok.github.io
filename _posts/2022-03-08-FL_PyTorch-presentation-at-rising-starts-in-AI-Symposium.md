@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FL_PyTorch at Rising Stars in [AI Symposium 2022](https://cemse.kaust.edu.sa/ai/aii-symp-2022)
+title: FL_PyTorch at Rising Stars in AI Symposium 2022
 published: true
 ---
 
