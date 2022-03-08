@@ -4,11 +4,11 @@ title: FL_PyTorch at Rising Stars in [https://cemse.kaust.edu.sa/ai/aii-symp-202
 published: true
 ---
 
-**«FL_PyTorch: Optimization Research Simulator for Federated Learning»** will be presented in Rising Stars in AI Symposium 2022.
+**Â«FL_PyTorch: Optimization Research Simulator for Federated LearningÂ»** will be presented in Rising Stars in AI Symposium 2022.
 
 ---
 
-Our work **«FL_PyTorch: Optimization Research Simulator for Federated Learning»** [https://dl.acm.org/doi/abs/10.1145/3488659.3493775](https://dl.acm.org/doi/abs/10.1145/3488659.3493775), [https://arxiv.org/abs/2202.03099](https://arxiv.org/abs/2202.03099) will be presented at [Rising Stars in AI Symposium 2022](https://cemse.kaust.edu.sa/ai/aii-symp-2022).
+Our work **Â«FL_PyTorch: Optimization Research Simulator for Federated LearningÂ»** [https://dl.acm.org/doi/abs/10.1145/3488659.3493775](https://dl.acm.org/doi/abs/10.1145/3488659.3493775), [https://arxiv.org/abs/2202.03099](https://arxiv.org/abs/2202.03099) will be presented at [Rising Stars in AI Symposium 2022](https://cemse.kaust.edu.sa/ai/aii-symp-2022).
 The symposium will be held in [KAUST](https://cemse.kaust.edu.sa/) with (limited) in-person attendance.
 
 The current planned place at 08-MARCH-2022 is Auditorium 0215, between Building 4 and 5. The agenda is available on the event's website: [https://cemse.kaust.edu.sa/ai/aii-symp-2022](https://cemse.kaust.edu.sa/ai/aii-symp-2022).

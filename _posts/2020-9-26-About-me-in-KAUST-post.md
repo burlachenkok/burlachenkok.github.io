@@ -4,7 +4,7 @@ title: My story
 published: true
 ---
 
-I hold a master’s degree in computer science from Bauman Moscow State Technical University (BMSTU), Russia. 
+I hold a masterâ€™s degree in computer science from Bauman Moscow State Technical University (BMSTU), Russia. 
 After graduating from BMSTU, I worked in several prominent Moscow companies, such as Huawei, NVIDIA, and Yandex. 
                                                                                                                   
 After spending time in industry I have backed into academia.
