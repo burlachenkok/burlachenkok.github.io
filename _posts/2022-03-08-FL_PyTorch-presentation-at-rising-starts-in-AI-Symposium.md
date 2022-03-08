@@ -1,10 +1,10 @@
 ---
 layout: post
-title: FL_PyTorch at Rising Stars in [https://cemse.kaust.edu.sa/ai/aii-symp-2022](AI Symposium 2022)
+title: FL_PyTorch at Rising Stars in [AI Symposium 2022](https://cemse.kaust.edu.sa/ai/aii-symp-2022)
 published: true
 ---
 
-**«FL_PyTorch: Optimization Research Simulator for Federated Learning»** will be presented in Rising Stars in AI Symposium 2022.
+**«FL_PyTorch: Optimization Research Simulator for Federated Learning»** will be presented in Rising Stars in [AI Symposium 2022](https://cemse.kaust.edu.sa/ai/aii-symp-2022).
 
 ---
 
