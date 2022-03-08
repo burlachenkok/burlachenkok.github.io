@@ -16,3 +16,10 @@ The current planned place at 08-MARCH-2022 is Auditorium 0215, between Building 
 ***About event.*** The "Rising Stars in AI Symposium" is geared towards young researchers (including Ph.D. students, PostDocs, and young faculty) who have recently published promising work at leading AI venues. There will be dozens of brief in-person presentations about papers recently accepted at major AI conferences such as NeurIPS, CVPR, EMNLP, ACL, ICML, ICLR, etc.
 
 ---
+
+<table>
+<tr>
+<td> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
+<td> <img height="100px" src="https://burlachenkok.github.io/materials/kaust_ai_symposium_2022.jpg"/> </td> 
+</tr>
+</table>
