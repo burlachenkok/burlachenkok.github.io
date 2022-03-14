@@ -23,8 +23,8 @@ Last update: **06-FEB-2022**.
 | [STATS385](https://stats385.github.io/)  | Theories of Deep Learnig  |  +  |   + |
 | [CS224N](https://web.stanford.edu/class/cs224n/index.html)  | Natural Language Processing with Deep Learning, C.Manning | +  |   + |
 | [CS224U](https://web.stanford.edu/class/cs224u/index.html)  | Natural Language Understanding  | - |   + |
+| [CS324](https://stanford-cs324.github.io/winter2022/)  | Large Language Models | - |   + |
 | [CS224V](https://web.stanford.edu/class/cs224v/schedule.html) | Conversational Virtual Assistants with Deep Learning | + |  -  |
-| CS324 | Understanding and Developing Large Language Models | -  | - |
 | [CS331B](http://web.stanford.edu/class/cs331b/schedule.html)  | Representation Learning in Computer Vision, S.Savarese  | - |   + |
 | [CS236](https://deepgenerativemodels.github.io/syllabus.html)  | Deep Generative Models  |  -  |   + |
 | [CS330](https://cs330.stanford.edu/)  | Deep Multi-Task and Meta Learning, C.Finn  |  +  |   + |
