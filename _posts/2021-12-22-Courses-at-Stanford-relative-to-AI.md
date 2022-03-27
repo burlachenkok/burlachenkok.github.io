@@ -14,6 +14,7 @@ Last update: **06-FEB-2022**.
 
 | **Course Number**  | **Course Name**  | **Slides or Notes**  | **Videos**  |
 |---|---|---|---|
+| [CS217](https://cs217.stanford.edu/)  | Hardware Accelerators for Machine Learning |  +  |  - |
 | [CS231N](http://cs231n.stanford.edu/)  | Convolution Neural Nets  |  +  |   + |
 | [CS231M](https://web.stanford.edu/class/cs231m/)  | Mobile Computer Vision  |  +  |  - |
 | [CS231A](https://web.stanford.edu/class/cs231a/)  | Computer Vision, From 3D Reconstruction to Recognition |  +  |  - |
