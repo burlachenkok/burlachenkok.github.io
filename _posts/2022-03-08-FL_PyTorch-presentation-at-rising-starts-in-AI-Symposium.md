@@ -20,7 +20,8 @@ The symposium will be held in [KAUST](https://cemse.kaust.edu.sa/) with (limited
 
 *The "Rising Stars in AI Symposium" is geared towards young researchers (including Ph.D. students, PostDocs, and young faculty) who have recently published promising work at leading AI venues. There will be dozens of brief in-person presentations about papers recently accepted at major AI conferences such as NeurIPS, CVPR, EMNLP, ACL, ICML, ICLR, etc.*
 
-**The video of my talk is available here**:
+The video of my talk is available here:
+
 [https://webcast.kaust.edu.sa/Mediasite/Showcase/default/Presentation/600c852bedf94c8298f92d8c1703f8521d](https://webcast.kaust.edu.sa/Mediasite/Showcase/default/Presentation/600c852bedf94c8298f92d8c1703f8521d)
 
 
