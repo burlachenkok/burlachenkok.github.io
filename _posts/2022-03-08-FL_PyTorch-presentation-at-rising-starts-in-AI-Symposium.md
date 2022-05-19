@@ -8,7 +8,11 @@ published: true
 
 ---
 
-Our work **"FL_PyTorch: Optimization Research Simulator for Federated Learning"** will be presented at [Rising Stars in AI Symposium 2022](https://cemse.kaust.edu.sa/ai/aii-symp-2022). References from the web to the work:
+Our work **"FL_PyTorch: Optimization Research Simulator for Federated Learning"** will be presented at [Rising Stars in AI Symposium 2022](https://cemse.kaust.edu.sa/ai/aii-symp-2022). 
+
+This event is organized by [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai), led by [Jürgen Schmidhuber](https://cemse.kaust.edu.sa/ai/people/person/jurgen-schmidhuber). 
+
+References from the web to the work:
 
 * [https://dl.acm.org/doi/abs/10.1145/3488659.3493775](https://dl.acm.org/doi/abs/10.1145/3488659.3493775)
 * [https://arxiv.org/abs/2202.03099](https://arxiv.org/abs/2202.03099) 
