@@ -41,7 +41,7 @@ Last update: **27-MAR-2022**.
 | [CS205A](http://graphics.stanford.edu/courses/cs205a/)  | Math methods for robotics, vision, graphics, D.James |  -  |   + |
 | [EE263](http://ee263.stanford.edu/)  | Introduction to linear dynamic systems, S.Boyd  |  +  |   + |
 | [EE364A](https://stanford.edu/class/ee364a/)  | Convex Optimization I, S.Boyd  |  +  |   + |
-| [EE364B](https://stanford.edu/class/ee364b/)  | Convex Optimization I, D.Boyd  |  +  |   + |
+| [EE364B](https://stanford.edu/class/ee364b/)  | Convex Optimization II, S.Boyd  |  +  |   + |
 | [CS329D](https://thashim.github.io/cs329D/schedule/) | Machine Learning Under Distribution Shifts | -  |   - |
 | [AA228](https://web.stanford.edu/class/aa228/cgi-bin/wp/) | Decision Making Under Uncertainty | -  |   - |
 | [CS348I](http://cs348i.stanford.edu/) | Computer Graphics in the Era of AI | - | - |
