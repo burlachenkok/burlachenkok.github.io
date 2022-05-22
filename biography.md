@@ -18,7 +18,7 @@ Extra areas of his interests covers:
 
 ---
 
-Konstantin attended in Non-Degree Opportunity program at [Leland Stanford Jr. University](https://www.stanford.edu/) and obtained two graduate certificates:
+Konstantin attended in Non-Degree Opportunity program at [Leland Stanford Jr. University](https://www.stanford.edu/) between 2015 and 2019 and obtained two graduate certificates:
 
 * [Data, Models and Optimization Graduate Certificate](https://online.stanford.edu/programs/data-models-and-optimization-graduate-certificate)
 * [Artificial Intelligence Graduate Certificate](https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate)
