@@ -23,6 +23,7 @@ Nevertheless, it's upgradable to basic Machine Learning with one (not easy) step
 | [EE368](https://web.stanford.edu/class/ee368/) | EE368 Digital Image Processing | + | - |
 | [EE264](https://web.stanford.edu/class/ee264/) | EE264 Digital Signal Processing | + | - |
 | [CS143](https://web.stanford.edu/class/cs143/) | CS143 Compilers class | + | - |
+| [CS243](https://suif.stanford.edu/~courses/cs243/) | CS243 Advanced Compilers class / CS243: Program Analysis and Optimization | + | - |
 | [AA2000](https://web.stanford.edu/~cantwell/AA200_Course_Material/) | AA200 Applied Aerodynamics | + | - |
 | [AA210](https://web.stanford.edu/~cantwell/AA210A_Course_Material/AA210A_Lectures/) | AA210A Fundamentals of Compressible Flow | + | - |
 | [AA242A](https://web.stanford.edu/class/me331a/) | AA242A Classical Dynamics | + | - |
