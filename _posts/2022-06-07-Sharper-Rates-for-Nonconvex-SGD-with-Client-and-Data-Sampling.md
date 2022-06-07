@@ -11,7 +11,7 @@ The new paper [Sharper Rates and Flexible Framework for Nonconvex SGD with Clien
 I was glad to work on it with my peers [Alexander Tyurin](https://k3nfalt.github.io/), [Lukang Sun](https://lukangsun.github.io/), and prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) on the paper **"Sharper Rates and Flexible Framework for Nonconvex SGD with Client and Data Sampling"**.
 The arXiv link for the paper: [https://arxiv.org/abs/2206.02275](https://arxiv.org/abs/2206.02275).
 
-During numerical experiments for that paper, we heavily exploited an advanced research simulator for Federated Learning called **FL_PyTorch**:
+During numerical experiments for that paper, we heavily exploited **FL_PyTorch** -- an advanced research simulator for Federated Learning:
 
 * [https://dl.acm.org/doi/10.1145/3488659.3493775](https://dl.acm.org/doi/10.1145/3488659.3493775)
 * [FL_PyTorch presentation at rising starts in AI Symposium](https://burlachenkok.github.io/FL_PyTorch-presentation-at-rising-starts-in-AI-Symposium/) 
