@@ -36,7 +36,7 @@ In summary, we provide the most general and most accurate analysis of optimal SG
 
 <table>
 <tr>
-<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
+<td style="padding: 15px; text-align:center; vertical-align:middle"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
 </tr>
 </table>
 
