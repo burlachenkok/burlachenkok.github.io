@@ -19,7 +19,7 @@ During numerical experiments for that paper, we heavily exploited an advanced re
 
 We revisit the classical problem of finding an approximately stationary point of the average of n smooth and possibly nonconvex functions.
  
-The optimal complexity of stochastic first-order methods in terms of the number of gradient evaluations of individual functions is ($$\mathcal{O}(n + \sqrt{n}/\varepsilon)$$), attained by the optimal SGD methods <span style="color:rgb(74,126,104)">SPIDER</span> [[Fang et al, NeurIPS 2018](https://arxiv.org/abs/1807.01695)] and <span style="color:rgb(74,126,104)">PAGE</span> [[Zhize et al, ICML 2021](https://arxiv.org/abs/2008.10898)], for example, where ε is the error tolerance. 
+The optimal complexity of stochastic first-order methods in terms of the number of gradient evaluations of individual functions is ($$\mathcal{O}(n + \sqrt{n}/\varepsilon)$$), attained by the optimal SGD methods <span style="color:rgb(74,126,104)">SPIDER</span> [[Fang et al, NeurIPS 2018](https://arxiv.org/abs/1807.01695)] and <span style="color:rgb(74,126,104)">PAGE</span> [[Zhize et al, ICML 2021](https://arxiv.org/abs/2008.10898)], for example, where $$\varepsilon$$ is the error tolerance. 
 
 However, i) the big-O notation hides crucial dependencies on the smoothness constants associated with the functions, and ii) the rates and theory in these methods assume simplistic sampling mechanisms that do not offer any flexibility. In this work we remedy the situation. 
 
@@ -31,3 +31,12 @@ Second, our analysis is sharper as we make explicit use of certain novel inequal
 Indeed, our analysis is better even for the simple sampling procedure analyzed in the <span style="color:rgb(74,126,104)">PAGE</span> paper. However, this already improved bound can be further sharpened by a different sampling scheme which we propose. 
 
 In summary, we provide the most general and most accurate analysis of optimal SGD in the smooth nonconvex regime. Finally, our theoretical findings are supposed with carefully designed experiments.
+
+---
+
+<table>
+<tr>
+<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
+</tr>
+</table>
+
