@@ -18,7 +18,7 @@ During carry a big number of experiments for that paper we heavily exploits an a
 # Abstract
 
 We revisit the classical problem of finding an approximately stationary point of the average of n smooth and possibly nonconvex functions. 
-The optimal complexity of stochastic first-order methods in terms of the number of gradient evaluations of individual functions is O(n+√n/ε), attained by the optimal SGD methods <span style="color:rgb(74,126,104)">SPIDER</span> [Fang et al, NeurIPS 2018] and <span style="color:rgb(74,126,104)">PAGE</span> [Zhize et al, ICML 2021], for example, where ε is the error tolerance. 
+The optimal complexity of stochastic first-order methods in terms of the number of gradient evaluations of individual functions is ($$\mathcal{O}(n + \sqrt{n}/\varepsilon)$$), attained by the optimal SGD methods <span style="color:rgb(74,126,104)">SPIDER</span> [Fang et al, NeurIPS 2018] and <span style="color:rgb(74,126,104)">PAGE</span> [Zhize et al, ICML 2021], for example, where ε is the error tolerance. 
 However, 
 
 i) the big-O notation hides crucial dependencies on the smoothness constants associated with the functions, and 
