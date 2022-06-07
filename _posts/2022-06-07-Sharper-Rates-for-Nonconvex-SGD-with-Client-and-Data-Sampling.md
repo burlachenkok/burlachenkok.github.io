@@ -13,7 +13,7 @@ I was glad to work on it with my peers [Alexander Tyurin](https://k3nfalt.github
 During numerical experiments for that paper, we heavily exploited an advanced research simulator for Federated Learning called **FL_PyTorch**:
 
 * [https://dl.acm.org/doi/10.1145/3488659.3493775](https://dl.acm.org/doi/10.1145/3488659.3493775)
-* [https://burlachenkok.github.io/FL_PyTorch-presentation-at-rising-starts-in-AI-Symposium/](https://burlachenkok.github.io/FL_PyTorch-presentation-at-rising-starts-in-AI-Symposium/) 
+* [FL_PyTorch presentation at rising starts in AI Symposium](https://burlachenkok.github.io/FL_PyTorch-presentation-at-rising-starts-in-AI-Symposium/) 
 
 # Abstract
 
