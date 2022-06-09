@@ -13,7 +13,7 @@ The new paper: <span style="color:rgb(228,26,28)">"MARINA: Faster Non-Convex Dis
 
 <!-- https://colorbrewer2.org/#type=qualitative&scheme=Set1&n=9 -->
 
-# Reference to Arxiv
+# The arXiv link for the paper
 
 [https://arxiv.org/abs/2102.07845](https://arxiv.org/abs/2102.07845)
 
