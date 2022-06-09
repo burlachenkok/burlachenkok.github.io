@@ -1,10 +1,10 @@
 ---
 layout: post
-title: About my old website on one page
+title: About my old homepage
 published: true
 ---
 
-I used my another homepage from 2011 to 2020. The link to it is [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/).
+I used another homepage from 2011 to 2020. The link to it is [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/).
 
 My old webpage contains 151 random notes on various subjects during my career as a Computer Science Software/Senior/Team Leader/Principal Engineer. I always had a mentality for learning and teaching and trying and being critical of myself irrespectively of my job title.
 
