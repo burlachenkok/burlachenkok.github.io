@@ -5,7 +5,7 @@ published: true
 ---
 
 <!--<p style="text-align: center;">--> 
-Poster for <a href="https://arxiv.org/abs/2102.07845">MARINA Paper</a>  presented at <a href="https://sites.google.com/ucsd.edu/cedo/posters">Poster session during Efficient Distributed Optimization workshop</a>
+Poster for <a href="https://arxiv.org/abs/2102.07845">MARINA Paper</a>  presented at <a href="https://sites.google.com/ucsd.edu/cedo/posters">Poster session during Efficient Distributed Optimization workshop</a>.
 <!--</p>-->
 
 
