@@ -4,7 +4,7 @@ title: About my old website on one page
 published: true
 ---
 
-I used my old homepage from 2011 to 2020 [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/).
+I used my another homepage from 2011 to 2020. The link to it is [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/).
 
 My old webpage contains 151 random notes on various subjects during my career as a Computer Science Software/Senior/Team Leader/Principal Engineer. I always had a mentality for learning and teaching and trying and being critical of myself irrespectively of my job title.
 
@@ -13,8 +13,8 @@ Below are some topics in which subject I have created public personal notes:
 ## The notes are based on reading classical math books and classical papers in Computer Vision
 
 * Notes about the book of A.N.Kolomogorov, S.V.Fomin - Introductionary Real Analysis
-* Notes about the book of Amir Beck, First-Order Methods in optimization, 2017. That note has been shared with prof. Amir Beck.
-* Notes about EE263, EE364A, and EE364B courses at Leland Stanford Jr. University from prof. Stephen P. Boyd. That notes have been shared with prof. Stephen P. Boyd.
+* Notes about the book of Amir Beck, First-Order Methods in optimization, 2017. That notes has been shared with prof. Amir Beck.
+* Notes about EE263, EE364A, and EE364B courses at Leland Stanford Jr. University from prof. Stephen P. Boyd. That notes has been shared with prof. Stephen P. Boyd.
 * Overview of some papers in Deep Learning for Image tasks
 
 
