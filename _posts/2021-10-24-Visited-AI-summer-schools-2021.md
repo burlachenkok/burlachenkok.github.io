@@ -4,7 +4,7 @@ title: The visited AI summer schools during summer, 2021
 published: true
 ---
 
-Several engaging summer schools I have a chance to attend during the summer of 2021.
+Several engaging summer schools that I have a chance to attend during the summer of 2021.
 
 ---
 
