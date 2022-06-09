@@ -4,7 +4,7 @@ title:  Faster Non-Convex Distributed Learning with Compression
 published: true
 ---
 
-This is a post about this paper: [https://arxiv.org/abs/2102.07845](https://arxiv.org/abs/2102.07845)
+Post about the paper [https://arxiv.org/abs/2102.07845](https://arxiv.org/abs/2102.07845)
 
 ---
 # About paper
@@ -35,5 +35,5 @@ Further, we develop and analyze two variants of MARINA: VR-MARINA and PP-MARINA.
 The first method is designed for the case when the local loss functions owned by clients are either of a finite sum or an expectation form, 
 and the second method allows for partial participation of clients – a feature important in federated learning. 
 
-All our methods are superior to previous state-of-the-art methods in terms of the oracle/communication complexity. Finally, we provide convergence analysis of all methods for problems satisfying the Polyak-Lojasiewicz condition.
+All our methods are superior to previous state-of-the-art methods in terms of the oracle/communication complexity. Finally, we provide a convergence analysis of all methods for problems satisfying the Polyak-Lojasiewicz condition.
 
