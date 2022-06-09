@@ -4,7 +4,7 @@ title: Fall 2021 Differential Privacy and Efficient DL classes at KAUST as CEMSE
 published: true
 ---
 
-This is a post about Differential Privacy and Efficient DL classes at KAUST.
+"Differential Privacy" and "Efficient Deep Learning" classes at KAUST.
 
 ---
 

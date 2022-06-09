@@ -4,7 +4,7 @@ title: Second Semester at KAUST as CEMSE/CS Ph.D.
 published: true
 ---
 
-This is a post about my second semester (Spring, 2021) at [KAUST CEMSE/CS](https://cemse.kaust.edu.sa/).
+My second semester (Spring, 2021) at [KAUST CEMSE/CS](https://cemse.kaust.edu.sa/).
 
 At KAUST, classes are not big, and professors are world-level scientists.
 

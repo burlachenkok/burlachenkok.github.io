@@ -4,7 +4,7 @@ title: Courses at Stanford relative to AI
 published: true
 ---
 
-This is a post about systematizing catalog of course at Stanford relative to AI/ML/Optimization/STATs/Control/Vision/NLP.
+Systematizing catalog of course at Stanford relative to AI/ML/Optimization/STATs/Control/Vision/NLP.
 
 ---
 
