@@ -6,7 +6,7 @@ published: true
 
 I used my old homepage from 2011 to 2020 [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/).
 
-My old webpage contains 151 random notes on various subjects during my career as a Computer Science guy with an Applied Science mentality.
+My old webpage contains 151 random notes on various subjects during my career as a Computer Science Software/Senior/Team Leader/Principal Engineer. I always had a mentality for learning and teaching and trying and being critical of myself irrespectively of my job title.
 
 Below are some topics in which subject I have created public personal notes:
 
@@ -20,7 +20,7 @@ Below are some topics in which subject I have created public personal notes:
 
 ## Miscellaneous
 
-* Information about my course projects at Leland Stanford Jr. University during my education in it
+* Information about my course projects at Leland Stanford Jr. University when I was a remote student at that University for four years.
 * Physics questions important for physics-based simulation and Robotics
 * My reflections on various problems of Machine Learning
 * My reflections on how AI and Machine Learning should be systematized
