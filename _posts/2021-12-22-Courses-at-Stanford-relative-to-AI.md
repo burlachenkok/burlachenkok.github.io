@@ -4,7 +4,7 @@ title: Courses at Stanford relative to AI
 published: true
 ---
 
-Systematizing catalog of course at Stanford relative to AI, Machine Learning, Optimization, Statistics, Control Theory, Computer Vision, Natural Language Processing.
+Systematized catalog of courses at Stanford relative to AI, Machine Learning, Optimization, Statistics, Control Theory, Computer Vision, and Natural Language Processing.
 
 ---
 

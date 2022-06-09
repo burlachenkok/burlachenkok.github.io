@@ -4,7 +4,7 @@ title: Courses at Stanford not relative to AI (at first glance)
 published: true
 ---
 
-Systematizing catalog of courses at Stanford relative to creating various systems by leveraging science and engineering from various fields.
+Systematized catalog of courses at Stanford relative to creating various systems by leveraging science and engineering from various fields.
 
 ---
 
