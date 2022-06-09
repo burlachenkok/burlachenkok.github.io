@@ -6,22 +6,25 @@ published: true
 
 I used my old homepage from 2011 to 2020 [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/).
 
-My old webpage contains:
+My old webpage contains 151 random notes on various subjects during my career as Computer Science guy with Applied Science mentality.
 
-# The notes are based on reading two classical math books for people who are going to at least start to study Math Optimization
+Below are some topics in which subject I have created personal notes:
+
+## The notes based on reading classical math books and classical papers in Computer Vision
 
 * Notes about the book of A.N.Kolomogorov, S.V.Fomin - Introductionary Real Analysis
 * Notes about the book of Amir Beck, First-Order Methods in optimization, 2017
+* Overview of some papers in Deep Learning for Image tasks
 
-# Different notes and posts covered different aspects of engineering:
+## Different notes and posts covered different aspects of engineering
 
 * Usage of programming languages Python, Matlab, C++, Perl, R, JAVA
 * Usage of big Software development frameworks like Qt
 * Using specialized software development frameworks like Google TensorFlow
-* Notes about GPU programming and another (via covering CUDA, OpenCL, OpenGL programming aspects)
-* Notes about using and developing in user-space level for Linux OS and Windows OS
+* Notes about GPU programming and another (via covering CUDA, OpenCL, and OpenGL programming aspects)
+* Notes about using and developing at user-space level for Linux OS and Windows OS
 
-# Compressed notes about various mathematical tools
+## Compressed notes about various mathematical tools
 
 * Some aspects of Convex Optimization and Numerical Optimization
 * Deep understanding of various concepts from Statistics and Machine Learning: KL-divergence, Gini index, Math behind backpropagation
@@ -29,7 +32,7 @@ My old webpage contains:
 * Classical things from Linear Algebra SVD, ODEs.
 * Systematizing catalog of methods used on Control Theory in Applications
 
-# Compressed information about several aspects of applying AI for practical tasks
+## Compressed information about several aspects of applying AI for practical tasks
 
 * Understanding Deep Learning from scratch
 * Considering several tricks for Deep Learning
@@ -42,7 +45,7 @@ My old webpage contains:
 * Jargon applied in Classification problems
 * Usage aspects of Z3 solver from Microsoft Research
 
-# Miscellaneous
+## Miscellaneous
 
 * Information about my course projects at Stanford
 * My reflections on various problems of Machine Learning
