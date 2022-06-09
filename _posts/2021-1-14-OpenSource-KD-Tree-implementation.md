@@ -4,7 +4,7 @@ title: OpenSource KD tree implementation
 published: true
 ---
 
-Post about Open-source KD tree implementation.
+Post about my Open-Source KD tree implementation.
 
 ---
 # Introduction
