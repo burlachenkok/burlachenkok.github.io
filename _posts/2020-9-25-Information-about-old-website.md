@@ -1,38 +1,48 @@
 ---
 layout: post
-title: Old website
+title: About my old website in one page
 published: true
 ---
 
-[My old homepage used by me from 2011 to 2020](https://sites.google.com/site/burlachenkok/).
+I used my old homepage from 2011 to 2020 [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/).
 
 My old webpage contains:
 
-### Compressed notes about various mathematical tools
+# The notes are based on reading two classical math books for people who are going to at least start to study Math Optimization
 
-* Some aspects of Covnex Optimization and Numerical Optimization
-* Deep understanding of various concepts from Statistics and Machine Learning: KL-divergence, Gini index
-* Notes about various mathematical tools including Fourier Transform and Fourier Series
-* Classical things from Linear Algebra and Linear Dynamical systems - SVD, ODEs
+* Notes about the book of A.N.Kolomogorov, S.V.Fomin - Introductionary Real Analysis
+* Notes about the book of Amir Beck, First-Order Methods in optimization, 2017
 
-### Compressed information about several aspects of applying AI for practical tasks
+# Different notes and posts covered different aspects of engineering:
+
+* Usage of programming languages Python, Matlab, C++, Perl, R, JAVA
+* Usage of big Software development frameworks like Qt
+* Using specialized software development frameworks like Google TensorFlow
+* Notes about GPU programming and another (via covering CUDA, OpenCL, OpenGL programming aspects)
+* Notes about using and developing in user-space level for Linux OS and Windows OS
+
+# Compressed notes about various mathematical tools
+
+* Some aspects of Convex Optimization and Numerical Optimization
+* Deep understanding of various concepts from Statistics and Machine Learning: KL-divergence, Gini index, Math behind backpropagation
+* Notes about various mathematical tools, including Fourier Transform and Fourier Series
+* Classical things from Linear Algebra SVD, ODEs.
+* Systematizing catalog of methods used on Control Theory in Applications
+
+# Compressed information about several aspects of applying AI for practical tasks
 
 * Understanding Deep Learning from scratch
 * Considering several tricks for Deep Learning
 * Using popular libraries for Deep Learning
 * Understanding Decision Trees from scratch
-* Considering all stages of applying Machine Learning in industry
-* Different ways try to systematize AI and ML approaches and it's possibilities
+* Considering all stages of applying Machine Learning in the industry
+* Different ways try to systematize AI and ML approaches theirit's possibilities
+* Complete derivations and problem formulations of SVM, Logistics Regression
+* Summary of Convex Optimization courses at Stanford with Stephen P.Boyd
+* Jargon applied in Classification problems
+* Usage aspects of Z3 solver from Microsoft Research
 
-### Miscellaneous
+# Miscellaneous
 
 * Information about my course projects at Stanford
 * My reflections on various problems of Machine Learning
-
-### Different notes and posts covered different aspects of engineering:
-
-* Usage of programming languages Python, Matlab, C++, Perl, R, JAVA
-* Usage of big Software development frameworks like Qt
-* Using specialized software development frameworks like Google TensorFlow
-* Notes about GPU programming
-* Notes about using and development in user-space level for Linux OS and Windows OS
