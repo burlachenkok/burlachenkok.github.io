@@ -6,7 +6,7 @@ published: true
 
 I used another homepage from 2011 to 2020. The link to it is: [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/).
 
-My old webpage contains 151 random notes on various subjects during my career as a Computer Science Software Engineer/Senior Engineer/Team Leader/Principal Engineer. I always had a mentality for learning and teaching and trying and being critical of myself irrespectively of my job title.
+My old webpage contains 151 random notes on various subjects which I did during my career in a Computer Science(CS) via mixing CS with another fields.
 
 Below are some topics in which subject I have created public personal notes:
 
