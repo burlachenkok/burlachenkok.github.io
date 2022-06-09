@@ -4,13 +4,13 @@ title: Courses at Stanford not relative to AI (at first glance)
 published: true
 ---
 
-This is a post about the catalog of courses at Stanford relative to creating various systems with leveraging science and engineering from various fields.
+This is a post about the catalog of courses at Stanford relative to creating various systems by leveraging science and engineering from various fields.
 
 ---
 
-[Stanford University](https://www.stanford.edu/) provides various courses regarding constructing and tackling different mathematical models for constructing engineering systems. Some of them with personal bias are listed below. They do not have AI prefix or suffix in it.
+[Stanford University](https://www.stanford.edu/) provides various courses regarding constructing and tackling different mathematical models for constructing engineering systems. Some of them with personal bias are listed below. They do not have an AI prefix or suffix in it.
 
-Nevertheless, it's upgradable to basic Machine Learning with one (not easy) step: You localize heuristic and replace it with ML data-driven approach. You can for sure do this if the methodology is not rigorous. But in fact, sometimes, people do it even if the methodology is rigorous, but computation is enormous.
+Nevertheless, it's upgradable to basic Machine Learning with one (not easy) step: You localize the heuristic and replace it with ML data-driven approach. You can for sure do this if the methodology is not rigorous. But in fact, sometimes, people do it even if the methodology is rigorous, but computation is enormous.
 
 | **Course Number**  | **Course Name**  | **Slides or Notes**  | **Videos**  |
 |---|---|---|---|
@@ -43,10 +43,10 @@ Nevertheless, it's upgradable to basic Machine Learning with one (not easy) step
 {:.mbtablestyle}
 
 ***p.s.***
-There is a vision of prof. [John C. Duchi](https://web.stanford.edu/~jduchi/) that he has shared in [Simons Institute](https://simons.berkeley.edu/) during [Statistical Theory, Privacy and Data Analysis, APR-2019](https://youtu.be/GJXiYzi8KRc?t=591) at 09:51 that there are a lot of disciplines that underpins AI.
-And there are people in academia (John C. Duchi is exmaple of that) that can not state "AI is everything and AI solves everything".
+There is a vision of prof. [John C. Duchi](https://web.stanford.edu/~jduchi/) that he has shared in [Simons Institute](https://simons.berkeley.edu/) during [Statistical Theory, Privacy, and Data Analysis, APR-2019](https://youtu.be/GJXiYzi8KRc?t=591) at 09:51 that there are a lot of disciplines that underpin AI.
+And there are people in academia (John C. Duchi is an example of that) that can not state, "AI is everything, and AI solves everything."
 
-In any case, I hope the catalog below will be useful for people who do science and engineering. For example [EE261](https://see.stanford.edu/course/ee261) is an essential core for understanding and creating devices and approaches in:
+In any case, I hope the catalog below will be useful for people who do science and engineering. For example, [EE261](https://see.stanford.edu/course/ee261) is an essential core for understanding and creating devices and approaches in:
 
 * Digital Signal Processing
 * Digital Filters

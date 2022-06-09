@@ -21,24 +21,24 @@ Another thing the lecture demonstrated that standard Python interpreter ([CPytho
 <tr><td> <img width="100%" src="https://burlachenkok.github.io/images/blas_compare_speed_of_impl.png"/> </td></tr>
 </table>
 
-This is coincident with Bjarne Stroustrup story that he shared in 2017 [https://youtu.be/fX2W3nNjJIo?t=558](https://youtu.be/fX2W3nNjJIo?t=558) at 09:20:
+This is coincident with Bjarne Stroustrup's story that he shared in 2017 [https://youtu.be/fX2W3nNjJIo?t=558](https://youtu.be/fX2W3nNjJIo?t=558) at 09:20:
 
 *"People select the simplest thing to pick up, and it's Python...And then they are out of CPU power...I heard about biologists who run a 3-month run. It could be done in 10 minutes. And we know it because it was done when we can not wait for three months anymore.."*
 
 Speedup from that experiment that B.Stroustrup mentioned in 2017 after moving to C++ from Python is the following: 3\*30\*24\*60/10=**12960**.
 
-[Lecture 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec2.pdf) summarize John Bentley rules invented around 1990 for the current area 2018+. It contains suggestions for improving data structures, loops, logic, functions.
+[Lecture 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec2.pdf) summarize John Bentley rules invented around 1990 for the current area 2018+. It contains suggestions for improving data structures, loops, logic, and functions.
 
 [Lecture 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf) present several specific Bit Haks tricks that sometimes allow eliminating branches in the code and improve branch predictions. Sometimes the compiler does not perform such optimizations, and you have to do it yourself by hand.
-Another material about the subject is in that documents [Bit Twiddling Hacks By Sean Eron Anderson](http://graphics.stanford.edu/~seander/bithacks.html) and in [Hacker’s Delight](https://doc.lagout.org/security/Hackers%20Delight.pdf) in Henry S. Warren, J.
+Another material about the subject is in the documents [Bit Twiddling Hacks By Sean Eron Anderson](http://graphics.stanford.edu/~seander/bithacks.html) and in [Hacker's Delight](https://doc.lagout.org/security/Hackers%20Delight.pdf) in Henry S. Warren, J.
 
 [Lecture 4](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec4.pdf) and [Lecture 5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec5.pdf) present several things about how a computer works. People aware of System Programming and how the computer is working can skip that or refresh. As far as I know, people who do EE are narrowly specialized these days, so this material is useful for everybody.
 
 [Lecture 10](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec10.pdf) was about accurate measurement time for algorithms and discussed best practices.
 
-[Lecture 11](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec11.pdf) brings strategies for implementing heap allocation (Fixed-size allocation using free lists, Variable-sized allocation using binned free lists) and garbage collector(GC) with mark-and-sweap and stop-and-copy algorithms. Another important thing that the lecture introduces is that if your system has GC, it implies several pretty strong requirements for a language: (a) strong type systems; (b) complete absence of real pointers.
+[Lecture 11](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec11.pdf) brings strategies for implementing heap allocation (Fixed-size allocation using free lists, Variable-sized allocation using binned free lists) and garbage collector(GC) with mark-and-sweep and stop-and-copy algorithms. Another important thing that the lecture introduces is that if your system has GC, it implies several pretty strong requirements for a language: (a) strong type systems; (b) complete absence of real pointers.
 
-Another lecture covers various topics such as: threads, caches, races, what compilers can and can not do. 
+Another lecture covers various topics such as threads, caches, races, and what compilers can and can not do. 
 
 [Lecture 18](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec18.pdf) was a guest talk from prof. [Saman Amarasinghe](https://people.csail.mit.edu/saman/). He gave a lecture where he covered a bit all systems that he co-developed with his peers:
 
@@ -46,12 +46,12 @@ Another lecture covers various topics such as: threads, caches, races, what comp
 * Halide    [https://people.csail.mit.edu/jrk/halide-pldi13.pdf](https://people.csail.mit.edu/jrk/halide-pldi13.pdf), [https://halide-lang.org/](https://halide-lang.org/)
 * OpenTuner [https://ieeexplore.ieee.org/document/7855909](https://ieeexplore.ieee.org/document/7855909)
 
-During the lecture prof. Saman Amarasinghe has mentioned that:
+During the lecture, prof. Saman Amarasinghe has mentioned that:
 
 * [YouTube](https://youtube.com/) processes each video with Halide at the input stage
 * Adobe Photoshop is rewritten into Halide
 
-[GraphIt](https://people.csail.mit.edu/jshun/graphit.pdf) is a DSL language that allows tuning actual performance for graph algorithms, where algorithms need to be implemented at the low-level/metal level.
+[GraphIt](https://people.csail.mit.edu/jshun/graphit.pdf) is a DSL language that allows actual tuning performance for graph algorithms, where algorithms need to be implemented at the low-level/metal level.
 
 Another exciting guest lecture was [Lecture 21](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec21.pdf) with [Jon Bentley](https://en.wikipedia.org/wiki/Jon_Bentley_(computer_scientist)), who during being [D.Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) student invented KD-trees.
 In his talk [https://www.youtube.com/watch?v=SS5KfIFzfEE](https://www.youtube.com/watch?v=SS5KfIFzfEE), Jon Bentley showed how to make not-empirical [Travel Salesman Problem(TSP)](https://en.wikipedia.org/wiki/Travelling_salesman_problem) workable (typically for) in 40-50 cities, where distance is Euclidian distance in the 2D plane with using various pruning and software optimization tricks.
@@ -62,6 +62,6 @@ What makes this material pretty unique is that there are real examples of how to
 
 # Reference to Python.
 
-In 2022 Python has gained big popularity. If you for some reason develop a strong system in Python and you want to gain knowledge beyond the root and great book created by Guido van Rossum [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/) - the materials from one Python enthusiast, David Beazley, can be extremely useful for you: 
+In 2022 Python has gained big popularity. If you, for some reason, develop a strong system in Python, and you want to gain knowledge beyond the root and great book created by Guido van Rossum [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/) - the materials from one Python enthusiast, David Beazley, can be extremely useful for you: 
 * [https://www.dabeaz.com/talks.html](https://www.dabeaz.com/talks.html)
 * [https://www.dabeaz.com/tutorials.html](https://www.dabeaz.com/tutorials.html)

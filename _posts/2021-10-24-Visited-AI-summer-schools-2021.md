@@ -4,13 +4,13 @@ title: The visited AI summer schools during summer, 2021
 published: true
 ---
 
-This is a post about several engaging summer schools in which I have a chance to attend during summer 2021.
+This is a post about several engaging summer schools I have a chance to attend during the summer of 2021.
 
 ---
 
 # Regularization Methods for ML 2021
 
-The school was led by [Lorenzo Rosasco](https://scholar.google.com/citations?user=quJBh1EAAAAJ&hl=ru&oi=ao) from June 21, 2021 to June 25, 2021. The main goal of this course was to build an understanding of various modeling aspects and some of the optimization and statistical principles behind intelligent systems. The main focus was on regularization techniques. Regularization methods allow treating in a unified way a huge class of diverse approaches while providing tools to design new ones. Starting from classical notions of smoothness, shrinkage and margin, the course will cover state-of-the-art techniques based on the concepts of geometry (aka manifold learning), sparsity, and a variety of algorithms for feature selection, structured prediction, multitask learning. 
+The school was led by [Lorenzo Rosasco](https://scholar.google.com/citations?user=quJBh1EAAAAJ&hl=ru&oi=ao) from June 21, 2021, to June 25, 2021. This course's main goal was to understand various modeling aspects and some of the optimization and statistical principles behind intelligent systems. The main focus was on regularization techniques. Regularization methods allow treating a massive class of diverse approaches in a unified way while providing tools to design new ones. The course started with classical notions of smoothness, shrinkage, and margin. After that, the course began to cover state-of-the-art techniques based on geometry (aka manifold learning), sparsity, and various algorithms for feature selection, structured prediction, and multi-task learning. 
 
 Link to the summer school: [https://ml.unige.it/education/school/regml2021](https://ml.unige.it/education/school/regml2021). 
 
@@ -20,7 +20,7 @@ Attendance certificate of Konstantin Burlachenko: [Link](https://drive.google.co
 
 # The PRAIRIE/MIAI AI 2021
 
-The PRAIRIE/MIAI AI summer school comprises lectures conducted by renowned experts in different areas of artificial intelligence. The third edition of this summer school will be held online from the 5th to July 9, 2021. It will include presentations on several topics, including computer vision, machine learning, natural language processing, robotics, healthcare. The 2021 summer school will feature lecturers including [Lourdes Agapito (UCL)](https://scholar.google.com/citations?user=IRMX4-4AAAAJ&hl=en), [Stéphanie Allassonnière (Univ. Paris)](https://scholar.google.com/citations?user=9ubMya8AAAAJ&hl=en&oi=sra), [Francis Bach (Inria)](https://scholar.google.com/citations?user=6PJWcFEAAAAJ&hl=en&oi=ao), [Alejandrina Cristià (ENS)](https://scholar.google.com/citations?user=qYeeTuAAAAAJ&hl=en&oi=ao), [Andrew Davison (Imperial)](https://scholar.google.com/citations?user=A0ae1agAAAAJ&hl=en&oi=ao), [Pascale Fung (HKUST)](https://scholar.google.com/citations?user=QEMJWzEAAAAJ&hl=en&oi=ao), [Arthur Gretton (UCL)](https://scholar.google.com/citations?user=OUv7J6QAAAAJ&hl=en&oi=ao), 
+The PRAIRIE/MIAI AI summer school comprises lectures by renowned experts in different areas of artificial intelligence. The third edition of this summer school will be held online from the 5th to July 9, 2021. It will include presentations on several topics, including computer vision, machine learning, natural language processing, robotics, and healthcare. The 2021 summer school will feature lecturers including [Lourdes Agapito (UCL)](https://scholar.google.com/citations?user=IRMX4-4AAAAJ&hl=en), [Stéphanie Allassonnière (Univ. Paris)](https://scholar.google.com/citations?user=9ubMya8AAAAJ&hl=en&oi=sra), [Francis Bach (Inria)](https://scholar.google.com/citations?user=6PJWcFEAAAAJ&hl=en&oi=ao), [Alejandrina Cristià (ENS)](https://scholar.google.com/citations?user=qYeeTuAAAAAJ&hl=en&oi=ao), [Andrew Davison (Imperial)](https://scholar.google.com/citations?user=A0ae1agAAAAJ&hl=en&oi=ao), [Pascale Fung (HKUST)](https://scholar.google.com/citations?user=QEMJWzEAAAAJ&hl=en&oi=ao), [Arthur Gretton (UCL)](https://scholar.google.com/citations?user=OUv7J6QAAAAJ&hl=en&oi=ao), 
 [Hannah Kerner (Univ. Maryland)](https://scholar.google.com/citations?user=g5CD7dQAAAAJ&hl=en&oi=ao), [Yann LeCun (Facebook / NYU)](https://scholar.google.com/citations?user=WLN3QrAAAAAJ&hl=en&oi=ao), [Catherine Nakalembe (Univ. Maryland)](https://scholar.google.com/citations?user=-yCnR1sAAAAJ&hl=en&oi=ao), [Cordelia Schmid (Inria / Google)](https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en&oi=ao), [Jean-Philippe Vert (Google/ Mines ParisTech)](https://scholar.google.com/citations?user=pqpxh7IAAAAJ&hl=en&oi=ao).
 
 Link to the summer school: [https://project.inria.fr/paiss/](https://project.inria.fr/paiss/).
@@ -32,8 +32,8 @@ Attendance certificate of Konstantin Burlachenko: [Link](https://drive.google.co
 # Oxford ML Summer School-2021
 
 
-The second Oxford machine learning summer school (OxML 2021), aims to provide its participants with best-in-class training on a broad range of advanced topics and developments in machine learning (ML) and deep learning (DL). 
-The school will cover some of the most important topics in ML/DL that the field is showing a growing interest in Bayesian ML, representation learning, computer vision, natural language processing (NLP), reinforcement learning, causal ML, transfer learning, healthcare, and medicine.
+The second Oxford machine learning summer school (OxML 2021) aims to provide its participants with best-in-class training on a broad range of advanced topics and developments in machine learning (ML) and deep learning (DL). 
+The school will cover some of the most critical topics in ML/DL. The field is growing interested in Bayesian ML, representation learning, computer vision, natural language processing (NLP), reinforcement learning, causal ML, transfer learning, healthcare, and medicine.
 
 ## Reading materials
 
@@ -89,7 +89,7 @@ Probabilistic causal ML:
 2. Gaussian Processes for Machine Learning (free download)
 [http://www.gaussianprocess.org/gpml/](http://www.gaussianprocess.org/gpml/)
 
-### Neural models of sequence data, and EHR (recommended by Reza Khorshidi)
+### Neural models of sequence data and EHR (recommended by Reza Khorshidi)
 1. Attention Is All You Need
 [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)
 2. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
@@ -155,7 +155,7 @@ and future methods to address underlying challenges
 ### ML for Climate Action (recommended by David Rolnick)
 1. "Our World in Data: Emissions by Sector" - context on the sources of GHG emissions
 [https://ourworldindata.org/emissions-by-sector](https://ourworldindata.org/emissions-by-sector)
-2. "Oil in the Cloud" (recommended) - a useful read on some of the negative uses of ML.
+2. "Oil in the Cloud" (recommended) - a worthwhile read on some of the negative uses of ML.
 [https://www.greenpeace.org/usa/reports/oil-in-the-cloud/](https://www.greenpeace.org/usa/reports/oil-in-the-cloud/)
 3. "Tackling Climate Change with Machine Learning" (optional) - David Rolnick's talk will be centered on this paper
 [https://arxiv.org/abs/1906.05433](https://arxiv.org/abs/1906.05433)
@@ -166,7 +166,7 @@ Attendance certificate of Konstantin Burlachenko: [Link](https://drive.google.co
 
 ---
 
-# Conference and summer school "Optimization without Borders"
+# Conference and summer school "Optimization without Borders."
 
 HSE University, MIPT, and Sirius University invite you to join the Conference 'Optimization without Borders'. The Conference is dedicated to the 65th anniversary of Prof. [Yurii Nesterov](https://scholar.google.com/citations?user=DJ8Ep8YAAAAJ&hl=en) and the 50th anniversary of Prof. [Vladimir Protasov](https://scholar.google.com/citations?user=pgEzSSYAAAAJ&hl=ru).
 
