@@ -23,4 +23,4 @@ Konstantin attended in [Non-Degree Opportunity program](https://online.stanford.
 * [Data, Models and Optimization Graduate Certificate](https://online.stanford.edu/programs/data-models-and-optimization-graduate-certificate)
 * [Artificial Intelligence Graduate Certificate](https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate)
 
-One of his sport achievement is the title of candidate Master of Sport in chess.
+One of his sport achievement is the title of candidate Master of Sport in chess that is assigned by International Chess Federation FIDE.
