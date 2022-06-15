@@ -19,3 +19,12 @@ We provide rigorous theory and a rich amount of practical experiments to highlig
 Our [COFIG](https://arxiv.org/abs/2112.13097) algorithm has demonstrated in honest comparison excellent results.
 
 The experimental part of that paper was done in an advanced research simulator for Federated Learning called [FL_PyTorch](https://dl.acm.org/doi/10.1145/3488659.3493775).
+
+---
+
+<table style="text-align:center;">
+<tr>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/princeton-logo.png"/> </td>
+</tr>
+</table>
