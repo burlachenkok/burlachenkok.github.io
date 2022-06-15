@@ -17,7 +17,7 @@ in the [Computer, Electrical, Mathematical Sciences and Engineering (CEMSE) Divi
 
 ---
 
-## Contact information
+# Contact information
 
 --- |
 [konstantin.burlachenko@kaust.edu.sa](mailto:konstantin.burlachenko@kaust.edu.sa) |
