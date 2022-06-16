@@ -8,6 +8,14 @@ published: true
 
 ---
 
+The video of my talk is available here:
+[https://webcast.kaust.edu.sa/mediasite/Showcase/kaust/Presentation/600c852bedf94c8298f92d8c1703f8521d](https://webcast.kaust.edu.sa/mediasite/Showcase/kaust/Presentation/600c852bedf94c8298f92d8c1703f8521d)
+
+The videos of all recorded and publicly available talks are available here:
+[https://mediasite.kaust.edu.sa/mediasite/Showcase/kaust/Channel/ai2022](https://mediasite.kaust.edu.sa/mediasite/Showcase/kaust/Channel/ai2022)
+
+---
+
 Our work **"FL_PyTorch: Optimization Research Simulator for Federated Learning"** will be presented at [Rising Stars in AI Symposium 2022](https://cemse.kaust.edu.sa/ai/aii-symp-2022). 
 
 This event is organized by [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai), led by [Jürgen Schmidhuber](https://cemse.kaust.edu.sa/ai/people/person/jurgen-schmidhuber). 
@@ -23,13 +31,6 @@ The symposium will be held in [KAUST](https://cemse.kaust.edu.sa/) with (limited
 
 
 *The "Rising Stars in AI Symposium" is geared towards young researchers (including Ph.D. students, PostDocs, and young faculty) who have recently published promising work at leading AI venues. There will be dozens of brief in-person presentations about papers recently accepted at major AI conferences such as NeurIPS, CVPR, EMNLP, ACL, ICML, ICLR, etc.*
-
-**The video of my talk is available here:**
-
-[https://webcast.kaust.edu.sa/mediasite/Showcase/kaust/Presentation/600c852bedf94c8298f92d8c1703f8521d](https://webcast.kaust.edu.sa/mediasite/Showcase/kaust/Presentation/600c852bedf94c8298f92d8c1703f8521d)
-
-**The videos of all recorded and publicly available talks are available here:**
-[https://mediasite.kaust.edu.sa/mediasite/Showcase/kaust/Channel/ai2022](https://mediasite.kaust.edu.sa/mediasite/Showcase/kaust/Channel/ai2022)
 
 ---
 
