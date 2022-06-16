@@ -28,6 +28,8 @@ The symposium will be held in [KAUST](https://cemse.kaust.edu.sa/) with (limited
 
 [https://webcast.kaust.edu.sa/mediasite/Showcase/kaust/Presentation/600c852bedf94c8298f92d8c1703f8521d](https://webcast.kaust.edu.sa/mediasite/Showcase/kaust/Presentation/600c852bedf94c8298f92d8c1703f8521d)
 
+**The videos of all recorded and publicly available talks are available here:**
+[https://mediasite.kaust.edu.sa/mediasite/Showcase/kaust/Channel/ai2022](https://mediasite.kaust.edu.sa/mediasite/Showcase/kaust/Channel/ai2022)
 
 ---
 
