@@ -4,7 +4,7 @@ title: Faster rates for compressed federated learning with client-variance reduc
 published: true
 ---
 
-The new paper [Faster rates for compressed federated learning with client-variance reduction](https://arxiv.org/abs/2112.13097) has been out.
+The new paper [Faster rates for compressed federated learning with client-variance reduction](https://arxiv.org/abs/2112.13097) has been outed.
 
 ---
 

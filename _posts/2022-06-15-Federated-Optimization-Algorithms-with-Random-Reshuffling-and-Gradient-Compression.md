@@ -4,11 +4,11 @@ title: Federated Optimization Algorithms with Random Reshuffling and Gradient Co
 published: true
 ---
 
-The new paper [Federated Optimization Algorithms with Random Reshuffling and Gradient Compression](https://arxiv.org/abs/2206.07021) has been out.
+The new paper [Federated Optimization Algorithms with Random Reshuffling and Gradient Compression](https://arxiv.org/abs/2206.07021) has been outed.
 
 ---
 
-I was glad to work on it with my peers [Abdurakhmon Sadiev](https://www.researchgate.net/profile/Abdurakhmon-Sadiev), [Grigory Malinovsky](https://grigory-malinovsky.github.io/), [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Igor Sokolov](https://cemse.kaust.edu.sa/people/person/igor-sokolov), [Ahmed Khaled](https://rka97.github.io/) and prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) on the paper 
+I was glad to work with my peers [Abdurakhmon Sadiev](https://www.researchgate.net/profile/Abdurakhmon-Sadiev), [Grigory Malinovsky](https://grigory-malinovsky.github.io/), [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Igor Sokolov](https://cemse.kaust.edu.sa/people/person/igor-sokolov), [Ahmed Khaled](https://rka97.github.io/) and prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) on the paper 
 **"Federated Optimization Algorithms with Random Reshuffling and Gradient Compression"**.
 
 The arXiv link for the paper: [https://arxiv.org/abs/2206.02275](https://arxiv.org/abs/2206.07021).
