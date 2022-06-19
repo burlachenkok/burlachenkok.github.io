@@ -157,7 +157,7 @@ In C/C++ in a literal expression, you can encode the type of a constant:
 Before go into technical details about type conversion, let me be honest - it's hard to remember them, so possibly it is better to observe the big picture first:
 *The general requirement when converting integer types is the mathematical equivalence of the source and target values.*
 
-Now let's go into sublt technical details.
+Now let's go into sublte technical details.
 
 ## Prohibited conversions
 
@@ -192,7 +192,6 @@ Now let's go into sublt technical details.
    * Conversions from an integer type of rank below int => to int
    * Conversions from unsigned integer types lower than int, int represent all values => values are cast ​​to integers
    * Conversions from unsigned integer types lower than int, but int does not represent all => values are cast ​​to unsigned int
-
 13. On the operands of a binary operation, the usual unary conversions of are performed separately for each, and then the usual binary conversions.
 14. If someone of operand of binary operator is the type long double, double, float, in the second rank lower, then it is cast to the type with highest rank.
 15. If both operands are unsigned, then both are cast to a higher rank unsigned type.
