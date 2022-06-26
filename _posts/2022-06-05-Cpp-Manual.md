@@ -57,8 +57,7 @@ Bjarne Stroustrup in 2010 jokingly describes C++ as a language:
 Fundamental types of C++ code guarantees:
 1. Basic Guarantee - no leaks and standard libraries supported.
 2. Strong Guarantee - either the operation is completed or not.
-
-All containers in c++98 provide a basic guarantee. And some operations (for example `std::vector<T>::push_back`) give a strong garantee.
+3. All containers in c++98 provide a basic guarantee. And some operations (for example `std::vector<T>::push_back`) give a strong garantee.
 
 # Stages of processing C/C++ program
 
@@ -124,16 +123,17 @@ There is a special value in C/C++ called a null pointer that is equal to a null 
       void y(int*){}
       y(0);
 ```
+6. In C++11 instead of NULL you can use `nullptr` the keyword that stands to null pointer variable with the type `std::nullptr_t`.
 
-6. When using `union` for a mixture of structures that start the same way, there is guarantee of an identical mapping of component "from this beginning".
+7. When using `union` for a mixture of structures that start the same way, there is guarantee of an identical mapping of component "from this beginning".
 
-7. In C and in C++ the components of variable of structure type has addresses. There are following guarantees:
+8. In C and in C++ the components of variable of structure type has addresses. There are following guarantees:
 * The component addresses are in ascending order. 
 * The address of the first component is the same as the address of the beginning of the structure. Regardless of what endian the computer has where the program will run.
 
-8. Structs are not allowed to perform comparisons with `==` or with `>`. The fundamental nature of this restriction in C/C++ is due to the fact that for objects there may be holes in their layout from memory filled randomly.
+9. Structs are not allowed to perform comparisons with `==` or with `>`. The fundamental nature of this restriction in C/C++ is due to the fact that for objects there may be holes in their layout from memory filled randomly.
 
-9. In C++, for the definition (not just declaration) of a variable in global scope you can use `extern int a = 0;`. But in fact `extern` is ignored.
+10. In C++, for the definition (not just declaration) of a variable in global scope you can use `extern int a = 0;`. But in fact `extern` is ignored.
 It's due to (7.11.6, C++2003) "A name declared in a namespace scope without a storage-class-specifier has external linkage unless it has internal linkage because of a previous declaration and provided it is not declared const. 
 Objects declared const and not explicitly declared extern have internal linkage."
 It also follows from this paragraph that declarations of non-const variables declared on namespace level have extern linkage by default in C++.
@@ -462,7 +462,13 @@ When processing the destructor, identical actions behind logic of constructors e
 
 # Deleting object of incomplete type
 
-Deleting an object with an incomplete type. For POD, and for an object without a destructor, something like C-rutime free will be done, which does not need to know about the size of the object. 
+Deleting an object with an incomplete type. 
+```cpp
+class My;
+My* ptr;
+delete ptr; // undefined behaviour for incomplete types
+```
+For POD, and for an object without a destructor, something like C-rutime free will be done, which does not need to know about the size of the object. 
 In this case you're lucky and you can typically deleted dynaicall y allocated object, but in general it results in undefined behavior. (5.3.5 Delete C++2003).
 
 # Return Value Optimization
@@ -675,8 +681,8 @@ The exception is for POD types - you may skip their intitialization. However, th
 1. In addition to type, template parameters also include Non Type Parameters, which can have the type of an integral constant, reference, and a pointer to a given or function. Pointers to data must have an external link type.
 2. You can use `template` to create a specialization for array with a fixed size.
 ```cpp
-\#include "stdio.h"
-\
+#include "stdio.h"
+
 template<class T>
 void p(T a){ puts("not array"); }
 //
@@ -699,14 +705,69 @@ template <typename S, typename T>
 T* allocate(S& storage, int numberOfElements)
 {
      T*res = 0;
-// res = storage.alloc<T>(numberOfElements);
+     // res = storage.alloc<T>(numberOfElements);
      res = storage.template alloc<T>(numberOfElements);
      return res ? true : false;
-}```
+}
+```
 For more info: please view at “B.13.6 template” in Special Edition, Biern Stroustrup.
+
+## Template syntax remarks
+When instantiating a template, starting from C++11 not necessary to make a space in `>>`. In the case of specifying an integral type in a template parameter, and whish to perform right-shift `>>` you should enclose the expression in parentheses. Example of using `>>`:
+```cpp
+template <class T, int size>
+class AA
+{};
+AA<std::vector<int>>, 2> obj;
+```
+
+## Reference collapsing
+The C++ standard allows reference collapsing in templates. Allowed to collapse `T&` into `T&`. Example:
+```cpp
+template <class T>
+void f(T& val)
+{
+val = 0;
+}
+
+int i = 0;
+f<int&>(i); // during compiletime f<int&>(int&&) => converts into => f<int&>(int&)
+```
+
+# Auto type deduction
+The `auto` in C++98/03 was an explicity memory type for local objects, but starting from C++11 it's a type, automatically deduced similar to `template` arguments. The difference is that auto works in usual functions for variables and for arrays. For auto, the deduction is identical to the output for `template` function arguments.
+```cpp
+auto v1(expr); // direct initialization
+auto v2=expr;  // copy initialization
+int arr[] = {1,2,3};
+for (auto x:arr)
+{
+  printf("%i\n", x);
+}
+```
+
+Auto can be used jointly with constant volatile type qualifiers (cv) and with reference and pointers. Examples:
+```cpp
+int ii= 1;
+const auto * p_ii = &ii;
+const auto& p_ref = ii;
+```
+
+# Range based for loop (since C++11)
+
+Starting from C++11 there is a new syntax for `for` loop named as "range based for loop". Example:
+```cpp
+for (auto i : v) 
+  std::cout << i;
+```
+Range-Based for Loops valid for any type supporting the notion of a range.
+One of the following constructions should be valid:
+* **obj.begin()** and **obj.end()** 
+* **begin(obj)** and **end(obj)**
 
 # Inline fucntion call
 Working with inline functions is described here: https://isocpp.org/wiki/faq/inline-functions. So how not to work with inline functions:
+
 ```cpp
 // inline.cpp
 inline void f()
@@ -715,8 +776,9 @@ inline void f()
 }
 // inline.h
 inline void f();
+
 // main.cpp
-\#include "inline.h"
+#include "inline.h"
 int main()
 {
   f();
@@ -730,9 +792,9 @@ Now how to work with inline functions
 // inline.cpp
 // empty
 // inline.h
-`#include <stdio.h>
+#include <stdio.h>
 void f();
-\
+
 inline void f()
 {
      printf("F inline");
@@ -741,8 +803,8 @@ inline void f()
 And
 ```cpp
 // main.cpp
-\#include "inline.h"
-\
+#include "inline.h"
+
 int main()
 {
      f();
@@ -808,6 +870,6 @@ z.a = 1; // Compilation error
 # https://sites.google.com/site/burlachenkok/test_snippets_cpp - DONE
 
 # NEXT
+# https://sites.google.com/site/burlachenkok/articles/cpp11 (8.0)
 # https://sites.google.com/site/burlachenkok/articles/cpp_tricks
-# https://sites.google.com/site/burlachenkok/articles/cpp11
 # https://sites.google.com/site/burlachenkok/random-notes-about-c17c20
