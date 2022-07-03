@@ -827,6 +827,21 @@ Negative numbers are the complement of all bits of the corresponding positive nu
 * signed integer representation (sign-magnitude-notation) [-2**(n-1)+1, +2**(n-1)-1]
 The representation of the modulus of negative and positive numbers is identical. The sign of the number is stored in the most significant bit.
 
+* special dedicated type for enumerating integer constants from C89/99/11, C++98/03/11 is called `enum`. There are some subtleties with it:
+
+* In C98/C99 then `enum` type is in fact synonum for integer with type `int`.
+* Unlike C98/C99 the C++ language treats each enumerated type as specific type and from integers as well.
+* C++ per
+
+In reality that type has underlying integer type to actually store values, but it has not been specified. Starting from C++11 now we have two type of enums: Strongly typed enums(or scoped enums) and usual enums.
+
+  * Usual enums.
+  * Strongly typed enums does not support implicit conversion to int, support it's own namespace, it's possible to specify for them underlying type. The default underlying type for strongly typed enums is `int`. Example:
+  ```cpp
+  enum class Color : int{red,green,blue};
+  ```
+
+
 # Basic integer types nuances
 
 1. The compiler's use `unsigned` or `signed` in the absence of an explicit type specification is not defined for `char`. The same situation with bit fields.
