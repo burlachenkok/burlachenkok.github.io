@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opt-Studio (mini PyTorch) - Shell, Plotter, BLAS in C++
+title: Opt-Studio (mini PyTorch) - Own interpreter, Shell, Plotter and BLAS (all in C++)
 published: true
 ---
 About final project at [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) for the course

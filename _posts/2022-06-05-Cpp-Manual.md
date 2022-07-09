@@ -3,44 +3,61 @@ layout: post
 title: C++ Manual
 published: false
 ---
-This is a post in which I would like to share complete information regarding C/C++ programming languages.
+This is a long post in which we would like to share complete information regarding C and C++ programming languages.
 
-# Motivation
+# Motivation`
 
-The C/C++ is programming language that represents pretty thin abstraction over the underlying hardware. The level below C/C++ is Assembly for your compute device.
+The C/C++ programming language represents a pretty thin abstraction over the underlying hardware. The level below C/C++ is Assembly for your computing device.
 
-Why compute is important is excellently motivate by prof. Charles Leiserson, MIT in his undergraduate course about Algorithms and Datastructures. I can not describe it better as he did.
+Why computing is critical is excellently motivated by prof. Charles Leiserson, MIT, in his undergraduate course about Algorithms and Datastructures. We can not describe it better as he did. 
 
-Despite that some programming languages that are interpretable, has not standart for language, has no standart for for interpreter writers are due to fast learning curve are popular in some domains when the real time matters typically the interpreter is not a choise due to that:
-- Interpreter provide algorithms that are 50'000 times slower then highlty optimized C/C++/ASM code
-- Interpreters does not provide subtle interfaces to work with Posix API and another OS dependent API
-- During work with API you don't have interface to work your memory
-- The multithreading and thread syncronization implementation is pretty unobvious and maybe suboptimal
-- Garbage Collector brings various limitation into the language - pointer arithmetic is disallowed in any language with GC
+If you want to learn about that please look into his lectures MIT 6.046J / 18.410J Introduction to Algorithms (SMA 5503), Fall 2005, publicly available.
+
+Nowadays, in 2022, for some reason, interpretable programming languages are in fashion. We think that is primarily due to the fast learning curve and secondary because the heavy design of computing science systems goes into the past in the pretty dynamic world in which we are. 
+
+Nevertheless, In some domains, the interpreter is not a choice when actual time matters.  
+
+In general, we think the main problem with interpreters is the following:
+
+- Interpreters provide algorithms that are 50'000 times slower than highly optimized C/C++/ASM code. The interpreter typically parsed the program's text line by line (that represented or in text form or extremely high-level instructions).
+
+- Interpreters do not provide subtle interfaces to work with Posix API and other OS-dependent APIs.
+- During work with an interpreter, you don't have an interface to work your memory
+- The multithreading and thread synchronization implementation is pretty unobvious and may be suboptimal in the interpreter. (E.g., you can look into GIL in Python)
+- Garbage Collector brings various limitations into the language - Pointer arithmetic is disallowed in any language with GC
+- There are some subtleties with implementing function call (or method call) in some specific hardware. The function calls It's effective.
+- Finally, the implementation of an interpreter is very likely just a collection of C/C++ libraries wrapped up into the program that can execute the command and therefore called an interpreter.
+- The absence of compiler makes handling problems in the code to be testable without compiler. It has pros. - you do not spend time for compilation, but there are cons. - now compiler will not tell you about errors in the code, because there is no compiler.
+
+The interpreter is great for prototyping, and sometimes it is enough. But any interpreter, any algorithm in it, can be beaten by C++/ASM implementation. So at least be aware of that.
 
 # Deep principles of the C++ language
 
-Principles of language which B.Stroustroup put into the language in 1994 are still actual and the language still following it [4]. Some of them:
+Principles of language which B.Stroustroup put into the language in 1994 are still current and the language still follows them [4]:
 
-1. No implicit violation of static type-system
-2. Provide good support for user-defined types similar to built-in types
-3. The locality is good
-4. Zero-Overhead principle 
-  a. What you don't use - you should not pay for
-  b. If something built-in in the language then it's impossible to write it better by hand
+1. No implicit violation of static type-system.
+2. Provide good support for user-defined types similar to built-in types.
+3. The locality is good.
+4. Zero-Overhead principle:
+    
+    a. What you don't use - you should not pay for.
+    
+    b. If something is built-in in the language, it's impossible to write it better by hand.
 
 # Standarts for the Language
 
 Both compilers writers and people who use C++ language as writers should obey the international standart ISO/IEC for the language. C++ Standardization has a long history:
 
-1. C\+\+1998 standard -- ISO/IEC 14882-1998
-2. C\+\+2003 standard -- A “bug fix release” of this standard was issued in 2003
-3. C\+\+ 2011 standard -- ISO C\+\+ standard (ISO/IEC 14882-2011)
-4. C\+\+ 2014 standard -- ISO C\+\+ standard (ISO/IEC 14882:2014) - completes C\+\+ 11 and fix various issues in it
-5. C\+\+ 2017 standard -- ISO C\+\+ standard (ISO/IEC 14882:2017) 
-6. С\+\+ 2020 standart -- ISO C\+\+ standard (ISO/IEC 14882:2020)
+1. C\+\+1998 standard - ISO/IEC 14882-1998
+2. C\+\+2003 standard - A “bug fix release” of this standard was issued in 2003
+3. C\+\+ 2011 standard - ISO C\+\+ standard (ISO/IEC 14882-2011)
+4. C\+\+ 2014 standard - ISO C\+\+ standard (ISO/IEC 14882:2014) - completes C\+\+ 11 and fix various issues in it
+5. C\+\+ 2017 standard - ISO C\+\+ standard (ISO/IEC 14882:2017) 
+6. С\+\+ 2020 standart - ISO C\+\+ standard (ISO/IEC 14882:2020)
 
-# What is C++ from point of view of author of that programming Language (B.Stroustroup)
+To be honest with you, we don't know how is it possible to write compilers or write programs without standart of the language.
+
+# C++ from point of view of author of that programming Language (B.Stroustroup)
 Bjarne Stroustrup in 2010 jokingly describes C++ as a language:
 1. Support generic programming
 2. Hybrid language
@@ -55,88 +72,106 @@ Bjarne Stroustrup in 2010 jokingly describes C++ as a language:
 
 # C++ guarantees
 Fundamental types of C++ code guarantees:
-1. Basic Guarantee - no leaks and standard libraries supported.
-2. Strong Guarantee - either the operation is completed or not.
-3. All containers in c++98 provide a basic guarantee. And some operations (for example `std::vector<T>::push_back`) give a strong garantee.
+1. **Basic Guarantee** - no leaks and standard libraries supported.
+2. **Strong Guarantee** - whether the operation is completed.
+
+All containers in C++98 provide a fundamental guarantee. And some operations (for example, `std::vector<T>::push_back`) give a Strong Guarantee.
 
 # Stages of processing C/C++ program
 
 1. Processing trigrams.
-2. Joining strings through the backslash character
-3. Processing the program code by the preprocessor. The preprocessor can be built into the compiler, or it can be an independent program.
-4. Lexical analysis of the program by splitting the program into tokens. An important part is that the compiler always tries to assemble the longest token of characters by processing the text from left to right, even if the result is an unbuildable program.  
-Tokens can be separated by whitespaces. The concept of whitespace includes at compiler level things like keyboard spaces and comments.
 
-In C++ (and in most programming languages) the tokens can be one of the following type:
+2. Joining strings through the backslash character.
+
+3. Processing the program code by the preprocessor. The preprocessor can be built into the compiler, or it can be an independent program.
+
+4. Lexical analysis of the program by splitting the program into tokens. An important part is that the compiler always tries to assemble the longest token of characters by processing the text from left to right, even if the result is an unbuildable program.
+
+Tokens can be separated by whitespaces. The concept of whitespace includes things like different keyboard spaces and comments at compiler level.
+
+In C++ (and in most programming languages) the tokens can be one of the following types:
+
 a. Operators
+
 b. Separators
+
 c. Identifiers
+
 d. Keywords
+
 e. Constants
 
 After the lexical analysis program consists of a sequence of tokens. 
 
 # Preprocessor
 
-C++ 1998 and 2003 uses the C89 preprocessor, although the C language has undergone changes: Tradition C, C89, C95, C99, C11.
+C++ 1998 and C++2003 uses the C89 preprocessor, although the C language has undergone changes: Tradition C, C89, C95, C99, C11.
 
-Preprocessor macro extensions in C/C++ has the following property. Once a macro call is replaced by an extension, the macro call search process starts from the beginning of the expanded extension for further replacement. 
-But during this process, macros that are referenced in their own expansion are not re-expanded and that preprocessor macro extension does not lead to infinite recursion.
+Preprocessor macro extensions in C/C++ has the following property. Once a macro call is replaced by an extension, the macro call search process starts from the beginning of the expanded extension for further replacement.
+
+During this process, macros that are referenced in their own expansion are not re-expanded and that preprocessor macro extension does not lead to infinite recursion.
 `#define sqrt(x) (x<0 ? sqrt(x) : sqrt(-x))`
 
 # Names Overloading
 
 In C and other programming languages as well, the same identifier can be associated with more than one object at a time. This situation is called *name overloading* or *name hiding*.
-In C++ (Take look for example C++ 2003 Standart, chapter 13), this concept is introduced as in C language. It is an error to create two declarations of the same name in the same overload class in the same visibility block or at the top level.
+In C++ (Take look for example C++ 2003 Standart, chapter 13), this concept is introduced as in C language. 
 
-| # | ** Overloading class name**       | ** Identifiers included in the class**                                                                         |
+It is an error to create two declarations of the same name in the same overload class in the same visibility block or at the top level.
+
+| # | **Overloading class name**       | **Identifiers included in the class**                                                                         |
 |---|-----------------------------------|----------------------------------------------------------------------------------------------------------------|
-| 1 | Preprocessor Macro Names          | The names used by the preprocessor are independent  of any other identifiers                                   |
-| 2 | Operator labels/tags              | The labels used immediately follow the goto statement                                                          |
-| 3 | Structures, Union, and Enums tags | They are part of a structure, union, or enumeration,  and immediately follow the keywords: struct, union, enum |
-| 4 | Components namespace              | Defined in the namespace(or name scope) associated with  the corresponding structure or union type             |
-| 5 | Another namespace                 | Name of the following objects: * Variables * Functions * Typedef names * Enumeration constants                 |
+| 1 | Preprocessor Macro Names          | The names used by the preprocessor are independent  of any other identifiers.                |
+| 2 | Operator labels/tags              | The labels used immediately follow the `goto` statement.                                                          |
+| 3 | Structures, Union, and Enums tags | They are part of a structure, union, or enumeration,  and immediately follow the keywords: ```struct```, ```union```, ```enum```. |
+| 4 | Components namespace              | Defined in the namespace(or name scope) associated with  the corresponding structure or union type.             |
+| 5 | Another namespace                 | Name of the following objects: *Variables*, *Functions*, *Typedef names*, *Enumeration constants*.                 |
 
-C++ introduces structure and union tags and enumeration names implicitly declared via typedef in the namespace "another" where in fact there are also usual variables are locating.
+C++ introduces structure and union tags and enumeration names implicitly declared via typedef in the namespace "Another" where in fact there are also usual variables are locating.
 
-However, these identifiers (tag names) can be hidden by subsequent variable or function declarations, or by an enumeration member of the same name in the same scope. 
-If you explicitly use a typedef for a structure followed by a variable declaration, it will lead to an error.
+However, tag names can be hidden by subsequent variable or function declarations, or by an enumeration member of the same name in the same scope. 
+If you explicitly use a ```typedef``` for a structure followed by a variable declaration, it will lead to an error.
+
 It is very interesting that according to ISO/IEC 14882 C++ 2003, 3.3.7. In any order, functions/variables take precedence over type tags.
 
-# About used memory for types and it's layout
+# Used memory for types and its layout
 
-1. The representation of an object in memory is a sequence of bits. The representation does not have to include all the *bits*, but the size of an object is the number of units of memory that it occupies. 
-The amount occupied by one char character is taken as a memory unit. The number of bits in a character is specified in the CHAR_BIT macro in C Language. All objects of the same type by C/C++ rules occupy the same amount of memory.
+1. The representation of an object in memory is a sequence of bits. The representation does not have to include all the *bits*, but the size of an object is the number of units of memory it occupies. 
+The amount occupied by one char character is taken as a memory unit. The number of bits in character is specified in the CHAR_BIT macro in C Language. All objects of the same type by C/C++ rules occupy the same amount of memory. In practice, however, one char is "always" one byte, i.e., the 8 bits number.
 
 2. Computers are classified into two categories in the order of bytes in a word:
-- Right to left, or Little - Endian -- the address of a 32-bit word matches the address of its least significant byte (Example of CPU architectures are Intel x86, Pentium)
-- From left to right, or Big - Endian -- the address of a 32-bit word matches the address of its high-order byte (Motorolla)
+- *Right to left*, or *Little - Endian* - the address of a 32-bit word matches the address of its least significant byte (Examples of CPU architectures are Intel x86, Pentium)
+- *From left to right*, or *Big - Endian* - the address of a 32-bit word matches the address of its high-order byte (Motorolla).
 
-3. Some systems support two modes at the same time. In some computers, data can be located in memory at any address, in others, alignment conditions are imposed on certain types.
+  Some systems support two modes at the same time. 
 
-4. A typical data type to store pointers to some object/data is a pointer. To store (or serialize the value of pointer) in some integer variable, you can use intptr_t. 
-The intptr_t integer type was introduced in C99, uintptr_t is sufficient to store a pointer to any data, but formally not to a function.
-There is a special value in C/C++ called a null pointer that is equal to a null pointer constant. A null pointer can be converted to any other type of pointer.
+3. In some computers, data can be located in memory at any address; in others, alignment conditions are imposed on certain types.
 
-5. A null pointer in C/C++ is any integer expression that yields zero. Or such an expression cast into a pointer. The expressions below will not result in a compilation error, as much as we would like to:
+4. A typical data type to store pointers to some object/data is a pointer. To store (or serialize the value of pointer) in some integer variable, you can use ```uintptr_t```. The ```uintptr_t``` integer type was introduced in C99. The  ```uintptr_t``` is sufficient to store a pointer to any data, but formally not to a function.
+
+5. A special value in C/C++ called a null pointer equal to a null pointer constant. A null pointer can be converted to any other type of pointer.
+
+5. A null pointer in C/C++ is an integer expression that yields zero. Or such an expression cast into a pointer. The expressions below will not result in a compilation error, as much as we would like to:
 ```cpp
       void y(int*){}
       y(0);
 ```
-6. In C++11 instead of NULL you can use `nullptr` the keyword that stands to null pointer variable with the type `std::nullptr_t`.
+6. In C++11, instead of NULL, you can use `nullptr`. That keyword stands for null pointer variable with type `std::nullptr_t.`
 
-7. When using `union` for a mixture of structures that start the same way, there is guarantee of an identical mapping of component "from this beginning".
+7. When using `union` for a mixture of structures that start the same way, there is a guarantee in C/C++ of an identical physical mapping of components "from this beginning".
 
-8. In C and in C++ the components of variable of structure type has addresses. There are following guarantees:
+8. In C and in C++ the components of the variable of structure type ```struct``` has addressed. There are the following guarantees:
 * The component addresses are in ascending order. 
-* The address of the first component is the same as the address of the beginning of the structure. Regardless of what endian the computer has where the program will run.
+* The address of the first component is the same as the address of the beginning of the structure. And it is regardless of what endian the computer has where the program will run.
 
-9. Structs are not allowed to perform comparisons with `==` or with `>`. The fundamental nature of this restriction in C/C++ is due to the fact that for objects there may be holes in their layout from memory filled randomly.
+9. Structs are not allowed to perform comparisons with `==` or with `>`. The fundamental nature of this restriction in C/C++ is because, for objects, there may be holes in their memory layout that are filled randomly.
 
 10. In C++, for the definition (not just declaration) of a variable in global scope you can use `extern int a = 0;`. But in fact `extern` is ignored.
-It's due to (7.11.6, C++2003) "A name declared in a namespace scope without a storage-class-specifier has external linkage unless it has internal linkage because of a previous declaration and provided it is not declared const. 
-Objects declared const and not explicitly declared extern have internal linkage."
-It also follows from this paragraph that declarations of non-const variables declared on namespace level have extern linkage by default in C++.
+It's due to (7.11.6, C++2003):
+```
+"A name declared in a namespace scope without a storage-class-specifier has external linkage unless it has internal linkage because of a previous declaration and provided it is not declared const. Objects declared const and not explicitly declared extern have internal linkage."
+```
+It also follows from this paragraph that declarations of non-const variables declared on namespace level have ```extern``` linkage by default in C++.
 
 # Literal constants
 
@@ -154,112 +189,121 @@ In C/C++ in a literal expression, you can encode the type of a constant:
 
 # Built-in type conversion
 
-Before go into technical details about type conversion, let me be honest - it's hard to remember them, so possibly it is better to observe the big picture first:
-*The general requirement when converting integer types is the mathematical equivalence of the source and target values.*
+Before going into technical details about type conversion, let me be honest - it's hard to remember them, so possibly it is better to observe the big picture first:
+```
+The general requirement when converting integer types is the mathematical equivalence of the source and target values.
+```
 
-Now let's go into sublte technical details.
+Now let's go into subtle technical details.
 
 ## Prohibited conversions
 
-1. Converting a pointer to a function to a pointer to a data and to the other side direction is not allowed in C/C++
-2. Built-in conversion to a struct, the union is not allowed.
-3. C++ treats enum as distinct from each other and from integer type as well.
-4. In C and C ++ implicit conversion from enumerated types to integer types are allowed.
-5. In C implicit conversion from integer to enumerated types is also allowed because in C enum are C, but in C++ it is prohibited.
-6. Converting a pointer to a function to a pointer to a data and to the other side too - is not allowed in C++
+1. Converting a pointer to a function, a pointer to a data, and the other side direction is not allowed in C/C++.
+2. Built-in conversion to a ```struct```, or to the ```union``` is not allowed.
+3. C++ treats ```enum``` as distinct from each other and from integer type as well.
+4. In C implicit conversion from integer to enumerated types is also allowed because in C, `enum` are C, but in C++, it is prohibited.
+4. In C and C ++ implicit conversion from enumerated types to integer types is allowed.
+6. Converting a pointer to a function to a pointer to data and the other side is not allowed in C++.
 
 
 ## The sequence of type conversions rules in C/C++
 1. Trivial transformation. Conversion to identical types. A conversion from "function ..." to "function pointer ...."
-2. If an overflow occurs during conversion to a signed type, then the value is considered overflowed and technically undefined.
-3. If an overflow occurs during conversion to an unsigned type, then the final value is equal to the "unique value" mod $$2^n$$ of the result. When using two's complement presentation, converting to/from signed to unsigned integers of the same size does not require any bit change.
+2. If an overflow occurs during conversion to a signed type, then the value is considered overflowed and technically **undefined**.
+3. If an overflow occurs during conversion to an unsigned type, the final value equals the "unique value" mod $2^n$ of the result. When using two's complement presentation, converting to/from signed to unsigned integers of the same size does not require any bit change.
 4. If the final type is shorter than the original and both types are unsigned, the conversion can be performed by discarding the appropriate number of most significant bits. The rule is also applicable to integer types in 2-s complement notation.
 5. When converting from float values to int, the final value should be equal to the initial value if possible. The nonzero fractional part is discarded. 
-(The result is undefined if the value cannot even be approximated.)
+(The result is **undefined** if the value cannot even be approximated)
 
-6. In C, conversion to floating-point types is possible only from arithmetic types. In the case of conversion from double to float, the final value must be equal to one of the two values closest to the original value. 
-(The choice of rounding is implementation-dependent.)
+6. In C, conversion to floating-point types is possible only from arithmetic types. During converting from double to float, the final value must equal one of the two values closest to the original value. 
+(The choice of rounding is implementation-dependent)
 
-7. If it is impossible to convert from double or int to float.
-(If the range of the target double type does not match, then the value is undefined.)
-8. Conversion from the type array of type T to a pointer to type T is performed by substituting the pointer to the first element of the array.
-9. A value of any type can be converted to void
-10. Conversion to void * and back guarantee the restoration of the original pointer value
-11. In C, void * can be implicitly converted to a pointer to any type. In C++, an explicit cast is required. (Annex C, 4.10, C ++ 2003 standard)
+7. If it is impossible to convert from double or int to float then the value is **undefined**.
+(Example: If the range of the target double type does not match)
+
+8. Conversion from the type array of type T to a pointer to type T is performed by substituting the pointer for the first element of the array.
+
+9. A value of any type can be converted to ```void```.
+
+10. Conversion to ```void *``` and back guarantee the restoration of the original pointer value
+
+11. In C, ```void *``` can be **implicitly** converted to a pointer to any type. In C++, **an explicit cast** is required. (Appendix C, 4.10, C ++ 2003 standard)
+
 12. On the operands of unary operations, ordinary unary conversions are performed. The goal is to reduce the number of arithmetic types.
-   * An array of type T => pointer to the first element (not applied for & operator and for sizeof operators)
-   * Function => function pointer
-   * Conversions from an integer type of rank below int => to int
-   * Conversions from unsigned integer types lower than int, int represent all values => values are cast ​​to integers
-   * Conversions from unsigned integer types lower than int, but int does not represent all => values are cast ​​to unsigned int
-13. On the operands of a binary operation, the usual unary conversions of are performed separately for each, and then the usual binary conversions.
-14. If someone of operand of binary operator is the type long double, double, float, in the second rank lower, then it is cast to the type with highest rank.
+   * An array of type T $\to$ pointer to the first element (not applied for arguments of ```operator &``` and ```sizeof``` operators).
+   * Function $\to$ function pointer
+   * Conversions from an integer type of rank below int $\to$ to int
+   * Conversions from unsigned integer types lower than int, int represent all values $\to$ values are cast ​​to integers
+   * Conversions from unsigned integer types lower than int, but int does not represent all $\to$ values are cast ​​to unsigned int
+13. On the operands of a binary operation, the usual unary conversions are performed separately for each argument, and after that, the regular binary conversions are applied.
+14. If some of the operands of the binary operator have the type `long`, `double`, `double`, `float`, and the second operand has a rank lower, then it is cast to the type with the highest rank.
 15. If both operands are unsigned, then both are cast to a higher rank unsigned type.
 16. If both operands are signed, then both are cast in the signed type of the higher rank.
-17. Unsigned operand and lower-ranked signed operand => unsigned type.
-18. Unsigned operand and signed type operand of higher rank => signed type.
-19. If the prototype is controlled by an ellipsis `...`, i.e. function obtain varying argument number, then the usual unary conversions are performed on the operands. Also besides that, `float` is always promoted to `double`.
-    (If there is no ellipsis and the call is fully prototype driven, then float is not converting into double)
+17. Unsigned operand and lower-ranked signed operand $\to$ unsigned type.
+18. Unsigned operand and signed type operand of higher rank $\to$ signed type.
+19. If the prototype is controlled by an ellipsis `...`, i.e., the function obtains varying argument number, then the usual unary conversions are performed on the operands. Also, besides that, `float` is always promoted to `double`. The float is not converting into a double if there is no ellipsis and the call is fully prototype-driven.
 
 # Namespaces
 
 The namespace is a mechanism for reflecting logical grouping. If some declarations can be combined according to some criteria, they can be placed in the same namespace to reflect this fact. 
 
-Namespace advantages:
+**Namespace advantages:**
 * Logical structure reflection
 * Avoidance of name conflicts
 * Express a coherent set of tools 
 * Prevent users from accessing unnecessary tools 
 * Do not require significant additional effort when using
 
-Namespace aisadvantages:
+**Namespace disadvantages:**
 * Waste of time analyzing the assignment of objects to different namespaces
 * Various additional nuances: 
-- A local variable or a variable declared via using hides external variables in relation to the block of visibility.
-- When libraries that declare many names are made available through the using directive, it is important to understand that unused name conflicts are not considered errors.
-- Elements of the same namespace can be in different files.
+  - A local variable or a variable declared via `using` hides external variables in relation to the block of visibility.
+  - When libraries that declare many names are made available through the `using` directive, it is important to understand that unused name conflicts are not considered errors.
+  - Elements of the same namespace can be in different files.
 
 # New operator (memory allocation)
 
-In C++, before the introduction of the exception mechanism, the new operator returned 0 when the memory allocation failed. 
-In the C++ standard, new by default throws a bad_alloc exception. As a rule, it is best to strive for similarity to the standard. Better to modify the program to catch bad_alloc rather than check for 0. 
-
-In both cases, doing anything other than throwing an error message is not easy on most systems. See paragraph 5.3.4. Subparagraph 13. http://www.ishiboo.com/~nirva/c++/C++STANDARD-ISOIEC14882-1998.pdf
+In C++, before the introduction of the exception mechanism, the `new` operator returned 0 when the memory allocation failed. 
+In the C++ standard, `new` by default throws a `std::bad_alloc` exception. As a rule, striving for similarity to the standard is best. Better to modify the program to catch `bad_alloc` rather than check the return for 0. In both cases, doing anything other than throwing an error message is not easy on most systems. See paragraph 5.3.4. Subparagraph 13.
+http://www.ishiboo.com/~nirva/c++/C++STANDARD-ISOIEC14882-1998.pdf
 
 For Visual Studio compiler: 
-1. new (std :: nothrow) - does not throw an exception 
-2. regular new - throws an exception you can customize the behavior using linker options http://msdn.microsoft.com/en-us/library/kftdy56f.aspx
+1. `new(std::nothrow)` - does not throw an exception 
+2. regular `new` - throws an exception. You can customize the behavior using linker options: http://msdn.microsoft.com/en-us/library/kftdy56f.aspx
 
 
 # Exceptions
 
-When a program is constructed from separate modules, and especially when these modules are in independently separate libraries, it is convenient to divide error handling into two parts:
-* Generation of information about the occurrence of an error situation that cannot be resolved locally
+When a program is constructed from separate modules, and especially when these modules are in independently different libraries, it is convenient to divide error handling into two parts:
+* Generation of information about the occurrence of an error situation that cannot be resolved locally.
 * Handling Errors Found Elsewhere
 
-Error handling code can be shorter and more elegant by using a return value, but this solution does not scale well.
+*Error handling code can be shorter and more elegant using a return value, but this solution does not scale well.*
 
 Generally, separating error handling code from "normal" code is a good strategy. Throwing an exception may leave the object in an invalid state.
 
 Throwing an exception can be a source of memory and other resource leaks. It's best to rely on the properties of constructors and destructors and their interactions with exception handling to deal 
-properly with an object. (Escape from a block by throwing an exception cleans up all created local automatic objects in reverse order of creation.). Writing correct exception-safe code using explicit try can be a difficult task.
+appropriately with an object. (Escape from a block by throwing an exception cleans up all created local automatic things in reverse order of creation.). Writing correct exception-safe code using explicit tries can be a difficult task.
 
 
-## Notes about use exceptions:
+## Extra Notes about use exceptions
 
-* You can group exceptions by inheritance relation
-* Exceptions at the time of generation are copied. The const modifier in the catch block does not affect anything. However, the presence of a T& or T type signature is affected. The latter causes the copy constructor to execute. For throw T() , you can't see the copy constructor run in VS 2012. Can be seen for {T e; throw e;}
-* It is possible to rethrow an exception.
-* When an exception is thrown in a constructor, the object's destructor is not called.
-* If an exception is thrown in the destructor during the call to the destructor during exception handling, then this is considered an error in the exception handling mechanism and std::terminate() is called. 
-To distinguish behavior, you can use the uncaught_exception () call in the destructor
-
+* You can group exceptions by inheritance relation.
+* Exceptions at the time of generation are copied. The const modifier in the catch block does not affect anything. However, the presence of a `T&` or `T` type signature is affected. The latter causes the copy constructor to execute. For `throw T();` you can't see the copy constructor run in VS 2012. But can be seen for:
+```cpp
+{T e; throw e;}
+```
 * Exiting a destructor by throwing an exception is against the requirements of the standard library.
-* If an exception is thrown but not caught, std::terminate is called. You can set your behavior with set_terminate.
-* The process of calling destructors for automatic objects constructed on the path from a try block to a throw-expression is called “stack unwinding.” 
-* If a destructor called during stack unwinding exits with an exception, terminate is called (15.5.1). So destructors should generally catch exceptions and not let them propagate out of the destructor.
-* The basic errors classes are std::exception, std::logic_error, std::runtime_error. Some others classes: bad_alloc, bad_cast, bad_typeid, bad_exception, out_of_range, invalid_argument, overflow_error, ios_base::failure
-* If a function tries to throw an exception it didn't declare it will result in a call to std::unexpected which by default pulls std::terminate (p.429, Stroustrup, special edition)
+* The process of calling destructors for automatic objects constructed on the path from a try block to a throw expression is called "stack unwinding."
+* If a destructor called during stack unwinding exits with an exception, terminate is called (C++2003, 15.5.1). So destructors should generally catch exceptions and not let them propagate out of the destructor.
+* If an exception is thrown but not caught, `std::terminate` is called. You can set your behavior with `std::set_terminate`.
+* It is possible to rethrow an exception with `throw;`.
+* When an exception is thrown in a constructor, the object's destructor is not called.
+* If an exception is thrown in the destructor during the call to the destructor during exception handling, then this is considered an error in the exception handling mechanism, and `std::terminate()` is called. 
+To distinguish the behavior of executing destructor due to normal call of the destructor, or during stack unwinding, you can use: `uncaught_exception()` in the destructor.
+
+* The basic errors classes are `exception`, `logic_error`, `runtime_error`. Some others classes: `bad_alloc`, `bad_cast`, `bad_typeid`, `bad_exception`, `out_of_range`, `invalid_argument`, `overflow_error`, `ios_base::failure`.
+
+* If a function tries to throw an exception it didn't declare, it will result in a call to `std::unexpected`, which by default pulls std::terminate (p.429, Stroustrup, special edition)
 
 ```cpp
 intf(); /* Can throw any exception */
