@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opt-Studio - Own interpreter, Shell, Plotter and BLAS (all in C++)
+title: Opt-Studio - interpreter, shell, plotter, scientific compute in one box
 published: true
 ---
 About final project at [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) for the course
