@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FL_PyTorch is publicly available on GitHub.
-published: false
+published: true
 ---
 
 "FL_PyTorch: Optimization Research Simulator for Federated Learning" is publicly available on [GitHub](https://github.com/burlachenkok/flpytorch).
