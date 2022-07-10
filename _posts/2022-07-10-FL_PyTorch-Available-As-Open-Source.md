@@ -18,7 +18,7 @@ The project is distributed in open source form under Apache License Version 2.0.
 
 To become familiar with that tool, I recommend the following sequence of steps:
 
-0. Join our Slack <img height="1em" src="https://burlachenkok.github.io/materials/Slack_icon_2019.svg"/> channel [https://fl-pytorch-workspace.slack.com/](https://fl-pytorch-workspace.slack.com/).
+0. Join our Slack Channel [https://fl-pytorch-workspace.slack.com/](https://fl-pytorch-workspace.slack.com/).
 
 1. Look 8-minute presentation from [DistributedML 2021](https://distributedml.org/) workshop available here: [https://dl.acm.org/doi/abs/10.1145/3488659.3493775](https://dl.acm.org/doi/abs/10.1145/3488659.3493775).
 
@@ -41,5 +41,3 @@ The 25 minutes video talk: [https://webcast.kaust.edu.sa/mediasite/Showcase/kaus
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/GitHub-logo.png"/> </td> 
 </tr>
 </table>
-
-
