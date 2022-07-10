@@ -15,7 +15,6 @@ FL_PyTorch is a suite of open-source software written in python that builds on t
 The project is distributed in open source form under Apache License Version 2.0. Code Repository: [https://github.com/burlachenkok/flpytorch](https://github.com/burlachenkok/flpytorch).
 
 
-
 To become familiar with that tool, I recommend the following sequence of steps:
 
 1. Join our Slack Workspace [https://fl-pytorch-workspace.slack.com/](https://fl-pytorch-workspace.slack.com/).
@@ -26,7 +25,7 @@ To become familiar with that tool, I recommend the following sequence of steps:
 
 4. Read [https://github.com/burlachenkok/flpytorch/blob/main/README.md](https://github.com/burlachenkok/flpytorch/blob/main/README.md) and perform all needed preliminary steps.
 
-5. Launch GUI and look around for a first impression. [fl_pytorch/gui/start.py](https://github.com/burlachenkok/flpytorch/blob/releases/v170/fl_pytorch/gui/start.py).
+5. Launch GUI [fl_pytorch/gui/start.py](https://github.com/burlachenkok/flpytorch/blob/releases/v170/fl_pytorch/gui/start.py) and look around for a first impression.
 
 6. Look into FL_PyTorch at Rising Stars in AI Symposium 2022. The 25 minutes video talk: [https://webcast.kaust.edu.sa/mediasite/Showcase/kaust/Presentation/600c852bedf94c8298f92d8c1703f8521d](https://webcast.kaust.edu.sa/mediasite/Showcase/kaust/Presentation/600c852bedf94c8298f92d8c1703f8521d)
 
