@@ -39,3 +39,11 @@ The 25 minutes video talk: [https://webcast.kaust.edu.sa/mediasite/Showcase/kaus
 
 ----
 
+<table>
+<tr>
+<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
+<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/GitHub-logo.png"/> </td> 
+</tr>
+</table>
+
+
