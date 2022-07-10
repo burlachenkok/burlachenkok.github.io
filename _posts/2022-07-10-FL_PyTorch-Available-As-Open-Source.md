@@ -21,7 +21,7 @@ To become familiar with that tool, I recommend the following sequence of steps:
 
 2. Look 8-minute presentation from [DistributedML 2021](https://distributedml.org/) workshop available here: [https://dl.acm.org/doi/abs/10.1145/3488659.3493775](https://dl.acm.org/doi/abs/10.1145/3488659.3493775).
 
-3. Read the arXiv version of the paper ([https://arxiv.org/abs/2202.03099](https://arxiv.org/abs/2202.03099)) contains a slightly more actual text in comparison to the original publication.
+3. Read the arXiv version of the paper ([https://arxiv.org/abs/2202.03099](https://arxiv.org/abs/2202.03099)). It contains a slightly more actual text in comparison to the original publication.
 
 4. Read [https://github.com/burlachenkok/flpytorch/blob/main/README.md](https://github.com/burlachenkok/flpytorch/blob/main/README.md) and perform all needed preliminary steps.
 
