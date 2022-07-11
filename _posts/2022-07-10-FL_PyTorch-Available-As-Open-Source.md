@@ -17,7 +17,7 @@ The project is distributed in open source form under Apache License Version 2.0.
 
 To become familiar with that tool, I recommend the following sequence of steps:
 
-1. Join our Slack Workspace [https://fl-pytorch.slack.com/](https://fl-pytorch.slack.com/).
+1. Join our Slack Workspace [https://fl-pytorch.slack.com/](https://fl-pytorch.slack.com/). The invitation [Link](https://join.slack.com/t/fl-pytorch/shared_invite/zt-1cjkjct9c-1wuFdrbVT4LcrAcjyj_gBw).
 
 2. Look 8-minute presentation from [DistributedML 2021](https://distributedml.org/) workshop available here: [https://dl.acm.org/doi/abs/10.1145/3488659.3493775](https://dl.acm.org/doi/abs/10.1145/3488659.3493775).
 
