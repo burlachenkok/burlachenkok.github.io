@@ -24,3 +24,5 @@ It's a great pleasure for me to obtain the opportunity to present our work [MARI
 [MARINA](https://arxiv.org/abs/2102.07845) employs a novel communication compression strategy based on the compression of gradient differences which is reminiscent but different from the technique used in the [DIANA method of Mishchenko et al. (2019)](https://arxiv.org/abs/1901.09269). Our methods are superior to previous state-of-the-art methods regarding the oracle/communication complexity. 
 
 Unfortunately, my visit is under question due to time delays with obtaining a VISA to Italy due to (a) the series of National Holidays in Saudi Arabia (b) official long time delays in obtaining VISAs (3 working weeks after application excluding national holidays).
+
+![Thumbnail](https://burlachenkok.github.io/materials/cropped-salerno-podc.png)
