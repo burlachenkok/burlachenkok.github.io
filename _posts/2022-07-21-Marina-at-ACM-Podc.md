@@ -8,12 +8,25 @@ published: true
 
 ---
 
-Our paper ["MARINA: Faster Non-Convex Distributed Learning with Compression"](https://proceedings.mlr.press/v139/gorbunov21a.html) has been accepted to The Thirty-eighth International Conference on Machine Learning ([ICML 2021](https://icml.cc/Conferences/2021)) proceeding.
+The [ACM Symposium on Principles of Distributed Computing](https://www.podc.org/about/) is an international forum on the theory, design, analysis, implementation, and application of distributed systems and networks.
 
-The arXiv link for the paper: [https://arxiv.org/abs/2102.07845](https://arxiv.org/abs/2102.07845).
+The Symposium aims to improve understanding of the principles underlying distributed computing. The scope of the conference is described on its homepage: [https://www.podc.org/](https://www.podc.org/).
 
-The acceptance rate from various news sources is described as 21.5%. It was my great pleasure to work with my peers: [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Zhize Li](https://zhizeli.github.io/), [Peter Richtarik](https://richtarik.org/). 
+The Symposium [schedule](https://www.podc.org/podc2022/schedule/) includes *Keynote Speakers, Sessions, Workshops, and Tutorials*.
 
-The YouTube recording of my short 5-minute talk is available [here](https://www.youtube.com/watch?v=o5MwC4DYbGE)
+The symposium is taking place between 25-JULY-2022 and 29-JULY-2022 in Salerno, Italy.
 
-![Thumbnail](https://burlachenkok.github.io/materials/icml_thumbnail.jpeg)
+The list of workshops and tutorials includes the following:
+
+* [Workshop on Advanced Tools, Programming Languages, and Platforms for Implementing and Evaluating Algorithms for Distributed Systems (ApPLIED)](https://www.cse.chalmers.se/~elad/ApPLIED2022/)
+* [Principles of Distributed Learning (PODL)](https://dcl.epfl.ch/site/podc2022)
+* [Distributed Algorithms on Realistic Network Models (DARe)](https://podc-dare.github.io/)
+* [Dispersion of Mobile Robots](https://sites.google.com/view/dispersion-mobilerobots-podc22/)
+
+It's a great pleasure for me to obtain the opportunity to present our work [MARINA: Faster Non-Convex Distributed Learning with Compression](https://arxiv.org/abs/2102.07845) at the [Principles of Distributed Learning (PODL)](https://dcl.epfl.ch/site/podc2022) workshop of that Symposium.
+
+[MARINA](https://arxiv.org/abs/2102.07845) employs a novel communication compression strategy based on the compression of gradient differences which is reminiscent but different from the technique used in the [DIANA method of Mishchenko et al. (2019)](https://arxiv.org/abs/1901.09269). Our methods are superior to previous state-of-the-art methods regarding the oracle/communication complexity. 
+
+Unfortunately, my visit is under question due to time delays with obtaining a VISA to Italy due to the series of National Holidays in Saudi Arabia and official long time delays in obtaining VISAs (3 working weeks after application excluding national holidays).
+
+![Thumbnail](https://burlachenkok.github.io/materials/cropped-salerno-podc.png)
