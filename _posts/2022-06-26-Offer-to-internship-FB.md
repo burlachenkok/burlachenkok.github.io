@@ -4,7 +4,7 @@ title: Research Scientist Intern (AI) offer, Facebook Inc.
 published: true
 ---
 
-Research Scientist Intern (AI) offer, Facebook Inc., USA, Menlo Park
+Research Scientist Intern (AI) offer, Facebook Inc., USA, Menlo Park.
 
 ---
 
