@@ -1,10 +1,10 @@
 ---
 layout: post
-title: MARINA paper has been accepted to ICML 2021.
+title: MARINA Faster Non-Convex Distributed Learning with Compression on ACM PODC 2022.
 published: true
 ---
 
-["MARINA: Faster Non-Convex Distributed Learning with Compression"](https://proceedings.mlr.press/v139/gorbunov21a.html) has been accepted to ICML 2021.
+The paper [MARINA: Faster Non-Convex Distributed Learning with Compression](https://arxiv.org/abs/2102.07845) on [Principles of Distributed Learning of ACM PODC 2022](https://dcl.epfl.ch/site/podc2022).
 
 ---
 
