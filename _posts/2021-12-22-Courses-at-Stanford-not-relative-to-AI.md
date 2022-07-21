@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Courses at Stanford University not relative to AI (at first glance)
+title: Courses at Stanford University not relative to AI (at first glance).
 published: true
 ---
 

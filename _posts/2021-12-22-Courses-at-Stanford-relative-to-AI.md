@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Courses at Stanford University relative to AI
+title: Courses at Stanford University relative to AI.
 published: true
 ---
 

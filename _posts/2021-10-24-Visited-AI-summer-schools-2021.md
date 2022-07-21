@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The visited AI summer schools during summer 2021
+title: The visited AI summer schools during summer 2021.
 published: true
 ---
 

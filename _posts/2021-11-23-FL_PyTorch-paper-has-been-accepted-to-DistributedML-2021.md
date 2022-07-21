@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FL_PyTorch paper has been accepted to DistributedML 2021
+title: FL_PyTorch paper has been accepted to DistributedML 2021.
 published: true
 ---
 

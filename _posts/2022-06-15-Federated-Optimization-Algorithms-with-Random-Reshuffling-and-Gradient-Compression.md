@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Federated Optimization Algorithms with Random Reshuffling and Gradient Compression
+title: Federated Optimization Algorithms with Random Reshuffling and Gradient Compression.
 published: true
 ---
 

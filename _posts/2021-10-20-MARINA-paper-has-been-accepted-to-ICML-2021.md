@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MARINA paper has been accepted to ICML 2021
+title: MARINA paper has been accepted to ICML 2021.
 published: true
 ---
 

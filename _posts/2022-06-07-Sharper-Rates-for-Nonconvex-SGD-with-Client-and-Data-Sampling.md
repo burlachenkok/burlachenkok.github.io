@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sharper Rates and Flexible Framework for Nonconvex SGD with Client and Data Sampling
+title: Sharper Rates and Flexible Framework for Nonconvex SGD with Client and Data Sampling.
 published: true
 ---
 

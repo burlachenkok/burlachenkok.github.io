@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FL_PyTorch is publicly available on GitHub
+title: FL_PyTorch is publicly available on GitHub.
 published: true
 ---
 
