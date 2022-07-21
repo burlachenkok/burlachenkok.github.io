@@ -6,11 +6,11 @@ published: true
 
 The [ACM Symposium on Principles of Distributed Computing](https://www.podc.org/about/) is an international forum on the theory, design, analysis, implementation, and application of distributed systems and networks.
 
-The conference aims to improve understanding of the principles underlying distributed computing. The scope of the conference is described on its homepage: [https://www.podc.org/](https://www.podc.org/).
+The Symposium aims to improve understanding of the principles underlying distributed computing. The scope of the conference is described on its homepage: [https://www.podc.org/](https://www.podc.org/).
 
-The conference schedule [schedule/](https://www.podc.org/podc2022/schedule/) includes *Keynote Speakers, Sessions, Workshops, and Tutorials*.
+The Symposium [schedule](https://www.podc.org/podc2022/schedule/) includes *Keynote Speakers, Sessions, Workshops, and Tutorials*.
 
-The symposium is taking place between 25-JULY-2022 and 29-JULY-2022.
+The symposium is taking place between 25-JULY-2022 and 29-JULY-2022 in Salerno, Italy.
 
 The list of workshops and tutorials includes the following:
 
@@ -19,10 +19,10 @@ The list of workshops and tutorials includes the following:
 * [Distributed Algorithms on Realistic Network Models (DARe)](https://podc-dare.github.io/)
 * [Dispersion of Mobile Robots](https://sites.google.com/view/dispersion-mobilerobots-podc22/)
 
-It's a great pleasure for me to obtain the opportunity to present our work [MARINA: Faster Non-Convex Distributed Learning with Compression](https://arxiv.org/abs/2102.07845) at the [Principles of Distributed Learning (PODL)](https://dcl.epfl.ch/site/podc2022) workshop of that symposium.
+It's a great pleasure for me to obtain the opportunity to present our work [MARINA: Faster Non-Convex Distributed Learning with Compression](https://arxiv.org/abs/2102.07845) at the [Principles of Distributed Learning (PODL)](https://dcl.epfl.ch/site/podc2022) workshop of that Symposium.
 
 [MARINA](https://arxiv.org/abs/2102.07845) employs a novel communication compression strategy based on the compression of gradient differences which is reminiscent but different from the technique used in the [DIANA method of Mishchenko et al. (2019)](https://arxiv.org/abs/1901.09269). Our methods are superior to previous state-of-the-art methods regarding the oracle/communication complexity. 
 
-Unfortunately, my visit is under question due to time delays with obtaining a VISA to Italy due to (a) the series of National Holidays in Saudi Arabia (b) official long time delays in obtaining VISAs (3 working weeks after application excluding national holidays).
+Unfortunately, my visit is under question due to time delays with obtaining a VISA to Italy due to the series of National Holidays in Saudi Arabia and official long time delays in obtaining VISAs (3 working weeks after application excluding national holidays).
 
 ![Thumbnail](https://burlachenkok.github.io/materials/cropped-salerno-podc.png)
