@@ -16,7 +16,7 @@ The videos of all recorded and publicly available talks are available here:
 
 ---
 
-[Rising Stars in AI Symposium 2022](https://cemse.kaust.edu.sa/ai/aii-symp-2022) is organized by [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai), led by [Jürgen Schmidhuber](https://cemse.kaust.edu.sa/ai/people/person/jurgen-schmidhuber). 
+[Rising Stars in AI Symposium 2022](https://cemse.kaust.edu.sa/ai/aii-symp-2022) is organized by [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai), led by [JÃ¼rgen Schmidhuber](https://cemse.kaust.edu.sa/ai/people/person/jurgen-schmidhuber). 
 
 References to the presented work:
 
@@ -38,3 +38,4 @@ The symposium will be held in [KAUST](https://cemse.kaust.edu.sa/) with (limited
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/kaust_ai_symposium_2022.jpg"/> </td> 
 </tr>
 </table>
+
