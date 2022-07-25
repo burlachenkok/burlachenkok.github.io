@@ -38,4 +38,3 @@ The symposium will be held in [KAUST](https://cemse.kaust.edu.sa/) with (limited
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/kaust_ai_symposium_2022.jpg"/> </td> 
 </tr>
 </table>
-
