@@ -4,7 +4,7 @@ title: Affiliation with the SDAIA-KAUST AI
 published: true
 ---
 
-Formal affiliation with the SDAIA-KAUST Center of Excellence in Data Science and Artificial Intelligence (SDAIA-KAUST AI)
+Formal affiliation with the SDAIA-KAUST Center of Excellence in Data Science and Artificial Intelligence (SDAIA-KAUST AI).
 
 ---
 
