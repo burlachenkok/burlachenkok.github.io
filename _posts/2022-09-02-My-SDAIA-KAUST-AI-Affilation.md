@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Affiliation with the SDAIA-KAUST Center of Excellence in Data Science and Artificial Intelligence (SDAIA-KAUST AI)
+title: Affiliation with the SDAIA-KAUST AI
 published: true
 ---
 
