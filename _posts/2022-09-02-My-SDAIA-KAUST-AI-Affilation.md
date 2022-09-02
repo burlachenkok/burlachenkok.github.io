@@ -18,9 +18,8 @@ The affiliation is for a period of one year and renewable annually.
 
 
 The Saudi Data and Artificial Intelligence Authority (SDAIA) and King Abdullah University of Science and Technology (KAUST) have signed a memorandum of understanding to unite efforts to develop Artificial Intelligence (AI) research and modern technologies in the Kingdom on June 04, 2021:
-* https://saudigazette.com.sa/article/607385/SAUDI-ARABIA/SDAIA-KAUST-sign-MoU-to-develop-AI-research-and-innovation-in-Saudi-Arabia
-* https://cemse.kaust.edu.sa/ai/news/sdaia-kaust-sign-mou-develop-ai-research-and-innovation-saudi-arabia
-
+* [https://saudigazette.com.sa/article/607385/SAUDI-ARABIA/SDAIA-KAUST-sign-MoU-to-develop-AI-research-and-innovation-in-Saudi-Arabia](https://saudigazette.com.sa/article/607385/SAUDI-ARABIA/SDAIA-KAUST-sign-MoU-to-develop-AI-research-and-innovation-in-Saudi-Arabia)
+* [https://cemse.kaust.edu.sa/ai/news/sdaia-kaust-sign-mou-develop-ai-research-and-innovation-saudi-arabia](https://cemse.kaust.edu.sa/ai/news/sdaia-kaust-sign-mou-develop-ai-research-and-innovation-saudi-arabia)
 
 Wait for nice joint projects and activities within SDAIA-KAUST AI !
 
