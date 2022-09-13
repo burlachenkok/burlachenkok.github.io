@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: burlachekok
   stackoverflow: users/1154447/bruziuz # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCx96nqaQo7Tx87xFr-F2A5A # channel/<your_long_string> or user/<user-name>
+  # youtube: channel/UCx96nqaQo7Tx87xFr-F2A5A # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   googlescholar: 3pA-LoQAAAAJ 
 
