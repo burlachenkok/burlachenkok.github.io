@@ -4,7 +4,7 @@ title: Personalized FL with Communication Compression.
 published: true
 ---
 
-The new paper [Personalized Federated Learning with Communication Compression](https://arxiv.org/abs/2209.05148) has been outed.
+The new paper [Personalized Federated Learning with Communication Compression](https://arxiv.org/abs/2209.05148) has been published.
 
 ---
 
