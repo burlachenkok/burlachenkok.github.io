@@ -48,7 +48,9 @@ ResNet. We include experiments with Logistic Regression - the model which is wid
 
 <table style="text-align:center;">
 <tr>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="75px" src="https://burlachenkok.github.io/materials/SDU-logo.png"/> </td>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="75px" src="https://burlachenkok.github.io/materials/UM6P-logo.png"/> </td>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.png"/> </td>
 </tr>
 </table>
