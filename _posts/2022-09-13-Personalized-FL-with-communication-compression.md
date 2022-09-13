@@ -15,8 +15,7 @@ I was glad to work with my peers [Aritra Dutta](http://www.aritradutta.com/) fro
 and prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/).
 
 ----
-
-# Federated Learning
+## Federated Learning
 
 The limited amount of data for training big models for Machine Learning can leads to poor machine learning models or makes even training impossible if the high statistical variance of the obtained models is the key problem.
 On another side, the proliferation of mobile phones, wearable devices, tablets, and smart home devices comes with an increase in the volume of data captured and stored on them.
@@ -30,7 +29,7 @@ However, applying such an approach in practice leads to several issues:
 Federated learning (FL) has emerged as an interdisciplinary field focused on addressing these issues by training machine learning models directly on edge devices or organizations. 
 
 In contrast to training traditional machine learning (ML) models in data centers, federated learning (FL) trains ML models over local datasets contained on resource-constrained heterogeneous edge devices.
-
+----
 # Previous works
 
 Existing FL algorithms aim to learn a single global model for all participating devices, which may not be helpful to all devices participating in the training due to the heterogeneity of the data across 
@@ -38,6 +37,7 @@ the devices. Recently, Hanzely and Richtarik (2020) proposed a new formulation f
 that could be trained by individual devices using their private data only. 
 They derived a new algorithm, called loopless gradient descent (L2GD), to solve it and showed that this algorithm leads to improved communication complexity guarantees in regimes when more personalization is required. 
 
+----
 # Our paper
 
 In this paper, we equip their L2GD algorithm with a bidirectional compression mechanism to further reduce the communication bottleneck between the local devices and the server. 
