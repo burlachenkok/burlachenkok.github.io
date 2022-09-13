@@ -20,6 +20,8 @@ The limited amount of data for training big models for Machine Learning can lead
 
 Federated learning (FL) has emerged as an interdisciplinary field focused on addressing these issues by training machine learning models directly on edge devices or organizations. In contrast to training traditional machine learning (ML) models in data centers, Federated Learning trains ML models over local datasets contained on resource-constrained heterogeneous edge devices.
 
+---
+
 # Our work
 
 Existing FL algorithms aim to learn a single global model for all participating devices, which may not be helpful to all devices participating in the training due to the heterogeneity of the data across 
