@@ -10,8 +10,7 @@ The new paper [Personalized Federated Learning with Communication Compression](h
 
 Our paper "Personalized Federated Learning with Communication Compression" has been out. The arXiv link for the paper: [https://arxiv.org/abs/2209.05148](https://arxiv.org/abs/2209.05148)
 
-I was glad to work with my peers [Aritra Dutta](http://www.aritradutta.com/) from [University of Southern Denmark (Syddansk Universitet, SDU)](https://www.sdu.dk/en), [El Houcine Bergou](https://zhizeli.github.io/) from [Mohammed VI Polytechnic University](https://www.um6p.ma/index.php/en/vision), 
-and prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/).
+I was glad to work with my peers [El Houcine Bergou](https://zhizeli.github.io/) from [Mohammed VI Polytechnic University](https://www.um6p.ma/index.php/en/vision), [Aritra Dutta](http://www.aritradutta.com/) from [University of Southern Denmark](https://www.sdu.dk/en), [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/).
 
 ----
 
