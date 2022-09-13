@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personalized Federated Learning with Communication Compression.
+title: Personalized FL with Communication Compression.
 published: true
 ---
 
