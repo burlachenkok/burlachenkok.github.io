@@ -8,8 +8,9 @@ Second Place in KAUST Chess Tournament.
 
 ---
 
-At October 7, 2022. I have attended the first chess tournament organized by [Rook and Roll Chess Club](https://campusconnect.kaust.edu.sa/rooknroll/home/) at [KAUST Univeristy](https://www.kaust.edu.sa/).
-I was glad for obtaining a second place in this event. 
+On October 7, 2022. I attended the first chess tournament organized by [Rook and Roll Chess Club](https://campusconnect.kaust.edu.sa/rooknroll/home/) at [KAUST Univeristy](https://www.kaust.edu.sa/).
+
+I was glad to participate in this event. In this tournament, I obtained second place.
 
 ---
 
