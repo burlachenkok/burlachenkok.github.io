@@ -14,9 +14,6 @@ I was glad to participate in this event. In this tournament, I obtained second p
 
 ---
 
-<table style="text-align:center;">
-<tr>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="125px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="155px" src="https://burlachenkok.github.io/materials/chess-club-kaust-present.png"/> </td>
-</tr>
-</table>
+![Chess Club Present](./materials/chess-club-kaust-present.png)
+
+![KAUST Logo](./materials/KAUST-logo.png)
