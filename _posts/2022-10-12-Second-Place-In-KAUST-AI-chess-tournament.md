@@ -14,6 +14,6 @@ I was glad to participate in this event. In this tournament, I obtained second p
 
 ---
 
-![Chess Club Present](./materials/chess-club-kaust-present.png)
+![Chess Club Present](https://burlachenkok.github.io/materials/chess-club-kaust-present.png)
 
-![KAUST Logo](./materials/KAUST-logo.png)
+![KAUST Logo](https://burlachenkok.github.io/materials/KAUST-logo.png)
