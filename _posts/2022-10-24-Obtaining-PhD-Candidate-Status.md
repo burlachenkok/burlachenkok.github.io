@@ -4,7 +4,7 @@ title: Obtaining the Status of a Ph.D. candidate
 published: true
 ---
 
-Today Monday 24 Oct I obtained the Status of a Ph.D. candidate.
+Today Monday 24 October 2022 I defended my CS Ph.D. Proposal and I have obtained the Status of a Ph.D. candidate.
 
 ---
 
