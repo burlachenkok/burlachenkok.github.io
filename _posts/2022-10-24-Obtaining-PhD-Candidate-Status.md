@@ -17,7 +17,7 @@ Dissertation Title: **Optimization Methods and Software for Federated Learning**
 # Committee members:
 ## Prof. Eric Feron
 * [https://cemse.kaust.edu.sa/ece/people/person/eric-feron](https://cemse.kaust.edu.sa/ece/people/person/eric-feron)
-* [http://www.feron.org/Eric/](http://www.feron.org/Eric/)
+* [https://cemse.kaust.edu.sa/risclab](https://cemse.kaust.edu.sa/risclab)
 * [Google Scholar](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=ru&oi=ao)
 
 ## Prof. Marco Canini
@@ -31,8 +31,8 @@ Dissertation Title: **Optimization Methods and Software for Federated Learning**
 * [Google Scholar](https://scholar.google.com/citations?hl=ru&user=pGh242UAAAAJ)
 
 # Thanks to:
-* Professors who participated in this event Prof. Peter Richtarik, Prof. Eric Feron, Prof.Marco Canini, and Prof. Markus Hadwiger, [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa) who is also Director of SDAIA-KAUST.
-* Members of the Labs of [Prof. Peter Richtarik](https://richtarik.org/), [Prof. Eric Feron](https://cemse.kaust.edu.sa/risclab), [Prof.Marco Canini](https://mcanini.github.io/), [Prof. Markus Hadwiger](https://vccvisualization.org/people/hadwiger/), [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa) who have found time to join my CS Ph.D. Proposal Defense.
+* Professors who participated in this event [Prof. Peter Richtarik](https://richtarik.org/), [Prof. Eric Feron](https://cemse.kaust.edu.sa/risclab), [Prof.Marco Canini](https://mcanini.github.io/), and [Prof. Markus Hadwiger](https://vccvisualization.org/people/hadwiger/), [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa) who is also Director of SDAIA-KAUST.
+* Members of the labs and centers leaded by mentioned Professors who have found time to join my CS Ph.D. Proposal Defense.
 * For my collaborators with whom we continue to construct a future for Federated Learning, but who did not have chance to connect to event.
 * And for all external participants.
 
