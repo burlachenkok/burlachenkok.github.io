@@ -5,7 +5,7 @@ published: true
 ---
 
 Today on Monday 24 October 2022 I defended my CS Ph.D. Proposal and I have obtained the Status of a Ph.D. candidacy.
-Committee: Prof. Eric Feron, Prof. Marco Canini, Prof. Peter Richtarik.
+Committee: Prof. E.Feron, Prof. M.Canini, Prof. P.Richtarik.
 
 ---
 
