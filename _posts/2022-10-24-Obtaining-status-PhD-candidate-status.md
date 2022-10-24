@@ -14,22 +14,22 @@ The purpose of the dissertation proposal defense is to demonstrate candidate can
 
 The event occurred on Monday, 24 Oct, 13:30 ù 15:00 (UTC+3).
 
-Dissertation Title: "Optimization Methods and Software for Federated Learning."
+Dissertation Title: **Optimization Methods and Software for Federated Learning**.
 
-Committee members:
-* Prof. Eric Feron
-https://cemse.kaust.edu.sa/ece/people/person/eric-feron
-http://www.feron.org/Eric/
+# Committee members:
+## Prof. Eric Feron
+* https://cemse.kaust.edu.sa/ece/people/person/eric-feron
+* http://www.feron.org/Eric/
 
-* Prof. Marco Canini
-https://www.kaust.edu.sa/en/study/faculty/marcocanini
-https://mcanini.github.io/
+## Prof. Marco Canini
+* https://www.kaust.edu.sa/en/study/faculty/marcocanini
+* https://mcanini.github.io/
 
-* Prof. Peter Richtarik
-https://cemse.kaust.edu.sa/people/person/peter-richtarik
-https://richtarik.org/
+## Prof. Peter Richtarik
+* https://cemse.kaust.edu.sa/people/person/peter-richtarik
+* https://richtarik.org/
 
-Thanks to:
+# Thanks to:
 * Professors who participated in this event Prof. Peter Richtarik, Prof. Eric Feron, Prof.Marco Canini, and Prof. Markus Hadwiger.
 * [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa), Instructional Assistant Professor, KAUST and Director of SDAIA-KAUST.
 * Members of the Labs of [Prof. Peter Richtarik](https://richtarik.org/), [Prof. Eric Feron](https://cemse.kaust.edu.sa/risclab), [Prof.Marco Canini](https://mcanini.github.io/), [Prof. Markus Hadwiger](https://vccvisualization.org/people/hadwiger/), [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa) who have found time to join my CS Ph.D. Proposal Defense.
