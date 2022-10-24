@@ -12,7 +12,7 @@ It is a great pleasure for me to obtain a status of a Ph.D. candidate in KAUST a
 
 The purpose of the dissertation proposal defense is to demonstrate candidate can undertake Ph.D.-level research in the proposed area [Details](https://registrar-programguide.kaust.edu.sa/en/2020-2021/Program-Guide/General-Information/Doctor-of-Philosophy-University-Degree-Requirements/Ph-D-Candidacy-Requirements/Ph-D-Dissertation-Proposal-Defense).
 
-The event occurred on Monday, 24 Oct, 13:30 ó 15:00 (UTC+3).
+The event occurred on Monday, 24 Oct, 13:30 √π 15:00 (UTC+3).
 
 Dissertation Title: "Optimization Methods and Software for Federated Learning."
 
@@ -26,7 +26,7 @@ Committee members:
 ** https://www.kaust.edu.sa/en/study/faculty/marcocanini
 ** https://mcanini.github.io/
 
-* Prof. Peter Richt·rik
+* Prof. Peter Richt√ürik
 ** https://cemse.kaust.edu.sa/people/person/peter-richtarik
 ** https://richtarik.org/
 
