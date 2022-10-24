@@ -41,7 +41,7 @@ Thanks to the Kingdom of Saudi Arabia for supporting [CEMSE](https://cemse.kaust
 
 ----
 
-**Thanks to the Committee for the feedback for me to improve myself in the future!**
+**Thanks to the Committee for the personal feedback about how I can improve myself in the future!**
   
 ---
 
