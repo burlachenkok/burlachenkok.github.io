@@ -8,11 +8,10 @@ Today on Monday 24 October 2022 I defended my CS Ph.D. Proposal and I have obtai
 
 ---
 
-It is a great pleasure for me to obtain a status of Ph.D. candidacy in KAUST after defending my CS Ph.D. Proposal. 
+It is a great pleasure for me to obtain a status of Ph.D. candidacy in KAUST after defending my CS Ph.D. Proposal. The event occurred physically and online on Monday, 24 Oct, 13:30 - 15:00 (UTC+3) in Building 9, Room 3370, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
 
-The event occurred physically and online on Monday, 24 Oct, 13:30 - 15:00 (UTC+3) in Building 9, Room 3370, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
-
-Dissertation Title: **Optimization Methods and Software for Federated Learning**.
+# Dissertation Title
+Optimization Methods and Software for Federated Learning.
 
 # Committee members
 ## Prof. Eric Feron
