@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Obtaining the status of a Ph.D. candidate
+title: Obtaining the Status of a Ph.D. candidate
 published: true
 ---
 
-Obtaining the status of a Ph.D. candidate.
+Obtaining the Status of a Ph.D. candidate.
 
 ---
 
