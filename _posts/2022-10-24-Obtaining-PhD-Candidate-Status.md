@@ -31,7 +31,8 @@ Dissertation Title: **Optimization Methods and Software for Federated Learning**
 * [Google Scholar](https://scholar.google.com/citations?hl=ru&user=pGh242UAAAAJ)
 
 # Thanks to:
-* Professors who participated in this event [Prof. Peter Richtarik](https://richtarik.org/), [Prof. Eric Feron](https://cemse.kaust.edu.sa/risclab), [Prof.Marco Canini](https://mcanini.github.io/), and [Prof. Markus Hadwiger](https://vccvisualization.org/people/hadwiger/), [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa) who is also Director of [SDAIA-KAUST](https://cemse.kaust.edu.sa/ai/news/sdaia-kaust-sign-mou-develop-ai-research-and-innovation-saudi-arabia).
+* Professors and Committee member [Prof. Peter Richtarik](https://richtarik.org/), [Prof. Eric Feron](https://cemse.kaust.edu.sa/risclab), [Prof.Marco Canini](https://mcanini.github.io/)
+* [Prof. Markus Hadwiger](https://vccvisualization.org/people/hadwiger/) and [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa) who is also Director of [SDAIA-KAUST](https://cemse.kaust.edu.sa/ai/news/sdaia-kaust-sign-mou-develop-ai-research-and-innovation-saudi-arabia).
 * Members of the labs and centers leaded by mentioned Professors who have found time to join my CS Ph.D. Proposal Defense.
 * For my collaborators with whom we continue to construct a future for Federated Learning, but who did not have a chance to connect to event.
 * And for all external participants.
