@@ -31,12 +31,12 @@ https://richtarik.org/
 
 Thanks to:
 * Professors who participated in this event Prof. Peter Richtarik, Prof. Eric Feron, Prof.Marco Canini, and Prof. Markus Hadwiger.
-* Prof.David R. Pugh who is the Director of the SDAIA-KAUST AI Initiative and Prof. at KAUST.
-* Members of the Labs of Prof. Peter Richtarik, Prof. Eric Feron, Prof.Marco Canini, and Prof. Markus Hadwiger who have found time to join my CS Ph.D. Proposal Defense and members of SDAIA-KAUST AI.
-* For my collaborators with whom we did all the best to construct future for Federated Learning.
-* For all external participants.
+* [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa), Instructional Assistant Professor, KAUST and Director of SDAIA-KAUST.
+* Members of the Labs of [Prof. Peter Richtarik](https://richtarik.org/), [Prof. Eric Feron](https://cemse.kaust.edu.sa/risclab), [Prof.Marco Canini](https://mcanini.github.io/), [Prof. Markus Hadwiger](https://vccvisualization.org/people/hadwiger/), [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa) who have found time to join my CS Ph.D. Proposal Defense.
+* For my collaborators with whom we continue to construct a future for Federated Learning.
+* And for all external participants.
 
-And thanks to the committee for the feedbacks for me to improve myself in future.
+Thanks to the committee for the feedbacks for me to improve myself in future.
   
 ---
 
