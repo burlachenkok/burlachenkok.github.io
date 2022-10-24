@@ -11,7 +11,7 @@ Committee members: Prof. Eric Feron, Prof. Marco Canini, Prof. Peter Richtarik.
 
 It is a great pleasure for me to obtain a status of Ph.D. candidacy in KAUST after defending my CS Ph.D. Proposal. The purpose of the dissertation proposal defense is to prove that candidate can undertake Ph.D. level research in the proposed area [Details](https://registrar-programguide.kaust.edu.sa/en/2020-2021/Program-Guide/General-Information/Doctor-of-Philosophy-University-Degree-Requirements/Ph-D-Candidacy-Requirements/Ph-D-Dissertation-Proposal-Defense).
 
-The event occurred physically and online on Monday, 24 Oct, 13:30 - 15:00 (UTC+3) in room number Building 9, Room 3370, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
+The event occurred physically and online on Monday, 24 Oct, 13:30 - 15:00 (UTC+3) in Building 9, Room 3370, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
 
 Dissertation Title: **Optimization Methods and Software for Federated Learning**.
 
