@@ -17,26 +17,26 @@ The event occurred on Monday, 24 Oct, 13:30 ù 15:00 (UTC+3).
 Dissertation Title: "Optimization Methods and Software for Federated Learning."
 
 Committee members:
-
 * Prof. Eric Feron
-** https://cemse.kaust.edu.sa/ece/people/person/eric-feron
-** http://www.feron.org/Eric/
+https://cemse.kaust.edu.sa/ece/people/person/eric-feron
+http://www.feron.org/Eric/
 
 * Prof. Marco Canini
-** https://www.kaust.edu.sa/en/study/faculty/marcocanini
-** https://mcanini.github.io/
+https://www.kaust.edu.sa/en/study/faculty/marcocanini
+https://mcanini.github.io/
 
 * Prof. Peter Richtarik
-** https://cemse.kaust.edu.sa/people/person/peter-richtarik
-** https://richtarik.org/
+https://cemse.kaust.edu.sa/people/person/peter-richtarik
+https://richtarik.org/
 
-Thanks:
-* For professors who participated in this event Prof. Peter Richtarik, Prof. Eric Feron, Prof.Marco Canini, and Prof. Markus Hadwiger.
-* For Prof.David R. Pugh who is the Director of the SDAIA-KAUST AI Initiative and Prof. at KAUST.
-* For members of the Lab of mentioned Professors who have found time to join my CS Ph.D. Proposal Defense and members of SDAIA-KAUST AI.
+Thanks to:
+* Professors who participated in this event Prof. Peter Richtarik, Prof. Eric Feron, Prof.Marco Canini, and Prof. Markus Hadwiger.
+* Prof.David R. Pugh who is the Director of the SDAIA-KAUST AI Initiative and Prof. at KAUST.
+* Members of the Labs of Prof. Peter Richtarik, Prof. Eric Feron, Prof.Marco Canini, and Prof. Markus Hadwiger who have found time to join my CS Ph.D. Proposal Defense and members of SDAIA-KAUST AI.
+* For my collaborators with whom we did all the best to construct future for Federated Learning.
 * For all external participants.
 
-Thanks to the committee for the feedbacks.
+And thanks to the committee for the feedbacks for me to improve myself in future.
   
 ---
 
