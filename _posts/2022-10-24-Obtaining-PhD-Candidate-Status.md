@@ -37,6 +37,8 @@ Dissertation Title: **Optimization Methods and Software for Federated Learning**
 * For my collaborators with whom we continue to construct a future for Federated Learning, but who did not have a chance to connect to event.
 * And for all external participants.
 
+----
+
 **Thanks to the Committee for the feedback for me to improve myself in the future!**
   
 ---
