@@ -35,7 +35,7 @@ Dissertation Title: **Optimization Methods and Software for Federated Learning**
 * [Prof. Markus Hadwiger](https://vccvisualization.org/people/hadwiger/) and [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa) who is also Director of [SDAIA-KAUST](https://cemse.kaust.edu.sa/ai/news/sdaia-kaust-sign-mou-develop-ai-research-and-innovation-saudi-arabia).
 * Members of the labs and centers leaded by mentioned Professors who have found time to join my CS Ph.D. Proposal Defense.
 * For my collaborators with whom we continue to construct a future for Federated Learning, but who did not have a chance to connect to event.
-* And for all external participants.
+* For all external participants.
 
 ----
 
