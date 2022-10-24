@@ -36,6 +36,8 @@ Thanks:
 * For members of the Lab of mentioned Professors who have found time to join my CS Ph.D. Proposal Defense and members of SDAIA-KAUST AI.
 * For all external participants.
 
+Thanks to the committee for the feedbacks.
+  
 ---
 
 <table style="text-align:center;">
@@ -44,6 +46,3 @@ Thanks:
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
 </tr>
 </table>
-
-
-
