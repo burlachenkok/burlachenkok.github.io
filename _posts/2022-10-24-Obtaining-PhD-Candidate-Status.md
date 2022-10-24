@@ -4,11 +4,11 @@ title: Obtaining the Status of a Ph.D. candidate
 published: true
 ---
 
-Today on Monday 24 October 2022 I defended my CS Ph.D. Proposal and I have obtained the Status of a Ph.D. Candidate.
+Today on Monday 24 October 2022 I defended my CS Ph.D. Proposal and I have obtained the Status of a Ph.D. candidacy.
 
 ---
 
-It is a great pleasure for me to obtain a status of a Ph.D. candidate in KAUST after defending my CS Ph.D. Proposal. The purpose of the dissertation proposal defense is to prove that candidate can undertake Ph.D. level research in the proposed area [Details](https://registrar-programguide.kaust.edu.sa/en/2020-2021/Program-Guide/General-Information/Doctor-of-Philosophy-University-Degree-Requirements/Ph-D-Candidacy-Requirements/Ph-D-Dissertation-Proposal-Defense).
+It is a great pleasure for me to obtain a status of a Ph.D. candidacy in KAUST after defending my CS Ph.D. Proposal. The purpose of the dissertation proposal defense is to prove that candidate can undertake Ph.D. level research in the proposed area [Details](https://registrar-programguide.kaust.edu.sa/en/2020-2021/Program-Guide/General-Information/Doctor-of-Philosophy-University-Degree-Requirements/Ph-D-Candidacy-Requirements/Ph-D-Dissertation-Proposal-Defense).
 
 The event occurred physically and via translating via Zoom on Monday, 24 Oct, 13:30 - 15:00 (UTC+3) in room number Building 9, Room 3370, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
 
