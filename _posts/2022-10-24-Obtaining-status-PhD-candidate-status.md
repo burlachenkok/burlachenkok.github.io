@@ -10,7 +10,7 @@ Obtaining the status of a Ph.D. candidate.
 
 It is a great pleasure for me to obtain a status of a Ph.D. candidate in KAUST after defending my CS Ph.D. Proposal. The purpose of the dissertation proposal defense is to prove that candidate can undertake Ph.D. level research in the proposed area [Details](https://registrar-programguide.kaust.edu.sa/en/2020-2021/Program-Guide/General-Information/Doctor-of-Philosophy-University-Degree-Requirements/Ph-D-Candidacy-Requirements/Ph-D-Dissertation-Proposal-Defense).
 
-The event occurred on Monday, 24 Oct, 13:30 - 15:00 (UTC+3) at room number Building 9, Room 3370, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
+The event occurred physically and via translating it via Zoom on Monday, 24 Oct, 13:30 - 15:00 (UTC+3) at room number Building 9, Room 3370, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
 
 Dissertation Title: **Optimization Methods and Software for Federated Learning**.
 
@@ -28,13 +28,12 @@ Dissertation Title: **Optimization Methods and Software for Federated Learning**
 * [https://richtarik.org/](https://richtarik.org/)
 
 # Thanks to:
-* Professors who participated in this event Prof. Peter Richtarik, Prof. Eric Feron, Prof.Marco Canini, and Prof. Markus Hadwiger.
-* [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa), Instructional Assistant Professor, KAUST and Director of SDAIA-KAUST.
+* Professors who participated in this event Prof. Peter Richtarik, Prof. Eric Feron, Prof.Marco Canini, and Prof. Markus Hadwiger, [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa) who is also Director of SDAIA-KAUST.
 * Members of the Labs of [Prof. Peter Richtarik](https://richtarik.org/), [Prof. Eric Feron](https://cemse.kaust.edu.sa/risclab), [Prof.Marco Canini](https://mcanini.github.io/), [Prof. Markus Hadwiger](https://vccvisualization.org/people/hadwiger/), [Prof. David R. Pugh](https://www.linkedin.com/in/davidrpugh/?originalSubdomain=sa) who have found time to join my CS Ph.D. Proposal Defense.
-* For my collaborators with whom we continue to construct a future for Federated Learning.
+* For my collaborators with whom we continue to construct a future for Federated Learning, but who did not have chance to connect to event.
 * And for all external participants.
 
-Thanks to the committee for the feedbacks for me to improve myself in future.
+Thanks to the Committee for the feedbacks for me to improve myself in future.
   
 ---
 
