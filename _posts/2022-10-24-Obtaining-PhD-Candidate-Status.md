@@ -4,7 +4,7 @@ title: Obtaining the Status of a Ph.D. candidate
 published: true
 ---
 
-Obtaining the Status of a Ph.D. candidate.
+Today Monday 24 Oct I obtained the Status of a Ph.D. candidate.
 
 ---
 
