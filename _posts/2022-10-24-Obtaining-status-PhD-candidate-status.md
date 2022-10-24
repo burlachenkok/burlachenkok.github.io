@@ -18,7 +18,7 @@ Dissertation Title: "Optimization Methods and Software for Federated Learning."
 
 Committee members:
 
-* Prof. Eric Feron. 
+* Prof. Eric Feron
 ** https://cemse.kaust.edu.sa/ece/people/person/eric-feron
 ** http://www.feron.org/Eric/
 
@@ -26,7 +26,7 @@ Committee members:
 ** https://www.kaust.edu.sa/en/study/faculty/marcocanini
 ** https://mcanini.github.io/
 
-* Prof. Peter Richtßrik
+* Prof. Peter Richtarik
 ** https://cemse.kaust.edu.sa/people/person/peter-richtarik
 ** https://richtarik.org/
 
