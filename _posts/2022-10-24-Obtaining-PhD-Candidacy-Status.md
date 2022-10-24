@@ -37,7 +37,7 @@ Dissertation Title: **Optimization Methods and Software for Federated Learning**
 * My collaborators with whom we continue to construct a future for Federated Learning, but who did not have a chance to connect to the event.
 * External participants.
 
-Thanks to Kingdom of Saudi Arabia for supporting [CEMSE](https://cemse.kaust.edu.sa/) division in particular and [KAUST](https://www.kaust.edu.sa/en) in general.
+Thanks to the Kingdom of Saudi Arabia for supporting [CEMSE](https://cemse.kaust.edu.sa/) Division in particular and [KAUST](https://www.kaust.edu.sa/en) in general.
 
 ----
 
