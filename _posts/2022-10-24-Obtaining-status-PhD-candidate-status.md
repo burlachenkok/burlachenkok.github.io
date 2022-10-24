@@ -8,26 +8,24 @@ Obtaining the status of a Ph.D. candidate.
 
 ---
 
-It is a great pleasure for me to obtain a status of a Ph.D. candidate in KAUST after defending my CS Ph.D. Proposal.
+It is a great pleasure for me to obtain a status of a Ph.D. candidate in KAUST after defending my CS Ph.D. Proposal. The purpose of the dissertation proposal defense is to prove that candidate can undertake Ph.D. level research in the proposed area [Details](https://registrar-programguide.kaust.edu.sa/en/2020-2021/Program-Guide/General-Information/Doctor-of-Philosophy-University-Degree-Requirements/Ph-D-Candidacy-Requirements/Ph-D-Dissertation-Proposal-Defense).
 
-The purpose of the dissertation proposal defense is to demonstrate candidate can undertake Ph.D.-level research in the proposed area [Details](https://registrar-programguide.kaust.edu.sa/en/2020-2021/Program-Guide/General-Information/Doctor-of-Philosophy-University-Degree-Requirements/Ph-D-Candidacy-Requirements/Ph-D-Dissertation-Proposal-Defense).
-
-The event occurred on Monday, 24 Oct, 13:30 ù 15:00 (UTC+3).
+The event occurred on Monday, 24 Oct, 13:30 - 15:00 (UTC+3) at room number Building 9, Room 3370, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
 
 Dissertation Title: **Optimization Methods and Software for Federated Learning**.
 
 # Committee members:
 ## Prof. Eric Feron
-* https://cemse.kaust.edu.sa/ece/people/person/eric-feron
-* http://www.feron.org/Eric/
+* [https://cemse.kaust.edu.sa/ece/people/person/eric-feron](https://cemse.kaust.edu.sa/ece/people/person/eric-feron)
+* [http://www.feron.org/Eric/](http://www.feron.org/Eric/)
 
 ## Prof. Marco Canini
-* https://www.kaust.edu.sa/en/study/faculty/marcocanini
-* https://mcanini.github.io/
+* [https://www.kaust.edu.sa/en/study/faculty/marcocanini](https://www.kaust.edu.sa/en/study/faculty/marcocanini)
+* [https://mcanini.github.io/](https://mcanini.github.io/)
 
 ## Prof. Peter Richtarik
-* https://cemse.kaust.edu.sa/people/person/peter-richtarik
-* https://richtarik.org/
+* [https://cemse.kaust.edu.sa/people/person/peter-richtarik](https://cemse.kaust.edu.sa/people/person/peter-richtarik)
+* [https://richtarik.org/](https://richtarik.org/)
 
 # Thanks to:
 * Professors who participated in this event Prof. Peter Richtarik, Prof. Eric Feron, Prof.Marco Canini, and Prof. Markus Hadwiger.
