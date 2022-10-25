@@ -14,20 +14,9 @@ It is a great pleasure for me to obtain a status of Ph.D. candidacy in KAUST aft
 Optimization Methods and Software for Federated Learning.
 
 # Committee members
-## Prof. Eric Feron
-* [https://cemse.kaust.edu.sa/ece/people/person/eric-feron](https://cemse.kaust.edu.sa/ece/people/person/eric-feron)
-* [https://cemse.kaust.edu.sa/risclab](https://cemse.kaust.edu.sa/risclab)
-* [Google Scholar](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=ru&oi=ao)
-
-## Prof. Marco Canini
-* [https://www.kaust.edu.sa/en/study/faculty/marcocanini](https://www.kaust.edu.sa/en/study/faculty/marcocanini)
-* [https://mcanini.github.io/](https://mcanini.github.io/)
-* [Google Scholar](https://scholar.google.com/citations?hl=ru&user=c-rwMUkAAAAJ)
-
-## Prof. Peter Richtarik
-* [https://cemse.kaust.edu.sa/people/person/peter-richtarik](https://cemse.kaust.edu.sa/people/person/peter-richtarik)
-* [https://richtarik.org/](https://richtarik.org/)
-* [Google Scholar](https://scholar.google.com/citations?hl=ru&user=pGh242UAAAAJ)
+## [Prof. Eric Feron](https://cemse.kaust.edu.sa/risclab)
+## [Prof. Marco Canini](https://mcanini.github.io/)
+## [Prof. Peter Richtarik](https://richtarik.org/)
 
 # Thanks to
 * Committee members [Prof. Peter Richtarik](https://richtarik.org/), [Prof. Eric Feron](https://cemse.kaust.edu.sa/risclab), [Prof.Marco Canini](https://mcanini.github.io/)
