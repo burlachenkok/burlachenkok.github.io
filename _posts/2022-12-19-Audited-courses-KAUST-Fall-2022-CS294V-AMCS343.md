@@ -29,7 +29,7 @@ The course covers: Amdahl's law and performance metrics;  Introduction to the mo
 
 In my opinion, the course is useful for people in CS who is interested in creating software systems in industry or academia that behave nicely with existing hardware. It covers, but not going into EE aspects of implementing electronic components of computing and memory. In my opinion, this course augments knowledge that can be obtained from [Performance Engineering course 6.172 at MIT](https://burlachenkok.github.io/About-Compute-Performance-Optimization-at-MIT/) in a very nice way. For people who do have not big Systems CS background I highly recommend first looking into [Performance Engineering course 6.172 at MIT](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) first.
 
-**One of the lessons from the class that I have learned is that It is not always the best technology that wins, but the Companies that understand the hardware and software together often make sound decisions commercially even if suboptimal technologically.**
+**One of the lessons from the class that I have learned is that It is not always the best technology that wins, but the companies that understand the hardware and software together often make sound decisions commercially even if technology is suboptimal.**
 
 ----
 
