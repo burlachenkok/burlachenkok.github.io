@@ -15,7 +15,7 @@ As a third-year Ph.D. student, I don't have obligations to pass courses formally
 
 ---
 
-## System Architecture and Performance, CS294V with prof. Mootaz Elnozahy
+## System Architecture and Performance, CS294V with Prof. Mootaz Elnozahy
 
 The course *System Architecture and Performance CS294V* is taught at [KAUST](https://www.kaust.edu.sa/) by [Prof.Mootaz Elnozahy](https://en.wikipedia.org/wiki/Mootaz_Elnozahy). Research areas of [Prof. Mootaz Elnozahy](https://www.kaust.edu.sa/en/study/faculty/mootaz-elnozahy) include Systems, Distributed systems, Resilient computing, Security, System architecture, Performance, and Parallel Processing. 
 
@@ -33,7 +33,7 @@ In my opinion, the course is useful for people in CS who is interested in creati
 
 ----
 
-## Fast Solvers for Large Systems of Equations, AMCS 343 with prof. Gabriel Wittum
+## Fast Solvers for Large Systems of Equations, AMCS 343 with Prof. Gabriel Wittum
 
 The course *Fast Solvers for Large Systems of Equations, AMCS 343* is taught by [prof. Gabriel Wittum](https://www.kaust.edu.sa/en/study/faculty/gabriel-wittum). [Professor Gabriel Wittum](https://www.kaust.edu.sa/en/study/faculty/gabriel-wittum)'s research focuses on a general approach to modeling, simulation of problems from empirical sciences, high-performance computing (HPC).
 
