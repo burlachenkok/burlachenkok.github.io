@@ -13,6 +13,8 @@ During my Fall Semester of 2022 at [KAUST CEMSE/CS](https://cemse.kaust.edu.sa/)
 
 As a third-year Ph.D. student, I don't have obligations to pass courses formally, however having the opportunity to audit courses is a great opportunity to think about methods in Distributed Machine Learning/AI problems from different angles and it's useful for looking for new connections of Federated Learning with existing fields.
 
+---
+
 ## System Architecture and Performance, CS294V with prof. Mootaz Elnozahy
 
 The course *System Architecture and Performance CS294V* is taught at [KAUST](https://www.kaust.edu.sa/) by [Prof.Mootaz Elnozahy](https://en.wikipedia.org/wiki/Mootaz_Elnozahy). Research areas of [Prof. Mootaz Elnozahy](https://www.kaust.edu.sa/en/study/faculty/mootaz-elnozahy) include Systems, Distributed systems, Resilient computing, Security, System architecture, Performance, and Parallel Processing. 
