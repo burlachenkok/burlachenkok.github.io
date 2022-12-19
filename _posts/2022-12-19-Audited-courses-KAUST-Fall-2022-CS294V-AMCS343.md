@@ -4,11 +4,13 @@ title: About course CS294V System Architecture and AMCS 343 Fast Solvers at KAUS
 published: true
 ---
 
-During my Fall Semester (Autumn, 2022) at [KAUST CEMSE/CS](https://cemse.kaust.edu.sa/) I audited two courses, that have a connection to my research and my future.
-As a third-year Ph.D. student, I don't have obligations to pass courses formally, however having the opportunity to audit courses is a great opportunity to think about methods in Distributed Machine Learning/AI problems from different angles and it's useful for looking for new connections of Federated Learning with existing fields.
+About audited courses by myself during (Fall, 2022): CS294V System Architecture and AMCS 343 Fast Linear Solvers.
 
 ---
 
+
+During my Fall Semester of 2022 at [KAUST CEMSE/CS](https://cemse.kaust.edu.sa/) I audited two courses, that have a connection to my research and my future.
+As a third-year Ph.D. student, I don't have obligations to pass courses formally, however having the opportunity to audit courses is a great opportunity to think about methods in Distributed Machine Learning/AI problems from different angles and it's useful for looking for new connections of Federated Learning with existing fields.
 
 ## System Architecture and Performance, CS294V with prof. Mootaz Elnozahy
 
