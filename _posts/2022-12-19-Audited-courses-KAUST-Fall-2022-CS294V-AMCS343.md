@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About CS294V System Architecture and Performance and AMCS 343 Fast Solvers for Large Systems of Equations at KAUST as CEMSE/CS.
+title: About course CS294V System Architecture and AMCS 343 Fast Solvers at KAUST.
 published: true
 ---
 
