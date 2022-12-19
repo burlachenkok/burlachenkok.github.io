@@ -25,11 +25,15 @@ The most important outcome of the class CS294V is a new way of thinking about co
 - Computer Architecture 
 - Performance Evaluation
 
-The course covers Amdahl's law and performance metrics;  Introduction to the modern CPU; Pipelining and branch prediction; Pipeline performance and compiler support; Virtual memory and TLB; Memory architecture and caching; Cache consistency and coherence; Scalable Cache consistency and coherence; Synchronization Support. 
+Many performance problems come from focusing on one aspect of the system without understanding the interactions among system components.
+
+The course covers: Amdahl's law and performance metrics;  Introduction to the modern CPU; Pipelining and branch prediction; Pipeline performance and compiler support; Virtual memory and TLB; Memory architecture and caching; Cache consistency and coherence; Scalable Cache consistency and coherence; Synchronization Support. 
 
 In my opinion, the course is useful for people in CS who is interested in creating software systems in industry or academia that behave nicely with existing hardware. It covers, but not going into EE aspects of implementing electronic components of computing and memory. In my opinion, this course augments knowledge that can be obtained from [Performance Engineering course 6.172 at MIT](https://burlachenkok.github.io/About-Compute-Performance-Optimization-at-MIT/) in a very nice way. For people who do have not big Systems CS background I highly recommend first looking into [Performance Engineering course 6.172 at MIT](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) first.
 
-**Many performance problems come from focusing on one aspect of the system without understanding the interactions among system components. One of the lessons from the class that I have learned is that It is not always the best technology that wins, but the Companies that understand the hardware and software together often make sound decisions commercially even if suboptimal technologically.**
+**One of the lessons from the class that I have learned is that It is not always the best technology that wins, but the Companies that understand the hardware and software together often make sound decisions commercially even if suboptimal technologically.**
+
+----
 
 ## Fast Solvers for Large Systems of Equations, AMCS 343 with prof. Gabriel Wittum
 
