@@ -10,15 +10,18 @@ About courses that I have audited during Fall, 2022: CS294V System Architecture 
 
 
 During my Fall Semester of 2022 at [KAUST CEMSE/CS](https://cemse.kaust.edu.sa/) I audited two courses, that have a connection to my research and my future.
+
 As a third-year Ph.D. student, I don't have obligations to pass courses formally, however having the opportunity to audit courses is a great opportunity to think about methods in Distributed Machine Learning/AI problems from different angles and it's useful for looking for new connections of Federated Learning with existing fields.
 
 ## System Architecture and Performance, CS294V with prof. Mootaz Elnozahy
 
-The course *System Architecture and Performance CS294V* is taught at [KAUST](https://www.kaust.edu.sa/) by [Prof.Mootaz Elnozahy](https://en.wikipedia.org/wiki/Mootaz_Elnozahy). Research areas of Prof. Mootaz Elnozahy include Systems, distributed systems, resilient computing, security, system architecture, performance, and parallel processing. Prof. Mootaz Elnozahy has various awards and several of them is Fellow of IEEE, Fellow of the US National Academy of Inventors, and Fellow of the AAIA.
+The course *System Architecture and Performance CS294V* is taught at [KAUST](https://www.kaust.edu.sa/) by [Prof.Mootaz Elnozahy](https://en.wikipedia.org/wiki/Mootaz_Elnozahy). Research areas of [Prof. Mootaz Elnozahy](https://www.kaust.edu.sa/en/study/faculty/mootaz-elnozahy) include Systems, Distributed systems, Resilient computing, Security, System architecture, Performance, and Parallel Processing. 
+
+Professor is a Fellow of IEEE, a Fellow of the US National Academy of Inventors, and a Fellow of the AAIA. In the past, he was Professor at CMU, Senior Manager at IBM Research, Adjunct Professor at UT Austin, Dean at KAUST, Special advisor to the president at KAUST, and Visiting scholar at Bell Labs, Bellcore, and Meta (Facebook).
 
 The most important outcome of the class CS294V is a new way of thinking about complex systems. The obtained knowledge is that performance is not about the parts or even the sum of the parts. It is about trying to master complexity. The class is fairly divided into two big halves:
--	Computer architecture 
--	Performance Evaluation
+- Computer architecture 
+- Performance Evaluation
 
 The course covers Amdahl's law and performance metrics;  Introduction to the modern CPU; Pipelining and branch prediction; Pipeline performance and compiler support; Virtual memory and TLB; Memory architecture and caching; Cache consistency and coherence; Scalable Cache consistency and coherence; Synchronization Support. 
 
