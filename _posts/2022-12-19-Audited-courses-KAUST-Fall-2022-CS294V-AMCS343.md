@@ -21,9 +21,7 @@ The course *System Architecture and Performance CS294V* is taught at [KAUST](htt
 
 Professor is a Fellow of IEEE, a Fellow of the US National Academy of Inventors, and a Fellow of the AAIA. In the past, he was Professor at CMU, Senior Manager at IBM Research, Adjunct Professor at UT Austin, Dean at KAUST, Special advisor to the president at KAUST, and Visiting scholar at Bell Labs, Bellcore, and Meta (Facebook).
 
-The most important outcome of the class CS294V is a new way of thinking about complex systems. The obtained knowledge is that performance is not about the parts or even the sum of the parts. It is about trying to master complexity. The class is fairly divided into two big halves:
-- Computer Architecture 
-- Performance Evaluation
+The most important outcome of the class CS294V is a new way of thinking about complex systems. The obtained knowledge is that performance is not about the parts or even the sum of the parts. It is about trying to master complexity. 
 
 Many performance problems come from focusing on one aspect of the system without understanding the interactions among system components.
 
