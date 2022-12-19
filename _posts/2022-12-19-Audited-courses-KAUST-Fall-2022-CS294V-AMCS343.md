@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About course: CS294V System Architecture and AMCS 343 Fast Solvers.
+title: About courses CS294V System Architecture and AMCS 343 Fast Solvers.
 published: true
 ---
 
