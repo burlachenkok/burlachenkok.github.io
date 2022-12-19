@@ -4,7 +4,7 @@ title: About courses CS294V System Architecture and AMCS 343 Fast Solvers for La
 published: true
 ---
 
-About courses that I have audited during Fall, 2022: CS294V and AMCS 343.
+About Courses that I have audited during Fall, 2022: CS294V and AMCS 343.
 
 ---
 
