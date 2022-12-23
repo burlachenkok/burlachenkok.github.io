@@ -32,6 +32,7 @@ Last update: **27-MAR-2022**.
 | [CS229](http://cs229.stanford.edu/syllabus.html)  | Machine Learning, A.Ng  |  +  |   + |
 | [CS221](http://web.stanford.edu/class/cs221/)  | Artificial Intelligence: Principles and Techniques, P.Liang |  - |   + |
 | [CS229T](https://web.stanford.edu/class/cs229t/)  | Statistical Learning Theory, J.Duchi  |  -  |   + |
+| [CS329S](https://stanford-cs329s.github.io/syllabus.html/)  | Machine Learning Systems Design, C.Huyen |  +  |   + |
 | STATS315A  | Modern Applied Statistics: Elements of Statistical Learning, R.Tibshiran  |  -  |   - |
 | [STATS315B](http://statweb.stanford.edu/~jhf/stats315b.html)  | Modern Applied Statistics: Elements of Statistical Learning, J.Friedman  |  -  |   - |
 | [CS224W](http://web.stanford.edu/class/cs224w/)  | Machine Learning with Graphs, J.Leskovec  |  -  |   + |
