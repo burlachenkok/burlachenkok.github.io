@@ -9,10 +9,10 @@ The new paper [Federated Learning with Regularized Client Participation](https:/
 ---
 
 I was glad to work my peers [Grigory Malinovsky](https://k3nfalt.github.io/), prof. [Samuel Horvath](https://lukangsun.github.io/), and prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) on the paper **"Federated Learning with Regularized Client Participation"**.
-The arXiv link for the paper: [https://arxiv.org/abs/2302.03662](https://arxiv.org/abs/2302.03662). During numerical experiments for that paper, we heavily exploited **FL_PyTorch** - an advanced research simulator for Federated Learning:
 
-* [https://dl.acm.org/doi/10.1145/3488659.3493775](https://dl.acm.org/doi/10.1145/3488659.3493775)
-* [FL_PyTorch presentation at rising starts in AI Symposium](https://burlachenkok.github.io/FL_PyTorch-presentation-at-rising-starts-in-AI-Symposium/) 
+The arXiv link for the paper: [https://arxiv.org/abs/2302.03662](https://arxiv.org/abs/2302.03662). 
+
+During numerical experiments for that paper, we heavily exploited **FL_PyTorch** - an advanced research simulator for Federated Learning ([https://dl.acm.org/doi/10.1145/3488659.3493775](https://dl.acm.org/doi/10.1145/3488659.3493775), [FL_PyTorch presentation at rising starts in AI Symposium](https://burlachenkok.github.io/FL_PyTorch-presentation-at-rising-starts-in-AI-Symposium/)).
 
 # Abstract
 
@@ -27,6 +27,8 @@ Furthermore, our results permit arbitrary client availability as long as each cl
 
 <table style="text-align:center;">
 <tr>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.png"/> </td> 
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/MBZUAI_Logo.png"/> </td> 
 </tr>
 </table>
