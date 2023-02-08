@@ -4,7 +4,7 @@ title: Federated Learning with Regularized Client Participation.
 published: true
 ---
 
-The new paper [Federated Learning with Regularized Client Participation](https://arxiv.org/abs/2302.03662) has been outed.
+The new paper [Federated Learning with Regularized Client Participation](https://arxiv.org/abs/2302.03662) has been released.
 
 ---
 
