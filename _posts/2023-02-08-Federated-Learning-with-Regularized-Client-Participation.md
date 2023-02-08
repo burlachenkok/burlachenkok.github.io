@@ -8,7 +8,7 @@ The new paper [Federated Learning with Regularized Client Participation](https:/
 
 ---
 
-I was glad to work my peers [Grigory Malinovsky](https://grigory-malinovsky.github.io/), prof. [Samuel Horvath](https://sites.google.com/view/samuelhorvath?pli=1), and prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) on the paper **"Federated Learning with Regularized Client Participation"**.
+I was glad to work my peers [Grigory Malinovsky](https://grigory-malinovsky.github.io/), prof. [Samuel Horvath](https://sites.google.com/view/samuelhorvath?pli=1), and prof. [Peter Richtarik](https://richtarik.org/) on the paper **"Federated Learning with Regularized Client Participation"**.
 
 The arXiv link for the paper: [https://arxiv.org/abs/2302.03662](https://arxiv.org/abs/2302.03662). 
 
