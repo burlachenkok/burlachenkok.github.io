@@ -20,9 +20,9 @@ The current stage we achieved will be presented at [VCC OPEN HOUSE 2023 event](h
 
 ---
 
-* Registration for "VCC OPEN HOUSE 2023" is available from the website of the Visual Computing Center (VCC). [Link for registration](https://cemse.kaust.edu.sa/vcc).
-* Location: Building 1, The Spine, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia. [Link in Google Maps.](https://www.google.com/maps/place/Al+Khawarizmi+Building+(Building+1)/@22.3078967,39.1031145,17z/data=!4m12!1m6!3m5!1s0x15c11c505768a2f1:0x36139c007214e6bc!2z0J3QsNGD0YfQvdC-LdGC0LXRhdC90L7Qu9C-0LPQuNGH0LXRgdC60LjQuSDRg9C90LjQstC10YDRgdC40YLQtdGCINC40LzQtdC90Lgg0LrQvtGA0L7Qu9GPINCQ0LHQtNCw0LvQu9GL!8m2!3d22.309465!4d39.104697!3m4!1s0x15c11c50619ad163:0xfcf9bae91833e7f9!8m2!3d22.3085029!4d39.1047957).
-* Date and Time: Thursday, March 2, 12:00 - 14:00, UTC+3.
+* **Registration:** Registration for "VCC OPEN HOUSE 2023" is available from the website of the Visual Computing Center (VCC). [Link for registration](https://cemse.kaust.edu.sa/vcc).
+* **Location:** Building 1, The Spine, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia. [Link in Google Maps.](https://www.google.com/maps/place/Al+Khawarizmi+Building+(Building+1)/@22.3078967,39.1031145,17z/data=!4m12!1m6!3m5!1s0x15c11c505768a2f1:0x36139c007214e6bc!2z0J3QsNGD0YfQvdC-LdGC0LXRhdC90L7Qu9C-0LPQuNGH0LXRgdC60LjQuSDRg9C90LjQstC10YDRgdC40YLQtdGCINC40LzQtdC90Lgg0LrQvtGA0L7Qu9GPINCQ0LHQtNCw0LvQu9GL!8m2!3d22.309465!4d39.104697!3m4!1s0x15c11c50619ad163:0xfcf9bae91833e7f9!8m2!3d22.3085029!4d39.1047957).
+* **Date and Time:** Thursday, March 2, 12:00 - 14:00, UTC+3.
 
 ---
 
