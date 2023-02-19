@@ -12,7 +12,7 @@ Federated Learning (FL) has emerged as a promising technique for edge devices to
 A Federated Learning setting has several attributes which make it different from distributed optimization including communication complexity, data heterogeneity, device heterogeneity, and data privacy. 
 The proposed algorithms from the work of  [M.Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ&hl=en), [R.Islamov](https://rustem-islamov.github.io/), [X.Qian](https://qianxunk.github.io/), [P.Richtárik](https://richtarik.org/) *FedNL: Making Newton-Type Methods Applicable to Federated Learning* ([arXiv:2106.02969](https://arxiv.org/abs/2106.02969), [ICML 2021](https://icml.cc/virtual/2022/spotlight/17084)) bring a family of Federated Newton Learn methods and is a significant step in making second-order methods applicable to Federated Learning (FL) and Distributed Optimization.
 
-We believe the settings in which [FedNL](https://arxiv.org/abs/2106.02969) is targeted are general enough to be applicable in various areas of science and engineering in which there are problems with using the classical Newton method. However, to make, this happens we need to bring the practical implementation of these algorithms to the whole world. Our work is targeted to close the gap between theoretical algorithms and their practical implementation in modern computing and communication devices.
+We believe the settings in which [FedNL](https://arxiv.org/abs/2106.02969) is targeted are general enough to be applicable in various areas of science and engineering in which there are problems with using the classical Newton method. However, to make this happens we need to bring the practical implementation of these algorithms to the whole world. Our work is targeted to close the gap between theoretical algorithms and their practical implementation in modern computing and communication devices.
 
 ---
 
@@ -35,7 +35,7 @@ The current stage we achieved will be presented at [VCC OPEN HOUSE 2023 event](h
 
 <table style="text-align:center;">
 <tr>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/materials/KAUST_VCC_LOGO.png"/> </td> 
+<td style="text-align:center;vertical-align:middle;"> <img height="50px" src="https://burlachenkok.github.io/materials/KAUST_VCC_LOGO.png"/> </td> 
 </tr>
 </table>
 
