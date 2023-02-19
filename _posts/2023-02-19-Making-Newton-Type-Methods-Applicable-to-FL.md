@@ -12,7 +12,11 @@ Federated Learning (FL) has emerged as a promising technique for edge devices to
 
 We believe the settings in which FedNL is targeted are general enough to be applicable in various areas of science and engineering in which there are problems with using the classical Newton method. However, to make, this happens we need to bring the practical implementation of these algorithms to the whole world. Our work is targeted to close the gap between theoretical algorithms and their practical implementation in modern computing and communication devices.
 
-The current stage which we achieved will be presented in VCC OPEN HOUSE 2023 event [https://cemse.kaust.edu.sa/vcc].
+The current stage we achieved will be presented in [VCC OPEN HOUSE 2023 event](https://cemse.kaust.edu.sa/vcc). 
+
+---
+
+Registration for [VCC OPEN HOUSE 2023 event](https://cemse.kaust.edu.sa/vcc) is available from the website of the Visual Computing Center (VCC).
 
 Location: Building 1, The Spine, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
 
