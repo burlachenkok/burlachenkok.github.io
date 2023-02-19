@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FedNL. Making Newton-Type Methods Applicable to Federated Learning
+title: FedNL. Making Newton-Type Methods Applicable to FL.
 published: true
 ---
 
