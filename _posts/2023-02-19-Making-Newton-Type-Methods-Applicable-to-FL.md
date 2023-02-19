@@ -1,10 +1,10 @@
 ---
 layout: post
-title: FedNL: Making Newton-Type Methods Applicable to Federated Learning
+title: FedNL. Making Newton-Type Methods Applicable to Federated Learning
 published: true
 ---
 
-FedNL: Practical Implementation (Ongoing project) at VCC OPEN HOUSE 2023.
+FedNL. Practical Implementation (Ongoing project) at VCC OPEN HOUSE 2023.
 
 ---
 
