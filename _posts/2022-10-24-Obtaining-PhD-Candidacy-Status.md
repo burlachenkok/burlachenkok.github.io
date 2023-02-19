@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obtaining the Status of a Ph.D. candidacy
+title: Obtaining the Status of a Ph.D. candidacy.
 published: true
 ---
 
