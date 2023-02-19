@@ -4,7 +4,7 @@ title: FedNL. Making Newton-Type Methods Applicable to Federated Learning
 published: true
 ---
 
-FedNL. Practical Implementation (Ongoing project) at VCC OPEN HOUSE 2023.
+FedNL. Practical Implementation (Ongoing project) at [VCC OPEN HOUSE 2023 event](https://cemse.kaust.edu.sa/vcc).
 
 ---
 
@@ -14,7 +14,7 @@ The proposed algorithms from the work of  [M.Safaryan](https://scholar.google.co
 
 We believe the settings in which [FedNL](https://arxiv.org/abs/2106.02969) is targeted are general enough to be applicable in various areas of science and engineering in which there are problems with using the classical Newton method. However, to make, this happens we need to bring the practical implementation of these algorithms to the whole world. Our work is targeted to close the gap between theoretical algorithms and their practical implementation in modern computing and communication devices.
 
-The current stage we achieved will be presented in [VCC OPEN HOUSE 2023 event](https://cemse.kaust.edu.sa/vcc). 
+The current stage we achieved will be presented at [VCC OPEN HOUSE 2023 event](https://cemse.kaust.edu.sa/vcc). 
 
 ---
 
