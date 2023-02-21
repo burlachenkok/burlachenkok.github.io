@@ -40,6 +40,7 @@ Nevertheless, it's upgradable to basic Machine Learning with one (not easy) step
 | [CS245](https://web.stanford.edu/class/cs245/) | CS245 Principles of Data-Intensive Systems | + | - |
 | [Link](https://online.stanford.edu/courses/soe-ydatabases-databases) | Introduction to Databases | + | - |
 | [CS348V](http://graphics.stanford.edu/courses/cs348v-18-winter/) | CS348V Visual Computing Systems (with some aspects of Deep Learning)| + | - |
+| [CS149](https://gfxcourses.stanford.edu/cs149/fall22) | CS149 Parallel Computing | + | - |
 {:.mbtablestyle}
 
 ***p.s.***
