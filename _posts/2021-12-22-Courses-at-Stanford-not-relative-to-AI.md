@@ -41,6 +41,7 @@ Nevertheless, it's upgradable to basic Machine Learning with one (not easy) step
 | [Link](https://online.stanford.edu/courses/soe-ydatabases-databases) | Introduction to Databases | + | - |
 | [CS348V](http://graphics.stanford.edu/courses/cs348v-18-winter/) | CS348V Visual Computing Systems (with some aspects of Deep Learning)| + | - |
 | [CS149](https://gfxcourses.stanford.edu/cs149/fall22) | CS149 Parallel Computing | + | - |
+| [CS265](https://web.stanford.edu/class/cs265/index.html) | CS265 Randomized Algorithms and Probabilistic Analysis | + | - |
 {:.mbtablestyle}
 
 ***p.s.***
