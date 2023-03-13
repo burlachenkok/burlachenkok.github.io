@@ -8,7 +8,7 @@ My old website with 151 notes was deleted on 10 Mar. 2023, 08:58 by a "Google" u
 
 ---
 
-Between 2011 and 2020 I used another home page which is [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/). Unfortunately, my old website was deleted on 10 Mar. 2023, 08:58 by a "Google" user. And I have no means to recover it.
+Between 2011 and 2020 I used another home page which was [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/). Unfortunately, my old website was deleted on 10 Mar. 2023, 08:58 by a "Google" user. And I have no means to recover it.
 
 During my career and educational paths, I as a fox peeked my nose into different fields relative to Computer Science (CS) because I found it fun and entertaining. My old webpage contained 151 personal notes and did not contain any advertisements.
 
