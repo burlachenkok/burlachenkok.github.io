@@ -4,17 +4,13 @@ title: Removing my old website by Google
 published: true
 ---
 
-Between 2011 and 2020 I used another home page. The link: [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/).
-Unfortunately, my old website was deleted on 10 Mar. 2023, 08:58 by "Google" user. And I have no means to recover it.
+Between 2011 and 2020 I used another home page - [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/). Unfortunately, my old website was deleted on 10 Mar. 2023, 08:58 by a "Google" user. And I have no means to recover it.
 
-My old webpage contained 151 notes on various subjects which I did during my career in Computer Science(CS) via mixing CS with another field.  I did it in random notes to highlight personally the most essential and practical things, at least for me.
+During my career path I as a fox peek my nose into different fields relative to Computer Science (CS). My old webpage contained 151 personal notes and did not contain any advertisements. 
 
-During 2015 and up to 2023 my old homepage has been visited by 34 755 users. Totally this user has made 87 329 views of this content. The users of my old website were from 144 countries around the globe. 
+During 2015 and up to 2023 my old homepage has been visited by **34'755** users. Total users have made **87'329** views of this content. The users of my old website were from **144** countries around the globe. Therefore, the content was not only useful for me, but also for another **34'755** users.
 
-Therefore, the content was not only useful for me, but also for another 34 755 users.
-
-
-Top-20 countries from which visitors to the old home page were:
+Top - 20 countries from which visitors to the old home page were:
 
 
 | **Unique Visitors**      | **Country** |
@@ -45,8 +41,8 @@ Top-20 countries from which visitors to the old home page were:
 Below are some topics in which subject I have created public personal notes:
 
 * Notes about the book of A.N.Kolomogorov, S.V.Fomin - Introductionary Real Analysis.
-* Notes about the book of Amir Beck, First-Order Methods in optimization, 2017. That notes has been shared with prof. Amir Beck.
-* Notes about EE263, EE364A, and EE364B courses at Leland Stanford Jr. University from prof. Stephen P. Boyd. That notes has been shared with prof. Stephen P. Boyd.
+* Notes about the book of Amir Beck, First-Order Methods in optimization, 2017. That note has been shared with prof. Amir Beck.
+* Notes about EE263, EE364A, and EE364B courses at Stanford Jr. University from prof. Stephen P. Boyd.
 * Overview of some papers in Deep Learning for Image tasks.
 * Physics questions are important for physics-based simulation and Robotics.
 * My reflections on various problems of Machine Learning.
@@ -57,7 +53,7 @@ Below are some topics in which subject I have created public personal notes:
 * Developing at a user-space level for Linux/Posix OS and Windows Family OS.
 * Convex Optimization and Numerical Optimization.
 * Notes about various mathematical tools, including Fourier Transform and Fourier Series.
-* Classical things from Linear Dynamical Systems and classical (at least for people aware with Convex Optimization) things in Control.
+* Classical things from Linear Dynamical Systems and classical (at least for people aware of Convex Optimization) things in Control.
 * Thinking about concepts from Statistics and Machine Learning: KL-divergence, Gini index, Math behind backpropagation.
 * Describing popular tricks for Deep Learning.
 * Understanding Decision Trees from scratch.
