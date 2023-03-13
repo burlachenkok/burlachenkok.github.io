@@ -12,11 +12,7 @@ Between 2011 and 2020 I used another home page - [https://sites.google.com/site/
 
 During my career path I as a fox peek my nose into different fields relative to Computer Science (CS). My old webpage contained 151 personal notes and did not contain any advertisements. 
 
-During 2015 and up to 2023 my old homepage has been visited by **34'755** users. Total users have made **87'329** views of this content. The users of my old website were from **144** countries around the globe. Therefore, the content was not only useful for me, but also for another **34'755** users.
-
-----
-
-The top 20 countries (from a total amount of 144) of unique visitors to the old home page are presented in the table below.
+During 2015 and up to 2023 my old homepage has been visited by **34'755** users. Total users have made **87'329** views of this content. The users of my old website were from **144** countries around the globe. Therefore, the content was not only useful for me, but also for another **34'755** users. The top 20 countries (from a total amount of 144) of unique visitors to the old home page are presented in the table below.
 
 | **Unique Visitors**      | **Country** |
 |---|---|
