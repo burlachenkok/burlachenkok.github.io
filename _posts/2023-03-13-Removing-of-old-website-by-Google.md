@@ -4,7 +4,9 @@ title: Removing my old website by Google
 published: true
 ---
 
-My old website was deleted on 10 Mar. 2023, 08:58 by a "Google" user.
+My old website with 151 notes was deleted on 10 Mar. 2023, 08:58 by a "Google" user.
+
+---
 
 Between 2011 and 2020 I used another home page - [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/). Unfortunately, my old website was deleted on 10 Mar. 2023, 08:58 by a "Google" user. And I have no means to recover it.
 
@@ -65,6 +67,6 @@ Top - 20 countries from which visitors to the old home page were:
 * Jargon applied in Classification problems and in Machine Learning.
 * Usage aspects of Z3 solver from Microsoft Research.
 
-# Future of Old Notes.
+# Future of Old Notes
 
-I have some backups for the notes. And I would be glad to structure my notes well, but it's a time demanding procedure. For this, I need a lot of free time, which I don't have.
+I have some backups for the notes. And I would be glad to structure my notes well, but it's a time demanding procedure. For this, I need a lot of free time, which I don't have. Google has created a means to transition from the old website to the new one, but in my case, it did not work flawlessly.
