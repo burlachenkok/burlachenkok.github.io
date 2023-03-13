@@ -39,11 +39,13 @@ During 2015 and up to 2023 my old homepage has been visited by **34'755** users.
 {:.mbtablestyle}
 
 
-----
-
 # Future of Old Notes
 
-I have some backups for the notes. And I would be glad to structure my notes well, but it's a time demanding procedure. For this, I need a lot of free time, which I don't have. Google has created a means to transition from the old website to the new one, but in my case, it did not work flawlessly.
+I have some backups for the notes. And I would be glad to structure my notes well, but it's a time demanding procedure. For this, I need a lot of free time, which I don't have. 
+
+Google has created a means to transition from the old website to the new one, but in my case, it did not work flawlessly.
+
+----
 
 # Examples of Topics of Old Public Personal Notes
 
