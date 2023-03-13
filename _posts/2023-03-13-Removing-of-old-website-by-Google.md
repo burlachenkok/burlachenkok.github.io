@@ -40,7 +40,7 @@ Top - 20 countries from which visitors to the old home page were:
 
 ----
 
-# Examples if topics in which I have created public personal notes:
+# Examples of Topics of Old Public Personal Notes
 
 * Notes about the book of A.N.Kolomogorov, S.V.Fomin - Introductionary Real Analysis.
 * Notes about the book of Amir Beck, First-Order Methods in optimization, 2017. That note has been shared with prof. Amir Beck.
@@ -65,6 +65,6 @@ Top - 20 countries from which visitors to the old home page were:
 * Jargon applied in Classification problems and in Machine Learning.
 * Usage aspects of Z3 solver from Microsoft Research.
 
-# Future of old notes (In case if you liked some notes and found this post)
+# Future of Old Notes.
 
 I have some backups for the notes. And I would be glad to structure my notes well, but it's a time demanding procedure. For this, I need a lot of free time, which I don't have.
