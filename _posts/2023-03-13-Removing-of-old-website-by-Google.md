@@ -14,8 +14,9 @@ During my career path I as a fox peek my nose into different fields relative to 
 
 During 2015 and up to 2023 my old homepage has been visited by **34'755** users. Total users have made **87'329** views of this content. The users of my old website were from **144** countries around the globe. Therefore, the content was not only useful for me, but also for another **34'755** users.
 
-Top - 20 countries from which visitors to the old home page were:
+----
 
+The top 20 countries (from a total amount of 144) of unique visitors to the old home page are presented in the table below.
 
 | **Unique Visitors**      | **Country** |
 |------------------|--------------|
@@ -42,6 +43,10 @@ Top - 20 countries from which visitors to the old home page were:
 
 ----
 
+# Future of Old Notes
+
+I have some backups for the notes. And I would be glad to structure my notes well, but it's a time demanding procedure. For this, I need a lot of free time, which I don't have. Google has created a means to transition from the old website to the new one, but in my case, it did not work flawlessly.
+
 # Examples of Topics of Old Public Personal Notes
 
 * Notes about the book of A.N.Kolomogorov, S.V.Fomin - Introductionary Real Analysis.
@@ -66,7 +71,3 @@ Top - 20 countries from which visitors to the old home page were:
 * Complete derivations and problem formulations of SVM, Logistics Regression.
 * Jargon applied in Classification problems and in Machine Learning.
 * Usage aspects of Z3 solver from Microsoft Research.
-
-# Future of Old Notes
-
-I have some backups for the notes. And I would be glad to structure my notes well, but it's a time demanding procedure. For this, I need a lot of free time, which I don't have. Google has created a means to transition from the old website to the new one, but in my case, it did not work flawlessly.
