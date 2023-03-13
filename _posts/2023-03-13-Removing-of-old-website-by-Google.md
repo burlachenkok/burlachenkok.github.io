@@ -19,7 +19,7 @@ During 2015 and up to 2023 my old homepage has been visited by **34'755** users.
 The top 20 countries (from a total amount of 144) of unique visitors to the old home page are presented in the table below.
 
 | **Unique Visitors**      | **Country** |
-|------------------|--------------|
+|---|---|
 | 13 394 | Russia  |
 | 5 263 | USA      |
 | 2 896 | Ukraine  |
@@ -40,6 +40,8 @@ The top 20 countries (from a total amount of 144) of unique visitors to the old 
 | 241 | Spain       |
 | 240 | Saudi Arabia|
 | 226 | Sweden      |
+{:.mbtablestyle}
+
 
 ----
 
