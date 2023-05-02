@@ -10,22 +10,25 @@ published: true
 
 # FL_PyTorch at SIAM OP32
 
-I'm excited to speak at the [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23) in Seattle, U.S. on Friday, June 2, 2023.
+I'm excited to speak at the [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23) in Seattle, U.S. on Friday, June 2, 2023. My talk will be about FL_PyTorch, a simulator constructed for Federated Learning research. 
 
-Link to my talk: [https://meetings.siam.org/sess/dsp_talk.cfm?p=128776](https://meetings.siam.org/sess/dsp_talk.cfm?p=128776).
-
-My talk will be about FL_PyTorch, a simulator constructed for Federated Learning research. According to an external assessment carried out in the paper [FeLebrities: a user-centric assessment of Federated Learning Frameworks](https://www.techrxiv.org/articles/preprint/FeLebrities_a_user-centric_assessment_of_Federated_Learning_frameworks/21263013) our solution lie between:
+According to an external assessment carried out in the paper [FeLebrities: a user-centric assessment of Federated Learning Frameworks](https://www.techrxiv.org/articles/preprint/FeLebrities_a_user-centric_assessment_of_Federated_Learning_frameworks/21263013) our solution is between:
 
 * [TensorFlow Federated](https://www.tensorflow.org/federated), which is an open-source framework for machine learning and other computations on decentralized data, developed by Google.
 * [FLUTE](https://www.microsoft.com/en-us/research/blog/flute-a-scalable-federated-learning-simulation-platform/), a scalable federated learning simulation platform, developed by Microsoft Research. 
 
-The funding for my visit is provided by [my advisor Prof. Peter Richtarik](https://richtarik.org/) and [KAUST University](https://www.kaust.edu.sa/). 
+The funding for my visit is provided by my advisor [Prof. Peter Richtarik](https://richtarik.org/) and [KAUST University](https://www.kaust.edu.sa/). 
 
 I am looking forward to presenting my work and discussing its future prospects.
 
-Unfortunately, I need a [B1 visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) to actually come in the U.S., but I don't have it. 
+Unfortunately, to actually come to the U.S. I need a [B1 visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html). My application for B1 VISA is under administrative processing for two months, even in the past I have obtained B1 VISA without any administrative processing four times.
 
-My application for B1 VISA is under administrative processing for two months.
+# Links
+
+* Link to my Talk: [https://meetings.siam.org/sess/dsp_talk.cfm?p=128776](https://meetings.siam.org/sess/dsp_talk.cfm?p=128776)
+* Main Page of Conference: [https://www.siam.org/conferences/cm/conference/op23](https://www.siam.org/conferences/cm/conference/op23)
+* Conference program: [https://meetings.siam.org/program.cfm?CONFCODE=op23](https://meetings.siam.org/program.cfm?CONFCODE=op23)
+* Speaker, Organizers: [https://meetings.siam.org/speakdex.cfm?CONFCODE=op23](https://meetings.siam.org/speakdex.cfm?CONFCODE=op23)
 
 # About Conference
 
