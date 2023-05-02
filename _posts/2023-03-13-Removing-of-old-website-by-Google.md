@@ -26,8 +26,6 @@ During 2015 and up to 2023 my old homepage has been visited by **34'755** users.
 | 486 | China      |
 | 436 | Canada     |
 | 436 | France     |
-| 436 | Canada     |
-| 425 | France     |
 | 347 | Japan      |
 | 436 | Poland     |
 | 292 | Kazahstan  |
