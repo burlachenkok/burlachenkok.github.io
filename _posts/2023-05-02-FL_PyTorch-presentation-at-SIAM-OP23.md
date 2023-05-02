@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FL_PyTorch at SIAM Conference on Optimization (OP23)
-published: true
+published: false
 ---
 
 **"FL_PyTorch: Optimization Research Simulator for Federated Learning"** at [SIAM Conference on Optimization 2023](https://www.siam.org/conferences/cm/conference/op23).
