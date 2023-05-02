@@ -17,9 +17,7 @@ According to an external assessment carried out in the paper [FeLebrities: a use
 * [TensorFlow Federated](https://www.tensorflow.org/federated), which is an open-source framework for machine learning and other computations on decentralized data, developed by Google.
 * [FLUTE](https://www.microsoft.com/en-us/research/blog/flute-a-scalable-federated-learning-simulation-platform/), a scalable federated learning simulation platform, developed by Microsoft Research. 
 
-The funding for my visit is provided by my advisor [Prof. Peter Richtarik](https://richtarik.org/) and [KAUST University](https://www.kaust.edu.sa/). 
-
-I am looking forward to presenting my work and discussing its future prospects.
+The funding for my visit is provided by my advisor [Prof. Peter Richtarik](https://richtarik.org/) and [KAUST University](https://www.kaust.edu.sa/). I am looking forward to presenting my work and discussing its future prospects.
 
 Unfortunately, to actually come to the U.S. I need a [B1 visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html). My application for B1 VISA is under administrative processing for two months, even in the past I have obtained B1 VISA without any administrative processing four times.
 
