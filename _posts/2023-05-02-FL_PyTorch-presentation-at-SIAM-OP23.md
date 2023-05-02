@@ -10,7 +10,8 @@ published: true
 
 # FL_PyTorch at SIAM OP32
 
-I'm excited to speak at the [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23) in Seattle, U.S. on Friday, June 2, 2023. 
+I'm excited to speak at the [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23) in Seattle, U.S. on Friday, June 2, 2023.
+
 Link to my talk: [https://meetings.siam.org/sess/dsp_talk.cfm?p=128776](https://meetings.siam.org/sess/dsp_talk.cfm?p=128776).
 
 My talk will be about FL_PyTorch, a simulator constructed specifically for federated learning optimization research. According to an external assessment carried out in the paper [FeLebrities: a user-centric assessment of Federated Learning Frameworks](https://www.techrxiv.org/articles/preprint/FeLebrities_a_user-centric_assessment_of_Federated_Learning_frameworks/21263013) our solution lie between:
