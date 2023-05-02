@@ -44,6 +44,6 @@ Federated Learning (FL) has emerged as a promising technique for edge devices to
 <table>
 <tr>
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
-<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/kaust_ai_symposium_2022.jpg"/> </td> 
+<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/siam-logo-black.png"/> </td> 
 </tr>
 </table>
