@@ -28,7 +28,7 @@ The conference will bring together mathematicians, operations researchers, compu
 
 * Link to my Talk: [https://meetings.siam.org/sess/dsp_talk.cfm?p=128776](https://meetings.siam.org/sess/dsp_talk.cfm?p=128776)
 * Main Page of Conference: [https://www.siam.org/conferences/cm/conference/op23](https://www.siam.org/conferences/cm/conference/op23)
-* Conference program: [https://meetings.siam.org/program.cfm?CONFCODE=op23](https://meetings.siam.org/program.cfm?CONFCODE=op23)
+* Conference Program: [https://meetings.siam.org/program.cfm?CONFCODE=op23](https://meetings.siam.org/program.cfm?CONFCODE=op23)
 * Speaker, Organizers: [https://meetings.siam.org/speakdex.cfm?CONFCODE=op23](https://meetings.siam.org/speakdex.cfm?CONFCODE=op23)
 
 # Abstract
