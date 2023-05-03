@@ -12,7 +12,9 @@ published: true
 
 I'm excited to speak at the [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23) in Seattle, U.S. on Friday, June 2, 2023. The funding for my visit is provided by my advisor [Prof. Peter Richtarik](https://richtarik.org/) and [KAUST University](https://www.kaust.edu.sa/). I am looking forward to presenting my work and discussing its future prospects.
 
-Unfortunately, to actually come to the U.S. I need a [B1 visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html). My application for B1 VISA is under administrative processing for two months, even in the past I have obtained B1 VISA without any administrative processing four times.
+Unfortunately, to actually come to the U.S. I need a [B1 visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html). 
+
+My application for B1 VISA is under administrative processing (already for two months), and due to that, there is some uncertainty about my ability to attend physically.
 
 # About Conference
 
