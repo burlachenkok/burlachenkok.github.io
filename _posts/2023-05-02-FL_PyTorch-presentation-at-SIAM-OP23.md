@@ -12,9 +12,7 @@ published: true
 
 I'm excited to speak at the [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23) in Seattle, U.S. on Friday, June 2, 2023. The funding for my visit is provided by my advisor [Prof. Peter Richtarik](https://richtarik.org/) and [KAUST University](https://www.kaust.edu.sa/). I am looking forward to presenting my work and discussing its future prospects.
 
-Unfortunately, to actually come to the U.S. I need a [B1 visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html). 
-
-My application for B1 VISA is under administrative processing (already for two months), and due to that, there is some uncertainty about my ability to attend physically.
+Unfortunately, to actually come to the U.S. I need a [B1 visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html). My application for B1 VISA is under administrative processing (already for two months), and due to that, there is some uncertainty about my ability to attend physically.
 
 # About Conference
 
@@ -33,7 +31,7 @@ The conference will bring together mathematicians, operations researchers, compu
 * Conference program: [https://meetings.siam.org/program.cfm?CONFCODE=op23](https://meetings.siam.org/program.cfm?CONFCODE=op23)
 * Speaker, Organizers: [https://meetings.siam.org/speakdex.cfm?CONFCODE=op23](https://meetings.siam.org/speakdex.cfm?CONFCODE=op23)
 
-# Abstract for FL_PyTorch 
+# Abstract
 
 Federated Learning (FL) has emerged as a promising technique for edge devices to collaboratively learn a shared machine learning model while keeping training data locally on the device, thereby removing the need to store and access the full data in the cloud. However, FL is difficult to implement, test and deploy in practice considering heterogeneity in common edge device settings, making it fundamentally hard for researchers to efficiently prototype and test their optimization algorithms. In this work, our aim is to alleviate this problem by introducing FL_PyTorch : a suite of open-source software written in python that builds on top of one the most popular research Deep Learning (DL) framework PyTorch. We built FL_PyTorch as a research simulator for FL to enable fast development, prototyping and experimenting with new and existing FL optimization algorithms. Our system supports abstractions that provide researchers with a sufficient level of flexibility to experiment with existing and novel approaches to advance the state-of-the-art. Furthermore, FL_PyTorch is simple to use console system, allows to run several clients simultaneously using local CPUs or GPU(s), and even remote compute devices without the need for any distributed implementation provided by the user. FL_PyTorch also offers a Graphical User Interface. For new methods, researchers only provide the centralized implementation of their algorithm.
 
