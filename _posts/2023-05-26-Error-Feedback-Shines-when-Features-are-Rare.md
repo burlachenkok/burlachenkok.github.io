@@ -21,7 +21,8 @@ Source code for numerical experiments:
 [https://github.com/burlachenkok/ef21_with_rare_features](https://github.com/burlachenkok/ef21_with_rare_features)
 
 The original variant of [EF21](https://arxiv.org/abs/2106.05203) was presented in NeurIPS 2021 Oral Talk, on December 7, 2021.
-Also, the original variant of [EF21] was presented in [Federated Learning One World Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home?authuser=0), 28th July 2021: [FLOW Seminar #45: Peter Richt·rik (KAUST) Faster Error Feedback](https://www.youtube.com/watch?v=rjWze5rcSUM&t=3367s&ab_channel=FederatedLearningOneWorldSeminar)
+
+Also, the original variant of [EF21] was presented in [Federated Learning One World Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home?authuser=0), 28th July 2021: [FLOW Seminar #45: Peter Richt√°rik (KAUST) Faster Error Feedback](https://www.youtube.com/watch?v=rjWze5rcSUM&t=3367s&ab_channel=FederatedLearningOneWorldSeminar)
 
 ---
 
