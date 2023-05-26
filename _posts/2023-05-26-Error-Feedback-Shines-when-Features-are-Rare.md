@@ -12,6 +12,8 @@ I was glad to work my peers [Elnur Gasanov](https://elnurgasanov.com/) and prof.
 
 The arXiv link for the paper: [https://arxiv.org/abs/2305.15264](https://arxiv.org/abs/2305.15264). 
 
+Source code for numerical experiments: [https://github.com/burlachenkok/ef21_with_rare_features](https://github.com/burlachenkok/ef21_with_rare_features)
+
 ---
 
 <table style="text-align:center;">
