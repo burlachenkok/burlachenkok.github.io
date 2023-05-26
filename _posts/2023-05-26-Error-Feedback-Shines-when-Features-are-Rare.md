@@ -12,13 +12,9 @@ I was glad to work with my peers [Elnur Gasanov](https://elnurgasanov.com/) and 
 
 **"Error Feedback Shines when Features are Rare"**.
 
-The arXiv link for the paper: 
+The arXiv link for the paper: [https://arxiv.org/abs/2305.15264](https://arxiv.org/abs/2305.15264). 
 
-[https://arxiv.org/abs/2305.15264](https://arxiv.org/abs/2305.15264). 
-
-Source code for numerical experiments: 
-
-[https://github.com/burlachenkok/ef21_with_rare_features](https://github.com/burlachenkok/ef21_with_rare_features)
+Source code for experiments: [https://github.com/burlachenkok/ef21_with_rare_features](https://github.com/burlachenkok/ef21_with_rare_features)
 
 The original variant of [EF21](https://arxiv.org/abs/2106.05203) was presented:
 
