@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Error Feedback Shines when Features are Rare
+title: Error Feedback Shines when Features Are Rare
 published: true
 ---
 
@@ -8,11 +8,19 @@ The new paper [Error Feedback Shines when Features are Rare](https://arxiv.org/a
 
 ---
 
-I was glad to work my peers [Elnur Gasanov](https://elnurgasanov.com/) and prof. [Peter Richtarik](https://richtarik.org/) on the paper **"Error Feedback Shines when Features are Rare"**.
+I was glad to work with my peers [Elnur Gasanov](https://elnurgasanov.com/) and Prof. [Peter Richtarik](https://richtarik.org/) on the paper 
 
-The arXiv link for the paper: [https://arxiv.org/abs/2305.15264](https://arxiv.org/abs/2305.15264). 
+**"Error Feedback Shines when Features are Rare"**.
 
-Source code for numerical experiments: [https://github.com/burlachenkok/ef21_with_rare_features](https://github.com/burlachenkok/ef21_with_rare_features)
+The arXiv link for the paper: 
+
+[https://arxiv.org/abs/2305.15264](https://arxiv.org/abs/2305.15264). 
+
+Source code for numerical experiments: 
+
+[https://github.com/burlachenkok/ef21_with_rare_features](https://github.com/burlachenkok/ef21_with_rare_features)
+
+The original variant of [EF21](https://arxiv.org/abs/2106.05203) was presented in NeurIPS 2021 Oral Talk, on December 7, 2021.
 
 ---
 
