@@ -8,7 +8,7 @@ The new paper [Error Feedback Shines when Features are Rare](https://arxiv.org/a
 
 ---
 
-I was glad to work with my peers [Elnur Gasanov](https://elnurgasanov.com/) and Prof. [Peter Richtarik](https://richtarik.org/) on the paper 
+I was glad to work with my peers [Elnur Gasanov](https://elnurgasanov.com/) and Prof. [Peter Richtárik](https://richtarik.org/) on the paper 
 
 **"Error Feedback Shines when Features are Rare"**.
 
@@ -22,9 +22,9 @@ Source code for numerical experiments:
 
 The original variant of [EF21](https://arxiv.org/abs/2106.05203) was presented:
 
-* In NeurIPS 2021 Oral Talk, on December 7, 2021.
-* [Federated Learning One World Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home?authuser=0), 28th July 2021: [FLOW Seminar #45: Peter Richtárik (KAUST) Faster Error Feedback](https://www.youtube.com/watch?v=rjWze5rcSUM&t=3367s&ab_channel=FederatedLearningOneWorldSeminar)
-* Google Tech Talks 2021/11/8: Federated Optimization and Analytics: https://youtu.be/aD3o_f7tf28?t=128
+* In NeurIPS 2021 Oral Talk, on December 7, 2021 ([link-1](https://nips.cc/Conferences/2021/Schedule?type=Oral))
+* In [Federated Learning One World Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home?authuser=0), 28th July 2021 ([link-2](https://www.youtube.com/watch?v=rjWze5rcSUM&t=3367s&ab_channel=FederatedLearningOneWorldSeminar))
+* Google Tech Talks 2021/11/8: Federated Optimization and Analytics: ([link-3](https://youtu.be/aD3o_f7tf28?t=128))
 
 ---
 
