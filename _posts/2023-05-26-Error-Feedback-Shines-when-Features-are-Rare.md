@@ -22,9 +22,9 @@ Source code for numerical experiments:
 
 The original variant of [EF21](https://arxiv.org/abs/2106.05203) was presented:
 
-* In NeurIPS 2021 Oral Talk, on December 7, 2021 ([link-1](https://nips.cc/Conferences/2021/Schedule?type=Oral))
-* In [Federated Learning One World Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home?authuser=0), 28th July 2021 ([link-2](https://www.youtube.com/watch?v=rjWze5rcSUM&t=3367s&ab_channel=FederatedLearningOneWorldSeminar))
-* Google Tech Talks 2021/11/8: Federated Optimization and Analytics: ([link-3](https://youtu.be/aD3o_f7tf28?t=128))
+* In NeurIPS 2021 Oral Talk, December 7, 2021 ([link-1](https://nips.cc/Conferences/2021/Schedule?type=Oral))
+* Google Tech Talks, November 8, 2021: Federated Optimization and Analytics: ([link-2](https://youtu.be/aD3o_f7tf28?t=128))
+* In [Federated Learning One World Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home?authuser=0), 28th July 2021 ([link-3](https://www.youtube.com/watch?v=rjWze5rcSUM&t=3367s&ab_channel=FederatedLearningOneWorldSeminar))
 
 ---
 
