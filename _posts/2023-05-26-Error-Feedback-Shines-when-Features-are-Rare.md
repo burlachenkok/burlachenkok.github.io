@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Error Feedback Shines when Features Are Rare
+title: Error Feedback Shines when Features are Rare
 published: true
 ---
 
