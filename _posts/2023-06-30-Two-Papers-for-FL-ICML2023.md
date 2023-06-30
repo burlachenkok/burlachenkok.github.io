@@ -8,13 +8,13 @@ Our two papers on Federated Learning have been accepted to [FL-ICML-2023](https:
 
 ---
 
-It was a great pleasure to collaborate with my peers on two papers that have been accepted to the [Workshop Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities](https://fl-icml2023.github.io/).
-at the Fortieth International Conference on Machine Learning [ICML 2023](https://icml.cc/Conferences/2023):
+It was a great pleasure for me to collaborate with my peers on two papers that have been accepted to the [Workshop Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities](https://fl-icml2023.github.io/) at the Fortieth International Conference on Machine Learning [ICML 2023](https://icml.cc/Conferences/2023):
 
 * [Federated Learning with Regularized Client Participation](https://arxiv.org/abs/2302.03662)
 * [Federated Optimization Algorithms with Random Reshuffling and Gradient Compression](https://arxiv.org/abs/2206.07021)
 
 I would like to thank my co-authors for their valuable contributions and insights:
+
 * [Grigory Malinovsky](https://grigory-malinovsky.github.io/)
 * [Samuel Horváth](https://sites.google.com/view/samuelhorvath) 
 * [Abdurakhmon Sadiev](https://scholar.google.com/citations?user=g0CzD50AAAAJ&hl=ru)
