@@ -4,7 +4,7 @@ title: Two papers have been accepted to FL-ICML-2023
 published: true
 ---
 
-We are excited to announce that our two papers on Federated Learning have been accepted to [FL-ICML-2023](https://fl-icml2023.github.io/). 
+Our two papers on Federated Learning have been accepted to [FL-ICML-2023](https://fl-icml2023.github.io/). 
 
 ---
 
