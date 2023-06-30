@@ -22,7 +22,7 @@ I would like to thank my co-authors for their valuable contributions and insight
 * [Igor Sokolov](https://scholar.google.com/citations?user=OBbPecwAAAAJ&hl=en)
 * [Ahmed Khaled](https://www.akhaled.org/)
 
-And last but not least, our advisor Prof. [Peter Richtárik](https://richtarik.org/) who has been and is a mentor and a friend to some of us, and a source of inspiration and wisdom to all of us.
+And last but not least, our advisor Prof. [Peter Richtárik](https://richtarik.org/) is a mentor and a friend to some of us, and a source of inspiration and wisdom to all of us.
 
 ---
 
