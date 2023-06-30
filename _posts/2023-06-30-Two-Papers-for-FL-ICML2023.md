@@ -8,9 +8,6 @@ Our two papers on Federated Learning have been accepted to [FL-ICML-2023](https:
 
 ---
 
-I was glad to work with my peers on two papers accepted to [Workshop Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities](https://fl-icml2023.github.io/)
-for Fortieth International Conference on Machine Learning [ICML 2023](https://icml.cc/Conferences/2023):
-
 It was a great pleasure to collaborate with my peers on two papers that have been accepted to the [Workshop Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities](https://fl-icml2023.github.io/).
 at the Fortieth International Conference on Machine Learning [ICML 2023](https://icml.cc/Conferences/2023):
 
