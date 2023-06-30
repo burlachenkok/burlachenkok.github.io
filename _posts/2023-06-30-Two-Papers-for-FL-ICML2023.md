@@ -27,15 +27,15 @@ And last but not least, our advisor Prof. [Peter Richtárik](https://richtarik.o
 ---
 
 <table style="text-align:center;">
+
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
 <td style="padding:5px;text-align:center;vertical-align:middle"> <img height="100px" src="https://burlachenkok.github.io/materials/MBZUAI_Logo.png"/> </td> 
 </tr>
-</table>
 
-<table style="text-align:center;">
 <tr>
-<td style="padding:15px;text-align:center;vertical-align:middle"> <img height="90px" src="https://burlachenkok.github.io/materials/princeton-university-logo.png"/> </td> 
-<td style="padding:15px;text-align:center;vertical-align:middle"> <img height="90px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.png"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle"> <img height="80px" src="https://burlachenkok.github.io/materials/princeton-university-logo.png"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle"> <img height="80px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.png"/> </td> 
 </tr>
+
 </table>
