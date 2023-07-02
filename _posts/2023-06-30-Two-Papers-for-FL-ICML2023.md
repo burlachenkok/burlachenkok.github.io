@@ -16,7 +16,7 @@ It was a great pleasure for me to collaborate with my peers on two papers that h
 I would like to thank my co-authors for their valuable contributions and insights:
 
 * [Grigory Malinovsky](https://grigory-malinovsky.github.io/)
-* [Samuel Horváth](https://sites.google.com/view/samuelhorvath) 
+* Prof. [Samuel Horváth](https://sites.google.com/view/samuelhorvath) 
 * [Abdurakhmon Sadiev](https://scholar.google.com/citations?user=g0CzD50AAAAJ&hl=ru)
 * [Eduard Gorbunov](https://eduardgorbunov.github.io/)
 * [Igor Sokolov](https://scholar.google.com/citations?user=OBbPecwAAAAJ&hl=en)
