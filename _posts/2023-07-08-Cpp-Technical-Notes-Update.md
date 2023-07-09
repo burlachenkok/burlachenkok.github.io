@@ -17,9 +17,9 @@ As of *July 08, 2023, * this technical note in PDF format consists of 102 pages.
 
 Recent updates to the document include the following:
 
-* [Update of information to generate and suppress the generation of Special Class Members](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#generate-and-suppress-the-generation-of-special-class-members)
+* [Update regarding generattion and suppress of special class members](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#generate-and-suppress-the-generation-of-special-class-members)
 * [Updates regarding function inlining](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#inline-function-call)
-* [More well-developed information regarding move semantics](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#move-semantics)
+* [More well-developed information about move semantics](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#move-semantics)
 * [More detailed information about memory aliasing](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#memory-aliasing-and-restrict)
 * [References to compiler optimization flags](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#popular-compiler-flags-for-optimization)
 * Appendix about ["Virtual Inheritance Inside"](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#virtual-inheritance-inside), ["Object Orientated Design"](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#object-orientated-design), ["Object Orientated Design Patterns"](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#object-orientated-design-patterns)
