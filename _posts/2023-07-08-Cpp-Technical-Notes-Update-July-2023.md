@@ -22,14 +22,18 @@ Recent updates to the document include the following:
 * [More well-developed information about move semantics](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#move-semantics)
 * [More detailed information about memory aliasing](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#memory-aliasing-and-restrict)
 * [References to compiler optimization flags](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#popular-compiler-flags-for-optimization)
-* Appendix about ["Virtual Inheritance Inside"](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#virtual-inheritance-inside), ["Object Orientated Design"](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#object-orientated-design), ["Object Orientated Design Patterns"](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#object-orientated-design-patterns)
-* Big Appendix about [General Purpose CPU Compute Optimization technics](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#performance-optimization-for-general-purpose-cpu), which is essentially based on a course from Prof. [Charles Leiserson](https://people.csail.mit.edu/cel/), and Prof. [Julian Shun](https://people.csail.mit.edu/jshun/) ([6.172, MIT, 2018](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)). Performance Optimization (for CPU) is a nearby concept accessible from the C++ language level and is sometimes the reason behind using C++ in the first place.
+* Appendices about ["Virtual Inheritance Inside"](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#virtual-inheritance-inside), ["Object Orientated Design"](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#object-orientated-design), ["Object Orientated Design Patterns"](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#object-orientated-design-patterns)
+* Big Appendix about [General Purpose CPU Compute Optimization technics](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#performance-optimization-for-general-purpose-cpu)
+
+Appendix [General Purpose CPU Compute Optimization technics](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#performance-optimization-for-general-purpose-cpu) is essentially based on materials from the course of from Prof. [Charles Leiserson](https://people.csail.mit.edu/cel/), and Prof. [Julian Shun](https://people.csail.mit.edu/jshun/) ([6.172, MIT, 2018](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)). 
+
+Performance Optimization (for CPU) is a nearby concept accessible from the C++ language level and sometimes it is the reason behind using C++ in the first place in the project.
 
 ---
 
-The course [6.172, MIT, 2018](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) was a course behind a new research-oriented course on algorithms [MIT, 6.506 Algorithm Engineering Spring 2023](6.506 Algorithm Engineering Spring 2023) from Prof. [Charles Leiserson](https://people.csail.mit.edu/cel/), and Prof. [Julian Shun](https://people.csail.mit.edu/jshun/).
+For whom it may be interesting. The course [6.172, MIT, 2018](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) was a course behind a new research-oriented course on algorithms [MIT, 6.506 Algorithm Engineering Spring 2023](6.506 Algorithm Engineering Spring 2023) from Prof. [Charles Leiserson](https://people.csail.mit.edu/cel/), and Prof. [Julian Shun](https://people.csail.mit.edu/jshun/).
 
-Unfortunately, lectures and lecture notes for the last one are not publicly available, only slides.
+Unfortunately, lectures and lecture notes for the last one are not publicly available, only slides and recomended papers.
 
 <table>
 <tr>
