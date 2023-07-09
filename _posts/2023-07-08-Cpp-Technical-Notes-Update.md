@@ -29,7 +29,7 @@ The course [6.172, MIT, 2018](https://ocw.mit.edu/courses/6-172-performance-engi
 
 <table>
 <tr>
-<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/cpp-logo.svg"/></td>
-<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/amd-logo.svg"/> </td> 
+<td style="padding: 15px"> <img height="80px" src="https://burlachenkok.github.io/materials/cpp-logo.svg"/></td>
+<td style="padding: 15px"> <img height="80px" src="https://burlachenkok.github.io/materials/amd-logo.svg"/> </td> 
 </tr>
 </table>
