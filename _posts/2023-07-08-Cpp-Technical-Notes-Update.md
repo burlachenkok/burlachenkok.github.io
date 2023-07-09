@@ -25,7 +25,11 @@ Recent updates to the document include the following:
 * Appendix about "Virtual Inheritance Inside", "Object Orientated Design", "Object Orientated Design Patterns
 * Big Appendix about general-purpose CPU Compute Optimization technics, which is essentially based on a course from Prof. [Charles Leiserson](https://people.csail.mit.edu/cel/), and Prof. [Julian Shun](https://people.csail.mit.edu/jshun/) ([6.172, MIT, 2018](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)). Performance Optimization (for CPU) is a nearby concept accessible from the C++ language level and is sometimes the reason behind using C++ in the first place.
 
-The course [6.172, MIT, 2018](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) was a course behind a new research-oriented course on algorithms [MIT, 6.506 Algorithm Engineering Spring 2023](6.506 Algorithm Engineering Spring 2023). Unfortunately, lectures and lecture notes for the last one is not publicly available, only slides.
+---
+
+The course [6.172, MIT, 2018](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) was a course behind a new research-oriented course on algorithms [MIT, 6.506 Algorithm Engineering Spring 2023](6.506 Algorithm Engineering Spring 2023) from Prof. [Charles Leiserson](https://people.csail.mit.edu/cel/), and Prof. [Julian Shun](https://people.csail.mit.edu/jshun/).
+
+Unfortunately, lectures and lecture notes for the last one is not publicly available, only slides.
 
 <table>
 <tr>
