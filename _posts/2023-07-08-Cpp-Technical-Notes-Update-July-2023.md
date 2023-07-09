@@ -10,7 +10,7 @@ Update of technical note devoted to covering information regarding all primary C
 
 I am glad that technical note [Technical Note. From C++1998 to C++2020.](https://github.com/burlachenkok/CPP_from_1998_to_2020/blob/main/Cpp-Technical-Note.md#references) which covers the C and all primary C++ programming language standards (C++03/98/11/14/17/20):
 
-* Has been adopted to the Educational website of [AMD Inc.](https://www.amd.com/en.html)
+* Has been adopted to the educational portal of [AMD Inc.](https://www.amd.com/en.html)
 * Has 107 stars as the [GitHub Repository](https://github.com/burlachenkok/CPP_from_1998_to_2020/)
 
 As of *July 08, 2023*, this technical note in PDF format consists of 102 pages in PDF.
