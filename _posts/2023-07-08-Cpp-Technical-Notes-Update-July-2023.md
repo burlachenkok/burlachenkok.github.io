@@ -31,7 +31,7 @@ Performance Optimization (for CPU) is a nearby concept accessible from the C++ l
 
 ---
 
-For whom it may be interesting. The course [6.172, MIT, 2018](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) was a course behind a new research-oriented course on algorithms [MIT, 6.506 Algorithm Engineering Spring 2023](6.506 Algorithm Engineering Spring 2023) from Prof. [Charles Leiserson](https://people.csail.mit.edu/cel/), and Prof. [Julian Shun](https://people.csail.mit.edu/jshun/).
+For whom it may be interesting. The course [6.172, MIT, 2018](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) was a course behind a new research-oriented course on algorithms [MIT, 6.506 Algorithm Engineering Spring 2023](https://people.csail.mit.edu/jshun/6506-s23/) from Prof. [Charles Leiserson](https://people.csail.mit.edu/cel/), and Prof. [Julian Shun](https://people.csail.mit.edu/jshun/).
 
 Unfortunately, lectures and lecture notes for the last one are not publicly available, only slides and recomended papers.
 
