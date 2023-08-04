@@ -1,6 +1,6 @@
 ---
 layout: post
-Technical Note. Exploring Python 3.
+title: Technical Note. Exploring Python 3.
 published: true
 ---
 
