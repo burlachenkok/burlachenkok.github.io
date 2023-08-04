@@ -22,7 +22,7 @@ There are several reasons for using the [Python](https://www.python.org/) langua
 
 4. There is an extensive collection of libraries available, as well as free and commercial integrated development environments (IDEs) such as PyCharm and Visual Studio Code. [PyCharm](https://www.jetbrains.com/pycharm/) and [Visual Studio Code](https://code.visualstudio.com/) are two popular examples.
 
-The presented note contains a concise language tutorial, and contains a description of several profiling tools for Software Development. In case you have never worked on highly critical Software Development that needs to function optimally within an operating system, you may not be familiar with them at all. I hope this description will help fill any gaps you may have and assist you in eliminating them.
+The presented note contains a concise language tutorial, and contains a description of several profiling tools for Software Development for Linux/Posix OS and Windows OS Family. In case you have never worked on highly critical Software Development that needs to function optimally within an operating system, you may not be familiar with them at all. I hope this description will help fill any gaps you may have and assist you in eliminating them.
 
 <table>
 <tr>
