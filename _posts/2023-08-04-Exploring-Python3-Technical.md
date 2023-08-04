@@ -8,7 +8,7 @@ Technical Note. Exploring the Python 3 Language from a Computing Perspective.
 
 ---
 
-During the Eid Al Fitr holidays, I created the following document [Technical Note.] [Exploring Python3 Language from a Computing Perspective](https://github.com/burlachenkok/exploring-python3/blob/main/python3-note.md):
+During the Eid Al Fitr holidays, I created the following document [Technical Note. Exploring Python3 Language from a Computing Perspective](https://github.com/burlachenkok/exploring-python3/blob/main/python3-note.md):
 
 [https://github.com/burlachenkok/exploring-python3](https://github.com/burlachenkok/exploring-python3).
 
