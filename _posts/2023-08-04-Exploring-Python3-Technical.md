@@ -10,7 +10,7 @@ Technical Note. Exploring the Python 3 Language from a Computing Perspective.
 
 During the Eid Al Fitr holidays, I created the document:
 
-**Technical Note. Exploring Python3 Language from a Computing Perspective**
+**Technical Note. Exploring Python3 Language from a Computing Perspective**.
 
 It is available in GitHub as documents in Markdown and in Pdf formats:
 
