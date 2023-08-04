@@ -12,7 +12,9 @@ During the Eid Al Fitr holidays, I created the following document [Technical Not
 
 [https://github.com/burlachenkok/exploring-python3](https://github.com/burlachenkok/exploring-python3).
 
-There are several reasons for using the [Python](https://www.python.org/) language:
+There are several reasons for using the [Python](https://www.python.org/) language in addition to the fact this popular according to [Tiobe-Index](https://www.tiobe.com/tiobe-index/):
+
+:
 
 1. [Python](https://www.python.org/) is often the language of choice for prototyping in academic courses. So, if your lifestyle involves continuous education, you will encounter Python.
 
