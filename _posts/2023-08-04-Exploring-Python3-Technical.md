@@ -8,13 +8,11 @@ Technical Note. Exploring the Python 3 Language from a Computing Perspective.
 
 ---
 
-During the Eid Al Fitr holidays, I created the following document [Technical Note. Exploring Python3 Language from a Computing Perspective](https://github.com/burlachenkok/exploring-python3/blob/main/python3-note.md):
+During the Eid Al Fitr holidays, I created the document **Technical Note. Exploring Python3 Language from a Computing Perspective**, available in GitHub:
 
 [https://github.com/burlachenkok/exploring-python3](https://github.com/burlachenkok/exploring-python3).
 
-There are several reasons for using the [Python](https://www.python.org/) language in addition to the fact this popular according to [Tiobe-Index](https://www.tiobe.com/tiobe-index/):
-
-:
+There are several reasons for using the [Python](https://www.python.org/) language in addition to the fact this popular according to [TIOBE-Index](https://www.tiobe.com/tiobe-index/):
 
 1. [Python](https://www.python.org/) is often the language of choice for prototyping in academic courses. So, if your lifestyle involves continuous education, you will encounter Python.
 
