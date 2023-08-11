@@ -9,7 +9,7 @@ I have joined the [KAUST Ph.D. Computer Science program](https://registrar-progr
 ---
 I hold a Master's Degree in Computer Science from Bauman Moscow State Technical University (BMSTU), Russia. 
 
-After graduating from BMSTU, I worked in several prominent companies, such as Huawei, NVIDIA, and Yandex. 
+After graduating from BMSTU, I worked in several prominent companies, such as Huawei, NVIDIA, Yandex, and Acronis.
                                                                                                                   
 After spending time in industry I have backed into academia. I have joined KAUST in August 2020 as a Ph.D. candidate and member of Professor [Peter Richtarik's Optimization and Machine Learning Lab](https://richtarik.org/).
 
