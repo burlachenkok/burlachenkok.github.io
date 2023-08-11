@@ -14,12 +14,13 @@ During the Eid Al Fitr holidays, I created the document:
 
 It is essentially a cocktail between Python Language Tutorial and some popular Profiling Tools for applications working in the user space. It is available in GitHub as documents in Markdown and in Pdf formats:
 
-[https://github.com/burlachenkok/exploring-python3](https://github.com/burlachenkok/exploring-python3).
+[https://github.com/burlachenkok/exploring-python3](https://github.com/burlachenkok/exploring-python3)
 
-The presented note contains a concise language tutorial and a description of several libraries.
+The presented note contains a concise language tutorial, a description of several libraries, a description of several profiling tools for Software Development for Linux/Posix OS and Windows OS Family. 
 
-Also, it contains a description of several profiling tools for Software Development for Linux/Posix OS and Windows OS Family. In case you have never worked on highly critical Software Development that needs to function optimally within an operating system, you may not be familiar with them at all. I hope this description will help fill any gaps you may have and assist you in eliminating them.
-The total number of pages in the compiled PDF is **62**. It contains big margins and a lot of space if taken by code snippets, so please be not afraid of this number.
+In case you have never worked on highly critical Software Development that needs to function optimally within an operating system, you may not be familiar with them at all. I hope this description will help to fill some gaps in question of profiling.
+
+The total number of pages in the compiled PDF is **65**. It contains big margins and a lot of space if taken by code snippets, so please be not afraid of this number.
 
 There are several reasons for using the [Python](https://www.python.org/) language in addition to the fact this is popular according to [TIOBE-Index](https://www.tiobe.com/tiobe-index/):
 
