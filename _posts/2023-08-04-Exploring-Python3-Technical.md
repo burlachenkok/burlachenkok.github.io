@@ -12,7 +12,7 @@ During the Eid Al Fitr holidays, I created the document:
 
 **Technical Note. Exploring Python3 Language from a Computing Perspective** 
 
-It is essentially a cocktail between Python Language Tutorial and some popular Profiling Tools for applications working in the user space. It is available in GitHub as documents in Markdown and in Pdf formats:
+It is essentially a cocktail between Python Language Tutorial and some popular Profiling Tools for applications working in the user space:
 
 [https://github.com/burlachenkok/exploring-python3](https://github.com/burlachenkok/exploring-python3).
 
