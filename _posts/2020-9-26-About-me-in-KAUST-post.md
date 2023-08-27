@@ -14,3 +14,5 @@ After graduating from BMSTU, I worked in several prominent companies, such as [H
 After spending time in industry I have backed into academia. I have joined KAUST in August 2020 as a Ph.D. candidate and member of Professor [Peter Richtarik's Optimization and Machine Learning Lab](https://richtarik.org/).
 
 Extra details are presented here: [Konstantin Burlachenko story in CEMSE/CS](https://cemse.kaust.edu.sa/news/meet-kaust-student-konstantin-burlachenko)
+
+During my coming to KAUST I obtained a financial add-on to the KAUST Fellowship, given to a few of the best incoming students by the Dean.
