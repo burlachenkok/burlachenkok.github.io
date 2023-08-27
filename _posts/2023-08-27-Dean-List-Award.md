@@ -14,6 +14,6 @@ This is awarded annually to the Top 20% of PhD and MS/PhD students in the [CEMSE
 <center>
 <table>
 <tr>
-<td style="padding: 15px"> <img height="150px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
+<td style="padding: 15px"> <img height="125px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
 </tr>
 </table>
