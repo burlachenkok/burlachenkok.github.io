@@ -47,13 +47,14 @@ You can for sure do this if the methodology is not rigorous. In fact, sometimes,
 {:.mbtablestyle}
 
 ***p.s.***
-There is a vision of prof. [John C. Duchi](https://web.stanford.edu/~jduchi/) that he has shared in [Simons Institute](https://simons.berkeley.edu/) during [Statistical Theory, Privacy, and Data Analysis, APR-2019](https://youtu.be/GJXiYzi8KRc?t=591) at 09:51 that there are a lot of disciplines that underpin AI.
-And there are people in academia (John C. Duchi is an example of that) that can not state, "AI is everything, and AI solves everything."
+There is a vision of Prof. [John C. Duchi](https://web.stanford.edu/~jduchi/) that he has shared in [Simons Institute](https://simons.berkeley.edu/) during [Statistical Theory, Privacy, and Data Analysis, APR-2019](https://youtu.be/GJXiYzi8KRc?t=591) at 09:51 that in fact there are a lot of disciplines that underpin AI.
 
-In any case, I hope the catalog below will be useful for people who do science and engineering. For example, [EE261](https://see.stanford.edu/course/ee261) is an essential core for understanding and creating devices and approaches in:
+And there are people in academia (John C. Duchi is an example of that) that cannot pronounce: "AI is everything, AI solves everything."
 
-* Digital Signal Processing
-* Digital Filters
-* Compressed Sensing
+In any case, I hope the catalog above will be useful for people who do science and engineering. For example, [EE261](https://see.stanford.edu/course/ee261) is an essential core for understanding and creating devices and approaches in:
+
+* Digital Signal Processing.
+* Digital Filters.
+* Compressed Sensing.
 * Music Composition. Catalog of courses relative to Music at Stanford [https://ccrma.stanford.edu/courses](https://ccrma.stanford.edu/courses)
-* Medical Images
+* Medical Images.
