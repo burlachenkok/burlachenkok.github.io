@@ -10,7 +10,9 @@ Systematized catalog of courses at Stanford relative to creating various systems
 
 [Stanford University](https://www.stanford.edu/) provides various courses regarding constructing and tackling different mathematical models for constructing engineering systems. Some of them with personal bias are listed below. They do not have an AI prefix or suffix in it.
 
-Nevertheless, it's upgradable to basic Machine Learning with one (not easy) step: You localize the heuristic and replace it with ML data-driven approach. You can for sure do this if the methodology is not rigorous. But in fact, sometimes, people do it even if the methodology is rigorous, but computation is enormous.
+Nevertheless, it's upgradable to basic Machine Learning with one (not easy) step: You localize the heuristic and replace it with an ML data-driven approach. 
+
+You can for sure do this if the methodology is not rigorous. In fact, sometimes, people do it even if the methodology is rigorous, but computation demands for correct solving mathematical problems is enormously hard.
 
 | **Course Number**  | **Course Name**  | **Slides or Notes**  | **Videos**  |
 |---|---|---|---|
