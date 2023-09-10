@@ -30,9 +30,8 @@ There are several reasons for using the [Python](https://www.python.org/) langua
 
 3. Python, in the realm of scripting languages, is arguably one of the best choices available from comfort point if view. Development in [Python](https://www.python.org/) is significantly more productive than in other scripting languages, such as [Perl](https://www.perl.org/). Of course, if Python runntime and it's libraries overhead is too much for you or Python is not supported in your OS/Target Device - you are out of luck.
 
-5. There is an extensive collection of libraries available, as well as free and commercial integrated development environments (IDEs) such as PyCharm and Visual Studio Code. [PyCharm](https://www.jetbrains.com/pycharm/) and [Visual Studio Code](https://code.visualstudio.com/) are two popular examples.
-
-
+5. There is an extensive collection of libraries available, as well as free and commercial integrated development environments (IDEs) such as [PyCharm](https://www.jetbrains.com/pycharm/) and [Visual Studio Code](https://code.visualstudio.com/).
+6. 
 <table>
 <tr>
 <td style="padding: 15px"> <img height="80px" src="https://burlachenkok.github.io/materials/python-logo.svg"/></td>
