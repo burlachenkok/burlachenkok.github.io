@@ -30,7 +30,7 @@ There are several reasons for using the [Python](https://www.python.org/) langua
 
 3. Python, in the realm of scripting languages, is arguably one of the best choices available from a comfort point of view. Development in [Python](https://www.python.org/) is significantly more productive than in other scripting languages, such as [Perl](https://www.perl.org/). Of course, if Python runtime and its libraries overhead is too much for you or Python is not supported in your OS/Target Device - you are out of luck.
 
-5. There is an extensive collection of libraries available, as well as free and commercial integrated development environments (IDEs) such as [PyCharm](https://www.jetbrains.com/pycharm/), [Visual Studio Code](https://code.visualstudio.com/) and [Komodo IDE](https://www.activestate.com/products/komodo-ide/). If you are working on small code snippets for Python and you already use [Microsoft Visual Studio](https://visualstudio.microsoft.com/) for writing code then in fact you can debug your Python code with [Visual Studio Python Extension](https://visualstudio.microsoft.com/vs/features/python/).
+5. There is an extensive collection of libraries available, as well as free and commercial integrated development environments (IDEs) such as [PyCharm](https://www.jetbrains.com/pycharm/), [Visual Studio Code](https://code.visualstudio.com/) and [Komodo IDE](https://www.activestate.com/products/komodo-ide/). If you are working on small code snippets for Python and you already use [Microsoft Visual Studio](https://visualstudio.microsoft.com/) for writing code then in fact you can debug your code with [Visual Studio Python Extension](https://visualstudio.microsoft.com/vs/features/python/).
 
 <table>
 <tr>
