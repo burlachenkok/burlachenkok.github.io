@@ -18,7 +18,7 @@ It is essentially a cocktail between a Python Language Tutorial and some popular
 
 The presented note contains a concise language tutorial, a description of several libraries, and a description of several profiling tools for Software Development for Linux/Posix OS and Windows OS Family. 
 
-In case you have never worked on highly critical Software Development that needs to function optimally within an operating system, you may not be familiar with them at all. I hope this description will help to fill some gaps in the question of profiling.
+In case you have never worked on highly critical Software Development that needs to function optimally within an Operating System (OS), you may not be familiar with them at all. I hope this description will help to fill some gaps in the question of profiling.
 
 The total number of pages in the compiled PDF is **65**. It contains big margins and a lot of space was taken by code snippets, so please be not afraid of this number.
 
