@@ -12,7 +12,7 @@ The paper *"Faster Rates for Compressed Federated Learning with Client-Variance 
 
 * The arXiv version has been updated on 24 September 2023: [https://arxiv.org/abs/2112.13097](https://arxiv.org/abs/2112.13097)
 
-I was glad to work with my peers:
+I was glad to work with my peers and I hope for future work with them:
 * [Haoyu Zhao](https://hyzhao.me/) from [Princeton University](https://www.princeton.edu/)
 * [Zhize Li](https://zhizeli.github.io/) from [Carnegie Mellon University](https://www.cmu.edu/)
 * Prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/)
