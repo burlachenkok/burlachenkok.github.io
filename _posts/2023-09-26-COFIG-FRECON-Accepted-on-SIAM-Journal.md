@@ -15,9 +15,9 @@ I was glad to work with my peers (and I hope for future work with them in the fu
 * [Zhize Li](https://zhizeli.github.io/) from [Carnegie Mellon University](https://www.cmu.edu/)
 * Prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/)
 
-The <span style="color:rgb(121,116,105)">arXiv</span> version of our paper has been updated on 24 September 2023.
+The arXiv version of our paper has been updated on 24 September 2023.
 
-Link: [https://arxiv.org/abs/2112.13097](https://arxiv.org/abs/2112.13097)
+Link to arXiv: [https://arxiv.org/abs/2112.13097](https://arxiv.org/abs/2112.13097)
 
 ---
 
