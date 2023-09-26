@@ -4,11 +4,11 @@ title: Faster Rates for Compressed Federated Learning with Client-Variance Reduc
 published: true
 ---
 
-The paper [Faster Rates for Compressed Federated Learning with Client-Variance Reduction](https://arxiv.org/abs/2112.13097) was accepted to [SIAM Journal (SIMODS)](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods).
+The paper [Faster Rates for Compressed Federated Learning with Client-Variance Reduction](https://arxiv.org/abs/2112.13097) was accepted by the [SIAM Journal (SIMODS)](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods).
 
 ---
 
-The paper *"Faster Rates for Compressed Federated Learning with Client-Variance Reduction"* was accepted to the [SIAM Journal on Mathematics of Data Science(SIMODS)](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods). SIAM Journal on Mathematics of Data Science (SIMODS) publishes work that advances mathematical, statistical, and computational methods in the context of data and information sciences.
+The paper *"Faster Rates for Compressed Federated Learning with Client-Variance Reduction"* was accepted by the [SIAM Journal on Mathematics of Data Science(SIMODS)](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods). SIAM Journal on Mathematics of Data Science (SIMODS) publishes work that advances mathematical, statistical, and computational methods in the context of data and information sciences.
 
 I was glad to work with my peers (and I hope for future work with them in the future):
 * [Haoyu Zhao](https://hyzhao.me/) from [Princeton University](https://www.princeton.edu/)
