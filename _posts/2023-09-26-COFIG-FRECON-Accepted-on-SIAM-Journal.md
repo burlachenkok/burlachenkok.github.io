@@ -10,7 +10,7 @@ The paper [Faster Rates for Compressed Federated Learning with Client-Variance R
 
 The paper *"Faster Rates for Compressed Federated Learning with Client-Variance Reduction"* was accepted to the [SIAM Journal on Mathematics of Data Science(SIMODS)](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods).
 
-* The arXiv version has been updated on 24 SEP 2023: [https://arxiv.org/abs/2112.13097](https://arxiv.org/abs/2112.13097)
+* The arXiv version has been updated on 24 September 2023: [https://arxiv.org/abs/2112.13097](https://arxiv.org/abs/2112.13097)
 
 I was glad to work with my peers:
 * [Haoyu Zhao](https://hyzhao.me/) from [Princeton University](https://www.princeton.edu/)
