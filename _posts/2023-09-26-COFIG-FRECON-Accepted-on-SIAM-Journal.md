@@ -18,8 +18,8 @@ I was glad to work with my peers [Haoyu Zhao](https://hyzhao.me/) from [Princeto
 
 <table style="text-align:center;">
 <tr>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="75px" src="https://burlachenkok.github.io/materials/princeton-university-logo.png"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="75px" src="https://burlachenkok.github.io/materials/princeton-university-logo.svg"/> </td>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="75px" src="https://burlachenkok.github.io/materials/cmu-logo.png"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="75px" src="https://burlachenkok.github.io/materials/cmu-logo.svg"/> </td>
 </tr>
 </table>
