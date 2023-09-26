@@ -1,0 +1,25 @@
+---
+layout: post
+title: Faster Rates for Compressed Federated Learning with Client-Variance Reduction.
+published: true
+---
+
+The paper [Faster Rates for Compressed Federated Learning with Client-Variance Reduction](https://arxiv.org/abs/2112.13097) was accepted to SIAM Journal.
+
+---
+
+The paper "Faster rates for compressed federated learning with client-variance reduction" was accepted to the [SIAM Journal on Mathematics of Data Science(SIMODS)](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods).
+
+* The arXiv version has been updated on 24 SEP 2023: [https://arxiv.org/abs/2112.13097](https://arxiv.org/abs/2112.13097)
+
+I was glad to work with my peers [Haoyu Zhao](https://hyzhao.me/) from [Princeton University](https://www.princeton.edu/), [Zhize Li](https://zhizeli.github.io/) from [Carnegie Mellon University](https://www.cmu.edu/), and prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/).
+
+---
+
+<table style="text-align:center;">
+<tr>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="75px" src="https://burlachenkok.github.io/materials/princeton-university-logo.png"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="75px" src="https://burlachenkok.github.io/materials/cmu-logo.png"/> </td>
+</tr>
+</table>
