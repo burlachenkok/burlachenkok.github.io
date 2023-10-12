@@ -8,7 +8,7 @@ The paper [Sharper Rates and Flexible Framework for Nonconvex SGD with Client an
 
 ---
 
-The paper *"Sharper Rates and Flexible Framework for Nonconvex SGD with Client and Data Sampling"* was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html): "TMLR is a venue for dissemination of machine learning research which emphasizes technical correctness over subjective significance..."
+The paper *"Sharper Rates and Flexible Framework for Nonconvex SGD with Client and Data Sampling"* was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html). TMLR is a venue for dissemination of machine learning research which emphasizes technical correctness over subjective significance.
 
 Our paper improves the optimal first-order non-convex optimization method [PAGE](https://proceedings.mlr.press/v139/li21a.html) in various ways.
 
