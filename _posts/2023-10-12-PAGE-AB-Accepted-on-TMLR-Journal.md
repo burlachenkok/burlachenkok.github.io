@@ -8,11 +8,11 @@ The paper [Sharper Rates and Flexible Framework for Nonconvex SGD with Client an
 
 ---
 
-The paper *"Sharper Rates and Flexible Framework for Nonconvex SGD with Client and Data Sampling"* was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html). TMLR is a venue for dissemination of machine learning research which emphasizes technical correctness over subjective significance, to ensure that we facilitate scientific discourse on topics that may not yet be accepted in mainstream venues but may be important in the future.
+The paper *"Sharper Rates and Flexible Framework for Nonconvex SGD with Client and Data Sampling"* was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html): "TMLR is a venue for dissemination of machine learning research which emphasizes technical correctness over subjective significance..."
 
-Our paper improves the optimal first-order non-convex optimization method for smooth non-convex objectives with finite sum structure [PAGE](https://proceedings.mlr.press/v139/li21a.html) in various ways.
+Our paper improves the optimal first-order non-convex optimization method [PAGE](https://proceedings.mlr.press/v139/li21a.html) in various ways.
 
-I was glad to work with my peers from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) and hope for further cooperation with them:
+I was glad to work with my peers from the [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) and hope for further cooperation with them:
 * [Alexander Tyurin](https://k3nfalt.github.io/)
 * [Lukang Sun](https://lukangsun.github.io/)
 * Prof. [Peter Richtarik](https://richtarik.org/)
