@@ -4,7 +4,7 @@ title: Sharper Rates and Flexible Framework for Nonconvex SGD with Client and Da
 published: true
 ---
 
-The paper [Sharper Rates and Flexible Framework for Nonconvex SGD with Client and Data Sampling](https://arxiv.org/abs/2206.02275) was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html).
+The paper [Sharper Rates and Flexible Framework for Nonconvex SGD with Client and Data Sampling](https://arxiv.org/abs/2206.02275) was accepted by the [Transactions on Machine Learning Research](https://jmlr.csail.mit.edu/tmlr/index.html).
 
 ---
 
