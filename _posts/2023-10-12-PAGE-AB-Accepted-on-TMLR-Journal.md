@@ -23,7 +23,6 @@ Links to the paper:
 
 Presentation dedicated for [PAGE](https://proceedings.mlr.press/v139/li21a.html) as Oral in ICML 2021:
 * https://icml.cc/virtual/2021/oral/8450
-* [PAGE](https://proceedings.mlr.press/v139/li21a.html)
 
 ---
 
