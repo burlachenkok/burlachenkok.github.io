@@ -22,7 +22,7 @@ Links to the paper:
 * [https://openreview.net/forum?id=zKgJ6TWAFE](https://openreview.net/forum?id=zKgJ6TWAFE)
 
 Presentation dedicated for original [PAGE](https://proceedings.mlr.press/v139/li21a.html) - Oral in ICML 2021:
-* https://icml.cc/virtual/2021/oral/8450
+* [https://icml.cc/virtual/2021/oral/8450](https://icml.cc/virtual/2021/oral/8450)
 
 ---
 
