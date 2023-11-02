@@ -10,12 +10,14 @@ The paper **"Federated Learning is Better with Non-Homomorphic Encryption"** was
 
 The paper, titled **"Federated Learning is Better with Non-Homomorphic Encryption"**, has been accepted as part of the technical program for the [19th ACM International Conference on Emerging Networking EXperiments and Technologies (ACM CoNEXT 2023)](https://conferences2.sigcomm.org/co-next/2023/), Paris, a conference sponsored by the:
 
-* [ACM](https://www.acm.org/)
-* [HUAWEI](https://huawei.com/)
-* [Google](https://about.google/)
-* [Comcast](https://corporate.comcast.com/)
-* [Ripe NCC](https://www.ripe.net/)
-* [Orange S.A. (France Télécom)](https://www.orange.com/en).
+* [Association for Computing Machinery](https://www.acm.org/)
+* [Huawei Technologies Co.](https://huawei.com/)
+* [Google Inc.](https://about.google/)
+* [Comcast Co.](https://corporate.comcast.com/)
+* [Réseaux IP Européens Network Coordination Centre](https://www.ripe.net/)
+* [Orange S.A. (France Télécom S.A.)](https://www.orange.com/en)
+
+---
 
 I was glad to work with my peers and hope for further cooperation with them:
 * [Abdulmajeed Alrowith](https://www.linkedin.com/in/aalrowithi?originalSubdomain=sa) from [Saudi Data and AI Authority](https://sdaia.gov.sa/).
@@ -42,9 +44,9 @@ I will be glad to have a discussion during or after the presentation if you plan
 
 <table style="text-align:center;">
 <tr>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/clean-logo-white-background-small.png"/> </td>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.png"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/materials/clean-logo-white-background-small.png"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.png"/> </td> 
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/acm-logo.png"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/acm-logo.png"/> </td>
 </tr>
 </table>
