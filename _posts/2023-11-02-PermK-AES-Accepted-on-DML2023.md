@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Federated Learning is Better with Non-Homomorphic Encryption at DistributedML 2023
+title: Federated Learning is Better with Non-Homomorphic Encryption
 published: true
 ---
 
@@ -24,12 +24,12 @@ Our work opens a new possibility for applying Classical Cryptography to <span st
 * [G.Kaissis, M.Makowski, D.Rückert, R.Braren: Secure, privacy-preserving, and federated machine learning in medical imaging. Nature Machine Intelligence, 2020.](https://www.nature.com/articles/s42256-020-0186-1)
 * [N.Jain, A.Cherukuri: Revisiting Fully Homomorphic Encryption Schemes, 2023.](https://arxiv.org/abs/2305.05904)
 
-We provided a reach Appendix (28 pages long) for our work that includes: studies about the effect of problem dimension, overlapping communication and computation during training machine learning models, deployment options in various network topologies, and the support background.
+We provided a reach Appendix for our work that includes: studies about the effect of problem dimension, overlapping communication and computation during training machine learning models, deployment options in various network topologies, and the support background.
 
 Our paper will be presented in [4th International Workshop on Distributed Machine Learning (DistributedML 2023) co-located with CoNext](https://distributedml.org/) and will be available in [ACM Digital Library. Conext proceedings](https://dl.acm.org/conference/conext/proceedings).
 The [ACM CoNEXT 2023](https://conferences2.sigcomm.org/co-next/2023/) will be held December 5-8, 2023 in the Conservatoire national des arts et métiers (Cnam), Paris, France. 
 
-And I will be glad to have a discussion during or after the presentation.
+I will be glad to have a live discussion during or after the presentations if you plan to visit the [DistributedML 2023](https://distributedml.org/) workshop.
 
 ---
 
