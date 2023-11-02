@@ -17,4 +17,4 @@ I have obtained the second place in this tournament.
 
 ![Chess Club Present](https://burlachenkok.github.io/materials/chess-club-kaust-present.png)
 
-![KAUST Logo](https://burlachenkok.github.io/materials/KAUST-logo.png)
+![KAUST Logo](https://burlachenkok.github.io/materials/KAUST-logo.svg)
