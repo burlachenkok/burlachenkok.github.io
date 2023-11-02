@@ -29,7 +29,7 @@ We provided a reach Appendix for our work that includes: studies about the effec
 Our paper will be presented in [4th International Workshop on Distributed Machine Learning (DistributedML 2023) co-located with CoNext](https://distributedml.org/) and will be available in [ACM Digital Library. Conext proceedings](https://dl.acm.org/conference/conext/proceedings).
 The [ACM CoNEXT 2023](https://conferences2.sigcomm.org/co-next/2023/) will be held December 5-8, 2023 in the Conservatoire national des arts et métiers (Cnam), Paris, France. 
 
-I will be glad to have a live discussion during or after the presentations if you plan to visit the [DistributedML 2023](https://distributedml.org/) workshop.
+I will be glad to have a discussion during or after the presentation if you plan to visit the [DistributedML 2023](https://distributedml.org/).
 
 ---
 
