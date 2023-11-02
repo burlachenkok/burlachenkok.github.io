@@ -8,7 +8,7 @@ published: true
 
 ---
 
-The paper, titled **"Federated Learning is Better with Non-Homomorphic Encryption"**, has been accepted as part of the technical program for the [19th ACM International Conference on Emerging Networking EXperiments and Technologies (ACM CoNEXT 2023)](https://conferences2.sigcomm.org/co-next/2023/), Paris, a conference sponsored by the:
+The paper **"Federated Learning is Better with Non-Homomorphic Encryption"** has been accepted as part of the technical program for the [19th ACM International Conference on Emerging Networking EXperiments and Technologies (ACM CoNEXT 2023)](https://conferences2.sigcomm.org/co-next/2023/), a conference sponsored by:
 
 * [Association for Computing Machinery](https://www.acm.org/)
 * [Huawei Technologies Co.](https://huawei.com/)
@@ -37,11 +37,10 @@ Our work opens a new possibility for applying Classical Cryptography to <span st
 * [G.Kaissis, M.Makowski, D.Rückert, R.Braren: Secure, privacy-preserving, and federated machine learning in medical imaging. Nature Machine Intelligence, 2020.](https://www.nature.com/articles/s42256-020-0186-1)
 * [N.Jain, A.Cherukuri: Revisiting Fully Homomorphic Encryption Schemes, 2023.](https://arxiv.org/abs/2305.05904)
 
-As a part of the proceedings, we provide an Appendix for our work that includes:
+As a part of the proceedings, we provide an Appendix for our work that includes additional details about our framework:
 * Studies about the effect of problem dimension
 * Overlapping communication and computation during training machine learning models
 * Deployment options in various network topologies
-* Support background
 
 <table style="text-align:center;">
 <tr>
