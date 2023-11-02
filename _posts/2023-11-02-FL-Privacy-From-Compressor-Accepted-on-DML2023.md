@@ -21,6 +21,8 @@ Our paper will be presented in [4th International Workshop on Distributed Machin
 The [DistributedML](https://distributedml.org/) will take place at the Conservatoire National des Arts et Métiers ([CNAM](https://www.cnam.eu/)) located at [292 Rue Saint-Martin, 75003, Paris, France](https://maps.app.goo.gl/8x8HoPkcmPvDb9TZA).
 
 
+Information about other workshops within [ACM CoNext 2023](https://conferences2.sigcomm.org/co-next/2023/) is available here: [link](https://conferences2.sigcomm.org/co-next/2023/#!/workshopatglance).
+
 ---
 
 I was glad to work with my peers and hope for further cooperation with them:
