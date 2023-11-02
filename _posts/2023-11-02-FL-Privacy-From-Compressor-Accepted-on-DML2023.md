@@ -4,7 +4,7 @@ title: Federated Learning is Better with Non-Homomorphic Encryption
 published: true
 ---
 
-**"Federated Learning is Better with Non-Homomorphic Encryption"** at [DistributedML 2023](https://distributedml.org/)
+**"Federated Learning is Better with Non-Homomorphic Encryption"** at [4th International Workshop on Distributed Machine Learning(DistributedML 2023)](https://distributedml.org/)
 
 ---
 
@@ -18,6 +18,8 @@ The paper, titled **"Federated Learning is Better with Non-Homomorphic Encryptio
 * [Orange S.A. (France Télécom S.A.)](https://www.orange.com/en)
 
 Our paper will be presented in [4th International Workshop on Distributed Machine Learning (DistributedML 2023) co-located with CoNext](https://distributedml.org/) on the **8th of December 2023** and will be available in [Conext Proceedings in ACM Digital Library](https://dl.acm.org/conference/conext/proceedings).
+The [DistributedML](https://distributedml.org/) will take place at the Conservatoire National des Arts et Métiers ([CNAM](https://www.cnam.eu/)) located at [292 Rue Saint-Martin, 75003, Paris, France](https://maps.app.goo.gl/8x8HoPkcmPvDb9TZA).
+
 
 ---
 
