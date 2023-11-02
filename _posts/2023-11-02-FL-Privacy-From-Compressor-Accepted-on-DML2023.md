@@ -42,7 +42,7 @@ Our work opens a new possibility for applying Classical Cryptography to <span st
 As a part of the proceedings, we provide an Appendix for our work that includes additional details about our framework:
 * Studies about the effect of the optimization problem dimension
 * Overlapping communication and computation during training machine learning models
-* Deployment options in various network topologies
+* Deployment options of our framework in various network topologies
 
 <table style="text-align:center;">
 <tr>
