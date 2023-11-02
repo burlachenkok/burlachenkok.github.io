@@ -28,7 +28,7 @@ Information about other workshops within [ACM CoNext 2023](https://conferences2.
 I was glad to work with my peers and hope for further cooperation with them:
 * [Abdulmajeed Alrowith](https://www.linkedin.com/in/aalrowithi?originalSubdomain=sa) from [Saudi Data and AI Authority](https://sdaia.gov.sa/)
 * [Fahad Ali Albalawi](https://www.linkedin.com/in/fahad-albalawi-49b55759/) from [Saudi Data and AI Authority](https://sdaia.gov.sa/)
-* Prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/)
+* Prof. [Peter Richtárik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/)
 
 Traditional AI methodologies necessitate centralized data collection, which becomes impractical when facing problems with network communication, data privacy, or storage capacity. 
 Federated Learning (<span style="color:rgb(122,76,24)">FL</span>) offers a paradigm that empowers distributed AI model training without collecting raw data. There are different choices for providing privacy during <span style="color:rgb(122,76,24)">FL</span> training. One of the popular methodologies is employing Homomorphic Encryption (<span style="color:rgb(122,76,24)">HE</span>) - a breakthrough in privacy-preserving computation from Cryptography. However, these methods have a serious price in the form of extra computation and memory footprint.
