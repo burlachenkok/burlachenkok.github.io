@@ -8,7 +8,14 @@ The paper **"Federated Learning is Better with Non-Homomorphic Encryption"** was
 
 ---
 
-The paper, titled **"Federated Learning is Better with Non-Homomorphic Encryption"**, has been accepted as part of the technical program for the [19th ACM International Conference on Emerging Networking EXperiments and Technologies (ACM CoNEXT 2023)](https://conferences2.sigcomm.org/co-next/2023/), Paris, an education conference sponsored by the [Association for Computing Machinery (ACM)](https://www.acm.org/).
+The paper, titled **"Federated Learning is Better with Non-Homomorphic Encryption"**, has been accepted as part of the technical program for the [19th ACM International Conference on Emerging Networking EXperiments and Technologies (ACM CoNEXT 2023)](https://conferences2.sigcomm.org/co-next/2023/), Paris, a conference sponsored by the:
+
+* [ACM](https://www.acm.org/)
+* [HUAWEI](https://huawei.com/)
+* [Google](https://about.google/)
+* [Comcast](https://corporate.comcast.com/)
+* [Ripe NCC](https://www.ripe.net/)
+* [Orange S.A. (France Télécom)](https://www.orange.com/en).
 
 I was glad to work with my peers and hope for further cooperation with them:
 * [Abdulmajeed Alrowith](https://www.linkedin.com/in/aalrowithi?originalSubdomain=sa) from [Saudi Data and AI Authority](https://sdaia.gov.sa/).
