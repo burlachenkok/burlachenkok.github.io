@@ -29,9 +29,9 @@ The open house will take place Monday, 29 November, 14:00 - 16:00.
 <table>
 <tr>
 
-<td> <img height="100px" src="https://burlachenkok.github.io/materials/acm-logo.png"/> </td>
+<td> <img height="100px" src="https://burlachenkok.github.io/materials/acm-logo.svg"/> </td>
 <td> <img height="100px" src="https://burlachenkok.github.io/materials/clean-logo-white-background-small.png"/> </td>
-<td> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
+<td> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
 
 </tr>
 </table>

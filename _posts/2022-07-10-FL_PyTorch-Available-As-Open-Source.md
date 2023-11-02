@@ -33,7 +33,7 @@ To become familiar with that tool, I recommend the following sequence of steps:
 
 <table>
 <tr>
-<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
+<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/GitHub-logo.png"/> </td> 
 </tr>
 </table>
