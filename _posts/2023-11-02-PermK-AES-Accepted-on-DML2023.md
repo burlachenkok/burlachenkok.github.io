@@ -4,7 +4,7 @@ title: Federated Learning is Better with Non-Homomorphic Encryption
 published: true
 ---
 
-The paper **"Federated Learning is Better with Non-Homomorphic Encryption"** was accepted by the [DistributedML 2023](https://distributedml.org/).
+The paper **"Federated Learning is Better with Non-Homomorphic Encryption"** was accepted to the [DistributedML 2023](https://distributedml.org/), December 5-8, 2023, Paris, France.
 
 ---
 
