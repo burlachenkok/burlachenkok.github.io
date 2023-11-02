@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FL_PyTorch at SIAM Conference on Optimization (OP23)
+title: FL_PyTorch at the SIAM Conference on Optimization (OP23)
 published: true
 ---
 
@@ -8,7 +8,7 @@ published: true
 
 ---
 
-# FL_PyTorch at SIAM OP32
+# FL_PyTorch at the SIAM OP32
 
 I'm excited to speak at the [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23) in Seattle, U.S. on Friday, June 2, 2023. The funding for my visit is provided by my advisor [Prof. Peter Richtarik](https://richtarik.org/) and [KAUST University](https://www.kaust.edu.sa/). I am looking forward to presenting my work and discussing its future prospects.
 

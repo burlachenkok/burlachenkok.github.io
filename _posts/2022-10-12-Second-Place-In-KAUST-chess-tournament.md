@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Second Place in KAUST Chess Tournament.
+title: Second Place in the KAUST Chess Tournament.
 published: true
 ---
 
-Second Place in KAUST Chess Tournament.
+Second Place in the KAUST Chess Tournament.
 
 ---
 

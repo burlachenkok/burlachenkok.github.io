@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Obtaining the Status of a Ph.D. candidacy.
+title: Achieving the Status of a Ph.D. candidacy.
 published: true
 ---
 
-Today on Monday 24 October 2022 I defended my CS Ph.D. Proposal and I have obtained the Status of a Ph.D. candidacy.
+Today on Monday 24 October 2022 I defended my CS Ph.D. Proposal and I have achieved the Status of a Ph.D. candidacy.
 
 ---
 
