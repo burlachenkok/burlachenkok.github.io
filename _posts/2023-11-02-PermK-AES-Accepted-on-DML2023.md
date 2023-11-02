@@ -35,9 +35,9 @@ And I will be glad to have a discussion during or after the presentation.
 
 <table style="text-align:center;">
 <tr>
-<td> <img width="20%" src="https://burlachenkok.github.io/materials/clean-logo-white-background-small.png"/> </td>
-<td> <img width="20%" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.png"/> </td> 
-<td> <img width="20%" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
-<td> <img width="20%" src="https://burlachenkok.github.io/materials/acm-logo.png"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/clean-logo-white-background-small.png"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.png"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.png"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/acm-logo.png"/> </td>
 </tr>
 </table>
