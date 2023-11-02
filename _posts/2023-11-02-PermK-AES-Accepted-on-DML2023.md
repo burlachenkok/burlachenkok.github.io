@@ -21,8 +21,8 @@ To resolve these issues, we propose an innovative framework that synergizes perm
 Our framework offers a way to replace <span style="color:rgb(122,76,24)">HE</span> with cheaper Classical Cryptography primitives to provide security for the training process. It fosters asynchronous communication and provides flexible deployment options in various communication topologies.
 
 Our work opens a new possibility for applying Classical Cryptography to <span style="color:rgb(122,76,24)">FL</span> and challenges existing claims about its limitations which has been done in works such as:
-* [G.Kaissis, M.Makowski, D.Rückert, R.Braren, 2020. Secure, privacy-preserving, and federated machine learning in medical imaging. Nature Machine Intelligence 2, 6 (2020)](https://www.nature.com/articles/s42256-020-0186-1)
-* [N.Jain, A.Cherukuri, 2023. Revisiting Fully Homomorphic Encryption Schemes.](https://arxiv.org/abs/2305.05904)
+* [G.Kaissis, M.Makowski, D.Rückert, R.Braren: Secure, privacy-preserving, and federated machine learning in medical imaging. Nature Machine Intelligence, 2020.](https://www.nature.com/articles/s42256-020-0186-1)
+* [N.Jain, A.Cherukuri: Revisiting Fully Homomorphic Encryption Schemes, 2023.](https://arxiv.org/abs/2305.05904)
 
 We provided a reach Appendix (28 pages long) for our work that includes: studies about the effect of problem dimension, overlapping communication and computation during training machine learning models, deployment options in various network topologies, and the support background.
 
