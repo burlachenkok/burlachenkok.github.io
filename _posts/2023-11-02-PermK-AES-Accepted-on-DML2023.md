@@ -24,9 +24,12 @@ Our work opens a new possibility for applying Classical Cryptography to <span st
 * [G.Kaissis, M.Makowski, D.Rückert, R.Braren, 2020. Secure, privacy-preserving, and federated machine learning in medical imaging. Nature Machine Intelligence 2, 6 (2020)](https://www.nature.com/articles/s42256-020-0186-1)
 * [N.Jain, A.Cherukuri, 2023. Revisiting Fully Homomorphic Encryption Schemes.](https://arxiv.org/abs/2305.05904)
 
+We provided a reach Appendix (28 pages long) for our work that includes: studies about the effect of problem dimension, overlapping communication and computation during training machine learning models, deployment options in various network topologies, and the support background.
+
 Our paper will be presented in [4th International Workshop on Distributed Machine Learning (DistributedML 2023) co-located with CoNext](https://distributedml.org/) and will be available in [ACM Digital Library. Conext proceedings](https://dl.acm.org/conference/conext/proceedings).
 The [ACM CoNEXT 2023](https://conferences2.sigcomm.org/co-next/2023/) will be held December 5-8, 2023 in the Conservatoire national des arts et métiers (Cnam), Paris, France. 
-If I will obtain VISA to France I will be glad to have a discussion during or after the the presentation.
+
+And I will be glad to have a discussion during or after the presentation.
 
 ---
 
