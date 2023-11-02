@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Federated Learning is Better with Non-Homomorphic Encryption
+title: Federated Learning is Better with Non-Homomorphic Encryption.
 published: true
 ---
 
-**"Federated Learning is Better with Non-Homomorphic Encryption"** at the [4th International Workshop on Distributed Machine Learning(DistributedML 2023)](https://distributedml.org/)
+**"Federated Learning is Better with Non-Homomorphic Encryption"** at the [4th International Workshop on Distributed Machine Learning(DistributedML 2023)](https://distributedml.org/).
 
 ---
 
