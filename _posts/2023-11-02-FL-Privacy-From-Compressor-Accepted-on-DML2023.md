@@ -17,7 +17,7 @@ The paper **"Federated Learning is Better with Non-Homomorphic Encryption"** has
 * [Réseaux IP Européens Network Coordination Centre](https://www.ripe.net/)
 * [Orange S.A. (France Télécom S.A.)](https://www.orange.com/en)
 
-Our paper will be presented in [4th International Workshop on Distributed Machine Learning (DistributedML 2023) co-located with CoNext](https://distributedml.org/) on the **8th of December 2023** and will be available in [Conext Proceedings in ACM Digital Library](https://dl.acm.org/conference/conext/proceedings).
+Our paper will be presented in the [4th International Workshop on Distributed Machine Learning (DistributedML 2023) co-located with CoNext](https://distributedml.org/) on the **8th of December 2023** and will be available in [Conext Proceedings in ACM Digital Library](https://dl.acm.org/conference/conext/proceedings).
 The [DistributedML](https://distributedml.org/) will take place at the Conservatoire National des Arts et Métiers ([CNAM](https://www.cnam.eu/)) located at [292 Rue Saint-Martin, 75003, Paris, France](https://maps.app.goo.gl/8x8HoPkcmPvDb9TZA).
 
 
@@ -40,7 +40,7 @@ Our work opens a new possibility for applying Classical Cryptography to <span st
 * [N.Jain, A.Cherukuri: Revisiting Fully Homomorphic Encryption Schemes, 2023.](https://arxiv.org/abs/2305.05904)
 
 As a part of the proceedings, we provide an Appendix for our work that includes additional details about our framework:
-* Studies about the effect of problem dimension
+* Studies about the effect of the optimization problem dimension
 * Overlapping communication and computation during training machine learning models
 * Deployment options in various network topologies
 
