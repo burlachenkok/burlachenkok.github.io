@@ -50,6 +50,6 @@ According to an external assessment carried out in the paper [FeLebrities: a use
 <tr>
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/siam-logo-black.png"/> </td> 
-<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.png"/> </td> 
+<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td> 
 </tr>
 </table>

@@ -28,7 +28,7 @@ The current stage we achieved will be presented at [VCC OPEN HOUSE 2023 event](h
 
 <table style="text-align:center;">
 <tr>
-<td style="text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.png"/> </td> 
+<td style="text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td> 
 </tr>
 </table>
 
