@@ -26,7 +26,7 @@ Presentation dedicated for original [PAGE](https://proceedings.mlr.press/v139/li
 
 ---
 
-Accepted papers to [TMLR](https://jmlr.org/tmlr/) can be browsed directly from [OpenReview](https://openreview.net/group?id=TMLR]). 
+Accepted papers to [TMLR](https://jmlr.org/tmlr/) can be browsed directly from [OpenReview](https://openreview.net/group?id=TMLR). 
 
 ---
 
