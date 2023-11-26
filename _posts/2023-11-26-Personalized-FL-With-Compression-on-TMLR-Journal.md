@@ -4,7 +4,7 @@ title: Personalized FL with Communication Compression at TMLR
 published: true
 ---
 
-The paper [Personalized Federated Learning with Communication Compression](https://arxiv.org/abs/2209.05148) was accepted by the [Transactions on Machine Learning Research](https://jmlr.csail.mit.edu/tmlr/index.html).
+The paper [Personalized Federated Learning with Communication Compression](https://openreview.net/forum?id=dZugyhbNFY) was accepted by the [Transactions on Machine Learning Research](https://jmlr.csail.mit.edu/tmlr/index.html).
 
 ---
 
@@ -16,9 +16,8 @@ I was glad to work with my peers:
 * [Aritra Dutta](http://www.aritradutta.com/) from [Artificial Intelligence Initiative University of Central Florida, USA](https://ai.ucf.edu/)
 * [El Houcine Bergou](https://ehbergou.github.io) from [Mohammed VI Polytechnic University, Morocco](https://www.um6p.ma/index.php/en/vision)
 
-Links to the paper:
-* [https://openreview.net/forum?id=dZugyhbNFY](https://openreview.net/forum?id=dZugyhbNFY)
-* [https://arxiv.org/abs/2209.05148](https://arxiv.org/abs/2209.05148)
+Link to the paper: [https://openreview.net/forum?id=dZugyhbNFY](https://openreview.net/forum?id=dZugyhbNFY)
+
 ---
 
 Accepted papers to [TMLR](https://jmlr.org/tmlr/) can be browsed directly from [OpenReview](https://openreview.net/group?id=TMLR). 
@@ -27,7 +26,7 @@ Accepted papers to [TMLR](https://jmlr.org/tmlr/) can be browsed directly from [
 
 # Our Work
 
-The limited amount of data for training big models for Machine Learning can lead to poor machine learning models, or make even training impossible. Federated learning (FL) ([research. Google/pubs/pub45648](https://research.google/pubs/pub45648/), 
+The limited amount of data for training big models for Machine Learning can lead to poor machine learning models, or make even training impossible. Federated learning (FL) ([research.google/pubs/pub45648](https://research.google/pubs/pub45648/), 
 [arXiv:1912.04977](https://arxiv.org/abs/1912.04977), [arXiv:1908.07873](https://arxiv.org/abs/1908.07873)) has emerged as an interdisciplinary field focused on addressing these issues by training machine learning models directly on edge devices or organizations. 
 
 In contrast to training traditional machine learning (ML) models in data centers, Federated Learning trains ML models over local datasets contained on resource-constrained heterogeneous edge devices.
