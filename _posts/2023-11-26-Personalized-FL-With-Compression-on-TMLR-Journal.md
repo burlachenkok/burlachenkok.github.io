@@ -9,7 +9,7 @@ The paper [Personalized Federated Learning with Communication Compression](https
 ---
 
 
-The paper *"Personalized Federated Learning with Communication Compression"* was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html). TMLR is a venue for the dissemination of machine learning research which emphasizes technical correctness over subjective significance.
+The paper *"Personalized Federated Learning with Communication Compression"* was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html). Link to the paper: [https://openreview.net/forum?id=dZugyhbNFY](https://openreview.net/forum?id=dZugyhbNFY). TMLR is a venue for the dissemination of machine learning research which emphasizes technical correctness over subjective significance.
 
 I was glad to work with my peers:
 * [Peter Richtárik](https://richtarik.org/) from [King Abdullah University of Science and Technology, KSA](https://cemse.kaust.edu.sa/)
@@ -17,8 +17,6 @@ I was glad to work with my peers:
 * [El Houcine Bergou](https://ehbergou.github.io) from [Mohammed VI Polytechnic University, Morocco](https://www.um6p.ma/index.php/en/vision)
 
 ---
-
-Link to the paper: [https://openreview.net/forum?id=dZugyhbNFY](https://openreview.net/forum?id=dZugyhbNFY)
 
 Accepted papers to [TMLR](https://jmlr.org/tmlr/) can be browsed directly from [OpenReview](https://openreview.net/group?id=TMLR). 
 
