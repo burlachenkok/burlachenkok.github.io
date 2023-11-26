@@ -35,15 +35,13 @@ balancing the trade-off between the traditional global model and the local model
 In our paper, we equipped their L2GD algorithm with a bidirectional compression mechanism to further reduce the communication bottleneck between the local devices and the server.
 Unlike other compression-based algorithms used in the FL setting, our compressed L2GD algorithm operates on a probabilistic communication protocol, where communication does not happen on a fixed schedule. 
 
-Our compressed L2GD algorithm maintains a similar convergence rate as vanilla SGD without compression.
-To empirically validate the efficiency of our algorithm, we performed diverse numerical experiments and demonstrated the benefits of using our 
-algorithm during training modern Deep Learning models used in Image Processing tasks:
+Our compressed L2GD algorithm maintains a similar convergence rate as vanilla SGD without compression. To validate the efficiency of our algorithm, we performed diverse numerical experiments and demonstrated the benefits of using our algorithm during training modern Deep Learning models used in Image Processing tasks:
 
 * [DenseNet-121](https://arxiv.org/abs/1608.06993)
 * [MobileNet](https://arxiv.org/abs/1704.04861)
 * [ResNet-18/56](https://arxiv.org/abs/1512.03385)
 
-Also, we included experiments with Logistic Regression the model that is widely used in Statistics, Optimization, and Machine Learning (ML) for training shallow models when the modeling effort is focused on feature design rather than creating complex function classes for supervised ML tasks.
+We included experiments with Logistic Regression the model that is widely used in Statistics, Optimization, and Machine Learning (ML) for training shallow models when the modeling effort is focused on feature design rather than creating complex function classes for supervised ML tasks.
 
 All our algorithms are equipped with the theory for convex and non-convex cases for finite sum minimization problems, including solving the Empirical Risk Minimization (ERM) problem in ML.
 
