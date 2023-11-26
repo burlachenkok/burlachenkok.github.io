@@ -12,8 +12,8 @@ The paper [Personalized Federated Learning with Communication Compression](https
 The paper *"Personalized Federated Learning with Communication Compression"* was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html). TMLR is a venue for the dissemination of machine learning research which emphasizes technical correctness over subjective significance.
 
 I was glad to work with my peers:
-* [Peter Richtárik](https://richtarik.org/) from [King Abdullah University of Science and Technology, Kingdom of Saudi Arabia](https://cemse.kaust.edu.sa/)
-* [Aritra Dutta](http://www.aritradutta.com/) from [Artificial Intelligence Initiative University of Central Florida, United States](https://ai.ucf.edu/)
+* [Peter Richtárik](https://richtarik.org/) from [King Abdullah University of Science and Technology, KSA](https://cemse.kaust.edu.sa/)
+* [Aritra Dutta](http://www.aritradutta.com/) from [Artificial Intelligence Initiative University of Central Florida, USA](https://ai.ucf.edu/)
 * [El Houcine Bergou](https://ehbergou.github.io) from [Mohammed VI Polytechnic University, Morocco](https://www.um6p.ma/index.php/en/vision)
 
 Links to the paper:
