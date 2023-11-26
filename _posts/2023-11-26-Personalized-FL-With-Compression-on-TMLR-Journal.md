@@ -12,7 +12,7 @@ The paper [Personalized Federated Learning with Communication Compression](https
 The paper *"Personalized Federated Learning with Communication Compression"* was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html). TMLR is a venue for the dissemination of machine learning research which emphasizes technical correctness over subjective significance.
 
 I was glad to work with my peers:
-* [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology, Kingdom of Saudi Arabia](https://cemse.kaust.edu.sa/)
+* [Peter Richtárik](https://richtarik.org/) from [King Abdullah University of Science and Technology, Kingdom of Saudi Arabia](https://cemse.kaust.edu.sa/)
 * [Aritra Dutta](http://www.aritradutta.com/) from [Artificial Intelligence Initiative University of Central Florida, United States](https://ai.ucf.edu/)
 * [El Houcine Bergou](https://ehbergou.github.io) from [Mohammed VI Polytechnic University, Morocco](https://www.um6p.ma/index.php/en/vision)
 
@@ -34,7 +34,7 @@ In contrast to training traditional machine learning (ML) models in data centers
 
 Existing FL algorithms mainly aim to learn a single global model for all participating devices. However, it may not be helpful to all devices participating in the training due to the heterogeneity of the data across the devices.
 
-Recently, [Hanzely and Richtarik (2020)](https://arxiv.org/abs/2002.05516) proposed a new formulation for training personalized FL models aimed at 
+Recently, [Hanzely and Richtárik (2020)](https://arxiv.org/abs/2002.05516) proposed a new formulation for training personalized FL models aimed at 
 balancing the trade-off between the traditional global model and the local models that could be trained by individual devices using their private data only. 
 They derived a new algorithm, called [Loopless Gradient Descent (L2GD)](https://arxiv.org/abs/2002.05516), to solve it and showed that this algorithm leads to improved communication complexity guarantees.
 
