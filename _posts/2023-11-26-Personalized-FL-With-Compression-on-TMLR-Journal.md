@@ -58,7 +58,7 @@ All our algorithms are equipped with the theory for convex and non-convex cases 
 <table style="text-align:center;">
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/materials/ucf-logo-2022.svg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="190px" src="https://burlachenkok.github.io/materials/ucf-logo-2022.svg"/> </td>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/materials/UM6P-logo.png"/> </td>
 </tr>
 </table>
