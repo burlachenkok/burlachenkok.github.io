@@ -42,10 +42,11 @@ Unlike other compression-based algorithms used in the FL setting, our compressed
 
 Our compressed L2GD algorithm maintains a similar convergence rate as vanilla SGD without compression.
 To empirically validate the efficiency of our algorithm, we performed diverse numerical experiments and demonstrated the benefits of using our 
-algorithm during training modern Deep Learning models used in Image Processing tasks: 
+algorithm during training modern Deep Learning models used in Image Processing tasks:
+
 * [DenseNet-121](https://arxiv.org/abs/1608.06993)
 * [MobileNet](https://arxiv.org/abs/1704.04861)
-* [ResNet-18/56](https://arxiv.org/abs/1512.03385). 
+* [ResNet-18/56](https://arxiv.org/abs/1512.03385)
 
 Also, we included experiments with Logistic Regression the model that is widely used in Statistics, Optimization, and Machine Learning (ML) for training shallow models when the modeling effort is focused on feature design rather than creating complex function classes for supervised ML tasks.
 
