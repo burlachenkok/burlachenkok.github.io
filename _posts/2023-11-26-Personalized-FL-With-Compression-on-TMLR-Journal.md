@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personalized FL with Communication Compression at TMLR
+title: Personalized FL with Communication Compression on TMLR
 published: true
 ---
 
