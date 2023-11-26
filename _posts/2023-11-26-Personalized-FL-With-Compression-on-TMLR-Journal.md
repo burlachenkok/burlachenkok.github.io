@@ -39,7 +39,7 @@ Our <span style="color:rgb(74,126,104)">Compressed L2GD</span> algorithm maintai
 * [MobileNet](https://arxiv.org/abs/1704.04861)
 * [ResNet-18/56](https://arxiv.org/abs/1512.03385)
 
-We included experiments with Logistic Regression the model that is widely used in Statistics, Optimization, and Machine Learning (ML) for training shallow models when the modeling effort is focused on feature design rather than creating complex family of function classes.
+We included experiments with Logistic Regression, the model that is widely used in Statistics, Optimization, and ML for training shallow models when the modeling effort is focused on feature design rather than creating complex family of function classes.
 
 ---
 
