@@ -16,9 +16,9 @@ I was glad to work with my peers:
 * [Aritra Dutta](http://www.aritradutta.com/) from [Artificial Intelligence Initiative University of Central Florida, USA](https://ai.ucf.edu/)
 * [El Houcine Bergou](https://ehbergou.github.io) from [Mohammed VI Polytechnic University, Morocco](https://www.um6p.ma/index.php/en/vision)
 
-Link to the paper: [https://openreview.net/forum?id=dZugyhbNFY](https://openreview.net/forum?id=dZugyhbNFY)
-
 ---
+
+Link to the paper: [https://openreview.net/forum?id=dZugyhbNFY](https://openreview.net/forum?id=dZugyhbNFY)
 
 Accepted papers to [TMLR](https://jmlr.org/tmlr/) can be browsed directly from [OpenReview](https://openreview.net/group?id=TMLR). 
 
@@ -32,7 +32,7 @@ The limited amount of data for training big models for Machine Learning can lead
 Existing FL algorithms mainly aim to learn a single global model for all participating devices. However, it may not be helpful to all devices participating in the training due to the heterogeneity of the data across the devices. Recently, [Hanzely and Richtárik (2020)](https://arxiv.org/abs/2002.05516) proposed a new formulation for training personalized FL models aimed at 
 balancing the trade-off between the traditional global model and the local models that could be trained by individual devices using their private data only. They derived a new algorithm, called [Loopless Gradient Descent (L2GD)](https://arxiv.org/abs/2002.05516), to solve it and showed that this algorithm leads to improved communication complexity guarantees.
 
-In our paper, we equipped their L2GD algorithm with a bidirectional compression mechanism to further reduce the communication bottleneck between the local devices and the server. Unlike other compression-based algorithms used in the FL setting, our compressed L2GD algorithm operates on a probabilistic communication protocol, where communication does not happen on a fixed schedule.
+In our paper, we equipped their L2GD algorithm with a bidirectional compression mechanism to further reduce the communication bottleneck between the local devices and the server. Unlike other compression-based algorithms used in the FL setting, our <span style="color:rgb(74,126,104)">Compressed L2GD</span> algorithm operates on a probabilistic communication protocol, where communication does not happen on a fixed schedule.
 
 Our <span style="color:rgb(74,126,104)">Compressed L2GD</span> algorithm maintains a similar convergence rate as vanilla SGD without compression. To validate the efficiency of our algorithm, we performed diverse numerical experiments and demonstrated the benefits of using our algorithm during training modern Deep Learning models used in Image Processing tasks:
 
