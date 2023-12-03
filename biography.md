@@ -17,6 +17,8 @@ Konstantin’s current academic research focus is on Distributed Stochastic Opti
 * Machine Learning and Fundamental principles of AI
 * Computer Graphics, Computer Vision, and Physics-Based Simulation
 
+---
+
 A list of his awards during PhD Program at KAUST:
 
 * Dean’s Award, KAUST, 2020
