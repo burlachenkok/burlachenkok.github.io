@@ -11,15 +11,14 @@ He obtained an M.S. degree in Computer Science and Control Systems from the [Bau
 
 After his graduation, he worked at several companies, most recently as a Senior Engineer at [Yandex](https://en.wikipedia.org/wiki/Yandex), Senior Engineer at [NVIDIA](https://developer.nvidia.com/), and a Principal Engineer at [HUAWEI](https://huawei.ru/).
 
-Konstantin’s current academic research focus is on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/). Extra areas of his interests:
+Konstantin’s current academic research focus is on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/). The venues that accepted Konstantin's works include:
 
-* Scientific Software Development
-* Machine Learning and Fundamental principles of AI
-* Computer Graphics, Computer Vision, and Physics-Based Simulation
+- International Conference on Machine Learning (ICML)
+- Transactions on Machine Learning Research (TMLR)
+- ACM International Workshop on Distributed Machine Learning (ACM CoNext)
+- SIAM Journal on Mathematics of Data Science (SIMODS)
 
----
-
-A list of his awards during PhD Program at KAUST:
+A list of his awards:
 
 * Dean’s Award, KAUST, 2020
 * Grant from SDAIA, 2022
@@ -33,4 +32,8 @@ Konstantin attended in [Non-Degree Opportunity program](https://online.stanford.
 * [Data, Models and Optimization Graduate Certificate](https://online.stanford.edu/programs/data-models-and-optimization-graduate-certificate)
 * [Artificial Intelligence Graduate Certificate](https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate)
 
+---
+
 One of his sports achievements is the title of candidate Master of Sport in Chess which is assigned by the International Chess Federation FIDE.
+
+Extra areas of his interests:  Scientific Software Development,  Machine Learning and Fundamental Principles of AI, Computer Graphics, Computer Vision, and Physics-Based Simulation.
