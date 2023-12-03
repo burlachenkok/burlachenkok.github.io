@@ -4,12 +4,11 @@ title: Biography
 permalink: /biography/
 ---
 
-Konstantin Burlachenko is a fourth-year Computer Science Ph.D. candidacy and a member of [Professor Peter Richtárik's](https://richtarik.org/) Optimization and Machine Learning Lab in the [CEMSE](https://cemse.kaust.edu.sa/) Division at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en),
-which is a part of the KAUST AI initiative led by [Jürgen Schmidhuber](https://cemse.kaust.edu.sa/people/person/jurgen-schmidhuber).
+Konstantin Burlachenko is a fourth-year Computer Science Ph.D. candidacy and a member of [Professor Peter Richtárik's](https://richtarik.org/) Optimization and Machine Learning Lab in the [CEMSE](https://cemse.kaust.edu.sa/) Division at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en), which is a part of the KAUST AI initiative.
 
 He obtained an M.S. degree in Computer Science and Control Systems from the [Bauman Moscow State University](http://bmstu.ru/) in 2009. After his graduation, he worked at several companies, most recently as a Senior Engineer at [Yandex](https://en.wikipedia.org/wiki/Yandex), Senior Engineer at [NVIDIA](https://developer.nvidia.com/), and a Principal Engineer at [HUAWEI](https://huawei.ru/).
 
-However, he decided to pause his industrial career and back to academia. Konstantin’s current academic research focus is on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/). The venues that accepted Konstantin's works include:
+In 2020 he decided to pause his industrial career and back to academia. Konstantin’s current academic research focus is on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/). The venues that accepted Konstantin's works include:
 
 - International Conference on Machine Learning (ICML)
 - Transactions on Machine Learning Research (TMLR)
@@ -19,7 +18,7 @@ However, he decided to pause his industrial career and back to academia. Konstan
 A list of his awards:
 
 * Dean’s Award, KAUST, 2020
-* Grant from SDAIA, 2022
+* Grant from Saudi Authority for Data and Artificial Intelligence, 2022
 * AMD Radeon Instinct MI50 from AMD Inc., 2022
 * Dean’s List Award 2023, KAUST
 
