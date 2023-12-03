@@ -21,10 +21,10 @@ Extra areas of his interests cover:
 
 A list of his awards during PhD Program at KAUST:
 
-* Dean’s Award, KAUST, 2020.
-* Grant from SDAIA, 2022.
-* AMD Radeon Instinct MI50 from AMD Inc., 2022.
-* Dean’s List Award 2023, KAUST.
+* Dean’s Award, KAUST, 2020
+* Grant from SDAIA, 2022
+* AMD Radeon Instinct MI50 from AMD Inc., 2022
+* Dean’s List Award 2023, KAUST
 
 ---
 
