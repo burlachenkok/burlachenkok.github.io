@@ -20,6 +20,8 @@ His current research focus is on Distributed Stochastic Optimization and [Federa
 - Transactions on Machine Learning Research (TMLR)
 - SIAM Journal on Mathematics of Data Science (SIMODS)
 
+---
+
 A list of his awards:
 
 * Dean’s Award, KAUST, 2020
