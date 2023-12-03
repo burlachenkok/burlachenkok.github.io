@@ -4,10 +4,11 @@ title: Biography
 permalink: /biography/
 ---
 
-Konstantin Burlachenko is a third-year Computer Science Ph.D. candidacy and a member of [Professor Peter Richtárik's](https://richtarik.org/) Optimization and Machine Learning Lab in the [CEMSE](https://cemse.kaust.edu.sa/) Division at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en). 
+Konstantin Burlachenko is a fourth-year Computer Science Ph.D. candidacy and a member of [Professor Peter Richtárik's](https://richtarik.org/) Optimization and Machine Learning Lab in the [CEMSE](https://cemse.kaust.edu.sa/) Division at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en). 
 He obtained an M.S. degree in Computer Science and Control Systems from the [Bauman Moscow State University](http://bmstu.ru/) in 2009. 
 
-After his graduation, he worked at a number of companies, most recently as a Senior Developer at [Yandex](https://en.wikipedia.org/wiki/Yandex) and [NVIDIA](https://developer.nvidia.com/) and a Principal Engineer at [HUAWEI](https://huawei.ru/).
+After his graduation, he worked at several companies, most recently as a Senior Engineer at [Yandex](https://en.wikipedia.org/wiki/Yandex), Senior Engineer at [NVIDIA](https://developer.nvidia.com/), and a Principal Engineer at [HUAWEI](https://huawei.ru/).
+
 Konstantin’s current research focus is on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/).
 
 Extra areas of his interests cover:
@@ -23,4 +24,4 @@ Konstantin attended in [Non-Degree Opportunity program](https://online.stanford.
 * [Data, Models and Optimization Graduate Certificate](https://online.stanford.edu/programs/data-models-and-optimization-graduate-certificate)
 * [Artificial Intelligence Graduate Certificate](https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate)
 
-One of his sport achievement is the title of candidate Master of Sport in chess that is assigned by International Chess Federation FIDE.
+One of his sports achievements is the title of candidate Master of Sport in Chess which is assigned by the International Chess Federation FIDE.
