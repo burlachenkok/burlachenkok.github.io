@@ -5,7 +5,7 @@ permalink: /biography/
 ---
 
 Konstantin Burlachenko is a fourth-year Computer Science Ph.D. candidacy and a member of [Professor Peter Richtárik's](https://richtarik.org/) Optimization and Machine Learning Lab in the [CEMSE](https://cemse.kaust.edu.sa/) Division at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en),
-which is a part of of KAUST AI initiative led by [Jürgen Schmidhuber](https://cemse.kaust.edu.sa/people/person/jurgen-schmidhuber) at KAUST.
+which is a part of of KAUST AI initiative led by [Jürgen Schmidhuber](https://cemse.kaust.edu.sa/people/person/jurgen-schmidhuber).
 
 He obtained an M.S. degree in Computer Science and Control Systems from the [Bauman Moscow State University](http://bmstu.ru/) in 2009. 
 
