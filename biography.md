@@ -11,9 +11,7 @@ He obtained an M.S. degree in Computer Science and Control Systems from the [Bau
 
 After his graduation, he worked at several companies, most recently as a Senior Engineer at [Yandex](https://en.wikipedia.org/wiki/Yandex), Senior Engineer at [NVIDIA](https://developer.nvidia.com/), and a Principal Engineer at [HUAWEI](https://huawei.ru/).
 
-Konstantin’s current academic research focus is on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/).
-
-Extra areas of his interests cover:
+Konstantin’s current academic research focus is on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/). Extra areas of his interests cover:
 
 * Scientific Software Development
 * Machine Learning and Fundamental principles of AI
