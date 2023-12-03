@@ -22,8 +22,6 @@ A list of his awards:
 * AMD Radeon Instinct MI50 from AMD Inc., 2022
 * Dean’s List Award 2023, KAUST
 
----
-
 Konstantin attended in [Non-Degree Opportunity program](https://online.stanford.edu/non-degree-option-program) at [Stanford](https://www.stanford.edu/) between 2015 and 2019 and obtained two graduate certificates:
 
 * [Data, Models and Optimization Graduate Certificate](https://online.stanford.edu/programs/data-models-and-optimization-graduate-certificate)
