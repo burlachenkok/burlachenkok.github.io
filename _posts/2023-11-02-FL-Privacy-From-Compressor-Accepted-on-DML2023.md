@@ -24,6 +24,10 @@ The [DistributedML](https://distributedml.org/) will take place at the Conservat
 Information about other workshops within [ACM CoNext 2023](https://conferences2.sigcomm.org/co-next/2023/) is available from this [link](https://conferences2.sigcomm.org/co-next/2023/#!/workshopatglance).
 
 ---
+Links to our paper:
+* [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074)
+* [https://dl.acm.org/doi/10.1145/3630048.3630182](https://dl.acm.org/doi/10.1145/3630048.3630182)
+---
 
 I was glad to work with my peers and hope for further cooperation with them:
 * [Abdulmajeed Alrowith](https://www.linkedin.com/in/aalrowithi?originalSubdomain=sa) from [Saudi Data and AI Authority](https://sdaia.gov.sa/)
