@@ -20,17 +20,13 @@ The paper **"Federated Learning is Better with Non-Homomorphic Encryption"** has
 Our paper will be presented at the [4th International Workshop on Distributed Machine Learning (DistributedML 2023) co-located with CoNext](https://distributedml.org/) on the **8th of December 2023** and will be available in [ACM CoNEXT Proceedings in ACM Digital Library](https://dl.acm.org/conference/conext/proceedings).
 The [DistributedML](https://distributedml.org/) will take place at the Conservatoire National des Arts et Métiers ([CNAM](https://www.cnam.eu/)) located at [292 Rue Saint-Martin, 75003, Paris, France](https://maps.app.goo.gl/8x8HoPkcmPvDb9TZA).
 
-Link to the recorded video with presentation of the paper:
-* [https://www.youtube.com/watch?v=c0xkiP3cRyY](https://www.youtube.com/watch?v=c0xkiP3cRyY)
-
-
 Information about other workshops within [ACM CoNext 2023](https://conferences2.sigcomm.org/co-next/2023/) is available from this [link](https://conferences2.sigcomm.org/co-next/2023/#!/workshopatglance).
 
 ---
-Links to our paper:
+Links to our paper and recorded video with presentation:
 * [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074)
 * [https://dl.acm.org/doi/10.1145/3630048.3630182](https://dl.acm.org/doi/10.1145/3630048.3630182)
-
+* [https://www.youtube.com/watch?v=c0xkiP3cRyY](https://www.youtube.com/watch?v=c0xkiP3cRyY)
 ---
 
 I was glad to work with my peers and hope for further cooperation with them:
