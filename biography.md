@@ -13,7 +13,11 @@ Konstantin attended in [Non-Degree Opportunity program](https://online.stanford.
 * [Data, Models and Optimization Graduate Certificate](https://online.stanford.edu/programs/data-models-and-optimization-graduate-certificate)
 * [Artificial Intelligence Graduate Certificate](https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate)
 
-His current research focus is on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/). The venues that accepted Konstantin's works include:
+His current research focus is on various aspects of Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/). 
+
+## Conferences
+
+The venues that accepted Konstantin's works include:
 
 - International Conference on Machine Learning (ICML)
 - International Conference on Learning Representations (ICLR)
@@ -23,7 +27,7 @@ His current research focus is on Distributed Stochastic Optimization and [Federa
 
 ---
 
-A list of his awards:
+## Awards
 
 * Dean’s Award, KAUST, 2020
 * Grant from Saudi Authority for Data and Artificial Intelligence, 2022
