@@ -15,10 +15,11 @@ Konstantin attended in [Non-Degree Opportunity program](https://online.stanford.
 
 His current research focus is on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/). The venues that accepted Konstantin's works include:
 
-- ACM International Workshop on Distributed Machine Learning (ACM CoNext)
 - International Conference on Machine Learning (ICML)
+- International Conference on Learning Representations (ICLR)
 - Transactions on Machine Learning Research (TMLR)
-- SIAM Journal on Mathematics of Data Science (SIMODS)
+- SIAM Journal on Mathematics of Data Science (SIAM SIMODS)
+- ACM International Workshop on Distributed Machine Learning (ACM CoNext)
 
 ---
 
