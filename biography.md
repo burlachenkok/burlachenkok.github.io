@@ -38,4 +38,4 @@ The venues that accepted Konstantin's works include:
 
 One of his sports achievements is the title of candidate Master of Sport in Chess which is assigned by the International Chess Federation FIDE.
 
-Extra areas of his interests:  Scientific Software Development,  Machine Learning and Fundamental Principles of AI, Computer Graphics, Computer Vision, and Physics-Based Simulation.
+Extra areas of his interests:  Scientific Software Development, GPGPU, Machine Learning and Fundamental Principles of AI, Computer Graphics, Computer Vision, and Physics-Based Simulation.
