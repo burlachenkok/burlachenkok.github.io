@@ -33,22 +33,19 @@ Finally, we propose two practical-orientated compressors for FedNL:
 
 ---
 
-We hope our work will be interesting for the general auditorium because half of the established principles are general enough and are valuable in scenarios 
-where a theoretically compelling ML algorithm requires a strong implementation.
+We believe our work will be of interest to the audience working in another apects of ML as half of the established principles are general enough and are valuable in scenarios where a theoretically compelling ML algorithm requires a strong implementation.
 
-In fact, to the best of our knowledge the authors of previous work on top of which we build this practical implementation a plan to participate in this event:
+In fact, to the best of our knowledge, the authors of the previous work on top of which we build this practical implementation plan to participate in this event.
 * [M.Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ&hl=en)
 * [R.Islamov](https://rustem-islamov.github.io/), [X.Qian](https://qianxunk.github.io/)
 * [P.Richtárik](https://richtarik.org/) 
 
-
 ---
 
-* [Link for event](https://cemse.kaust.edu.sa/ai/aii-symp-2024)
-* [Link for registration](https://docs.google.com/forms/d/e/1FAIpQLSfcxV5n66ou2DnYXe6qm3hmKbUJkmItKpMqSwdrzBkYKIl2Ag/viewform).
+* [Event Link](https://cemse.kaust.edu.sa/ai/aii-symp-2024)
+* [Registration Link](https://docs.google.com/forms/d/e/1FAIpQLSfcxV5n66ou2DnYXe6qm3hmKbUJkmItKpMqSwdrzBkYKIl2Ag/viewform)
 * **Date and Time:** February 19 - February 21, UTC+3.
 * **Location:** Building 19, Halls 1,2,3, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
-
 
 ---
 
