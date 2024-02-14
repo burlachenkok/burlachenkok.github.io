@@ -19,15 +19,13 @@ marking a significant step towards applying second-order methods to FL and large
 2. The prototype supports only a single node.
 3. The <span style="color:rgb(108,57,0)">FedNL</span> algorithms family prototypes were created in the scripting language Python. Integration of such implementation into resource-constrained ML applications is challenging.
 
-To bridge the gap between theory and practice, we present a self-contained implementation of <span style="color:rgb(108,57,0)">FedNL</span>, <span style="color:rgb(108,57,0)">FedNL-LS</span>, <span style="color:rgb(108,57,0)">FedNL-PP</span> for single-node and multi-node scenarios.
+To bridge the gap between theory and practice, we present a self-contained implementation of <span style="color:rgb(108,57,0)">FedNL</span>, <span style="color:rgb(108,57,0)">FedNL-LS</span>, <span style="color:rgb(108,57,0)">FedNL-PP</span> for single-node and multi-node scenarios. Our work resolves the aforementioned issues in the following sense:
 
-Our work resolves the aforementioned issues and:
-
-**A)** Reduces the wall clock time by $$\times 1000$$ in single-node simulation. 
+**A)** The work reduces the wall clock time by $$\times 1000$$ in single-node simulation. 
 
 **B)** We do not depend on any hunger in memory footprint 3rd party computation and data processing software frameworks libraries. We tested our implementation on [x86-64, AArch64] x [macOS, Linux, Windows] however in principle it can be run on any Posix and WinAPI Operating System with available C++20 compiler/build system.
 
-**C)** We proposed two practical-orientated compressors for <span style="color:rgb(108,57,0)">FedNL</span>:
+**C)** As a part of the project we proposed two practical-orientated compressors for <span style="color:rgb(108,57,0)">FedNL</span>:
 
 * Adaptive contractive compressor <span style="color:rgb(108,57,0)">TopLEK</span> build on top of <span style="color:rgb(108,57,0)">TopK</span> compressor.
 * Cache-aware <span style="color:rgb(108,57,0)">RandSeqK</span> build on top of <span style="color:rgb(108,57,0)">RandK</span> randomized sparsification compressor.
