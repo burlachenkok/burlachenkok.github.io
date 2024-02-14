@@ -4,17 +4,16 @@ title: Unlocking FedNL Self-Contained Compute-Optimized Implementation
 published: true
 ---
 
-Unlocking FedNL: Self-Contained Compute-Optimized Implementation at [Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
+**"Unlocking FedNL: Self-Contained Compute-Optimized Implementation"** will be presented in Rising Stars in [AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
 
 ---
 
+I plan to present the recent work *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* at [Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
 
-Federated Learning (FL) is an emerging paradigm that enables a possibly huge number of intelligent agents to collaboratively train 
+**Abstract.** Federated Learning (FL) is an emerging paradigm that enables a possibly huge number of intelligent agents to collaboratively train 
 Machine Learning (ML) models in a distributed manner, eliminating the need for sharing their local data. 
 The recent work ([Safaryan et al., 2021](https://icml.cc/virtual/2022/spotlight/17084)) introduces a family of Federated Newton Learn ([FedNL](https://arxiv.org/abs/2106.02969)) algorithms, 
-marking a significant step towards applying second-order methods to FL and large-scale optimization. 
-
-However, the reference [FedNL](https://arxiv.org/abs/2106.02969) prototype exhibits three practical drawbacks: 
+marking a significant step towards applying second-order methods to FL and large-scale optimization. However, the reference [FedNL](https://arxiv.org/abs/2106.02969) prototype exhibits three practical drawbacks: 
 
 * (i) It requires $$4.8$$ hours to launch a single experiment in a sever-grade workstation
 * (ii) The prototype supports only a single node
@@ -27,23 +26,24 @@ With this FedNL outperforms alternatives employed for training logistic regressi
 and in a multi-node - [Apache Spark](https://spark.apache.org/) ([Meng et al., 2016](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf)), [Rays/Scikit-Learn](https://www.ray.io/) ([Moritz et al., 2018](https://www.usenix.org/system/files/osdi18-moritz.pdf)).
 
 Finally, we propose two practical-orientated compressors for FedNL:
-* Adaptive <span style="color:rgb(108,57,0)">TopLEK</span>
-* Cache-aware <span style="color:rgb(108,57,0)">RandSeqK</span>
-
+* Adaptive contractive compressor <span style="color:rgb(108,57,0)">TopLEK</span> build on top of <span style="color:rgb(108,57,0)">TopK</span> compressor.
+* Cache-aware <span style="color:rgb(108,57,0)">RandSeqK</span> build on top of <span style="color:rgb(108,57,0)">RandK</span> randomized sparsification compressor.
 
 ---
 
-We believe our work will be of interest to the audience working in other aspects of ML (and not in FL) as half of the established principles are general enough and valuable in scenarios where a theoretically compelling ML algorithm requires a strong implementation.
+**Scope of our work.** We believe our work will be of interest to the audience working in other aspects of ML (and not in FL) as half of the established principles are general enough and valuable in scenarios where a theoretically compelling ML algorithm requires a strong implementation.
 
-I am glad that authors of the previous work on top of which we build this practical implementation plan participated in this event as well:
+I am glad that (almost all) the previous work authors on top of which we built this practical implementation plan participated in [Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024):
+
 * [M.Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ&hl=en). Postdoctoral MSCA Fellow, [IST Austria](https://ist.ac.at/en/home/).
-* [R.Islamov](https://rustem-islamov.github.io/) PhD student, [University of Basel](https://www.unibas.ch/en.html).
-
-The remaining authors [X.Qian](https://qianxunk.github.io/), and Prof. [P.Richtárik](https://richtarik.org/) should be available in campus.
+* [R.Islamov](https://rustem-islamov.github.io/). PhD student, [University of Basel](https://www.unibas.ch/en.html).
+* Prof. [P.Richtárik](https://richtarik.org/). Professor of Computer Science, [KAUST](https://kaust.edu.sa/en).
 
 ---
 
-* [Event Link](https://cemse.kaust.edu.sa/ai/aii-symp-2024)
+**Administrative Aspects.**
+
+* [Rising Stars in AI Symposium 2024. Event Link.](https://cemse.kaust.edu.sa/ai/aii-symp-2024):
 * [Registration Link](https://docs.google.com/forms/d/e/1FAIpQLSfcxV5n66ou2DnYXe6qm3hmKbUJkmItKpMqSwdrzBkYKIl2Ag/viewform)
 * **Date and Time:** February 19 - February 21, UTC+3.
 * **Location:** Building 19, Halls 1,2,3, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
@@ -59,4 +59,3 @@ The remaining authors [X.Qian](https://qianxunk.github.io/), and Prof. [P.Richt�
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td>
 </tr>
 </table>
-
