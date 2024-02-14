@@ -8,7 +8,7 @@ published: true
 
 ---
 
-I plan to present our recent work *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* at [KAUST Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
+I am glad to have the opportunity to present our recent work *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* at [KAUST Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
 
 **Abstract.** Federated Learning (FL) is an emerging paradigm that enables a possibly huge number of intelligent agents to collaboratively train 
 Machine Learning (ML) models in a distributed manner, eliminating the need for sharing their local data. 
