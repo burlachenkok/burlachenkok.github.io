@@ -33,7 +33,7 @@ Finally, we propose two practical-orientated compressors for FedNL:
 
 ---
 
-We believe our work will be of interest to the audience working in another apects of ML as half of the established principles are general enough and are valuable in scenarios where a theoretically compelling ML algorithm requires a strong implementation.
+We believe our work will be of interest to the audience working in other aspects of ML (and not in FL) as half of the established principles are general enough and valuable in scenarios where a theoretically compelling ML algorithm requires a strong implementation.
 
 In fact, to the best of our knowledge, the authors of the previous work on top of which we build this practical implementation plan to participate in this event.
 * [M.Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ&hl=en)
