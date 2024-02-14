@@ -4,11 +4,11 @@ title: Unlocking FedNL Self-Contained Compute-Optimized Implementation
 published: true
 ---
 
-**"Unlocking FedNL: Self-Contained Compute-Optimized Implementation"** will be presented in Rising Stars in [AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
+**"Unlocking FedNL: Self-Contained Compute-Optimized Implementation"** will be presented in Rising Stars in [KAUST. Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
 
 ---
 
-I plan to present the recent work *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* at [Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
+I plan to present the recent work *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* at [KAUST. Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
 
 **Abstract.** Federated Learning (FL) is an emerging paradigm that enables a possibly huge number of intelligent agents to collaboratively train 
 Machine Learning (ML) models in a distributed manner, eliminating the need for sharing their local data. 
@@ -33,7 +33,7 @@ Finally, we propose two practical-orientated compressors for FedNL:
 
 **Scope of our work.** We believe our work will be of interest to the audience working in other aspects of ML (and not in FL) as half of the established principles are general enough and valuable in scenarios where a theoretically compelling ML algorithm requires a strong implementation.
 
-I am glad that (almost all) the previous work authors on top of which we built this practical implementation plan participated in [Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024):
+I am glad that (almost all) the previous work authors on top of which we built this practical implementation plan participated in [KAUST. Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024):
 
 * [M.Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ&hl=en). Postdoctoral MSCA Fellow, [IST Austria](https://ist.ac.at/en/home/).
 * [R.Islamov](https://rustem-islamov.github.io/). PhD student, [University of Basel](https://www.unibas.ch/en.html).
