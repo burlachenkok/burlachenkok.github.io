@@ -23,12 +23,16 @@ To bridge the gap between theory and practice, we present a self-contained imple
 
 Our work resolves the aforementioned issues and:
 
-a. Reduces the wall clock time by $$\times 1000$$ in single-node simulation. 
-b. Does not depend on any hunger in memory footprint 3rd party computation and data processing software frameworks libraries. 
-c. We propose two practical-orientated compressors for <span style="color:rgb(108,57,0)">FedNL</span>:
+**A)** Reduces the wall clock time by $$\times 1000$$ in single-node simulation. 
+
+**B)** We does not depend on any hunger in memory footprint 3rd party computation and data processing software frameworks libraries. 
+
+**C)** We proposed two practical-orientated compressors for <span style="color:rgb(108,57,0)">FedNL</span>:
+
 * Adaptive contractive compressor <span style="color:rgb(108,57,0)">TopLEK</span> build on top of <span style="color:rgb(108,57,0)">TopK</span> compressor.
 * Cache-aware <span style="color:rgb(108,57,0)">RandSeqK</span> build on top of <span style="color:rgb(108,57,0)">RandK</span> randomized sparsification compressor.
-d. Finally <span style="color:rgb(108,57,0)">FedNL</span> outperforms alternatives employed for training logistic regression:
+
+**D)** Finally <span style="color:rgb(108,57,0)">FedNL</span> outperforms alternatives employed for training logistic regression:
 * In a single-node setting - [CVXPY](https://www.cvxpy.org/) ([Diamond & Boyd, 2016](https://arxiv.org/abs/1603.00943)), 
 * In a multi-node setting - [Apache Spark](https://spark.apache.org/) ([Meng et al., 2016](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf)), [Rays/Scikit-Learn](https://www.ray.io/) ([Moritz et al., 2018](https://www.usenix.org/system/files/osdi18-moritz.pdf)).
 
