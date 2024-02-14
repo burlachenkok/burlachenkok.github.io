@@ -4,7 +4,7 @@ title: Unlocking FedNL Self-Contained Compute-Optimized Implementation
 published: true
 ---
 
-Unlocking FedNL Self-Contained Compute-Optimized Implementation at [Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
+Unlocking FedNL: Self-Contained Compute-Optimized Implementation at [Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
 
 ---
 
