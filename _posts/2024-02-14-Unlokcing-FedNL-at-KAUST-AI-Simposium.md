@@ -16,12 +16,12 @@ marking a significant step towards applying second-order methods to FL and large
 
 However, the reference [FedNL](https://arxiv.org/abs/2106.02969) prototype exhibits three practical drawbacks: 
 
-* (i) It requires $4.8$ hours to launch a single experiment in a sever-grade workstation
+* (i) It requires $$4.8$$ hours to launch a single experiment in a sever-grade workstation
 * (ii) The prototype supports only a single node
 * (iii) Prototype integration into resource-constrained ML applications is challenging
 
 To bridge the gap between theory and practice, we present a self-contained implementation of <span style="color:rgb(108,57,0)">FedNL</span>, <span style="color:rgb(108,57,0)">FedNL-LS</span>, <span style="color:rgb(108,57,0)">FedNL-PP</span> for single-node and multi-node scenarios. 
-Our work resolves the aforementioned issues and reduces the wall clock time by $\times 1000$. 
+Our work resolves the aforementioned issues and reduces the wall clock time by $$\times 1000$$.
 
 With this FedNL outperforms alternatives employed for training logistic regression in a single-node - [CVXPY](https://www.cvxpy.org/) ([Diamond & Boyd, 2016](https://arxiv.org/abs/1603.00943)), 
 and in a multi-node - [Apache Spark](https://spark.apache.org/) ([Meng et al., 2016](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf)), [Rays/Scikit-Learn](https://www.ray.io/) ([Moritz et al., 2018](https://www.usenix.org/system/files/osdi18-moritz.pdf)).
