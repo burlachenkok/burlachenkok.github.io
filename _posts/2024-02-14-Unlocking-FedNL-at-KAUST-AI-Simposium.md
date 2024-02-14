@@ -25,7 +25,7 @@ Our work resolves the aforementioned issues and:
 
 **A)** Reduces the wall clock time by $$\times 1000$$ in single-node simulation. 
 
-**B)** We does not depend on any hunger in memory footprint 3rd party computation and data processing software frameworks libraries. 
+**B)** We do not depend on any hunger in memory footprint 3rd party computation and data processing software frameworks libraries. We tested our implementation on [x86-64, AArch64] x [macOS, Linux, Windows] however in principle it can be run on any Posix and WinAPI Operating System with available C++20 compiler/build system.
 
 **C)** We proposed two practical-orientated compressors for <span style="color:rgb(108,57,0)">FedNL</span>:
 
