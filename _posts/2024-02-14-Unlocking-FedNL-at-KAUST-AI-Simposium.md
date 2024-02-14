@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unlocking FedNL Self-Contained Compute-Optimized Implementation
+title: Unlocking FedNL in Rising Stars in AI Symposium 2024.
 published: true
 ---
 
