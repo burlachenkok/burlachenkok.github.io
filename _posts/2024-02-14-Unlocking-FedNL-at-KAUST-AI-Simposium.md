@@ -23,7 +23,7 @@ To bridge the gap between theory and practice, we present a self-contained imple
 
 **A)** The work reduces the wall clock time by $$\times 1000$$ in single-node simulation. 
 
-**B)** We do not depend on any hunger in memory footprint 3rd party computation and data processing software frameworks libraries. We tested our implementation on [[x86-64](https://en.wikipedia.org/wiki/X86-64), [AArch64](https://en.wikipedia.org/wiki/AArch64)] x [ [macOS](https://en.wikipedia.org/wiki/MacOS), [Linux](https://en.wikipedia.org/wiki/Linux), [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) ] however in principle it can be run on any [POSIX](https://en.wikipedia.org/wiki/POSIX) and [WinAPI](https://en.wikipedia.org/wiki/Windows_API) Operating System interfaces with available [ISO/IEC 14882 C++2020](https://www.iso.org/standard/79358.html) build system.
+**B)** We do not depend on any hunger in memory footprint 3rd party computation and data processing software frameworks libraries. We tested our implementation on [[x86-64](https://en.wikipedia.org/wiki/X86-64), [AArch64](https://en.wikipedia.org/wiki/AArch64)] x [ [macOS](https://en.wikipedia.org/wiki/MacOS), [Linux](https://en.wikipedia.org/wiki/Linux), [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) ] however in principle it can be run on any [POSIX](https://en.wikipedia.org/wiki/POSIX) and [WinAPI](https://en.wikipedia.org/wiki/Windows_API) Operating System interfaces with available [ISO/IEC 14882 C++2020](https://www.iso.org/standard/79358.html) compiler.
 
 **C)** As a part of the project we proposed two practical-orientated compressors for <span style="color:rgb(108,57,0)">FedNL</span>:
 
