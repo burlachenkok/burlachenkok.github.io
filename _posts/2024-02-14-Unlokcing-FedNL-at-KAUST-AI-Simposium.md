@@ -32,13 +32,15 @@ Finally, we propose two practical-orientated compressors for FedNL:
 
 
 ---
-We hope our work will be interesting for the auditorium. To the best of our knowledge the authors of previous work on top of which we build this practical implementation a plan to participate in this event:
+
+We hope our work will be interesting for the general auditorium because half of the established principles are general enough and are valuable in scenarios 
+where a theoretically compelling ML algorithm requires a strong implementation.
+
+In fact, to the best of our knowledge the authors of previous work on top of which we build this practical implementation a plan to participate in this event:
 * [M.Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ&hl=en)
 * [R.Islamov](https://rustem-islamov.github.io/), [X.Qian](https://qianxunk.github.io/)
 * [P.Richtárik](https://richtarik.org/) 
 
-*FedNL: Making Newton-Type Methods Applicable to Federated Learning* ([arXiv:2106.02969](https://arxiv.org/abs/2106.02969), 
-[ICML 2021](https://icml.cc/virtual/2022/spotlight/17084)) 
 
 ---
 
