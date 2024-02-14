@@ -51,7 +51,11 @@ In fact, to the best of our knowledge, the authors of the previous work on top o
 
 <table style="text-align:center;">
 <tr>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td>
+<table>
+<tr>
+<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
+<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/kaust_ai_symposium_2024.png"/> </td> 
+<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td>
 </tr>
 </table>
+
