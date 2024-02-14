@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Unlocking FedNL in Rising Stars in AI Symposium 2024.
+title: Unlocking FedNL at Rising Stars AI Symposium 2024.
 published: true
 ---
 
-**"Unlocking FedNL: Self-Contained Compute-Optimized Implementation"** will be presented in Rising Stars in [KAUST Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
+**"Unlocking FedNL: Self-Contained Compute-Optimized Implementation"** will be presented at [KAUST Rising Stars AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
 
 ---
 
-I am glad to have the opportunity to present our recent work *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* at [Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
+I am glad to have the opportunity to present our recent work *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* at [Rising Stars AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
 
 **Abstract.** Federated Learning (FL) is an emerging paradigm that enables a possibly huge number of intelligent agents to collaboratively train 
 Machine Learning (ML) models in a distributed manner, eliminating the need for sharing their local data. 
@@ -19,12 +19,19 @@ marking a significant step towards applying second-order methods to FL and large
 2. The prototype supports only a single node.
 3. The <span style="color:rgb(108,57,0)">FedNL</span> algorithms family prototypes were created in the scripting language Python. Integration of such implementation into resource-constrained ML applications is challenging.
 
-To bridge the gap between theory and practice, we present a self-contained implementation of <span style="color:rgb(108,57,0)">FedNL</span>, <span style="color:rgb(108,57,0)">FedNL-LS</span>, <span style="color:rgb(108,57,0)">FedNL-PP</span> for single-node and multi-node scenarios. Our work resolves the aforementioned issues and reduces the wall clock time by $$\times 1000$$ in single-node simulation. With this improvement and additional effort for bringing real distributed implementation the <span style="color:rgb(108,57,0)">FedNL</span> outperforms alternatives employed for training logistic regression in a single-node - [CVXPY](https://www.cvxpy.org/) ([Diamond & Boyd, 2016](https://arxiv.org/abs/1603.00943)), 
-and in a multi-node - [Apache Spark](https://spark.apache.org/) ([Meng et al., 2016](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf)), [Rays/Scikit-Learn](https://www.ray.io/) ([Moritz et al., 2018](https://www.usenix.org/system/files/osdi18-moritz.pdf)).
+To bridge the gap between theory and practice, we present a self-contained implementation of <span style="color:rgb(108,57,0)">FedNL</span>, <span style="color:rgb(108,57,0)">FedNL-LS</span>, <span style="color:rgb(108,57,0)">FedNL-PP</span> for single-node and multi-node scenarios.
 
-Finally, we propose two practical-orientated compressors for <span style="color:rgb(108,57,0)">FedNL</span>:
+Our work resolves the aforementioned issues and:
+
+a. Reduces the wall clock time by $$\times 1000$$ in single-node simulation. 
+b. Does not depend on any hunger in memory footprint 3rd party computation and data processing software frameworks libraries. 
+c. We propose two practical-orientated compressors for <span style="color:rgb(108,57,0)">FedNL</span>:
 * Adaptive contractive compressor <span style="color:rgb(108,57,0)">TopLEK</span> build on top of <span style="color:rgb(108,57,0)">TopK</span> compressor.
 * Cache-aware <span style="color:rgb(108,57,0)">RandSeqK</span> build on top of <span style="color:rgb(108,57,0)">RandK</span> randomized sparsification compressor.
+d. Finally <span style="color:rgb(108,57,0)">FedNL</span> outperforms alternatives employed for training logistic regression:
+* In a single-node setting - [CVXPY](https://www.cvxpy.org/) ([Diamond & Boyd, 2016](https://arxiv.org/abs/1603.00943)), 
+* In a multi-node setting - [Apache Spark](https://spark.apache.org/) ([Meng et al., 2016](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf)), [Rays/Scikit-Learn](https://www.ray.io/) ([Moritz et al., 2018](https://www.usenix.org/system/files/osdi18-moritz.pdf)).
+
 
 ---
 
