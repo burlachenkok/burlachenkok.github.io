@@ -8,7 +8,7 @@ published: true
 
 ---
 
-I plan to present the recent work *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* at [KAUST Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
+I plan to present our recent work *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* at [KAUST Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024).
 
 **Abstract.** Federated Learning (FL) is an emerging paradigm that enables a possibly huge number of intelligent agents to collaboratively train 
 Machine Learning (ML) models in a distributed manner, eliminating the need for sharing their local data. 
@@ -28,9 +28,7 @@ Finally, we propose two practical-orientated compressors for <span style="color:
 
 ---
 
-**Scope of our work.** We believe our work will be of interest to the audience working in ML in general (and in FL in particular) because half of the established principles are general enough and valuable in scenarios where a theoretically compelling ML algorithm requires a strong implementation.
-
-I am glad that (almost all) the previous work authors on top of which we built this practical implementation plan participated in [KAUST Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024):
+**Scope of our Work.** We believe our work will be of interest to the audience working in ML in general (and in FL in particular) because half of the established principles are general enough and valuable in scenarios where a theoretically compelling ML algorithm requires a strong implementation. I am glad that (almost all) the previous work authors on top of which we built this practical implementation plan participated in [KAUST Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024):
 
 * [M.Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ&hl=en). Postdoctoral MSCA Fellow, [IST Austria](https://ist.ac.at/en/home/).
 * [R.Islamov](https://rustem-islamov.github.io/). PhD student, [University of Basel](https://www.unibas.ch/en.html).
@@ -38,7 +36,7 @@ I am glad that (almost all) the previous work authors on top of which we built t
 
 ---
 
-**Administrative Aspects.**
+**About Event.**
 
 * [Rising Stars in AI Symposium 2024. Event Link.](https://cemse.kaust.edu.sa/ai/aii-symp-2024):
 * [Registration Link](https://docs.google.com/forms/d/e/1FAIpQLSfcxV5n66ou2DnYXe6qm3hmKbUJkmItKpMqSwdrzBkYKIl2Ag/viewform)
