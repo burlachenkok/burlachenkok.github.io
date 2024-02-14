@@ -35,10 +35,11 @@ Finally, we propose two practical-orientated compressors for FedNL:
 
 We believe our work will be of interest to the audience working in other aspects of ML (and not in FL) as half of the established principles are general enough and valuable in scenarios where a theoretically compelling ML algorithm requires a strong implementation.
 
-In fact, to the best of our knowledge, the authors of the previous work on top of which we build this practical implementation plan to participate in this event.
-* [M.Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ&hl=en)
-* [R.Islamov](https://rustem-islamov.github.io/), [X.Qian](https://qianxunk.github.io/)
-* [P.Richtárik](https://richtarik.org/) 
+I am glad that authors of the previous work on top of which we build this practical implementation plan participated in this event as well:
+* [M.Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ&hl=en). Postdoctoral MSCA Fellow, [IST Austria](https://ist.ac.at/en/home/).
+* [R.Islamov](https://rustem-islamov.github.io/) PhD student, [University of Basel](https://www.unibas.ch/en.html).
+
+The remaining authors [X.Qian](https://qianxunk.github.io/), and Prof. [P.Richtárik](https://richtarik.org/) should be available in campus.
 
 ---
 
