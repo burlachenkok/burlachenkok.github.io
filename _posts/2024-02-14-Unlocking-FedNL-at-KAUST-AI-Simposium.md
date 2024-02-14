@@ -15,9 +15,9 @@ Machine Learning (ML) models in a distributed manner, eliminating the need for s
 The recent work ([Safaryan et al., 2021](https://icml.cc/virtual/2022/spotlight/17084)) introduces a family of Federated Newton Learn ([FedNL](https://arxiv.org/abs/2106.02969)) algorithms, 
 marking a significant step towards applying second-order methods to FL and large-scale optimization. However, the reference [FedNL](https://arxiv.org/abs/2106.02969) prototype exhibits three practical drawbacks: 
 
-* (i) It requires $$4.8$$ hours to launch a single experiment in a sever-grade workstation
-* (ii) The prototype supports only a single node
-* (iii) Prototype integration into resource-constrained ML applications is challenging
+1. It requires $$4.8$$ hours to launch a single experiment in a sever-grade workstation.
+2. The prototype supports only a single node.
+3. Prototype integration into resource-constrained ML applications is challenging.
 
 To bridge the gap between theory and practice, we present a self-contained implementation of <span style="color:rgb(108,57,0)">FedNL</span>, <span style="color:rgb(108,57,0)">FedNL-LS</span>, <span style="color:rgb(108,57,0)">FedNL-PP</span> for single-node and multi-node scenarios. 
 Our work resolves the aforementioned issues and reduces the wall clock time by $$\times 1000$$.
