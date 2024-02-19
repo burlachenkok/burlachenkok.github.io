@@ -31,10 +31,10 @@ quadratic mean of certain smoothness parameters, we improve this dependence to t
 smaller, especially in heterogeneous data regimes. 
 
 We take the reader on a journey of our discovery process. Starting with the idea of applying <span style="color:rgb(99,153,89)">EF21</span> to an equivalent reformulation of the underlying problem
-which (unfortunately) requires (often impractical) machine cloning, we continue to the discovery of a new weighted version of <span style="color:rgb(99,153,89)">EF21</span> 
-which can (fortunately) be executed without any cloning, and finally circle back to an improved analysis of the original <span style="color:rgb(99,153,89)">EF21</span> method. 
+which (unfortunately) requires (often impractical) machine *cloning*, we continue to the discovery of a new *weighted* version of <span style="color:rgb(99,153,89)">EF21</span> 
+which can (fortunately) be executed without any cloning, and finally circle back to an improved *analysis* of the original <span style="color:rgb(99,153,89)">EF21</span> method. 
 While this development applies to the simplest form of <span style="color:rgb(99,153,89)">EF21</span>, our approach naturally extends to more elaborate variants involving stochastic gradients and 
-partial participation. Further, our technique improves the best-known theory of <span style="color:rgb(99,153,89)">EF21</span> in the rare features regime ([Richtarik et al., 2023](https://arxiv.org/abs/2305.15264)).
+partial participation. Further, our technique improves the best-known theory of <span style="color:rgb(99,153,89)">EF21</span> in the *rare features* regime ([Richtarik et al., 2023](https://arxiv.org/abs/2305.15264)).
 
 Finally, we validate our theoretical findings with suitable experiments.
 
