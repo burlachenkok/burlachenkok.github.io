@@ -1,18 +1,22 @@
+
 ---
 layout: post
-title: "Error Feedback Reloaded: From Quadratic to Arithmetic Mean of Smoothness Constants" has been accepted to ICLR 2024.
+title: Error Feedback Reloaded: From Quadratic to Arithmetic Mean of Smoothness Constants at ICLR 2024.
 published: true
 ---
 
-["Error Feedback Reloaded: From Quadratic to Arithmetic Mean of Smoothness Constants"](https://arxiv.org/abs/2402.10774) has been accepted to ICLR 2024.
+"Error Feedback Reloaded: From Quadratic to Arithmetic Mean of Smoothness Constants" has been accepted and will be presented at [ICLR 2024](https://iclr.cc/).
 
 ---
 
-Our paper ["Error Feedback Reloaded: From Quadratic to Arithmetic Mean of Smoothness Constants"](https://arxiv.org/abs/2402.10774) has been accepted to The 2024 International Conference on Learning Representations ([ICLR 2024](https://arxiv.org/abs/2402.10774)) proceeding.
+Our paper, titled **"Error Feedback Reloaded: From Quadratic to Arithmetic Mean of Smoothness Constants"** has been accepted for presentation at The 2024 International Conference on Learning Representations ([ICLR 2024](https://iclr.cc/Conferences/2024/Dates)).
 
-The arXiv link for the paper: [https://arxiv.org/abs/2402.10774](https://arxiv.org/abs/2402.10774).
+You can access the paper on arXiv through the following link: [https://arxiv.org/abs/2402.10774](https://arxiv.org/abs/2402.10774).
 
-It was more than a great pleasure to work with my peers: [Elnur Gasanov](https://elnurgasanov.com/), [Peter Richtárik](https://richtarik.org/).
+Collaborating with my co-authors, [Elnur Gasanov](https://elnurgasanov.com/), [Peter Richtárik](https://richtarik.org/), has been an immensely experience for me.
+Only our collective effort brings this paper to the life. Without their hard work of all us, I believe the completion of this research would not have been possible.
+
+We look forward to sharing our findings and insights at [ICLR 2024](https://iclr.cc/) !
 
 ## Abstract
 
@@ -34,11 +38,15 @@ partial participation. Further, our technique improves the best-known theory of 
 
 Finally, we validate our theoretical findings with suitable experiments.
 
+## Acknowledgements
+
+This work of all authors was supported by the KAUST Baseline Research Scheme (KAUST BRF). The work Peter Richtarik and Konstantin Burlachenko was also supported by the SDAIA-KAUST Center of Excellence in Data Science and Artificial Intelligence (SDAIA-KAUST AI). We wish to thank Babis Kostopoulos — a VSRP intern at KAUST who spent some time working on this project in Summer 2023—for helping with some parts of the project. We offered Babis co-authorship, but he declined.
+
 ---
 
 ## About Event
 
-* [ICLR 2024](https://iclr.cc/)
+* **Conference:** [ICLR 2024](https://iclr.cc/)
 * **Dates:** May 7th, 2024 to May 11th, 2024
 * **Location:** [Messe Wien Exhibition and Congress Center](https://www.messecongress.at/lage/?lang=en), Vienna Austria.
 
