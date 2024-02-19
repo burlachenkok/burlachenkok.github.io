@@ -16,21 +16,21 @@ It was more than a great pleasure to work with my peers: [Elnur Gasanov](https:/
 
 ## Abstract
 
-Error Feedback (EF) is a highly popular and immensely effective mechanism for fixing convergence issues which arise in distributed training 
-methods (such as distributed GD or SGD) when these are enhanced with greedy communication compression techniques such as TopK. 
-While EF was proposed almost a decade ago (Seide et al., 2014), and despite concentrated effort by the community to advance the theoretical 
+Error Feedback (<span style="color:rgb(99,153,89)">EF</span>) is a highly popular and immensely effective mechanism for fixing convergence issues which arise in distributed training 
+methods (such as distributed <span style="color:rgb(99,153,89)">GD</span> or <span style="color:rgb(99,153,89)">SGD</span>) when these are enhanced with greedy communication compression techniques such as TopK. 
+While <span style="color:rgb(99,153,89)">EF</span> was proposed almost a decade ago (Seide et al., 2014), and despite concentrated effort by the community to advance the theoretical 
 understanding of this mechanism, there is still a lot to explore. 
 
-In this work we study a modern form of error feedback called EF21 (Richtarik et al., 2021) which offers the currently best-known theoretical guarantees, 
-under the weakest assumptions, and also works well in practice. In particular, while the theoretical communication complexity of EF21 depends on the 
+In this work we study a modern form of error feedback called <span style="color:rgb(99,153,89)">EF21</span> (Richtarik et al., 2021) which offers the currently best-known theoretical guarantees, 
+under the weakest assumptions, and also works well in practice. In particular, while the theoretical communication complexity of <span style="color:rgb(99,153,89)">EF21</span> depends on the 
 quadratic mean of certain smoothness parameters, we improve this dependence to their arithmetic mean, which is always smaller, and can be substantially 
 smaller, especially in heterogeneous data regimes. 
 
-We take the reader on a journey of our discovery process. Starting with the idea of applying EF21 to an equivalent reformulation of the underlying problem
- which (unfortunately) requires (often impractical) machine cloning, we continue to the discovery of a new weighted version of EF21 
-which can (fortunately) be executed without any cloning, and finally circle back to an improved analysis of the original EF21 method. 
-While this development applies to the simplest form of EF21, our approach naturally extends to more elaborate variants involving stochastic gradients and 
-partial participation. Further, our technique improves the best-known theory of EF21 in the rare features regime (Richtarik et al., 2023). 
+We take the reader on a journey of our discovery process. Starting with the idea of applying <span style="color:rgb(99,153,89)">EF21</span> to an equivalent reformulation of the underlying problem
+which (unfortunately) requires (often impractical) machine cloning, we continue to the discovery of a new weighted version of <span style="color:rgb(99,153,89)">EF21</span> 
+which can (fortunately) be executed without any cloning, and finally circle back to an improved analysis of the original <span style="color:rgb(99,153,89)">EF21</span> method. 
+While this development applies to the simplest form of <span style="color:rgb(99,153,89)">EF21</span>, our approach naturally extends to more elaborate variants involving stochastic gradients and 
+partial participation. Further, our technique improves the best-known theory of <span style="color:rgb(99,153,89)">EF21</span> in the rare features regime (Richtarik et al., 2023). 
 
 Finally, we validate our theoretical findings with suitable experiments.
 
