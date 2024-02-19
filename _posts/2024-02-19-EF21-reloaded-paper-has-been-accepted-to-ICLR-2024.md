@@ -8,12 +8,11 @@ published: true
 
 ---
 
-Our paper, titled **"Error Feedback Reloaded: From Quadratic to Arithmetic Mean of Smoothness Constants"** has been accepted for presentation at The 2024 International Conference on Learning Representations ([ICLR 2024](https://iclr.cc/Conferences/2024/Dates)).
+Our paper, titled **"Error Feedback Reloaded: From Quadratic to Arithmetic Mean of Smoothness Constants"** has been accepted for presentation at the 2024 International Conference on Learning Representations ([ICLR 2024](https://iclr.cc/Conferences/2024/Dates)).
 
 You can access the paper on arXiv through the following link: [https://arxiv.org/abs/2402.10774](https://arxiv.org/abs/2402.10774).
 
-Collaborating with my co-authors, [Elnur Gasanov](https://elnurgasanov.com/), [Peter Richtárik](https://richtarik.org/), has been an immense experience for me.
-Only our collective effort brings this paper to life. Without the hard work all of us, I believe the completion of this research would not have been possible. We look forward to sharing our findings and insights at [ICLR 2024](https://iclr.cc/) !
+Collaborating with my co-authors, [Elnur Gasanov](https://elnurgasanov.com/), [Peter Richtárik](https://richtarik.org/), has been an immense experience for me. Without the hard work of all of us, the completion of this research would not have been possible. We look forward to sharing our findings and insights at [ICLR 2024](https://iclr.cc/)!
 
 # Abstract
 
