@@ -12,7 +12,7 @@ Our paper, titled **"Error Feedback Reloaded: From Quadratic to Arithmetic Mean 
 
 You can access the paper on arXiv through the following link: [https://arxiv.org/abs/2402.10774](https://arxiv.org/abs/2402.10774).
 
-Collaborating with my co-authors, [Elnur Gasanov](https://elnurgasanov.com/), [Peter Richtárik](https://richtarik.org/), has been an immense experience for me. Without the hard work of all of us, the completion of this research would not have been possible. 
+Collaborating with my co-authors, [Elnur Gasanov](https://elnurgasanov.com/), and [Peter Richtárik](https://richtarik.org/), has been an immense experience for me. Without the hard work of all of us, the completion of this research would not have been possible. 
 
 We look forward to sharing our findings and insights at [ICLR 2024](https://iclr.cc/)!
 
