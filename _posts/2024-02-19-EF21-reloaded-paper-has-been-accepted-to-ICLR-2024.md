@@ -37,8 +37,6 @@ partial participation. Further, our technique improves the best-known theory of 
 
 This work of all authors was supported by the KAUST Baseline Research Scheme (KAUST BRF). The work [Peter Richtárik](https://richtarik.org/) and [Konstantin Burlachenko](https://burlachenkok.github.io/) was also supported by the SDAIA-KAUST Center of Excellence in Data Science and Artificial Intelligence (SDAIA-KAUST AI). We wish to thank [Babis Kostopoulos](https://www.linkedin.com/in/babis-kostopoulos-2b7114183/) — a [VSRP intern](https://vsrp.kaust.edu.sa/) at [KAUST](https://www.kaust.edu.sa/en/) who spent some time working on this project in Summer 2023—for helping with some parts of the project. We offered Babis co-authorship, but he declined.
 
----
-
 # Conference
 
 * Name: [ICLR 2024](https://iclr.cc/)
