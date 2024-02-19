@@ -45,7 +45,7 @@ This work of all authors was supported by the KAUST Baseline Research Scheme (KA
 
 * **Conference:** [ICLR 2024](https://iclr.cc/)
 * **Dates:** May 7th, 2024 to May 11th, 2024
-* **Location:** [Messe Wien Exhibition and Congress Center](https://www.messecongress.at/lage/?lang=en), Vienna Austria.
+* **Location:** [Messe Wien Exhibition and Congress Center](https://www.messecongress.at/lage/?lang=en), Vienna, Austria.
 
 ---
 
