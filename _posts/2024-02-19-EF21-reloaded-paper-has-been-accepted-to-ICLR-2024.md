@@ -4,7 +4,7 @@ title: Error Feedback Reloaded From Quadratic to Arithmetic Mean of Smoothness C
 published: true
 ---
 
-"Error Feedback Reloaded: From Quadratic to Arithmetic Mean of Smoothness Constants" has been accepted and will be presented at [ICLR 2024](https://iclr.cc/).
+"Error Feedback Reloaded From Quadratic to Arithmetic Mean of Smoothness Constants" has been accepted and will be presented at [ICLR 2024](https://iclr.cc/).
 
 ---
 
