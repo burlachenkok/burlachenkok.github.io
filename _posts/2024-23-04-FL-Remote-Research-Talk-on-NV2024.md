@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Remote research talk at NVIDIA.
+title: Remote Research Talk at NVIDIA.
 published: true
 ---
 
-Remote research talk at NVIDIA.
+Remote Research Talk at NVIDIA.
 
 ---
 
 I want to express my gratitude to [Holger R. Roth](https://www.linkedin.com/in/holger-r-roth-b939a79/) for inviting me to give a talk for researchers and engineers at NVIDIA working on Federated Learning (FL) systems such as [NVFlare](https://developer.nvidia.com/flare) and FL-related research [NVFlare/research](https://github.com/NVIDIA/NVFlare/tree/main/research) remotely.
 
-One scientist (director of KAUST AI Initiative) said that NVIDIA has smart guys, which can observe value in [Prof. Peter Richtárik Lab](https://richtarik.org/) at the beginning.
+One scientist (director of KAUST AI Initiative) said to me in the kitchen that NVIDIA has smart guys, which can observe the value in [Prof. Peter Richtárik Lab](https://richtarik.org/) at the beginning.
 
 <table style="text-align:center;">
 <tr>
