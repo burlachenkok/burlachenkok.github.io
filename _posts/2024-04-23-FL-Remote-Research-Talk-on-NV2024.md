@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Remote Research Talk at NVIDIA.
+title: Remote Research Talk at NVIDIA
 published: true
 ---
 
-Remote Research Talk at NVIDIA.
+Remote Research Talk at NVIDIA
 
 ---
 
