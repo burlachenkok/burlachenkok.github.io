@@ -13,3 +13,10 @@ who are actively engaged in pioneering Federated Learning (FL) systems such as [
 
 
 **p.s.** One of the distinguished scientists, the director of KAUST AI Initiative, said to me in the kitchen, that NVIDIA has smart guys, capable of discerning the significance of recent works emanating from [Prof. Peter Richtárik's Lab](https://richtarik.org/) right from the moment of their inception.
+
+<table style="text-align:center;">
+<tr>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/Nvidia_logo.svg"/> </td>
+</tr>
+</table>
