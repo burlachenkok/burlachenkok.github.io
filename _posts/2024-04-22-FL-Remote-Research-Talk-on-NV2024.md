@@ -4,7 +4,7 @@ title: Remote Research Talk at NVIDIA
 published: true
 ---
 
-Remote presentation of our latest research for NVIDIA
+Remote presentation of our latest research for NVIDIA.
 
 
 ---
