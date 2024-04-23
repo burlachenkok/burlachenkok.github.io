@@ -4,7 +4,8 @@ title: Remote Research Talk at NVIDIA
 published: true
 ---
 
-Recent research paper remote presentation at NVIDIA.
+Remote presentation of our latest research for NVIDIA
+
 
 ---
 
