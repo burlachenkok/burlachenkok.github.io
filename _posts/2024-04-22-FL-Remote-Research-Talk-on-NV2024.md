@@ -9,7 +9,7 @@ Remote presentation of our latest research for NVIDIA
 
 ---
 
-I sincerely appreciate [Holger R. Roth](https://www.linkedin.com/in/holger-r-roth-b939a79/) inviting me to present to researchers and research engineers at [NVIDIA](https://www.nvidia.com/).
+I sincerely appreciate [Holger R. Roth](https://www.linkedin.com/in/holger-r-roth-b939a79/) inviting me to present the results of our latest research to researchers and research engineers at [NVIDIA](https://www.nvidia.com/).
 
 [NVIDIA](https://www.nvidia.com/) stands at the forefront of innovation, and also is actively engaged in pioneering Federated Learning (FL) systems such as ([NVFlare](https://developer.nvidia.com/flare)) and FL-related research ([NVFlare/research](https://github.com/NVIDIA/NVFlare/tree/main/research)), ([NVFlare/publications](https://nvflare.readthedocs.io/en/main/publications_and_talks.html)).
 
