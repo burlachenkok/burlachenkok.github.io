@@ -19,6 +19,8 @@ marking a significant step towards applying second-order methods to FL and large
 2. The prototype supports only a single node.
 3. The <span style="color:rgb(108,57,0)">FedNL</span> algorithms family prototypes were created in the scripting language [Python](https://www.python.org/). Integration of such implementation into resource-constrained ML applications is challenging.
 
+---
+
 To bridge the gap between theory and practice, we present a self-contained implementation of <span style="color:rgb(108,57,0)">FedNL</span>, <span style="color:rgb(108,57,0)">FedNL-LS</span>, <span style="color:rgb(108,57,0)">FedNL-PP</span> for single-node and multi-node scenarios. Our work resolves the aforementioned issues in the following sense:
 
 **A)** The work reduces the wall clock time by $$\times 1000$$ in single-node simulation. 
