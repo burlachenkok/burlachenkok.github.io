@@ -43,6 +43,7 @@ This work of all authors was supported by the KAUST Baseline Research Scheme (KA
 * Name: [ICLR 2024](https://iclr.cc/)
 * Dates: May 7th, 2024 to May 11th, 2024 [ICLR 2024 Dates](https://iclr.cc/Conferences/2024/Dates)
 * Location: [Messe Wien Exhibition and Congress Center](https://www.messecongress.at/lage/?lang=en), Vienna, Austria.
+* Link to our poster at the ICLR 2024 (The Twelfth International Conference on Learning Representations): [https://iclr.cc/virtual/2024/poster/19162](https://iclr.cc/virtual/2024/poster/19162)
 
 ---
 
