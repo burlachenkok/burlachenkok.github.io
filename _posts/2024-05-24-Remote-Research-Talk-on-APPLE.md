@@ -4,7 +4,7 @@ title: Remote Research Talk at Apple
 published: true
 ---
 
-Remote presentation of our latest research for Apple.
+Remote presentation of our latest research for [Apple](https://www.apple.com/).
 
 
 ---
