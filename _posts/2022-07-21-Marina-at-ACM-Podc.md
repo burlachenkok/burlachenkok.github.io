@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MARINA Faster Non-Convex Distributed Learning with Compression on ACM PODC 2022.
+title: MARINA Faster Non-Convex Distributed Learning with Compression on ACM PODC 2022
 published: true
 ---
 

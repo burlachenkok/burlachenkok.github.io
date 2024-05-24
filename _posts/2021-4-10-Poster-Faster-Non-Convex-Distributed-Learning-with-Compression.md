@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poster. Faster Non-Convex Distributed Learning with Compression.
+title: Poster: Faster Non-Convex Distributed Learning with Compression
 published: true
 ---
 

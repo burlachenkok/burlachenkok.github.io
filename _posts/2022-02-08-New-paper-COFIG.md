@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faster rates for compressed federated learning with client-variance reduction.
+title: Faster rates for compressed federated learning with client-variance reduction
 published: true
 ---
 
