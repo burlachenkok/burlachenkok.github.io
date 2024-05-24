@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Error Feedback Reloaded at ICLR 2024.
+title: Error Feedback Reloaded at ICLR 2024
 published: true
 ---
 

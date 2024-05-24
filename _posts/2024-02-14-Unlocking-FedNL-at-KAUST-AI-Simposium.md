@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unlocking FedNL at Rising Stars AI Symposium 2024.
+title: Unlocking FedNL at Rising Stars AI Symposium 2024
 published: true
 ---
 

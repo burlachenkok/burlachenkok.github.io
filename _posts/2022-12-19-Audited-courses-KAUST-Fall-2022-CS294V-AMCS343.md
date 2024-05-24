@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About courses CS294V System Architecture and AMCS 343 Fast Solvers for Large Systems.
+title: About courses CS294V System Architecture and AMCS 343 Fast Solvers for Large Systems
 published: true
 ---
 

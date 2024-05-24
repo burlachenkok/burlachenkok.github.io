@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personalized FL with Communication Compression.
+title: Personalized FL with Communication Compression
 published: true
 ---
 

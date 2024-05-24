@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Affiliation with the SDAIA-KAUST AI.
+title: Affiliation with the SDAIA-KAUST AI
 published: true
 ---
 

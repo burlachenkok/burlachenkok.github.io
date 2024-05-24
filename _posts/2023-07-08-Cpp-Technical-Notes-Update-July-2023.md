@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Update of Technical Note. From C++1998 to C++2020.
+title: Update of Technical Note. From C++1998 to C++2020
 published: true
 ---
 

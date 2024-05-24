@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Federated Learning with Regularized Client Participation.
+title: Federated Learning with Regularized Client Participation
 published: true
 ---
 

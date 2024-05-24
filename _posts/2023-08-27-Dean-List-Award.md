@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Receiving the Dean's List Award 2023.
+title: Receiving the Dean's List Award 2023
 published: true
 ---
 
