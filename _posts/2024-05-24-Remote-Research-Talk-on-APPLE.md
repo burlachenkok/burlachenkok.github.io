@@ -10,11 +10,11 @@ Remote presentation of our latest research for APPLE.
 ---
 
 I sincerely appreciate the opportunity to present the results of our latest (unpublished) research to researchers and research engineers at Apple Inc. engaged in pioneering Federated Learning (FL) systems as [pfl: Python framework for Private Federated Learning simulations](https://github.com/apple/pfl-research),
-and research Federated Learning [Machine Learning Research](https://machinelearning.apple.com/research?page=1&q=federated+learning)
+and conducting research in Federated Learning [Machine Learning Research](https://machinelearning.apple.com/research?page=1&q=federated+learning)
 
 <table style="text-align:center;">
 <tr>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/Apple_logo_black.svg"/> </td>
+<td style="padding:30px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
+<td style="padding:30px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/Apple_logo_black.svg"/> </td>
 </tr>
 </table>
