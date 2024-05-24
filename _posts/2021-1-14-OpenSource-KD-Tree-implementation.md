@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenSource KD tree implementation.
+title: OpenSource KD tree implementation
 published: true
 ---
 
