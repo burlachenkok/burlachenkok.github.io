@@ -9,7 +9,7 @@ Remote presentation of our latest research for APPLE.
 
 ---
 
-I appreciate the opportunity to present the results of our latest (unpublished) research to researchers and research engineers at [Apple Inc.](https://www.apple.com/) engaged in pioneering Federated Learning (FL) systems in particular (see [[pfl: Python framework for Private Federated Learning simulations]](https://github.com/apple/pfl-research)),
+I appreciate the opportunity to present our latest (unpublished) research to researchers and research engineers at [Apple Inc.](https://www.apple.com/) engaged in pioneering Federated Learning (FL) systems in particular (see [[pfl: Python framework for Private Federated Learning simulations]](https://github.com/apple/pfl-research)),
 and conducting [[Federated Machine Learning Research]](https://machinelearning.apple.com/research?page=1&q=federated+learning) in general.
 
 <table style="text-align:center;">
