@@ -37,4 +37,4 @@ One of his sports achievements is the title of candidate Master of Sport in Ches
 
 ## Extra Areas of Interests
 
-Scientific Software Development, GPGPU, Compute Performance Optimization, ML/AI solvers, Computer Graphics, Computer Vision, Physics-Based Simulation.
+Scientific Software Development, GPGPU, Compute Performance Optimization, ML/AI Solvers, Computer Graphics, Computer Vision, Physics-Based Simulation.
