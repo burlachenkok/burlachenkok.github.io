@@ -25,8 +25,6 @@ The venues that accepted Konstantin's works include:
 - SIAM Journal on Mathematics of Data Science ([SIAM SIMODS](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods))
 - ACM International Workshop on Distributed Machine Learning ([ACM CoNext](https://www.sigcomm.org/events/conext-conference))
 
----
-
 ## Awards
 
 * Dean’s Award, KAUST, 2020
@@ -36,7 +34,6 @@ The venues that accepted Konstantin's works include:
 
 One of his sports achievements is the title of candidate Master of Sport in Chess which is assigned by the International Chess Federation FIDE.
 
----
 
 ## Extra Areas of Interests
 
