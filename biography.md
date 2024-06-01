@@ -34,8 +34,10 @@ The venues that accepted Konstantin's works include:
 * AMD Radeon Instinct MI50 from AMD Inc., 2022
 * Dean’s List Award 2023, KAUST
 
----
-
 One of his sports achievements is the title of candidate Master of Sport in Chess which is assigned by the International Chess Federation FIDE.
 
-Extra areas of his interests:  Scientific Software Development, GPGPU, Compute Performance Optimization, ML/AI solvers, Computer Graphics, Computer Vision, and Physics-Based Simulation.
+---
+
+## Extra Areas of Interests
+
+Scientific Software Development, GPGPU, Compute Performance Optimization, ML/AI solvers, Computer Graphics, Computer Vision, Physics-Based Simulation.
