@@ -15,7 +15,7 @@ I am grateful that the visa processing, handled by both the government and visa 
 During my internship, I will be:
 
 * Residing at the following temporary address: [27 Woodlark Road CB30HT Cambridge](https://maps.app.goo.gl/1NWYf4jQsvKp1fcz9)
-* Work from Apple Research office with address: [30 Station Rd, Cambridge CB1 2JH, UK](https://maps.app.goo.gl/GGFGBMyPrHGAAp9H8)
+* Located in Apple Research office: [30 Station Rd, Cambridge CB1 2JH, UK](https://maps.app.goo.gl/GGFGBMyPrHGAAp9H8)
 
 <div style="text-align:center">
   <img height="100px" src="https://burlachenkok.github.io/materials/Apple_logo_black.svg"/>
