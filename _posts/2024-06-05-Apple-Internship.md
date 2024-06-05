@@ -14,7 +14,6 @@ It was great that the working visa processing took only a few months rather than
 
 <table style="text-align:center;">
 <tr>
-<td style="padding:30px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
 <td style="padding:30px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/Apple_logo_black.svg"/> </td>
 </tr>
 </table>
