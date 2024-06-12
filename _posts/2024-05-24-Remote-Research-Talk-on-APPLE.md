@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remote Research Talk at Apple
+title: Remote Research Talk at Apple Inc.
 published: true
 ---
 

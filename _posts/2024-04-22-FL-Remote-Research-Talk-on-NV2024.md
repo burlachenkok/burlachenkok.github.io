@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remote Research Talk at NVIDIA
+title: Remote Research Talk at NVIDIA Inc.
 published: true
 ---
 
