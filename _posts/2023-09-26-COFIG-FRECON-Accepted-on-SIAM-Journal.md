@@ -15,9 +15,9 @@ I was glad to work with my peers and hope for further cooperation:
 * [Zhize Li](https://zhizeli.github.io/) from [Carnegie Mellon University](https://www.cmu.edu/)
 * Prof. [Peter Richtarik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/)
 
-The arXiv version of our paper has been updated on 24 September 2023: [https://arxiv.org/abs/2112.13097](https://arxiv.org/abs/2112.13097)
-
-The paper is presented in SIAM Journal on Mathematics of Data Science Vol. 6, Iss. 1 (2024) 10.1137/23M1553820: [https://epubs.siam.org/doi/full/10.1137/23M1553820](https://epubs.siam.org/doi/full/10.1137/23M1553820)
+Links to the paper:
+* The arXiv version with updates from 24 September 2023: [https://arxiv.org/abs/2112.13097](https://arxiv.org/abs/2112.13097)
+* SIAM Journal on Mathematics of Data Science Vol. 6, Iss. 1 (2024) 10.1137/23M1553820: [https://epubs.siam.org/doi/full/10.1137/23M1553820](https://epubs.siam.org/doi/full/10.1137/23M1553820)
 
 ---
 

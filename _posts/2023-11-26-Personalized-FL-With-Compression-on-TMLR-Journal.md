@@ -11,9 +11,9 @@ The paper [Personalized Federated Learning with Communication Compression](https
 
 The paper *"Personalized Federated Learning with Communication Compression"* was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html).
 
-Link to the paper: 
-* At TMLR: [https://openreview.net/forum?id=dZugyhbNFY](https://openreview.net/forum?id=dZugyhbNFY)
-* At arXiv: [https://arxiv.org/abs/2209.05148](https://arxiv.org/abs/2209.05148)
+Links to the paper: 
+* Publication at Transactions on Machine Learning Research (TMLR): [https://openreview.net/forum?id=dZugyhbNFY](https://openreview.net/forum?id=dZugyhbNFY)
+* The arXiv version with updates from 12 Sep 2022: [https://arxiv.org/abs/2209.05148](https://arxiv.org/abs/2209.05148)
 
 TMLR is a venue for the dissemination of machine learning research which emphasizes technical correctness over subjective significance.
 
