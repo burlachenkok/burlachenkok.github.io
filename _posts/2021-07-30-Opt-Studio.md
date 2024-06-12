@@ -40,7 +40,7 @@ The project has an interactive shell like a Python interpreter (or BASH, or R) w
 Visualizing expressions (formulas) that represent explicit functions in the form of Y=F(X), where F is constructed with the available algebraic expressions, is possible.
 
 ## Graph plotter
-An extra plotter tool allows obtaining information from the shell remotely via TCP/IP. It's located in a separate repository: https://github.com/burlachenkok/plotter_plusplus.
+An extra plotter tool allows obtaining information from the shell remotely via TCP/IP. It's located in a separate repository: [https://github.com/burlachenkok/plotter_plusplus](https://github.com/burlachenkok/plotter_plusplus).
 In Framework, there is a need for abstraction to send data over TCP/IP network.
 
 ## Framework
@@ -49,3 +49,10 @@ The internal infrastructure of the project allows working with filesystem, netwo
 
 # Credits and references
 Original author: Konstantin Burlachenko. Email: konstantin.burlachenko@kaust.edu.sa
+
+<center>
+<table>
+<tr>
+<td style="padding: 15px"> <img height="125px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
+</tr>
+</table>
