@@ -17,6 +17,8 @@ I was glad to work with my peers and hope for further cooperation:
 
 The arXiv version of our paper has been updated on 24 September 2023: [https://arxiv.org/abs/2112.13097](https://arxiv.org/abs/2112.13097)
 
+The paper is presented in SIAM Journal on Mathematics of Data Science Vol. 6, Iss. 1 (2024) 10.1137/23M1553820: [https://epubs.siam.org/doi/full/10.1137/23M1553820](https://epubs.siam.org/doi/full/10.1137/23M1553820)
+
 ---
 
 <table style="text-align:center;">
