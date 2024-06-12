@@ -16,3 +16,16 @@ After spending time in industry I have backed into academia. I have joined KAUST
 Extra details are presented here: [Konstantin Burlachenko story in CEMSE/CS](https://cemse.kaust.edu.sa/news/meet-kaust-student-konstantin-burlachenko)
 
 During my coming to KAUST I obtained a financial add-on to the KAUST Fellowship, given to a few of the best incoming students by the Dean.
+
+----
+
+<center>
+<table style="text-align:center;">
+<tr>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="95px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/huawei-logo.svg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/Nvidia_logo.svg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/Yandex_Logo.svg"/> </td>
+</tr>
+</table>
+</center>
