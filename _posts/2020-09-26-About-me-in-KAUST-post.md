@@ -35,6 +35,7 @@ During my coming to KAUST I obtained a financial add-on to the KAUST Fellowship,
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/huawei-logo.svg"/> </td>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/Nvidia_logo.svg"/> </td>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/Yandex_Logo.svg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/acronis-logo.svg"/> </td>
 </tr>
 </table>
 
