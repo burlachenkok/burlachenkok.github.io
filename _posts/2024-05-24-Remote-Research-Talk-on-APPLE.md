@@ -16,7 +16,7 @@ and conducting [[Federated Machine Learning R&D]](https://machinelearning.apple.
 <table style="text-align:center;">
 <tr>
 <td style="padding:30px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
-<td style="padding:30px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/Apple_logo_black.svg"/> </td>
+<td style="padding:30px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/apple-logo-black.svg"/> </td>
 </tr>
 </table>
 </center>

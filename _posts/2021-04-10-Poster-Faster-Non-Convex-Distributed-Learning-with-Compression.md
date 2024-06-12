@@ -11,7 +11,7 @@ Poster for <a href="https://arxiv.org/abs/2102.07845">MARINA Paper</a>  presente
 
 ---
 
-![Thumbnail](https://burlachenkok.github.io/materials/Marina_thumbnail.png)
+![Thumbnail](https://burlachenkok.github.io/materials/marina-thumbnail.png)
 
 # Poster session
 

@@ -18,5 +18,5 @@ During my internship I will:
 * Work at Apple Research: [30 Station Rd, Cambridge CB1 2JH, UK](https://maps.app.goo.gl/GGFGBMyPrHGAAp9H8)
 
 <div style="text-align:center">
-  <img height="100px" src="https://burlachenkok.github.io/materials/Apple_logo_black.svg"/>
+  <img height="100px" src="https://burlachenkok.github.io/materials/apple-logo-black.svg"/>
 </div>

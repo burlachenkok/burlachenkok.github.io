@@ -53,6 +53,6 @@ This work of all authors was supported by the KAUST Baseline Research Scheme (KA
 <tr>
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td>
-<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/ICLR_Logo.svg"/> </td>
+<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/ICLR-Logo.svg"/> </td>
 </tr>
 </table>
