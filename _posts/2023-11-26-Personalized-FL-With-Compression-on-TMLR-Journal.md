@@ -9,7 +9,13 @@ The paper [Personalized Federated Learning with Communication Compression](https
 ---
 
 
-The paper *"Personalized Federated Learning with Communication Compression"* was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html), link to the paper: [https://openreview.net/forum?id=dZugyhbNFY](https://openreview.net/forum?id=dZugyhbNFY). TMLR is a venue for the dissemination of machine learning research which emphasizes technical correctness over subjective significance.
+The paper *"Personalized Federated Learning with Communication Compression"* was accepted by the [Transactions on Machine Learning Research (TMLR)](https://jmlr.csail.mit.edu/tmlr/index.html).
+
+Link to the paper: 
+* At TMLR: [https://openreview.net/forum?id=dZugyhbNFY](https://openreview.net/forum?id=dZugyhbNFY)
+* At arXiv: [https://arxiv.org/abs/2209.05148](https://arxiv.org/abs/2209.05148)
+
+TMLR is a venue for the dissemination of machine learning research which emphasizes technical correctness over subjective significance.
 
 I was glad to work with my peers:
 * [Peter Richtárik](https://richtarik.org/) from [King Abdullah University of Science and Technology, KSA](https://cemse.kaust.edu.sa/)
@@ -30,8 +36,8 @@ The limited amount of data for training big models for Machine Learning can lead
 Existing FL algorithms mainly aim to learn a single global model for all participating devices. However, it may not be helpful to all devices participating in the training due to the heterogeneity of the data across the devices. Recently, [Hanzely and Richtárik (2020)](https://arxiv.org/abs/2002.05516) proposed a new formulation for training personalized FL models aimed at 
 balancing the trade-off between the traditional global model and the local models that could be trained by individual devices using their private data only. They derived a new algorithm, called [Loopless Gradient Descent (L2GD)](https://arxiv.org/abs/2002.05516), to solve it and showed that this algorithm leads to improved communication complexity guarantees.
 
-On our paper, we equipped their L2GD algorithm with a bidirectional compression mechanism to further reduce the communication bottleneck between the local devices and the server. Unlike other compression-based algorithms used in the FL setting, our <span style="color:rgb(74,126,104)">Compressed L2GD</span> algorithm operates on a probabilistic communication protocol, where communication does not happen on a fixed schedule.
-All our algorithms are equipped with the theory for convex and non-convex cases for finite sum minimization problems, which includes solving the Empirical Risk Minimization (ERM) fomulation.
+In our paper, we equipped their L2GD algorithm with a bidirectional compression mechanism to further reduce the communication bottleneck between the local devices and the server. Unlike other compression-based algorithms used in the FL setting, our <span style="color:rgb(74,126,104)">Compressed L2GD</span> algorithm operates on a probabilistic communication protocol, where communication does not happen on a fixed schedule.
+All our algorithms are equipped with the theory for convex and non-convex cases for finite sum minimization problems,  which includes solving the Empirical Risk Minimization (ERM) fomulation.
 
 Our <span style="color:rgb(74,126,104)">Compressed L2GD</span> algorithm maintains a similar convergence rate as vanilla SGD without compression. To validate the efficiency of our algorithm, we performed diverse numerical experiments and demonstrated the benefits of using our algorithm during training modern Deep Learning models used in Image Processing tasks:
 
@@ -39,7 +45,7 @@ Our <span style="color:rgb(74,126,104)">Compressed L2GD</span> algorithm maintai
 * [MobileNet](https://arxiv.org/abs/1704.04861)
 * [ResNet-18/56](https://arxiv.org/abs/1512.03385)
 
-We included experiments with Logistic Regression, the model that is widely used in Statistics, Optimization, and ML for training shallow models when the modeling effort is focused on feature design rather than creating complex family of function classes.
+We included experiments with Logistic Regression, the model that is widely used in Statistics, Optimization, and ML for training shallow models when the modeling effort is focused on feature design rather than creating a complex family of function classes.
 
 ---
 
@@ -49,5 +55,6 @@ We included experiments with Logistic Regression, the model that is widely used 
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="190px" src="https://burlachenkok.github.io/materials/ucf-logo-2022.svg"/> </td>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="75px" src="https://burlachenkok.github.io/materials/UM6P-logo.png"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="120px" src="https://burlachenkok.github.io/materials/tmlr.jpg"/> </td>
 </tr>
 </table>
