@@ -28,6 +28,7 @@ During my coming to KAUST I obtained a financial add-on to the KAUST Fellowship,
 </tr>
 </table>
 
+----
 
 <table style="text-align:center;">
 <tr>
