@@ -26,6 +26,6 @@ Links to the paper:
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="170px" src="https://burlachenkok.github.io/materials/princeton-university-logo.svg"/> </td>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="120px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="22px" src="https://burlachenkok.github.io/materials/cmu-logo.svg"/> </td>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="175px" src="https://burlachenkok.github.io/materials/siam-logo.svg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="115px" src="https://burlachenkok.github.io/materials/siam-logo.svg"/> </td>
 </tr>
 </table>
