@@ -25,13 +25,10 @@ Also, I will deliver a presentation during the [Visual Computing Center Open Hou
 The [Visual Computing Center Open House](https://cemse.kaust.edu.sa/vcc/vcc-open-house-2021) is a series of demonstrations from recent research conducted in the [Visual Computing Center](https://cemse.kaust.edu.sa/vcc) in [KAUST](https://kaust.edu.sa/).
 The open house will take place Monday, 29 November, 14:00 - 16:00.
 
-
-<table>
+<table style="text-align:center;">
 <tr>
-
-<td> <img height="100px" src="https://burlachenkok.github.io/materials/acm-logo.svg"/> </td>
-<td> <img height="100px" src="https://burlachenkok.github.io/materials/clean-logo-white-background-small.png"/> </td>
-<td> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
-
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/acm-logo.svg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/materials/clean-logo-white-background-small.png"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
 </tr>
 </table>
