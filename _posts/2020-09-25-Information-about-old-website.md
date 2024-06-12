@@ -4,7 +4,7 @@ title: About Old Homepage
 published: true
 ---
 
-I used another homepage from 2011 to 2020. The link to it is: [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/).
+Between 2011 to 2020 I used another homepage [https://sites.google.com/site/burlachenkok/](https://sites.google.com/site/burlachenkok/).
 
 My old webpage contains 151 random notes on various subjects which I did during my career in a Computer Science(CS) via mixing CS with another fields.
 
