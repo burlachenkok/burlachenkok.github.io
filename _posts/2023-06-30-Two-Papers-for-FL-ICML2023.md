@@ -32,8 +32,8 @@ And last but not least, our advisor Prof. [Peter Richtárik](https://richtarik.o
 
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
-<td style="padding:5px;text-align:center;vertical-align:middle"> <img height="100px" src="https://burlachenkok.github.io/materials/MBZUAI_Logo.png"/> </td> 
-<td style="padding:15px;text-align:center;vertical-align:middle"> <img height="60px" src="https://burlachenkok.github.io/materials/princeton-university-logo.svg"/> </td>
+<td style="padding:5px;text-align:center;vertical-align:middle"> <img height="110px" src="https://burlachenkok.github.io/materials/MBZUAI_Logo.png"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle"> <img height="150px" src="https://burlachenkok.github.io/materials/princeton-university-logo.svg"/> </td>
 </tr>
 
 <tr>
