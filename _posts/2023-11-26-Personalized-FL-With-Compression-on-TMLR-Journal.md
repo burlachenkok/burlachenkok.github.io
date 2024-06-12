@@ -55,6 +55,6 @@ We included experiments with Logistic Regression, the model that is widely used 
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="190px" src="https://burlachenkok.github.io/materials/ucf-logo-2022.svg"/> </td>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="75px" src="https://burlachenkok.github.io/materials/UM6P-logo.png"/> </td>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/tmlr.jpg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/materials/tmlr.jpg"/> </td>
 </tr>
 </table>
