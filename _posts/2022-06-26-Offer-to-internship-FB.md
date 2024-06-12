@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Scientist Intern (AI) offer at Meta/Facebook Inc.
+title: Research Scientist Intern (AI) offer at Meta Inc.
 published: true
 ---
 
