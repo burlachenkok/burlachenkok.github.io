@@ -37,3 +37,4 @@ The current stage we achieved will be presented at [VCC OPEN HOUSE 2023 event](h
 <td style="padding:25px;text-align:center;vertical-align:middle;"> <img height="50px" src="https://burlachenkok.github.io/materials/KAUST_VCC_LOGO.png"/> </td> 
 </tr>
 </table>
+

@@ -25,6 +25,7 @@ Furthermore, our results permit arbitrary client availability as long as each cl
 
 ---
 
+<center>
 <table style="text-align:center;">
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td> 
@@ -32,3 +33,4 @@ Furthermore, our results permit arbitrary client availability as long as each cl
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/MBZUAI_Logo.png"/> </td> 
 </tr>
 </table>
+</center>

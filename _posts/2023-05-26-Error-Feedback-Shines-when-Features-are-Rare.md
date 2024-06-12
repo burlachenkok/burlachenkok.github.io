@@ -24,9 +24,11 @@ The original variant of [EF21](https://arxiv.org/abs/2106.05203) was presented:
 
 ---
 
+<center>
 <table style="text-align:center;">
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td> 
 </tr>
 </table>
+</center>

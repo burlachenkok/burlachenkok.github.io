@@ -32,10 +32,11 @@ Thanks to the Kingdom of Saudi Arabia for supporting [CEMSE](https://cemse.kaust
 **Thanks to the Committee for the personal feedback about how I can improve myself in the future!**
   
 ---
-
+<center>
 <table style="text-align:center;">
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td> 
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
 </tr>
 </table>
+</center>

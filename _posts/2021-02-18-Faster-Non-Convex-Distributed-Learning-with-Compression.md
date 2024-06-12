@@ -38,12 +38,12 @@ and the second method allows for partial participation of clients – a feature 
 All our methods are superior to previous state-of-the-art methods in terms of the oracle/communication complexity. Finally, we provide a convergence analysis of all methods for problems satisfying the Polyak-Lojasiewicz condition.
 
 ---
-
+<center>
 <table style="text-align:center;">
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/mipt-logo.png"/> </td> 
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
 </tr>
 </table>
-
+</center>
 

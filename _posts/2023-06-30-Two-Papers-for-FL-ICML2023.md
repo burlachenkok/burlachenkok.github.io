@@ -26,6 +26,8 @@ And last but not least, our advisor Prof. [Peter Richtárik](https://richtarik.o
 
 ---
 
+<center>
+
 <table style="text-align:center;">
 
 <tr>
@@ -39,3 +41,5 @@ And last but not least, our advisor Prof. [Peter Richtárik](https://richtarik.o
 </tr>
 
 </table>
+
+</center>

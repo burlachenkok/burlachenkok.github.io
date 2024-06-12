@@ -21,6 +21,7 @@ Links to the paper:
 
 ---
 
+<center>
 <table style="text-align:center;">
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="170px" src="https://burlachenkok.github.io/materials/princeton-university-logo.svg"/> </td>
@@ -29,3 +30,4 @@ Links to the paper:
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="115px" src="https://burlachenkok.github.io/materials/siam-logo.svg"/> </td>
 </tr>
 </table>
+</center>

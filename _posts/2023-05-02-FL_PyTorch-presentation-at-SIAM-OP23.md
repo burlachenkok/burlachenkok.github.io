@@ -46,6 +46,7 @@ According to an external assessment carried out in the paper [FeLebrities: a use
 
 ---
 
+<center>
 <table>
 <tr>
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
@@ -53,3 +54,4 @@ According to an external assessment carried out in the paper [FeLebrities: a use
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td> 
 </tr>
 </table>
+</center>

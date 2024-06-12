@@ -31,9 +31,11 @@ To become familiar with that tool, I recommend the following sequence of steps:
 
 7. Read [https://github.com/burlachenkok/flpytorch/blob/main/TUTORIAL.md](https://github.com/burlachenkok/flpytorch/blob/main/TUTORIAL.md), and during reading, start to play with the tool on Logistic Regression or synthetized quadratics.
 
+<center>
 <table>
 <tr>
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/GitHub-logo.png"/> </td> 
 </tr>
 </table>
+</center>

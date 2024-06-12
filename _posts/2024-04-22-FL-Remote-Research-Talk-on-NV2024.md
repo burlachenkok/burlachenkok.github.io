@@ -15,9 +15,11 @@ I sincerely appreciate [Holger R. Roth](https://www.linkedin.com/in/holger-r-rot
 
 One of the distinguished scientists, the Director of [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai), said to me in the kitchen, that [NVIDIA](https://www.nvidia.com/) has smart people, capable of discerning the significance of recent works emitted from [Prof. Peter Richtárik's Lab](https://richtarik.org/) right from their inception.
 
+<center>
 <table style="text-align:center;">
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/Nvidia_logo.svg"/> </td>
 </tr>
 </table>
+</center>
