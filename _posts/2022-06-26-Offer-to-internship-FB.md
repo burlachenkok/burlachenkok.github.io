@@ -15,6 +15,6 @@ Unfortunately, the internship has not happened due to the long processing time o
 <center>
 <table>
 <tr>
-<td style="padding: 15px"> <img height="125px" src="https://burlachenkok.github.io/materials/meta-logo.svg"/> </td>
+<td style="padding: 15px"> <img height="90px" src="https://burlachenkok.github.io/materials/meta-logo.svg"/> </td>
 </tr>
 </table>
