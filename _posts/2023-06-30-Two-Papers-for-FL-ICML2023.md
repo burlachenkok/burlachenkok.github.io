@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two papers have been accepted to FL-ICML-2023
+title: Two Papers have been Accepted to FL-ICML-2023
 published: true
 ---
 

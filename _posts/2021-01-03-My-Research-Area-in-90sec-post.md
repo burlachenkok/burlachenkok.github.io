@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My research area at KAUST in 90 seconds
+title: My Research Area at KAUST in 90 Seconds
 published: true
 ---
 

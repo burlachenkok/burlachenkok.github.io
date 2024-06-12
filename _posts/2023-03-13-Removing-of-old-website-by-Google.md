@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Removing my old website by Google
+title: Removing my old Website by Google
 published: true
 ---
 

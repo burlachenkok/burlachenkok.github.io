@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opt-Studio - interpreter, shell, plotter, compute in one box
+title: Opt-Studio - Interpreter, Shell, Plotter, CPU/GPU Compute in one Box
 published: true
 ---
 About final project at [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) for the course

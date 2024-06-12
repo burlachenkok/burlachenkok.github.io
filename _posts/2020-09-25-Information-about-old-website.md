@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About my old homepage
+title: About Old Homepage
 published: true
 ---
 

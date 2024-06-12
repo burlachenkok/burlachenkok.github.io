@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Semester at KAUST as CEMSE/CS Ph.D.
+title: First Semester at KAUST as CEMSE/CS Ph.D. Student
 published: true
 ---
 

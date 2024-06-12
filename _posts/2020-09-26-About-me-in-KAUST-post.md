@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My story
+title: My Story
 published: true
 ---
 
