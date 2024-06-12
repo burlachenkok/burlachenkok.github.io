@@ -16,4 +16,9 @@ The acceptance rate from various news sources is described as 21.5%. It was my g
 
 The YouTube recording of my short 5-minute talk is available [here](https://www.youtube.com/watch?v=o5MwC4DYbGE)
 
-![Thumbnail](https://burlachenkok.github.io/materials/icml_thumbnail.jpeg)
+<center>
+<table>
+<tr>
+<td style="padding: 15px"> <img height="125px" src="https://burlachenkok.github.io/materials/ICML-logo.svg"/> </td>
+</tr>
+</table>
