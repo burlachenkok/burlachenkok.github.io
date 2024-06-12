@@ -47,12 +47,11 @@ In Framework, there is a need for abstraction to send data over TCP/IP network.
 
 The internal infrastructure of the project allows working with filesystem, network, regular expression, serializing into the filesystem, and the various day-to-day thing which is primarily absent by design in C++.
 
-# Credits and references
-Original author: Konstantin Burlachenko. Email: konstantin.burlachenko@kaust.edu.sa
-
 <center>
 <table>
 <tr>
 <td style="padding: 15px"> <img height="125px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
 </tr>
 </table>
+</center>
+

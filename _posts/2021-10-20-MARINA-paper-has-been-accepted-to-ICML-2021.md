@@ -22,3 +22,4 @@ The YouTube recording of my short 5-minute talk is available [here](https://www.
 <td style="padding: 15px"> <img height="125px" src="https://burlachenkok.github.io/materials/ICML-logo.svg"/> </td>
 </tr>
 </table>
+</center>
