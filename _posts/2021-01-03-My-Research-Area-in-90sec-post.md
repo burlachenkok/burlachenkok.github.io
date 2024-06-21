@@ -4,11 +4,11 @@ title: My Research Area at KAUST in 90 Seconds
 published: true
 ---
 
-The topic of my research at King Abdullah University of Science and Technology in 90 seconds.
+The topic of my research at [KAUST](https://cemse.kaust.edu.sa/ai) in 90 seconds.
 
-YouTube link: [https://www.youtube.com/watch?v=d-n6WFnSXnQ](https://www.youtube.com/watch?v=d-n6WFnSXnQ)
+YouTube: [https://www.youtube.com/watch?v=d-n6WFnSXnQ](https://www.youtube.com/watch?v=d-n6WFnSXnQ)
 
-Slides: [link](https://github.com/burlachenkok/presentations_bruziuz/blob/master/wep2021_kburlachenko_research/90-seconds-presentation.pdf)
+Slides: [https://github.com/burlachenkok/presentations_bruziuz/blob/master/wep2021_kburlachenko_research/90-seconds-presentation.pdf](https://github.com/burlachenkok/presentations_bruziuz/blob/master/wep2021_kburlachenko_research/90-seconds-presentation.pdf)
 
 ---
 

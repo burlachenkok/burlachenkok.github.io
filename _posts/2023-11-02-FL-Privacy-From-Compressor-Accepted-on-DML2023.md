@@ -50,6 +50,18 @@ As a part of the proceedings, we provide an Appendix for our work that includes 
 * Overlapping communication and computation during training machine learning models
 * Deployment options of our framework in various network topologies
 
+
+---
+
+
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/c0xkiP3cRyY?si=XWrESY25gu6gnQJz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
+
+---
+
 <table style="text-align:center;">
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/materials/clean-logo-white-background-small.png"/> </td>
