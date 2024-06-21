@@ -55,9 +55,9 @@ As a part of the proceedings, we provide an Appendix for our work that includes 
 
 
 <div>
-  <div style="position:relative;padding-top:56.25%;">
+  <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/c0xkiP3cRyY?si=XWrESY25gu6gnQJz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
+  </center>
 </div>
 
 ---
