@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 
-Unlocking FedNL in Virtual Radio Studio
+title: Unlocking FedNL in Virtual Radio Studio
 published: true
 ---
 
-Unlocking FedNL: Self-Contained Compute-Optimized Implementation in Virtual Radio Studio
+*Unlocking FedNL: Self-Contained Compute-Optimized Implementation* in Virtual Radio Studio
 
 ---
 
