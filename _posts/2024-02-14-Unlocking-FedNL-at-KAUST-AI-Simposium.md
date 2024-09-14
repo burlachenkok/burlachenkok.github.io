@@ -23,17 +23,17 @@ marking a significant step towards applying second-order methods to FL and large
 
 To bridge the gap between theory and practice, we present a self-contained implementation of <span style="color:rgb(108,57,0)">FedNL</span>, <span style="color:rgb(108,57,0)">FedNL-LS</span>, <span style="color:rgb(108,57,0)">FedNL-PP</span> for single-node and multi-node scenarios. Our work resolves the aforementioned issues in the following sense:
 
-**A.** The work reduces the wall clock time by $$\times 1000$$ in single-node simulation. 
+**A)** The work reduces the wall clock time by $$\times 1000$$ in single-node simulation. 
 
-**B.** We do not depend on any 3rd party computation and data processing software frameworks. We tested our implementation on [[x86-64](https://en.wikipedia.org/wiki/X86-64), [AArch64](https://en.wikipedia.org/wiki/AArch64)] x [ [macOS](https://en.wikipedia.org/wiki/MacOS), [Linux](https://en.wikipedia.org/wiki/Linux), [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) ]. In principle, it can be run on any [POSIX IEEE 1003](https://en.wikipedia.org/wiki/POSIX) and [Microsoft Windows API](https://en.wikipedia.org/wiki/Windows_API) compatible Operating Systems with available [ISO/IEC 14882 C++2020](https://www.iso.org/standard/79358.html) compiler.
+**B)** We do not depend on any 3rd party computation and data processing software frameworks. We tested our implementation on [[x86-64](https://en.wikipedia.org/wiki/X86-64), [AArch64](https://en.wikipedia.org/wiki/AArch64)] x [ [macOS](https://en.wikipedia.org/wiki/MacOS), [Linux](https://en.wikipedia.org/wiki/Linux), [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) ]. In principle, it can be run on any [POSIX IEEE 1003](https://en.wikipedia.org/wiki/POSIX) and [Microsoft Windows API](https://en.wikipedia.org/wiki/Windows_API) compatible Operating Systems with available [ISO/IEC 14882 C++2020](https://www.iso.org/standard/79358.html) compiler.
 For multi-node settings, we do not require the ability to have the opportunity to build or use any specific middleware communication library in your OS. But your hardware and OS software stack should support either [TCP/IPv4](https://en.wikipedia.org/wiki/Internet_protocol_suite) or [TCP/IPv6](https://en.wikipedia.org/wiki/Internet_protocol_suite) via standard [Berkley Sockets API](https://en.wikipedia.org/wiki/Berkeley_sockets).
 
-**C.** As a part of the project we proposed two practical-orientated compressors for <span style="color:rgb(108,57,0)">FedNL</span>:
+**C)** As a part of the project we proposed two practical-orientated compressors for <span style="color:rgb(108,57,0)">FedNL</span>:
 
 * Adaptive contractive compressor <span style="color:rgb(108,57,0)">TopLEK</span> build on top of <span style="color:rgb(108,57,0)">TopK</span> compressor.
 * Cache-aware <span style="color:rgb(108,57,0)">RandSeqK</span> build on top of <span style="color:rgb(108,57,0)">RandK</span> randomized sparsification compressor.
 
-**D.** Finally <span style="color:rgb(108,57,0)">FedNL</span> outperforms alternatives employed for training logistic regression:
+**D)** Finally <span style="color:rgb(108,57,0)">FedNL</span> outperforms alternatives employed for training logistic regression:
 * In a single-node setting - [CVXPY](https://www.cvxpy.org/) ([Diamond & Boyd, 2016](https://arxiv.org/abs/1603.00943)), 
 * In a multi-node setting - [Apache Spark](https://spark.apache.org/) ([Meng et al., 2016](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf)), [Rays/Scikit-Learn](https://www.ray.io/) ([Moritz et al., 2018](https://www.usenix.org/system/files/osdi18-moritz.pdf)).
 
@@ -62,6 +62,7 @@ For multi-node settings, we do not require the ability to have the opportunity t
 <table>
 <tr>
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
+<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/kaust-ai-symposium-2024.png"/> </td> 
 <td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td>
 </tr>
 </table>
