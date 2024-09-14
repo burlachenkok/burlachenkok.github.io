@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Unlocking FedNL at Virtual Radio
+title: Unlocking FedNL at Virtual Radio Studio
 published: true
 ---
 
-**"Unlocking FedNL: Self-Contained Compute-Optimized Implementation"* at Virtual Radio.
+**Unlocking FedNL: Self-Contained Compute-Optimized Implementation* at Virtual Radio Studio
 
 ---
 
@@ -23,7 +23,7 @@ I fed our recent research paper *Unlocking FedNL: Self-Contained Compute-Optimiz
 
 Currently, the paper is undergoing peer review and is not publicly available. 
 
-For more details, check out description [Unlocking FedNL at the Rising Stars AI Symposium in February 2024](https://burlachenkok.github.io/Unlocking-FedNL-at-KAUST-AI-Simposium/).
+For more details, check out the description [Unlocking FedNL at the Rising Stars AI Symposium in February 2024](https://burlachenkok.github.io/Unlocking-FedNL-at-KAUST-AI-Simposium/).
 
 ---
 
@@ -33,7 +33,7 @@ Federated Learning (FL) is an innovative paradigm that allows a large number of 
 A recent paper by Safaryan et al. (2021) introduced the [FedNL (Federated Newton Learn)](https://arxiv.org/abs/2106.02969) algorithm, marking a significant milestone 
 In applying second-order optimization methods to FL and large-scale optimization. 
 
-The reference FedNL prototype faces three notable challenges:
+The reference [FedNL (Federated Newton Learn)](https://arxiv.org/abs/2106.02969) prototype faces three notable challenges:
 
 * It takes approximately 4.8 hours to run a single experiment on a server-grade workstation.
 
