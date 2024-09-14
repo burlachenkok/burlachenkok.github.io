@@ -8,20 +8,14 @@ published: true
 
 ---
 
+I am excited to share my latest experience using a Personalized AI research assistant from Google -  [NotebookLM](https://notebooklm.google/).
+I fed our one of my recent research paper *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* and generated a highly engaging and informative radio podcast. Generated audio:
 
-
-
-I am excited to share my latest experience using a Personalized AI research assistant from Google -  [NotebookLM](https://notebooklm.google/). 
-
-
-I fed our one of my recent research paper *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* and generated a highly engaging and informative radio podcast. The podcast captures the core message of the work and delivers it in an entertaining format.
-
-**Audio Podcast**
 * Online: [https://www.podbean.com/eas/pb-zs34b-16d2942](https://www.podbean.com/eas/pb-zs34b-16d2942)
 * Offline: [u-fednl-before-rebuttal.mp3](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3)
 
+The podcast captures the core message of the work and delivers it in an entertaining format. Currently, the paper is undergoing peer review and is not publicly available.
 
-Currently, the paper is undergoing peer review and is not publicly available. But 
 
 ---
 
