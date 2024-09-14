@@ -11,20 +11,19 @@ published: true
 
 
 
-I’m excited to share my latest experience using a Personalised AI research assistant from Google called [NotebookLM](https://notebooklm.google/). 
+I am excited to share my latest experience using a Personalized AI research assistant from Google -  [NotebookLM](https://notebooklm.google/). 
 
 
-Generated Podcast is available here [https://burlachenkok.podbean.com/e/unlocking-fednl-self-contained-compute-optimized-implementation/](https://burlachenkok.podbean.com/e/unlocking-fednl-self-contained-compute-optimized-implementation/).
+I fed our recent research paper *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* and generated a highly engaging and informative radio podcast. The podcast captures the core message of the work and delivers it in an entertaining format.
 
-And also generated audio file can be downloaded from here: [u-fednl-before-rebuttal](https://burlachenkok.github.io/audio/u-fednl-before-rebuttal.mp3)
-
-I fed our recent research paper and generated a highly engaging and informative radio podcast. 
-
-The podcast captures the core message of the work and delivers it in an entertaining format.
-
-Currently, the paper is undergoing peer review and is not publicly available. For more details, check out [Unlocking FedNL at the Rising Stars AI Symposium in February 2024](https://burlachenkok.github.io/Unlocking-FedNL-at-KAUST-AI-Simposium/).
+**How to Listen:**
+* Online. From burlachenkok.podbean.com: [Link](https://burlachenkok.podbean.com/e/unlocking-fednl-self-contained-compute-optimized-implementation/)
+* Offline. Download: [u-fednl-before-rebuttal.mp3](https://burlachenkok.github.io/audio/u-fednl-before-rebuttal.mp3)
 
 
+Currently, the paper is undergoing peer review and is not publicly available. 
+
+For more details, check out description [Unlocking FedNL at the Rising Stars AI Symposium in February 2024](https://burlachenkok.github.io/Unlocking-FedNL-at-KAUST-AI-Simposium/).
 
 ---
 
