@@ -43,10 +43,14 @@ The reference [FedNL (Federated Newton Learn)](https://arxiv.org/abs/2106.02969)
 
 Our work addresses these challenges as follows:
 
-* A) We reduced the wall-clock time by a factor of 1,000 for single-node simulations on the same hardware and on the same configuration.
-* B) The implementation does not rely on third-party computation or data-processing frameworks.
-* C) We developed two practical compressors: one is Problem Adaptive and the other is CPU Cache-aware.
-* D) Finally, FedNL outperforms existing solutions in both single-node and multi-node settings:
+* A. We reduced the wall-clock time by a factor of 1,000 for single-node simulations on the same hardware and on the same configuration.
+* B. The implementation does not rely on third-party computation or data-processing frameworks.
+* C. We developed two practical compressors: one is Problem Adaptive and the other is CPU Cache-aware.
+* D. Finally, FedNL outperforms existing solutions in both single-node and multi-node settings:
 
-In single-node scenarios, it outperforms [CVXPY](https://www.cvxpy.org/) ([Diamond & Boyd, 2016](https://arxiv.org/abs/1603.00943)).
-In multi-node scenarios, it surpasses [Apache Spark](https://spark.apache.org/) ([Meng et al., 2016](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf)), [Rays/Scikit-Learn](https://www.ray.io/) ([Moritz et al., 2018](https://www.usenix.org/system/files/osdi18-moritz.pdf)).
+**Results:**
+
+* In single-node scenarios, it outperforms all available solvers which can solve logistic regression model from [CVXPY](https://www.cvxpy.org/) ([Diamond & Boyd, 2016](https://arxiv.org/abs/1603.00943)).
+* In multi-node scenarios, it surpasses [Apache Spark](https://spark.apache.org/) ([Meng et al., 2016](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf))
+* Also in multi-node scenarios, it surpasses [Rays/Scikit-Learn](https://www.ray.io/) ([Moritz et al., 2018](https://www.usenix.org/system/files/osdi18-moritz.pdf)).
+
