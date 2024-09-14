@@ -4,7 +4,7 @@ title: Unlocking FedNL at Virtual Radio Studio
 published: true
 ---
 
-**Unlocking FedNL: Self-Contained Compute-Optimized Implementation* at Virtual Radio Studio
+*Unlocking FedNL: Self-Contained Compute-Optimized Implementation** at Virtual Radio Studio
 
 ---
 
