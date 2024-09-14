@@ -8,11 +8,18 @@ published: true
 
 ---
 
-I’m excited to share my latest experience using [NotebookLM](https://notebooklm.google/). Podcast: 
+
+
+
+I’m excited to share my latest experience using a Personalised AI research assistant from Google called [NotebookLM](https://notebooklm.google/). 
+
+
+**Generated Podcast.**
+ 
 * [https://burlachenkok.podbean.com/e/unlocking-fednl-self-contained-compute-optimized-implementation/](https://burlachenkok.podbean.com/e/unlocking-fednl-self-contained-compute-optimized-implementation/)
 * [record-mp3-copy](https://burlachenkok.github.io/audio/u-fednl-before-rebuttal.mp3)
 
-I fed in research papers and generated a highly engaging and informative radio podcast. 
+I fed our recent research paper and generated a highly engaging and informative radio podcast. 
 
 The podcast captures the core message of the work and delivers it in an entertaining format.
 
@@ -26,7 +33,7 @@ Currently, the paper is undergoing peer review and is not publicly available. Fo
 
 Federated Learning (FL) is an innovative paradigm that allows a large number of intelligent agents to collaboratively train machine learning (ML) models.
 A recent paper by Safaryan et al. (2021) introduced the [FedNL (Federated Newton Learn)](https://arxiv.org/abs/2106.02969) algorithm, marking a significant milestone 
-in applying second-order optimization methods to FL and large-scale optimization. 
+In applying second-order optimization methods to FL and large-scale optimization. 
 
 The reference FedNL prototype faces three notable challenges:
 
@@ -38,7 +45,7 @@ The reference FedNL prototype faces three notable challenges:
 
 Our work addresses these challenges as follows:
 
-* A) We reduced the wall-clock time by a factor of 1,000 for single-node simulations.
+* A) We reduced the wall-clock time by a factor of 1,000 for single-node simulations on the same hardware and on the same configuration.
 * B) The implementation does not rely on third-party computation or data-processing frameworks.
 * C) We developed two practical compressors: one is Problem Adaptive and the other is CPU Cache-aware.
 * D) Finally, FedNL outperforms existing solutions in both single-node and multi-node settings:
