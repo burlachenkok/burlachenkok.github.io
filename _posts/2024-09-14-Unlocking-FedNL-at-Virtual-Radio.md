@@ -17,8 +17,8 @@ I am excited to share my latest experience using a Personalized AI research assi
 I fed our recent research paper *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* and generated a highly engaging and informative radio podcast. The podcast captures the core message of the work and delivers it in an entertaining format.
 
 **How to Listen:**
-* Online. From burlachenkok.podbean.com: [Link](https://burlachenkok.podbean.com/e/unlocking-fednl-self-contained-compute-optimized-implementation/)
-* Offline. Download: [u-fednl-before-rebuttal.mp3](https://burlachenkok.github.io/audio/u-fednl-before-rebuttal.mp3)
+* Online: [https://www.podbean.com/eas/pb-zs34b-16d2942](https://www.podbean.com/eas/pb-zs34b-16d2942)
+* Offline: download [u-fednl-before-rebuttal.mp3](https://burlachenkok.github.io/audio/u-fednl-before-rebuttal.mp3)
 
 
 Currently, the paper is undergoing peer review and is not publicly available. 
