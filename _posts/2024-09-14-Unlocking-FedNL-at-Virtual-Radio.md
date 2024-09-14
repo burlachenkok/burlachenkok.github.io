@@ -37,10 +37,10 @@ The reference [FedNL (Federated Newton Learn)](https://arxiv.org/abs/2106.02969)
 
 Our work addresses these challenges as follows:
 
-* A. We reduced the wall-clock time by a factor of 1000 for single-node simulations on the same hardware and on the same configuration.
-* B. The implementation does not rely on third-party computation or data-processing frameworks.
-* C. We developed two practical compressors: one is Problem Adaptive and the other is CPU Cache-aware.
-* D. Finally, FedNL outperforms existing solutions in both single-node and multi-node settings:
+* We reduced the wall-clock time by a factor of 1000 for single-node simulations on the same hardware and on the same configuration.
+* The implementation does not rely on third-party computation or data-processing frameworks.
+* We developed two practical compressors: one is Problem Adaptive and the other is CPU Cache-aware.
+* Finally, FedNL outperforms existing solutions in both single-node and multi-node settings:
 
 # Results
 
