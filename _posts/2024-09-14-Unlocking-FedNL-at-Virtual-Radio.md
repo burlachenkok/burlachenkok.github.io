@@ -9,7 +9,7 @@ published: true
 ---
 
 I am excited to share my latest experience using a Personalized AI research assistant from Google -  [NotebookLM](https://notebooklm.google/).
-I fed one of my recent research paper *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* and generated a highly engaging and informative radio podcast. Generated audio:
+I fed one of my recent research paper created jointly with my peer (and advisor) P.Richtárik *Unlocking FedNL: Self-Contained Compute-Optimized Implementation* and generated a highly engaging and informative radio podcast from [NotebookLM](https://notebooklm.google/). Generated audio:
 
 * Online: https://www.podbean.com/eas/pb-zs34b-16d2942
 * Offline: [u-fednl-before-rebuttal.mp3](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3)
@@ -45,14 +45,3 @@ Our work addresses these challenges as follows:
 * In single-node scenarios, it outperforms all available solvers which can solve logistic regression model from [CVXPY](https://www.cvxpy.org/) ([Diamond & Boyd, 2016](https://arxiv.org/abs/1603.00943)).
 * In multi-node scenarios, it surpasses [Apache Spark](https://spark.apache.org/) ([Meng et al., 2016](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf))
 * Also in multi-node scenarios, it surpasses [Rays/Scikit-Learn](https://www.ray.io/) ([Moritz et al., 2018](https://www.usenix.org/system/files/osdi18-moritz.pdf)).
-
-
-<table style="text-align:center;">
-<tr>
-<table>
-<tr>
-<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
-<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td>
-<td style="padding: 15px"> <img height="100px" src="https://burlachenkok.github.io/materials/fednl-project-logo.png"/> </td>
-</tr>
-</table>
