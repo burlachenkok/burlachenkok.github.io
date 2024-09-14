@@ -18,7 +18,7 @@ I fed our recent research paper *Unlocking FedNL: Self-Contained Compute-Optimiz
 
 **Audio Podcast**
 * Online: [https://www.podbean.com/eas/pb-zs34b-16d2942](https://www.podbean.com/eas/pb-zs34b-16d2942)
-* Offline: [u-fednl-before-rebuttal.mp3](https://burlachenkok.github.io/audio/u-fednl-before-rebuttal.mp3)
+* Offline: [u-fednl-before-rebuttal.mp3](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3)
 
 
 Currently, the paper is undergoing peer review and is not publicly available. 
