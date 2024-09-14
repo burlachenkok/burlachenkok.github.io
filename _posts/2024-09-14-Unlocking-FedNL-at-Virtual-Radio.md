@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Unlocking FedNL at Virtual Radio Studio
+title: 
+Unlocking FedNL at Virtual Radio Studio
 published: true
 ---
 
@@ -23,11 +24,9 @@ I fed our recent research paper *Unlocking FedNL: Self-Contained Compute-Optimiz
 
 Currently, the paper is undergoing peer review and is not publicly available. 
 
-For more details, check out the description [Unlocking FedNL at the Rising Stars AI Symposium in February 2024](https://burlachenkok.github.io/Unlocking-FedNL-at-KAUST-AI-Simposium/).
-
 ---
 
-**Context.** 
+**Abstract.** 
 
 Federated Learning (FL) is an innovative paradigm that allows a large number of intelligent agents to collaboratively train machine learning (ML) models.
 A recent paper by Safaryan et al. (2021) introduced the [FedNL (Federated Newton Learn)](https://arxiv.org/abs/2106.02969) algorithm, marking a significant milestone 
@@ -41,6 +40,8 @@ The reference [FedNL (Federated Newton Learn)](https://arxiv.org/abs/2106.02969)
 
 * The FedNL algorithms were implemented in [Python](https://www.python.org/), making integration into resource-constrained ML applications difficult.
 
+**Contributions.**
+
 Our work addresses these challenges as follows:
 
 * A. We reduced the wall-clock time by a factor of 1,000 for single-node simulations on the same hardware and on the same configuration.
@@ -48,7 +49,7 @@ Our work addresses these challenges as follows:
 * C. We developed two practical compressors: one is Problem Adaptive and the other is CPU Cache-aware.
 * D. Finally, FedNL outperforms existing solutions in both single-node and multi-node settings:
 
-**Results:**
+**Results.**
 
 * In single-node scenarios, it outperforms all available solvers which can solve logistic regression model from [CVXPY](https://www.cvxpy.org/) ([Diamond & Boyd, 2016](https://arxiv.org/abs/1603.00943)).
 * In multi-node scenarios, it surpasses [Apache Spark](https://spark.apache.org/) ([Meng et al., 2016](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf))
