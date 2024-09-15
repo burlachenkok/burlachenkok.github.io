@@ -22,7 +22,7 @@ The podcast captures the core message of the work and delivers it in an entertai
 # Abstract
 
 Federated Learning (FL) is an innovative paradigm that allows a large number of intelligent agents to collaboratively train machine learning (ML) models.
-A recent paper by [Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ&hl=en),[Islamov](https://rustem-islamov.github.io/),Qian,[Richtárik](https://richtarik.org/) (2021) introduced the [FedNL (Federated Newton Learn)](https://arxiv.org/abs/2106.02969) algorithm, marking a significant milestone 
+A recent paper by [Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ&hl=en),[Islamov](https://rustem-islamov.github.io/),[Qian](https://qianxunk.github.io/),[Richtárik](https://richtarik.org/) (2021) introduced the [FedNL (Federated Newton Learn)](https://arxiv.org/abs/2106.02969) algorithm, marking a significant milestone 
 In applying second-order optimization methods to FL and large-scale optimization. The reference [FedNL (Federated Newton Learn)](https://arxiv.org/abs/2106.02969) prototype faces three notable challenges:
 
 * It takes approximately 4.8 hours to run a single experiment on a server-grade workstation.
