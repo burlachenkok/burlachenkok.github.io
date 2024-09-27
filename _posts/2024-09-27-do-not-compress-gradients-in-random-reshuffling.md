@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Compress Gradients in Random Reshuffling Compress Gradient Differences at NeurIPS 2024
+title: Don't Compress Gradients in Random Reshuffling at NeurIPS 2024
 
 published: true
 ---
