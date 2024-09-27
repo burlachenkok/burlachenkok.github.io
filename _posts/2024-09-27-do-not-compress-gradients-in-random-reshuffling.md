@@ -1,19 +1,21 @@
 ---
 layout: post
-title: Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences
+title: Don't Compress Gradients in Random Reshuffling Compress Gradient Differences
 
 published: true
 ---
 
-Our recent research work, **"Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences,"** has been accepted at [Conference on Neural Information Processing Systems (NeurIPS) 2024](https://neurips.cc/Conferences/2024/).
+Our recent research work, **"Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences"** has been accepted at [Conference on Neural Information Processing Systems (NeurIPS) 2024](https://neurips.cc/Conferences/2024/).
 
 This year, the NeurIPS Main Track received a total of 15,671 valid paper submissions, from which the program committee accepted only 25.8%.
 
-An earlier version of this work was published on arXiv under the title **"Federated Optimization Algorithms with Random Reshuffling and Gradient Compression."** (https://arxiv.org/abs/2206.07021). We have since updated the title to better reflect our research.
+An earlier version of this work was published on arXiv under the title **"Federated Optimization Algorithms with Random Reshuffling and Gradient Compression."** and can be found here: [https://arxiv.org/abs/2206.07021](https://arxiv.org/abs/2206.07021). 
 
-You can find our submission on OpenReview: [OpenReview Link](https://openreview.net/forum?id=CzPtBzgfae).
+We have since updated the title to better reflect our research.
 
-I am grateful to have collaborated with my talented peers: [Abdurakhmon Sadiev](https://www.researchgate.net/profile/Abdurakhmon-Sadiev), [Grigory Malinovsky](https://grigory-malinovsky.github.io/), [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Igor Sokolov](https://cemse.kaust.edu.sa/people/person/igor-sokolov), [Ahmed Khaled](https://rka97.github.io/), and Professor [Peter Richtarik](https://richtarik.org/).
+You can find our submission here:  [https://openreview.net/forum?id=CzPtBzgfae](https://openreview.net/forum?id=CzPtBzgfae).
+
+I am grateful to have collaborated with my talented peers: [Abdurakhmon Sadiev](https://www.researchgate.net/profile/Abdurakhmon-Sadiev), [Grigory Malinovsky](https://grigory-malinovsky.github.io/), [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Igor Sokolov](https://cemse.kaust.edu.sa/people/person/igor-sokolov), [Ahmed Khaled](https://rka97.github.io/), and Professor [Peter Richtarik](https://richtarik.org/). 
 
 ---
 
@@ -21,9 +23,7 @@ I am grateful to have collaborated with my talented peers: [Abdurakhmon Sadiev](
 
 Our recent rebuttal was quite effective. We successfully convinced the reviewers that our work is deserving of acceptance at one of the most prestigious conferences in the field of Machine Learning.
 
-(Only) together, we could convince the reviewers of the importance of our work. And of course, it required a lot of energy, persistence, a clean mind, sharpness in the claims, and patience.
-
-Only the original authors know that our paper faced rejection from several conferences in the past. However, we remained determined to resubmit because we believed in the strength of our results, and we never gave up.
+Only together, we could convince the reviewers of the importance of our work. And of course, it required a lot of energy, persistence, a clean mind, sharpness in the claims, and patience. Our paper faced rejection from several conferences in the past. However, we remained determined to resubmit because we believed in the strength of our results, and we never gave up.
 
 ---
 
@@ -36,7 +36,7 @@ Gradient compression is a popular technique for improving communication complexi
 <table style="text-align:center;">
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/MBZUAI-logo.png"/> </td>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="75px" src="https://burlachenkok.github.io/materials/princeton-university-logo.svg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/materials/MBZUAI-logo.png"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="200px" src="https://burlachenkok.github.io/materials/princeton-university-logo.svg"/> </td>
 </tr>
 </table>
