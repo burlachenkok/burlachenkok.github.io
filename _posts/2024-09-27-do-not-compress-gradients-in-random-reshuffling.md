@@ -5,6 +5,8 @@ title: Don't Compress Gradients in Random Reshuffling, NeurIPS 24
 published: true
 ---
 
+Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences at NeurIPS 24.
+
 <center>
 <table style="text-align:center;">
 <tr>
@@ -12,7 +14,6 @@ published: true
 </tr>
 </table>
 </center>
-
 
 Our recent research work, **"Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences"** has been accepted for presentation and proceedings at [Conference on Neural Information Processing Systems (NeurIPS) 2024](https://neurips.cc/Conferences/2024/) 
 
