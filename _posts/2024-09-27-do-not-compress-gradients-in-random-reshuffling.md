@@ -3,9 +3,12 @@ layout: post
 title: Don't Compress Gradients at NeurIPS 24
 
 published: true
+
 ---
 
-Paper "Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences" has been accepted at NeurIPS 24.
+Paper "Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences" has been accepted at NeurIPS 2024
+
+---
 
 <center>
 <table style="text-align:center;">
@@ -15,9 +18,7 @@ Paper "Don't Compress Gradients in Random Reshuffling: Compress Gradient Differe
 </table>
 </center>
 
-Our recent research work, **"Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences"** has been accepted for presentation and proceedings at [Conference on Neural Information Processing Systems (NeurIPS) 2024](https://neurips.cc/Conferences/2024/) 
-
-This year, the NeurIPS main track received a total of 15,671 valid paper submissions, from which the program committee accepted only 25.8%.
+Our recent research work, **"Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences"** has been accepted for presentation and proceedings at [Conference on Neural Information Processing Systems (NeurIPS) 2024](https://neurips.cc/Conferences/2024/). This year, the NeurIPS main track received a total of 15,671 valid paper submissions, from which the program committee accepted only 25.8%.
 
 An earlier version of this work was published on arXiv under the title **"Federated Optimization Algorithms with Random Reshuffling and Gradient Compression."**. We have since updated the title to better reflect our research.
 
