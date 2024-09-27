@@ -14,7 +14,7 @@ published: true
 </center>
 
 
-Our recent research work, **"Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences"** has been accepted at [Conference on Neural Information Processing Systems (NeurIPS) 2024](https://neurips.cc/Conferences/2024/) for presentation and proceedings.
+Our recent research work, **"Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences"** has been accepted for presentation and proceedings at [Conference on Neural Information Processing Systems (NeurIPS) 2024](https://neurips.cc/Conferences/2024/) 
 
 This year, the NeurIPS main track received a total of 15,671 valid paper submissions, from which the program committee accepted only 25.8%.
 
@@ -30,14 +30,6 @@ I am grateful to have collaborated with my talented peers: [Abdurakhmon Sadiev](
 
 [3] The work will be presented  at NeurIPS 2024 which will be held at the [Vancouver Convention Center, Vancouver, Canada](https://maps.app.goo.gl/XCrE3Q9ibkWK8LER9) in the form of a poster
 
-
----
-
-# Behind the Scenes
-
-Our recent rebuttal was quite effective. We successfully convinced the reviewers that our work is deserving of acceptance at one of the most prestigious conferences in the field of Machine Learning.
-
-Only together, we could convince the reviewers of the importance of our work. And of course, it required a lot of energy, persistence, a clean mind, sharpness in the claims, and patience. Our paper faced rejection from several conferences in the past. However, we remained determined to resubmit because we believed in the strength of our results, and we never gave up.
 
 ---
 
