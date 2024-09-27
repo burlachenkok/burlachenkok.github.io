@@ -22,7 +22,7 @@ Our recent research work, **"Don't Compress Gradients in Random Reshuffling: Com
 
 An earlier version of this work was published on arXiv under the title **"Federated Optimization Algorithms with Random Reshuffling and Gradient Compression."**. We have since updated the title to better reflect our research.
 
-I am grateful to have collaborated with my talented peers: { [Abdurakhmon Sadiev](https://www.researchgate.net/profile/Abdurakhmon-Sadiev), [Grigory Malinovsky](https://grigory-malinovsky.github.io/), [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Igor Sokolov](https://cemse.kaust.edu.sa/people/person/igor-sokolov), [Ahmed Khaled](https://rka97.github.io/), and Professor [Peter Richtarik](https://richtarik.org/) }. 
+I am grateful to have collaborated with my talented peers: [Abdurakhmon Sadiev](https://www.researchgate.net/profile/Abdurakhmon-Sadiev), [Grigory Malinovsky](https://grigory-malinovsky.github.io/), [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Igor Sokolov](https://cemse.kaust.edu.sa/people/person/igor-sokolov), [Ahmed Khaled](https://rka97.github.io/), and Professor [Peter Richtarik](https://richtarik.org/). 
 
 # Links
 
