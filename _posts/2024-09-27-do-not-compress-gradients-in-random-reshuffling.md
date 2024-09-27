@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Don't Compress Gradients in Random Reshuffling, NeurIPS 24
+title: Don't Compress Gradients at NeurIPS 24
 
 published: true
 ---
 
-Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences at NeurIPS 24.
+Paper "Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences" has been accepted at NeurIPS 24.
 
 <center>
 <table style="text-align:center;">
