@@ -6,7 +6,7 @@ published: true
 
 ---
 
-Paper "Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences" has been accepted at NeurIPS 2024
+Paper "Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences" has been accepted at NeurIPS 2024.
 
 ---
 
