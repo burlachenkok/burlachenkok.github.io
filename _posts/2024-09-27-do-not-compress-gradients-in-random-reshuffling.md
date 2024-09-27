@@ -1,21 +1,26 @@
 ---
 layout: post
-title: Don't Compress Gradients in Random Reshuffling Compress Gradient Differences
+title: Don't Compress Gradients in Random Reshuffling Compress Gradient Differences at NeurIPS 2024
 
 published: true
 ---
 
-Our recent research work, **"Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences"** has been accepted at [Conference on Neural Information Processing Systems (NeurIPS) 2024](https://neurips.cc/Conferences/2024/).
+Our recent research work, **"Don't Compress Gradients in Random Reshuffling: Compress Gradient Differences"** has been accepted at [Conference on Neural Information Processing Systems (NeurIPS) 2024](https://neurips.cc/Conferences/2024/) for presentation and proceedings.
 
 This year, the NeurIPS Main Track received a total of 15,671 valid paper submissions, from which the program committee accepted only 25.8%.
 
-An earlier version of this work was published on arXiv under the title **"Federated Optimization Algorithms with Random Reshuffling and Gradient Compression."** and can be found here: [https://arxiv.org/abs/2206.07021](https://arxiv.org/abs/2206.07021). 
-
-We have since updated the title to better reflect our research.
-
-You can find our submission here:  [https://openreview.net/forum?id=CzPtBzgfae](https://openreview.net/forum?id=CzPtBzgfae).
+An earlier version of this work was published on arXiv under the title **"Federated Optimization Algorithms with Random Reshuffling and Gradient Compression."**. We have since updated the title to better reflect our research.
 
 I am grateful to have collaborated with my talented peers: [Abdurakhmon Sadiev](https://www.researchgate.net/profile/Abdurakhmon-Sadiev), [Grigory Malinovsky](https://grigory-malinovsky.github.io/), [Eduard Gorbunov](https://eduardgorbunov.github.io/), [Igor Sokolov](https://cemse.kaust.edu.sa/people/person/igor-sokolov), [Ahmed Khaled](https://rka97.github.io/), and Professor [Peter Richtarik](https://richtarik.org/). 
+
+# Links
+
+[1] You can find our submission here:  [https://openreview.net/forum?id=CzPtBzgfae](https://openreview.net/forum?id=CzPtBzgfae)
+
+[2] Ealier verions of the paper avilable here: [https://arxiv.org/abs/2206.07021](https://arxiv.org/abs/2206.07021)
+
+[3] The work will be presented  at NeurIPS 2024 which will be held at the: [Vancouver Convention Center, Vancouver, Canada](https://maps.app.goo.gl/XCrE3Q9ibkWK8LER9)
+
 
 ---
 
