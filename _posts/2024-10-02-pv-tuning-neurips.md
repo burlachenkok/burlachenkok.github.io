@@ -18,11 +18,11 @@ Paper [PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression
 </center>
 
 
-Our recent research work **PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression** has been accepted for presentation and proceedings at [Conference on Neural Information Processing Systems (NeurIPS) 2024](https://neurips.cc/Conferences/2024/). This year, the NeurIPS main track received 15,671 valid paper submissions, from which the program committee accepted only 25.8%.
+Our recent research work **PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression** has been accepted for presentation and proceedings at [Conference on Neural Information Processing Systems (NeurIPS) 2024](https://neurips.cc/Conferences/2024/). The conference will be held at the [Vancouver Convention Center, Vancouver, Canada](https://maps.app.goo.gl/XCrE3Q9ibkWK8LER9).
 
-The work will be presented at NeurIPS 2024 which will be held at the [Vancouver Convention Center, Vancouver, Canada](https://maps.app.goo.gl/XCrE3Q9ibkWK8LER9) in the form of an oral presentation.
+The work will be presented in the form of an oral presentation.
 
-The total number of oral presentations at NeurIPS 2024 is 61.
+This year, the NeurIPS main track received 15,671 valid paper submissions, from which the program committee accepted 25.8%. The total number of oral presentations at NeurIPS 2024 is 61 presentations.
 
 We demonstrated that [PV-Tuning](https://arxiv.org/abs/2405.14852) can improve quantized model accuracy compared to leading existing approaches, including:
 
