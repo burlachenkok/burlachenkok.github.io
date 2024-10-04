@@ -64,7 +64,8 @@ Using [PV-Tuning](https://arxiv.org/abs/2405.14852), we achieve the first Pareto
 * Prof.Dan Alistarh's Twitter post: [https://twitter.com/DAlistarh/status/1796530164215820766](https://twitter.com/DAlistarh/status/1796530164215820766)
 * Prof.Peter Richtarik's post in the news: [https://richtarik.org/index.html](https://richtarik.org/index.html)
 * The official implementation: [https://github.com/Vahe1994/AQLM/tree/pv-tuning](https://github.com/Vahe1994/AQLM/tree/pv-tuning)
-
+* Yandex Inc. press relesease: [https://yandex.com/company/press_center/press_releases/2024/23-07-2024](https://yandex.com/company/press_center/press_releases/2024/23-07-2024)
+* Blog post from Yandex: [https://habr.com/ru/companies/yandex/articles/830410/](https://habr.com/ru/companies/yandex/articles/830410/)
 ---
 
 <table style="text-align:center;">
