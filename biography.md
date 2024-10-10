@@ -19,6 +19,7 @@ His current research focus is on various aspects of Distributed Stochastic Optim
 
 The venues that accepted Konstantin's works include:
 
+- Neural Information Processing Systems ([NeurIPS](https://neurips.cc/))
 - International Conference on Machine Learning ([ICML](https://icml.cc/))
 - International Conference on Learning Representations ([ICLR](https://iclr.cc/))
 - Transactions on Machine Learning Research ([TMLR](https://jmlr.org/tmlr/))
