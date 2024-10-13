@@ -13,7 +13,6 @@ Existing work on Federated Newton Learning (FedNL) by **[Mher Safaryan](https://
 
 In this present research, **[Konstantin Burlachenko](https://burlachenkok.github.io/)** and **[Peter Richtárik](https://richtarik.org/)** have made significant steps to enhance the practicality of the FedNL algorithm family. The research reported in this publication was supported by funding from **[KAUST](https://www.kaust.edu.sa/en/)**.
 
-
 # Links
 
 - **The arXiv preprint**: [Unlocking FedNL: Self-Contained Compute-Optimized Implementation](https://arxiv.org/abs/2405.14852)
@@ -32,7 +31,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 **A. Compute Effectiveness.** We addressed the challenge of executing computationally intensive multi-node simulations for the FedNL algorithm family on a single workstation, achieving a remarkable **x1000** improvement in wall-clock time in the same hardware.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
-  <caption>Single-node simulation, n=142, FedNL(B), r=1000, λ=0.001, α - option 2, FP64, 24 cores at 3.3 GHz.</caption>
+  <caption>Table 1: Single-node simulation, n=142, FedNL(B), r=1000, λ=0.001, α - option 2, FP64, 24 cores at 3.3 GHz.</caption>
   <thead>
     <tr>
       <th>Client Compression</th>
@@ -202,7 +201,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 **E. Performance Comparison with [Apache Spark](https://spark.apache.org/) and [Ray](https://www.ray.io/).** Our implementation outperforms solvers from Apache Spark and Ray in a multi-node (number of nodes is 50) in the logistic regression benchmark.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
-  <caption>Multi-node setting, n=50 clients, 1 master, |∇f(x<sup>last</sup>)|≈ 10<sup>-9</sup>, FP64, 1 CPU core/node.</caption>
+  <caption>Table 3: Multi-node setting, n=50 clients, 1 master, |∇f(x<sup>last</sup>)|≈ 10<sup>-9</sup>, FP64, 1 CPU core/node.</caption>
   <thead>
     <tr>
       <th>Solution</th>
@@ -276,22 +275,21 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 </table>
 
 
-**F. First Robust Practical Implementation.** To the best of our knowledge, our implementation represents the first **robust** and practical solution for training (strongly) convex objectives in Federated Learning settings, as detailed in Section 9.4 of the paper.
-
+**F. First Robust Practical Implementation.** We hold deep respect for the many scientists and engineers who have contributed to the diverse landscape of training runtimes for Federated Learning. However, to the best of our knowledge, our implementation represents the first **robust** and practical solution for training (strongly) convex objectives in Federated Learning settings without human intervention, as detailed in Section 9.4 of the paper.
 
 # Broader Impact
 
 **The Role of Theory in Practice.** The interplay between theory and practice remains a landscape still being explored. In our work, we explicitly identify the theoretical elements that facilitated our efforts to bridge the gap between theoretical concepts and practical implementation (see Appendix K.2).
 
-**Translating Theory into Practice.** Our work serves as a guiding beacon for researchers navigating the complex process of translating theoretical algorithms into impactful implementations across various domains of Machine Learning. Even theoretically optimal algorithms may underperform in practical benchmarks that assess the actual time and memory. It's often due to significant hidden implementation constants in layered designs (hardware, software, virtual machines, interpreters). We highlights a comprehensive set of considerations that must be taken into account to successfully implement a scientific algorithm without sacrificing performance.
+**Translating Theory into Practice.** Our work serves as a guiding beacon for researchers navigating the complex process of translating theoretical algorithms into impactful implementations across various domains of Machine Learning. Even theoretically optimal algorithms may underperform in practical benchmarks that assess the actual time and memory. It's often due to significant hidden implementation constants in layered designs (hardware, software, virtual machines, interpreters). We highlight a comprehensive set of considerations that must be taken into account to successfully implement a scientific algorithm without sacrificing performance.
 
 **The Significance of Alternative Languages in ML Research.** Our work emphasizes the multifaceted considerations involved in improving actual wall clock time. Our work challenges the predominant Python-centric design philosophy in Machine Learning. It underscores the significance of considering alternative languages when prioritizing computational and memory efficiency.
 
 # Postscriptum
 
-In our previous research, we achieved a remarkable improvement in communication memory, achieving a factor of **x100** during security-preserving training through a **paradigm shift in approach**. Our paper, [Federated Learning is Better with Non-Homomorphic Encryption](https://dl.acm.org/doi/10.1145/3630048.3630182), presented at DistributedML '23, illustrates this significant enhancement in Figure 6. By redefining our methodology for used cryptographic tools, we realized substantial improvements in communicated memory compared to [HE/CKKS](https://www.iacr.org/archive/asiacrypt2017/106240294/106240294.pdf). Specifically, for Federated Learning, we transitioned to classical cryptographic primitives and tackled a major challenge—the inability to perform arithmetic operations on the master through an innovative and non-obvious solution.
+Our paper, "[Federated Learning is Better with Non-Homomorphic Encryption](https://dl.acm.org/doi/10.1145/3630048.3630182)", has been accepted for presentation and proceedings at the [4th International Workshop on Distributed Machine Learning - DistributedML 2023](https://distributedml.org/). We achieved a remarkable improvement in communication memory, with a reduction factor of approximately **x100** during security-preserving training (see Figure 6). We demonstrated significant communication enhancements over the [HE/CKKS](https://www.iacr.org/archive/asiacrypt2017/106240294/106240294.pdf) scheme by transitioning to classical cryptographic primitives. We addressed a challenge *"the inability to perform arithmetic operations on the master"* not via Homomorphic Encryption.
 
-This time, our approach to achieving a **x1000** improvement differed. Much like the bonus levels in the classic video game *Crash Bandicoot* (a masterpiece by [Naughty Dog](https://www.naughtydog.com/)), our current project required four essential components:
+In this work, we achieved a **x1000** improvement differently. Much like the bonus levels in the classic video game *Crash Bandicoot* (a masterpiece by [Naughty Dog](https://www.naughtydog.com/)), our current project required four essential components:
 
 * (a) Careful analysis and identification of systematic runtime problems (*Discover the bonus level*)
 * (b) Elimination of bia amount of minor approximations (*Observe the collection of small apples in the bonus level*)
