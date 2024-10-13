@@ -29,7 +29,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 
 # Results
 
-**A. Compute Effectiveness.** We addressed the challenge of executing computationally intensive multi-node simulations for the FedNL algorithm family on a single workstation, achieving a remarkable **x1000** improvement in wall-clock time with the same computational hardware.
+**A. Compute Effectiveness.** We addressed the challenge of executing computationally intensive multi-node simulations for the FedNL algorithm family on a single workstation, achieving a remarkable **x1000** improvement in wall-clock time in the same hardware.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
   <caption>Single-node simulation, n=142, FedNL(B), r=1000, λ=0.001, α - option 2, FP64, 24 cores at 3.3 GHz.</caption>
@@ -278,7 +278,6 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 
 **F. First Robust Practical Implementation.** To the best of our knowledge, our implementation represents the first **robust** and practical solution for training (strongly) convex objectives in Federated Learning settings, as detailed in Section 9.4 of the paper.
 
-----
 
 # Broader Impact
 
@@ -287,8 +286,6 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 **Translating Theory into Practice.** Our work serves as a guiding beacon for researchers navigating the complex process of translating theoretical algorithms into impactful implementations across various domains of Machine Learning. Even theoretically optimal algorithms may underperform in practical benchmarks that assess the actual time and memory. It's often due to significant hidden implementation constants in layered designs (hardware, software, virtual machines, interpreters). We highlights a comprehensive set of considerations that must be taken into account to successfully implement a scientific algorithm without sacrificing performance.
 
 **The Significance of Alternative Languages in ML Research.** Our work emphasizes the multifaceted considerations involved in improving actual wall clock time. Our work challenges the predominant Python-centric design philosophy in Machine Learning. It underscores the significance of considering alternative languages when prioritizing computational and memory efficiency.
-
-----
 
 # Postscriptum
 
@@ -301,14 +298,14 @@ This time, our approach to achieving a **x1000** improvement differed. Much like
 * (c) A cascade of meticulous modifications and measurements (*Collect a large number of small apples in the bonus level*)
 * (d) Perseverance (*Avoid traps and navigate carefully in the bonus level with a limited visible environment*)
 
-----
+---
 
 <div style="text-align: center">
 <img width="25%" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> 
 </div>
 
-----
+---
 
 <div style="text-align: center">
-<img width="50%" src="https://burlachenkok.github.io/materials/crash-bandicoot-web.jpg"/> 
+<img width="55%" src="https://burlachenkok.github.io/materials/crash-bandicoot-web.jpg"/> 
 </div>
