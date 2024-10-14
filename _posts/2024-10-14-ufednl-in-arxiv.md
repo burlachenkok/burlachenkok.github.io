@@ -285,12 +285,10 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 
 # Postscriptum
 
-Our paper, "[Federated Learning is Better with Non-Homomorphic Encryption](https://dl.acm.org/doi/10.1145/3630048.3630182)", has been accepted for presentation and proceedings at the [4th International Workshop on Distributed Machine Learning - DistributedML 2023](https://distributedml.org/). We achieved a remarkable improvement in communication memory, with a reduction factor of approximately **x100** during security-preserving training (see Figure 6). We demonstrated significant communication enhancements over the [HE/CKKS](https://www.iacr.org/archive/asiacrypt2017/106240294/106240294.pdf) scheme by transitioning to classical cryptographic primitives. We addressed a challenge *"the inability to perform arithmetic operations on the master"* not via Homomorphic Encryption.
-
-In this work, we achieved a **x1000** improvement differently. Much like the bonus levels in the classic video game *Crash Bandicoot* (a masterpiece by [Naughty Dog](https://www.naughtydog.com/)), our current project required four essential components:
+Much like the bonus levels in the classic video game *Crash Bandicoot* (a masterpiece by [Naughty Dog](https://www.naughtydog.com/)), our current project required four essential components:
 
 * (a) Careful analysis and identification of systematic runtime problems (*Discover the bonus level*)
-* (b) Elimination of bia amount of minor approximations (*Observe the collection of small apples in the bonus level*)
+* (b) Elimination of big amount of minor approximations or errors (*Observe the collection of small apples in the bonus level*)
 * (c) A cascade of meticulous modifications and measurements (*Collect a large number of small apples in the bonus level*)
 * (d) Perseverance (*Avoid traps and navigate carefully in the bonus level with a limited visible environment*)
 
