@@ -31,7 +31,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
   <thead>
     <tr>
       <th>Client Compression</th>
-      <th>‖ ∇f(x<sup>last</sup>)‖</th>
+      <th>$$\|\nabla f(x^{last})\|$$</th>
       <th>Total Time (seconds)</th>
     </tr>
   </thead>
@@ -96,13 +96,13 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 **5. Outpefrom best-practice solutions.** Our implementation significantly outperforms solvers from [CVXPY](https://www.cvxpy.org/) capable of training logistic regression in a single-node scenario including commercial [MOSEK](https://www.mosek.com/). Below is the initialization and solve time, for extra metrics see Appendix F.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
-  <caption>Table 2: Single-node simulation, n=142, FedNL-LS (B), ‖∇f(x<sup>last</sup>)‖ ≈ 9 · 10<sup>-10</sup>, FP64, 24 cores@3.3 GHz.</caption>
+  <caption>Table 2: Single-node simulation, n=142, FedNL-LS (B), FP64, 24 cores@3.3 GHz.</caption>
   <thead>
     <tr style="border: 1px solid black;">
       <th>Solver</th>
-      <th>W8A <br> d=301, n<sub>i</sub>=350</th>
-      <th>A9A <br> d=124, n<sub>i</sub>=229</th>
-      <th>Phishing <br> d=69, n<sub>i</sub>=77</th>
+      <th>W8A <br> $$d=301$$, $$n_i=350$$</th>
+      <th>A9A <br> $$d=124$$, $$n_i=229$$</th>
+      <th>Phishing <br> $$d=69$$, $$n_i=77$$</th>
     </tr>
   </thead>
   <tbody>
@@ -196,13 +196,13 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 Our implementation outperforms solvers from [Apache Spark](https://spark.apache.org/) and [Ray](https://www.ray.io/) in a multi-node (number of nodes is 50) in the logistic regression benchmarks.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
-  <caption>Table 3: Multi-node setting, n=50 clients, 1 master, |∇f(x<sup>last</sup>)|≈ 10<sup>-9</sup>, FP64, 1 CPU core/node.</caption>
+  <caption>Table 3: Multi-node setting, n=50 clients, 1 master, FP64, 1 CPU core/node.</caption>
   <thead>
     <tr style="border: 1px solid black;">
       <th>Solution</th>
-      <th>W8A <br> d=301, n<sub>i</sub>=994</th>
-      <th>A9A <br> d=124, n<sub>i</sub>=651</th>
-      <th>Phishing <br> d=69, n<sub>i</sub>=221</th>
+      <th>W8A <br> $$d=301$$, $$n_i=994$$</th>
+      <th>A9A <br> $$d=124$$, $$n_i=651$$</th>
+      <th>Phishing <br> $$d=69$$, $$n_i=221$$</th>
     </tr>
   </thead>
   <tbody>
@@ -279,6 +279,8 @@ Our implementation outperforms solvers from [Apache Spark](https://spark.apache.
 **Translating Theory into Practice.** Our work serves as a guiding beacon for researchers navigating the complex process of translating theoretical algorithms into impactful implementations across various domains of Machine Learning. Even theoretically optimal algorithms may underperform in practical benchmarks that assess the actual time and memory. It's often due to significant hidden implementation constants in layered designs. We highlight a comprehensive set of considerations that must be considered to successfully implement a scientific algorithm without sacrificing performance.
 
 **The Significance of Alternative Languages in ML Research.** Our work emphasizes the multifaceted considerations involved in improving actual wall clock time. It challenges the predominant Python-centric design philosophy in Machine Learning and underscores the significance of considering alternative languages when prioritizing computational and memory efficiency.
+
+----
 
 # Postscriptum
 
