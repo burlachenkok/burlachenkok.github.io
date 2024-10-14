@@ -284,7 +284,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 
 # Postscriptum
 
-Much like the bonus levels in the classic video game *Crash Bandicoot* (a masterpiece by [Naughty Dog](https://www.naughtydog.com/)), our current project required four essential components:
+Much like the bonus levels in the video games, for example as in [Crash Bandicoot](https://en.m.wikipedia.org/wiki/Crash_Bandicoot), our current project required four essential components:
 
 * (a) Careful analysis and identification of systematic runtime problems (*Discover the bonus level*)
 * (b) Elimination of big amount of minor approximations or errors (*Observe the collection of small apples in the bonus level*)
