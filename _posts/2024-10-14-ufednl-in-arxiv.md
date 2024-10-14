@@ -43,43 +43,43 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
   <tbody>
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">1. RandK[K=8d] (We)</td>
-      <td>$$3.00 \cdot 10^{-18}$$</td>
-      <td>$$18.84$$</td>
+      <td style="border: 1px solid black;">$$3.00 \cdot 10^{-18}$$</td>
+      <td style="border: 1px solid black;">$$18.84$$</td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>2. RandK[k=8d] (Base)</td>
-      <td>$$3.00 \cdot 10^{-18}$$</td>
-      <td>$$17\,510.00$$</td>
+      <td style="border: 1px solid black;">2. RandK[k=8d] (Base)</td>
+      <td style="border: 1px solid black;">$$3.00 \cdot 10^{-18}$$</td>
+      <td style="border: 1px solid black;">$$17\,510.00$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">3. TopK[K=8d] (We)</td>
-      <td>$$2.80 \cdot 10^{-18}$$</td>
-      <td>$$18.72$$</td>
+      <td style="border: 1px solid black;">$$2.80 \cdot 10^{-18}$$</td>
+      <td style="border: 1px solid black;">$$18.72$$</td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>4. TopK[k=8d] (Base)</td>
-      <td>$$2.80 \cdot 10^{-18}$$</td>
-      <td>$$19\,770.00$$</td>
+      <td style="border: 1px solid black;">4. TopK[k=8d] (Base)</td>
+      <td style="border: 1px solid black;">$$2.80 \cdot 10^{-18}$$</td>
+      <td style="border: 1px solid black;">$$19\,770.00$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">5. RandSeqK[K=8d] (We)</td>
-      <td> $$3.19 \cdot 10^{-18}$$ </td>
-      <td>$$16.70$$</td>
+      <td style="border: 1px solid black;"> $$3.19 \cdot 10^{-18}$$ </td>
+      <td style="border: 1px solid black;">$$16.70$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">6. TopLEK[K=8d] (We)</td>
-      <td> $$3.45 \cdot 10^{-18}$$ </td>
-      <td>$$18.48$$</td>
+      <td style="border: 1px solid black;"> $$3.45 \cdot 10^{-18}$$ </td>
+      <td style="border: 1px solid black;">$$18.48$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">7. Natural (We)</td>
-      <td>$$3.10 \cdot 10^{-18}$$</td>
-      <td>$$27.02$$</td>
+      <td style="border: 1px solid black;">$$3.10 \cdot 10^{-18}$$</td>
+      <td style="border: 1px solid black;">$$27.02$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">8. Ident (We)</td>
-      <td>$$2.46 \cdot 10^{-18}$$</td>
-      <td>$$24.12$$</td>
+      <td style="border: 1px solid black;">$$2.46 \cdot 10^{-18}$$</td>
+      <td style="border: 1px solid black;">$$24.12$$</td>
     </tr>
   </tbody>
 </table>
@@ -115,85 +115,85 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
       <td colspan="4" style="text-align:center;"><strong>Initialization Time (seconds)</strong></td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>CVXPY</td>
-      <td>+2.54</td>
-      <td>+2.33</td>
-      <td>+2.28</td>
+      <td style="border: 1px solid black;">CVXPY</td>
+      <td style="border: 1px solid black;">+2.54</td>
+      <td style="border: 1px solid black;">+2.33</td>
+      <td style="border: 1px solid black;">+2.28</td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>FedNL</td>
-      <td>+0.939</td>
-      <td>+0.196</td>
-      <td>+0.081</td>
+      <td style="border: 1px solid black;">FedNL</td>
+      <td style="border: 1px solid black;">+0.939</td>
+      <td style="border: 1px solid black;">+0.196</td>
+      <td style="border: 1px solid black;">+0.081</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td colspan="4" style="text-align:center;"><strong>Solving Time (seconds)</strong></td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>CLARABEL</td>
-      <td>19.24</td>
-      <td>10.83</td>
-      <td>2.50</td>
+      <td style="border: 1px solid black;">CLARABEL</td>
+      <td style="border: 1px solid black;">19.24</td>
+      <td style="border: 1px solid black;">10.83</td>
+      <td style="border: 1px solid black;">2.50</td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>ECOS</td>
-      <td>22.22</td>
-      <td>8.02</td>
-      <td>2.55</td>
+      <td style="border: 1px solid black;">ECOS</td>
+      <td style="border: 1px solid black;">22.22</td>
+      <td style="border: 1px solid black;">8.02</td>
+      <td style="border: 1px solid black;">2.55</td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>ECOS-BB</td>
-      <td>22.00</td>
-      <td>8.00</td>
-      <td>2.12</td>
+      <td style="border: 1px solid black;">ECOS-BB</td>
+      <td style="border: 1px solid black;">22.00</td>
+      <td style="border: 1px solid black;">8.00</td>
+      <td style="border: 1px solid black;">2.12</td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>SCS</td>
-      <td>31.14</td>
-      <td>19.36</td>
-      <td>4.57</td>
+      <td style="border: 1px solid black;">SCS</td>
+      <td style="border: 1px solid black;">31.14</td>
+      <td style="border: 1px solid black;">19.36</td>
+      <td style="border: 1px solid black;">4.57</td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>MOSEK</td>
-      <td>16.90</td>
-      <td>9.59</td>
-      <td>3.55</td>
+      <td style="border: 1px solid black;">MOSEK</td>
+      <td style="border: 1px solid black;">16.90</td>
+      <td style="border: 1px solid black;">9.59</td>
+      <td style="border: 1px solid black;">3.55</td>
     </tr>
     <tr style="background-color:#CCFFCC;border: 1px solid black;">
-      <td>FedNL-LS/RandK[k=8d]</td>
-      <td>4.35</td>
-      <td>0.34</td>
-      <td>0.12</td>
+      <td style="border: 1px solid black;">FedNL-LS/RandK[k=8d]</td>
+      <td style="border: 1px solid black;">4.35</td>
+      <td style="border: 1px solid black;">0.34</td>
+      <td style="border: 1px solid black;">0.12</td>
     </tr>
     <tr style="background-color: #CCFFCC;border: 1px solid black;">
-      <td>FedNL-LS/RandSeqK[k=8d]</td>
-      <td>3.34</td>
-      <td>0.29</td>
-      <td>0.06</td>
+      <td style="border: 1px solid black;">FedNL-LS/RandSeqK[k=8d]</td>
+      <td style="border: 1px solid black;">3.34</td>
+      <td style="border: 1px solid black;">0.29</td>
+      <td style="border: 1px solid black;">0.06</td>
     </tr>
     <tr style="background-color: #CCFFCC;border: 1px solid black;">
-      <td>FedNL-LS/TopK[k=8d]</td>
-      <td>4.49</td>
-      <td>0.46</td>
-      <td>0.10</td>
+      <td style="border: 1px solid black;">FedNL-LS/TopK[k=8d]</td>
+      <td style="border: 1px solid black;">4.49</td>
+      <td style="border: 1px solid black;">0.46</td>
+      <td style="border: 1px solid black;">0.10</td>
     </tr>
     <tr style="background-color: #CCFFCC;border: 1px solid black;">
-      <td>FedNL-LS/TopLEK[k=8d]</td>
-      <td>4.79</td>
-      <td>0.34</td>
-      <td>0.61</td>
+      <td style="border: 1px solid black;">FedNL-LS/TopLEK[k=8d]</td>
+      <td style="border: 1px solid black;">4.79</td>
+      <td style="border: 1px solid black;">0.34</td>
+      <td style="border: 1px solid black;">0.61</td>
     </tr>
     <tr style="background-color: #CCFFCC;border: 1px solid black;">
-      <td>FedNL-LS/Natural</td>
-      <td>3.13</td>
-      <td>0.17</td>
-      <td>0.08</td>
+      <td style="border: 1px solid black;">FedNL-LS/Natural</td>
+      <td style="border: 1px solid black;">3.13</td>
+      <td style="border: 1px solid black;">0.17</td>
+      <td style="border: 1px solid black;">0.08</td>
     </tr>
     <tr style="background-color: #CCFFCC;border: 1px solid black;">
-      <td>FedNL-LS/Identical</td>
-      <td>0.63</td>
-      <td>0.09</td>
-      <td>0.06</td>
+      <td style="border: 1px solid black;">FedNL-LS/Identical</td>
+      <td style="border: 1px solid black;">0.63</td>
+      <td style="border: 1px solid black;">0.09</td>
+      <td style="border: 1px solid black;">0.06</td>
     </tr>
   </tbody>
 </table>
@@ -215,61 +215,61 @@ Our implementation outperforms solvers from [Apache Spark](https://spark.apache.
       <td colspan="4" style="text-align:center;"><strong>Initialization Time (seconds)</strong></td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>Ray</td>
+      <td style="border: 1px solid black;">Ray</td>
       <td colspan="3" style="text-align:center;">+52.0</td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>Spark</td>
+      <td style="border: 1px solid black;">Spark</td>
       <td colspan="3" style="text-align:center;">+25.82</td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>FedNL</td>
+      <td style="border: 1px solid black;">FedNL</td>
       <td colspan="3" style="text-align:center;">+1.1</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td colspan="4" style="text-align:center;"><strong>Solving Time (seconds)</strong></td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>Ray</td>
-      <td>116.17</td>
-      <td>28.13</td>
-      <td>11.54</td>
+      <td style="border: 1px solid black;">Ray</td>
+      <td style="border: 1px solid black;">116.17</td>
+      <td style="border: 1px solid black;">28.13</td>
+      <td style="border: 1px solid black;">11.54</td>
     </tr>
     <tr style="border: 1px solid black;">
-      <td>Spark</td>
-      <td>36.65</td>
-      <td>33.59</td>
-      <td>33.14</td>
+      <td style="border: 1px solid black;">Spark</td>
+      <td style="border: 1px solid black;">36.65</td>
+      <td style="border: 1px solid black;">33.59</td>
+      <td style="border: 1px solid black;">33.14</td>
     </tr>
     <tr style="background-color: #CCFFCC;border-style:solid;">
-      <td>FedNL/RandK[k=8d]</td>
-      <td>12.6</td>
-      <td>4.52</td>
-      <td>0.21</td>
+      <td style="border: 1px solid black;">FedNL/RandK[k=8d]</td>
+      <td style="border: 1px solid black;">12.6</td>
+      <td style="border: 1px solid black;">4.52</td>
+      <td style="border: 1px solid black;">0.21</td>
     </tr>
     <tr style="background-color: #CCFFCC;border-style:solid;">
-      <td>FedNL/RandSeqK[k=8d]</td>
-      <td>12.56</td>
-      <td>5.10</td>
-      <td>0.14</td>
+      <td style="border: 1px solid black;">FedNL/RandSeqK[k=8d]</td>
+      <td style="border: 1px solid black;">12.56</td>
+      <td style="border: 1px solid black;">5.10</td>
+      <td style="border: 1px solid black;">0.14</td>
     </tr>
     <tr style="background-color: #CCFFCC;border-style:solid;">
-      <td>FedNL/TopK[k=8d]</td>
-      <td>12.20</td>
-      <td>5.79</td>
-      <td>5.23</td>
+      <td style="border: 1px solid black;">FedNL/TopK[k=8d]</td>
+      <td style="border: 1px solid black;">12.20</td>
+      <td style="border: 1px solid black;">5.79</td>
+      <td style="border: 1px solid black;">5.23</td>
     </tr>
     <tr style="background-color: #CCFFCC;border-style:solid;">
-      <td>FedNL/TopLEK[k=8d]</td>
-      <td>15.11</td>
-      <td>3.26</td>
-      <td>0.82</td>
+      <td style="border: 1px solid black;">FedNL/TopLEK[k=8d]</td>
+      <td style="border: 1px solid black;">15.11</td>
+      <td style="border: 1px solid black;">3.26</td>
+      <td style="border: 1px solid black;">0.82</td>
     </tr>
     <tr style="background-color: #CCFFCC;border-style:solid;">
-      <td>FedNL/Natural</td>
-      <td>5.75</td>
-      <td>1.56</td>
-      <td>0.14</td>
+      <td style="border: 1px solid black;">FedNL/Natural</td>
+      <td style="border: 1px solid black;">5.75</td>
+      <td style="border: 1px solid black;">1.56</td>
+      <td style="border: 1px solid black;">0.14</td>
     </tr>
   </tbody>
 </table>
