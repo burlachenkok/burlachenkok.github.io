@@ -9,7 +9,7 @@ The paper **[Unlocking FedNL: Self-Contained Compute-Optimized Implementation](h
 
 
 ---
-Existing work on Federated Newton Learning (FedNL) by **[Mher Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ)**, **[Rustem Islamov](https://rustem-islamov.github.io/)**, **[Xun Qian](https://qianxunk.github.io/)**, and **[Peter Richtárik](https://richtarik.org/)** was presented at the **[39th International Conference on Machine Learning (ICML 2022)](https://icml.cc/virtual/2022/spotlight/17084)**. In this present research, **[Konstantin Burlachenko](https://burlachenkok.github.io/)** and **[Peter Richtárik](https://richtarik.org/)** have made significant steps to enhance the practicality of the FedNL algorithm family.
+Existing work on Federated Newton Learning (FedNL) by **[Mher Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ)**, **[Rustem Islamov](https://rustem-islamov.github.io/)**, **[Xun Qian](https://qianxunk.github.io/)**, and **[Peter Richtárik](https://richtarik.org/)** was presented at the **[39th International Conference on Machine Learning (ICML 2022)](https://icml.cc/virtual/2022/spotlight/17084)**. In presented follow-up research, **[Konstantin Burlachenko](https://burlachenkok.github.io/)** and **[Peter Richtárik](https://richtarik.org/)** have made significant steps to enhance the practicality of the FedNL algorithm family.
 
 # Links
 
