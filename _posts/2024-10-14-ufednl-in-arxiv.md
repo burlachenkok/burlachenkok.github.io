@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unlocking FedNL Self-Contained Compute-Optimized Implementation
+title: Unlocking FedNL on arXiv
 published: true
 ---
 
