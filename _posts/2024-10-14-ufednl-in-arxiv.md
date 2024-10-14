@@ -89,11 +89,11 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 - No library dependencies. Sole reliance on OS interfaces and some C++ Runtime elements
 - Supports both single-node simulation and real multi-node execution
 - Compatible with Linux, macOS, and Windows OS
-- Buildable with MSVC (minimum 19.30), GNU GCC/G++ (minimum 11.4), LLVM CLANG (minimum 10.0)
-- Tested on various CPU architectures (AMD64/x86_64, ARM v7, ARM64 v8, PowerPC PPC64LE, RISC-V 64, IBM Z Series)
-- Explicit (optional) utilization of processor supplementary instruction sets: SSE2, AVX2, AVX-512, ARM Neon
+- Buildable with [MSVC](https://visualstudio.microsoft.com/vs/features/cplusplus/) (minimum 19.30), [GNU GCC/G++](https://gcc.gnu.org/releases.html) (minimum 11.4), [LLVM CLANG](https://releases.llvm.org/) (minimum 10.0)
+- Tested on various CPU architectures ([AMD64/x86_64](https://en.wikipedia.org/wiki/X86-64), [ARM32 v7](https://en.wikipedia.org/wiki/ARM7), [ARM64 v8](https://en.wikipedia.org/wiki/AArch64), [PowerPC PPC64LE](https://en.wikipedia.org/wiki/Ppc64), [RISC-V 64](https://en.wikipedia.org/wiki/RISC-V), [IBM Z Series](https://en.wikipedia.org/wiki/IBM_Z)
+- Explicit (optional) utilization of processor supplementary instruction sets: [SSE2](https://en.wikipedia.org/wiki/SSE2), [AVX2](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions), [AVX-512](https://en.wikipedia.org/wiki/AVX-512), [ARM Neon](https://en.wikipedia.org/wiki/ARM_architecture_family#Advanced_SIMD_(Neon))
 - Modular design for handling complexity and ensuring code quality
-- Support for creating oracles for optimization problems using NVIDIA CUDA (Compute Capability 7.0 to 9.0)
+- Support for creating oracles for optimization problems using [NVIDIA CUDA](https://developer.nvidia.com/cuda-toolkit) (Compute Capability 7.0 to 9.0)
 - Implementation can be utilized as native OS executable binaries, dynamic libraries, static libraries, and extension modules for languages supported by [SWIG](https://www.swig.org/).
 
 **3/4. Two Practical Refinements of Existing Compressors.** We introduced an extension of the TopK compression mechanism, termed Top-LEK, which performs adaptive compression based on theoretical limits. Additionally, we proposed a cache-aware version of the RandK sparsification compressor, named RandSeqK.
