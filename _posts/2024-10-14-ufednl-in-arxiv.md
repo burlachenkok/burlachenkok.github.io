@@ -14,9 +14,7 @@ Existing work on Federated Newton Learning (FedNL) by **[Mher Safaryan](https://
 # Links
 
 - **The arXiv preprint**: [https://arxiv.org/abs/2410.08760](https://arxiv.org/abs/2410.08760)
-- **Podcast** generated via [Google NotebookLM](https://notebooklm.google/) in an entertaining format:
-    - **Online**: [Listen here](https://www.podbean.com/eas/pb-zs34b-16d2942)
-    - **Offline**: [Download here](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3)
+- **Podcast** generated via [NotebookLM](https://notebooklm.google/) in an entertaining format: [(i) Listen online here](https://www.podbean.com/eas/pb-zs34b-16d2942) and [(ii) Download offline here](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3).
 
 
 # Abstract
@@ -26,7 +24,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 
 # Results
 
-**1. Compute Effectiveness.** We addressed the challenge of executing computationally intensive multi-node simulations for the FedNL algorithm family on a single node, achieving a remarkable **x1000** improvement in wall-clock time in the same hardware.
+**1. Compute Effectiveness.** We addressed the challenge of executing computationally intensive multi-node simulations, achieving a remarkable **x1000** improvement in wall-clock time in the same hardware.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
   <caption>Table 1: Single-node simulation, n=142, FedNL(B), r=1000, λ=0.001, α - option 2, FP64, 24 cores at 3.3 GHz.</caption>
@@ -278,7 +276,7 @@ Our implementation outperforms solvers from [Apache Spark](https://spark.apache.
 
 **The Role of Theory in Practice.** The interplay between theory and practice remains a landscape still being explored. In our work, we explicitly identify the theoretical elements that facilitated our efforts to bridge the gap between theoretical concepts and practical implementation (see Appendix K.2).
 
-**Translating Theory into Practice.** Our work serves as a guiding beacon for researchers navigating the complex process of translating theoretical algorithms into impactful implementations across various domains of Machine Learning. Even theoretically optimal algorithms may underperform in practical benchmarks that assess the actual time and memory. It's often due to significant hidden implementation constants in layered designs. We highlight a comprehensive set of considerations that must be taken into account to successfully implement a scientific algorithm without sacrificing performance.
+**Translating Theory into Practice.** Our work serves as a guiding beacon for researchers navigating the complex process of translating theoretical algorithms into impactful implementations across various domains of Machine Learning. Even theoretically optimal algorithms may underperform in practical benchmarks that assess the actual time and memory. It's often due to significant hidden implementation constants in layered designs. We highlight a comprehensive set of considerations that must be considered to successfully implement a scientific algorithm without sacrificing performance.
 
 **The Significance of Alternative Languages in ML Research.** Our work emphasizes the multifaceted considerations involved in improving actual wall clock time. It challenges the predominant Python-centric design philosophy in Machine Learning and underscores the significance of considering alternative languages when prioritizing computational and memory efficiency.
 
