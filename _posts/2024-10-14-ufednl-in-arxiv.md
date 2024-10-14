@@ -26,7 +26,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 
 # Results
 
-**A. Compute Effectiveness.** We addressed the challenge of executing computationally intensive multi-node simulations for the FedNL algorithm family on a single node, achieving a remarkable **x1000** improvement in wall-clock time in the same hardware.
+**1. Compute Effectiveness.** We addressed the challenge of executing computationally intensive multi-node simulations for the FedNL algorithm family on a single node, achieving a remarkable **x1000** improvement in wall-clock time in the same hardware.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
   <caption>Table 1: Single-node simulation, n=142, FedNL(B), r=1000, λ=0.001, α - option 2, FP64, 24 cores at 3.3 GHz.</caption>
@@ -82,7 +82,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 </table>
 
 
-**B. Self-Contained Design.** Our implementation facilitates seamless integration into resource-constrained systems and supports extensibility for future research:
+**2. Self-Contained Design.** Our implementation facilitates seamless integration into resource-constrained systems and supports extensibility for future research:
 - No library dependencies. Sole reliance on OS interfaces and some C++ Runtime elements
 - Supports both single-node simulation and real multi-node execution
 - Compatible with Linux, macOS, and Windows OS
