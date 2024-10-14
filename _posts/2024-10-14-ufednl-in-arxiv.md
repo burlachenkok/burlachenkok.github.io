@@ -44,42 +44,42 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">1. RandK[K=8d] (We)</td>
       <td>$$3.00 \cdot 10^{-18}$$</td>
-      <td>18.84</td>
+      <td>$$18.84$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td>2. RandK[k=8d] (Base)</td>
       <td>$$3.00 \cdot 10^{-18}$$</td>
-      <td>17,510.00</td>
+      <td>$$17\,510.00$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">3. TopK[K=8d] (We)</td>
       <td>$$2.80 \cdot 10^{-18}$$</td>
-      <td>18.72</td>
+      <td>$$18.72$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td>4. TopK[k=8d] (Base)</td>
       <td>$$2.80 \cdot 10^{-18}$$</td>
-      <td>19,770.00</td>
+      <td>$$19\,770.00$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">5. RandSeqK[K=8d] (We)</td>
       <td> $$3.19 \cdot 10^{-18}$$ </td>
-      <td>16.70</td>
+      <td>$$16.70$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">6. TopLEK[K=8d] (We)</td>
       <td> $$3.45 \cdot 10^{-18}$$ </td>
-      <td>18.48</td>
+      <td>$$18.48$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">7. Natural (We)</td>
       <td>$$3.10 \cdot 10^{-18}$$</td>
-      <td>27.02</td>
+      <td>$$27.02$$</td>
     </tr>
     <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">8. Ident (We)</td>
       <td>$$2.46 \cdot 10^{-18}$$</td>
-      <td>24.12</td>
+      <td>$$24.12$$</td>
     </tr>
   </tbody>
 </table>
