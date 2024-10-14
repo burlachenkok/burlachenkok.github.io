@@ -272,7 +272,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 </table>
 
 
-**F. First Robust Practical Implementation.** We hold respect for the scientists and engineers who have contributed to the diverse landscape of training runtimes for FL. However, to the best of our knowledge, our implementation represents the first **robust** practical solution for training (strongly) convex objectives in Federated Learning settings without human intervention (see Section 9.4 of the paper).
+**F. First Robust Practical Implementation.** We hold respect for contributors to the diverse landscape of training runtimes for FL. However, to the best of our knowledge, our implementation represents the first **robust** practical solution for training (strongly) convex objectives in Federated Learning settings (see Section 9.4 of the paper).
 
 # Broader Impact
 
