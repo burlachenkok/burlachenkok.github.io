@@ -26,7 +26,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 
 # Results
 
-**A. Compute Effectiveness.** We addressed the challenge of executing computationally intensive multi-node simulations for the FedNL algorithm family on a single workstation, achieving a remarkable **x1000** improvement in wall-clock time in the same hardware.
+**A. Compute Effectiveness.** We addressed the challenge of executing computationally intensive multi-node simulations for the FedNL algorithm family on a single node, achieving a remarkable **x1000** improvement in wall-clock time in the same hardware.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
   <caption>Table 1: Single-node simulation, n=142, FedNL(B), r=1000, λ=0.001, α - option 2, FP64, 24 cores at 3.3 GHz.</caption>
@@ -94,7 +94,6 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 - Implementation can be utilized as native OS executable binaries, dynamic libraries, static libraries, and as extension modules for languages supported by [SWIG](https://www.swig.org/).
 
 **C. Practical Refinements of Existing Compressors.** We introduced an extension of the TopK compression mechanism, termed Top-LEK, which performs adaptive compression based on theoretical limits. Additionally, we proposed a cache-aware version of the RandK sparsification compressor, named RandSeqK.
-
 
 **D. Performance Comparison with [CVXPY](https://www.cvxpy.org/).** Our implementation significantly outperforms solvers from CVXPY for logistic regression in a single-node scenario including commercial [MOSEK](https://www.mosek.com/).
 
@@ -196,7 +195,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
   </tbody>
 </table>
 
-**E. Performance Comparison with [Apache Spark](https://spark.apache.org/) and [Ray](https://www.ray.io/).** Our implementation outperforms solvers from Apache Spark and Ray in a multi-node (number of nodes is 50) in the logistic regression benchmark.
+**E. Performance Comparison with [Apache Spark](https://spark.apache.org/) and [Ray](https://www.ray.io/).** Our implementation outperforms solvers from [Apache Spark](https://spark.apache.org/) and [Ray](https://www.ray.io/) in a multi-node (number of nodes is 50) in the logistic regression benchmarks.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
   <caption>Table 3: Multi-node setting, n=50 clients, 1 master, |∇f(x<sup>last</sup>)|≈ 10<sup>-9</sup>, FP64, 1 CPU core/node.</caption>
@@ -273,13 +272,13 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 </table>
 
 
-**F. First Robust Practical Implementation.** We hold deep respect for the many scientists and engineers who have contributed to the diverse landscape of training runtimes for Federated Learning. However, to the best of our knowledge, our implementation represents the first **robust** and practical solution for training (strongly) convex objectives in Federated Learning settings without human intervention, as detailed in Section 9.4 of the paper.
+**F. First Robust Practical Implementation.** We hold respect for the scientists and engineers who have contributed to the diverse landscape of training runtimes for FL. However, to the best of our knowledge, our implementation represents the first **robust** practical solution for training (strongly) convex objectives in Federated Learning settings without human intervention (see Section 9.4 of the paper).
 
 # Broader Impact
 
 **The Role of Theory in Practice.** The interplay between theory and practice remains a landscape still being explored. In our work, we explicitly identify the theoretical elements that facilitated our efforts to bridge the gap between theoretical concepts and practical implementation (see Appendix K.2).
 
-**Translating Theory into Practice.** Our work serves as a guiding beacon for researchers navigating the complex process of translating theoretical algorithms into impactful implementations across various domains of Machine Learning. Even theoretically optimal algorithms may underperform in practical benchmarks that assess the actual time and memory. It's often due to significant hidden implementation constants in layered designs (hardware, software, virtual machines, interpreters). We highlight a comprehensive set of considerations that must be taken into account to successfully implement a scientific algorithm without sacrificing performance.
+**Translating Theory into Practice.** Our work serves as a guiding beacon for researchers navigating the complex process of translating theoretical algorithms into impactful implementations across various domains of Machine Learning. Even theoretically optimal algorithms may underperform in practical benchmarks that assess the actual time and memory. It's often due to significant hidden implementation constants in layered designs. We highlight a comprehensive set of considerations that must be taken into account to successfully implement a scientific algorithm without sacrificing performance.
 
 **The Significance of Alternative Languages in ML Research.** Our work emphasizes the multifaceted considerations involved in improving actual wall clock time. Our work challenges the predominant Python-centric design philosophy in Machine Learning. It underscores the significance of considering alternative languages when prioritizing computational and memory efficiency.
 
