@@ -5,17 +5,15 @@ published: false
 ---
 
 
-The paper **[Unlocking FedNL: Self-Contained Compute-Optimized Implementation](https://arxiv.org/abs/2405.14852)** has been published on arXiv.
+The paper **[Unlocking FedNL: Self-Contained Compute-Optimized Implementation](https://arxiv.org/abs/2410.08760)** has been published on arXiv.
 
 
 ---
-Existing work on Federated Newton Learning (FedNL) by **[Mher Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ)**, **[Rustem Islamov](https://rustem-islamov.github.io/)**, **[Xun Qian](https://qianxunk.github.io/)**, and **[Peter Richtárik](https://richtarik.org/)** was presented at the **[39th International Conference on Machine Learning (ICML 2022)](https://icml.cc/virtual/2022/spotlight/17084)**.
-
-In this present research, **[Konstantin Burlachenko](https://burlachenkok.github.io/)** and **[Peter Richtárik](https://richtarik.org/)** have made significant steps to enhance the practicality of the FedNL algorithm family. The research reported in this publication was supported by funding from **[KAUST](https://www.kaust.edu.sa/en/)**.
+Existing work on Federated Newton Learning (FedNL) by **[Mher Safaryan](https://scholar.google.com/citations?user=dJNwgT8AAAAJ)**, **[Rustem Islamov](https://rustem-islamov.github.io/)**, **[Xun Qian](https://qianxunk.github.io/)**, and **[Peter Richtárik](https://richtarik.org/)** was presented at the **[39th International Conference on Machine Learning (ICML 2022)](https://icml.cc/virtual/2022/spotlight/17084)**. In this present research, **[Konstantin Burlachenko](https://burlachenkok.github.io/)** and **[Peter Richtárik](https://richtarik.org/)** have made significant steps to enhance the practicality of the FedNL algorithm family.
 
 # Links
 
-- **The arXiv preprint**: [Unlocking FedNL: Self-Contained Compute-Optimized Implementation](https://arxiv.org/abs/2405.14852)
+- **The arXiv preprint**: [Unlocking FedNL: Self-Contained Compute-Optimized Implementation](https://arxiv.org/abs/2410.08760)
 - **Podcast** generated via [Google NotebookLM](https://notebooklm.google/) in an entertaining format:
     - **Online**: [Listen here](https://www.podbean.com/eas/pb-zs34b-16d2942)
     - **Offline**: [Download here](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3)
