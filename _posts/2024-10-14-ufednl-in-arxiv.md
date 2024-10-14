@@ -270,7 +270,7 @@ Our implementation outperforms solvers from [Apache Spark](https://spark.apache.
 </table>
 
 
-**6. First Robust Practical Implementation.** We hold respect for contributors to the diverse landscape of training runtimes for FL. However, to the best of our knowledge, our implementation represents the first **robust** practical solution for training (strongly) convex objectives in Federated Learning settings (see Section 9.4 of the paper).
+**6. First Robust Practical Implementation.** We hold respect for contributors to the diverse landscape of training runtimes for FL. However, to the best of our knowledge, our implementation represents the first *robust* practical solution for training (strongly) convex objectives in Federated Learning settings (see Section 9.4 of the paper).
 
 # Broader Impact
 
@@ -293,14 +293,7 @@ Much like the bonus levels in video games, for example, as in [Crash Bandicoot](
 
 <table style="text-align:center;">
 <tr>
-<td width="30%" style="padding:15px;text-align:center;vertical-align:middle;"> 
-<img width="100%" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> 
-</td> 
-<td width=35%" style="padding:15px;text-align:center;vertical-align:middle;"> 
-<img width="60%" src="https://burlachenkok.github.io/materials/ufednl.jpg"/> 
-</td>
-<td width="35%" style="padding:15px;text-align:center;vertical-align:middle;"> 
-<img width="100%" src="https://burlachenkok.github.io/materials/crash-bandicoot-web.jpg"/> 
-</td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="95px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="155px" src="https://burlachenkok.github.io/materials/crash-bandicoot-web.jpg"/> </td>
 </tr>
 </table>
