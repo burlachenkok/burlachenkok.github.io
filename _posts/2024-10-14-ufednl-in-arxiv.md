@@ -82,7 +82,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 </table>
 
 
-**2. Self-Contained Design.** Our implementation facilitates seamless integration into resource-constrained systems and supports extensibility for future research:
+**2. Self-Contained Design.** Our implementation facilitates seamless integration into resource-constrained systems:
 - No library dependencies. Sole reliance on OS interfaces and some C++ Runtime elements
 - Supports both single-node simulation and real multi-node execution
 - Compatible with Linux, macOS, and Windows OS
