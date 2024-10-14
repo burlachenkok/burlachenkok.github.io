@@ -5,7 +5,8 @@ published: true
 ---
 
 
-The paper **[Unlocking FedNL: Self-Contained Compute-Optimized Implementation](https://arxiv.org/abs/2410.08760)** has been published on arXiv.
+The paper **[Unlocking FedNL: Self-Contained Compute-Optimized Implementation](https://arxiv.org/abs/2410.08760)** has been published on arXiv: [arXiv:2410.08760](https://arxiv.org/abs/2410.08760).
+
 
 
 ---
