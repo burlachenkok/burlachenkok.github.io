@@ -284,7 +284,7 @@ Our implementation outperforms solvers from [Apache Spark](https://spark.apache.
 
 # Postscriptum
 
-Much like the bonus levels in video games, for example, as in [Crash Bandicoot](https://en.m.wikipedia.org/wiki/Crash_Bandicoot), our current project required four essential components:
+Much like the bonus levels in the video game [Crash Bandicoot](https://en.m.wikipedia.org/wiki/Crash_Bandicoot) our current project required four essential components:
 
 * (a) Careful analysis and identification of systematic runtime problems (*Discover the bonus level*)
 * (b) Elimination of a large number of minor approximations or errors (*Observe the collection of small apples in the bonus level*)
