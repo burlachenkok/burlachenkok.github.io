@@ -93,9 +93,9 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 - Support for creating oracles for optimization problems using NVIDIA CUDA (Compute Capability 7.0 to 9.0)
 - Implementation can be utilized as native OS executable binaries, dynamic libraries, static libraries, and as extension modules for languages supported by [SWIG](https://www.swig.org/).
 
-**C. Practical Refinements of Existing Compressors.** We introduced an extension of the TopK compression mechanism, termed Top-LEK, which performs adaptive compression based on theoretical limits. Additionally, we proposed a cache-aware version of the RandK sparsification compressor, named RandSeqK.
+**3/4. Two Practical Refinements of Existing Compressors.** We introduced an extension of the TopK compression mechanism, termed Top-LEK, which performs adaptive compression based on theoretical limits. Additionally, we proposed a cache-aware version of the RandK sparsification compressor, named RandSeqK.
 
-**D. Performance Comparison with [CVXPY](https://www.cvxpy.org/).** Our implementation significantly outperforms solvers from CVXPY for logistic regression in a single-node scenario including commercial [MOSEK](https://www.mosek.com/).
+**5. Performance Comparison with [CVXPY](https://www.cvxpy.org/).** Our implementation significantly outperforms solvers from CVXPY for logistic regression in a single-node scenario including commercial [MOSEK](https://www.mosek.com/).
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
   <caption>Table 2: Single-node simulation, n=142, FedNL-LS (B), ‖∇f(x<sup>last</sup>)‖ ≈ 9 · 10<sup>-10</sup>, FP64, 24 cores at 3.3 GHz.</caption>
@@ -195,7 +195,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
   </tbody>
 </table>
 
-**E. Performance Comparison with [Apache Spark](https://spark.apache.org/) and [Ray](https://www.ray.io/).** Our implementation outperforms solvers from [Apache Spark](https://spark.apache.org/) and [Ray](https://www.ray.io/) in a multi-node (number of nodes is 50) in the logistic regression benchmarks.
+**6. Performance Comparison with [Apache Spark](https://spark.apache.org/) and [Ray](https://www.ray.io/).** Our implementation outperforms solvers from [Apache Spark](https://spark.apache.org/) and [Ray](https://www.ray.io/) in a multi-node (number of nodes is 50) in the logistic regression benchmarks.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
   <caption>Table 3: Multi-node setting, n=50 clients, 1 master, |∇f(x<sup>last</sup>)|≈ 10<sup>-9</sup>, FP64, 1 CPU core/node.</caption>
