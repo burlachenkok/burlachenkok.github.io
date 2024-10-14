@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unlocking FedNL Self-Contained Compute-Optimized Implementation
-published: false
+published: true
 ---
 
 
@@ -15,8 +15,8 @@ Existing work on Federated Newton Learning (FedNL) by **[Mher Safaryan](https://
 
 - **The arXiv preprint**: [https://arxiv.org/abs/2410.08760](https://arxiv.org/abs/2410.08760)
 - **Podcast** generated via [Google NotebookLM](https://notebooklm.google/) in an entertaining format:
-    - **Online**: [Listen here](https://www.podbean.com/eas/pb-zs34b-16d2942)
-    - **Offline**: [Download here](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3)
+    - **Online**: [Listen here](https://www.podbean.com/eas/pb-zs34b-16d2942)
+    - **Offline**: [Download here](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3)
 
 
 # Abstract
@@ -91,11 +91,11 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 - Explicit (optional) utilization of processor supplementary instruction sets: SSE2, AVX2, AVX-512, ARM Neon
 - Modular design for handling complexity and ensuring code quality with a catalog of tools
 - Support for creating oracles for optimization problems using NVIDIA CUDA (Compute Capability 7.0 to 9.0)
-- Implementation can be utilized as native OS executable binaries, dynamic libraries, static libraries, and as extension modules for languages supported by [SWIG](https://www.swig.org/).
+- Implementation can be utilized as native OS executable binaries, dynamic libraries, static libraries, and extension modules for languages supported by [SWIG](https://www.swig.org/).
 
 **3/4. Two Practical Refinements of Existing Compressors.** We introduced an extension of the TopK compression mechanism, termed Top-LEK, which performs adaptive compression based on theoretical limits. Additionally, we proposed a cache-aware version of the RandK sparsification compressor, named RandSeqK.
 
-**5. Outpefrom best-practice solutions.** Our implementation significantly outperforms solvers from [CVXPY](https://www.cvxpy.org/) capable for training logistic regression in a single-node scenario including commercial [MOSEK](https://www.mosek.com/). Below is the initialisation and solve time, for extra metrics see Appendix F.
+**5. Outpefrom best-practice solutions.** Our implementation significantly outperforms solvers from [CVXPY](https://www.cvxpy.org/) capable of training logistic regression in a single-node scenario including commercial [MOSEK](https://www.mosek.com/). Below is the initialization and solve time, for extra metrics see Appendix F.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
   <caption>Table 2: Single-node simulation, n=142, FedNL-LS (B), ‖∇f(x<sup>last</sup>)‖ ≈ 9 · 10<sup>-10</sup>, FP64, 24 cores at 3.3 GHz.</caption>
@@ -280,25 +280,29 @@ Our implementation outperforms solvers from [Apache Spark](https://spark.apache.
 
 **Translating Theory into Practice.** Our work serves as a guiding beacon for researchers navigating the complex process of translating theoretical algorithms into impactful implementations across various domains of Machine Learning. Even theoretically optimal algorithms may underperform in practical benchmarks that assess the actual time and memory. It's often due to significant hidden implementation constants in layered designs. We highlight a comprehensive set of considerations that must be taken into account to successfully implement a scientific algorithm without sacrificing performance.
 
-**The Significance of Alternative Languages in ML Research.** Our work emphasizes the multifaceted considerations involved in improving actual wall clock time. Our work challenges the predominant Python-centric design philosophy in Machine Learning. It underscores the significance of considering alternative languages when prioritizing computational and memory efficiency.
+**The Significance of Alternative Languages in ML Research.** Our work emphasizes the multifaceted considerations involved in improving actual wall clock time. It challenges the predominant Python-centric design philosophy in Machine Learning and underscores the significance of considering alternative languages when prioritizing computational and memory efficiency.
 
 # Postscriptum
 
-Much like the bonus levels in the video games, for example as in [Crash Bandicoot](https://en.m.wikipedia.org/wiki/Crash_Bandicoot), our current project required four essential components:
+Much like the bonus levels in video games, for example, as in [Crash Bandicoot](https://en.m.wikipedia.org/wiki/Crash_Bandicoot), our current project required four essential components:
 
 * (a) Careful analysis and identification of systematic runtime problems (*Discover the bonus level*)
-* (b) Elimination of big amount of minor approximations or errors (*Observe the collection of small apples in the bonus level*)
+* (b) Elimination of a large number of minor approximations or errors (*Observe the collection of small apples in the bonus level*)
 * (c) A cascade of meticulous modifications and measurements (*Collect a large number of small apples in the bonus level*)
 * (d) Perseverance (*Avoid traps and navigate carefully in the bonus level with a limited visible environment*)
 
 ---
 
-<div style="text-align: center">
-<img width="25%" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> 
-</div>
-
----
-
-<div style="text-align: center">
-<img width="55%" src="https://burlachenkok.github.io/materials/crash-bandicoot-web.jpg"/> 
-</div>
+<table style="text-align:center;">
+<tr>
+<td width="30%" style="padding:15px;text-align:center;vertical-align:middle;"> 
+<img width="100%" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> 
+</td> 
+<td width=35%" style="padding:15px;text-align:center;vertical-align:middle;"> 
+<img width="60%" src="https://burlachenkok.github.io/materials/ufednl.jpg"/> 
+</td>
+<td width="35%" style="padding:15px;text-align:center;vertical-align:middle;"> 
+<img width="100%" src="https://burlachenkok.github.io/materials/crash-bandicoot-web.jpg"/> 
+</td>
+</tr>
+</table>
