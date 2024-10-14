@@ -95,7 +95,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 
 **3/4. Two Practical Refinements of Existing Compressors.** We introduced an extension of the TopK compression mechanism, termed Top-LEK, which performs adaptive compression based on theoretical limits. Additionally, we proposed a cache-aware version of the RandK sparsification compressor, named RandSeqK.
 
-**5. Performance Comparison with [CVXPY](https://www.cvxpy.org/).** Our implementation significantly outperforms solvers from CVXPY for logistic regression in a single-node scenario including commercial [MOSEK](https://www.mosek.com/).
+**5. Performance Comparison with [CVXPY](https://www.cvxpy.org/).** Our implementation significantly outperforms solvers from CVXPY for logistic regression in a single-node scenario including commercial [MOSEK](https://www.mosek.com/). Below is the initialisation and solve time, for extra metrics see Table 5,6,7 in the paper.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
   <caption>Table 2: Single-node simulation, n=142, FedNL-LS (B), ‖∇f(x<sup>last</sup>)‖ ≈ 9 · 10<sup>-10</sup>, FP64, 24 cores at 3.3 GHz.</caption>
