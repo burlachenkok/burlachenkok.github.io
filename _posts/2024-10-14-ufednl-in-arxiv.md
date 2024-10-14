@@ -27,7 +27,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 **1. Compute Effectiveness.** We addressed the challenge of executing computationally intensive multi-node simulations, achieving a remarkable **x1000** improvement in wall-clock time in the same hardware.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
-  <caption>Table 1: Single-node simulation, n=142, FedNL(B), r=1000, λ=0.001, α - option 2, FP64, 24 cores at 3.3 GHz.</caption>
+  <caption>Table 1: Single-node simulation, n=142, FedNL(B), r=1000, λ=0.001, α - option 2, FP64, 24 cores@3.3 GHz.</caption>
   <thead>
     <tr>
       <th>Client Compression</th>
@@ -96,9 +96,9 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 **5. Outpefrom best-practice solutions.** Our implementation significantly outperforms solvers from [CVXPY](https://www.cvxpy.org/) capable of training logistic regression in a single-node scenario including commercial [MOSEK](https://www.mosek.com/). Below is the initialization and solve time, for extra metrics see Appendix F.
 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
-  <caption>Table 2: Single-node simulation, n=142, FedNL-LS (B), ‖∇f(x<sup>last</sup>)‖ ≈ 9 · 10<sup>-10</sup>, FP64, 24 cores at 3.3 GHz.</caption>
+  <caption>Table 2: Single-node simulation, n=142, FedNL-LS (B), ‖∇f(x<sup>last</sup>)‖ ≈ 9 · 10<sup>-10</sup>, FP64, 24 cores@3.3 GHz.</caption>
   <thead>
-    <tr>
+    <tr style="border: 1px solid black;">
       <th>Solver</th>
       <th>W8A <br> d=301, n<sub>i</sub>=350</th>
       <th>A9A <br> d=124, n<sub>i</sub>=229</th>
@@ -106,85 +106,85 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td colspan="4" style="text-align:center;"><strong>Initialization Time (seconds)</strong></td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>CVXPY</td>
       <td>+2.54</td>
       <td>+2.33</td>
       <td>+2.28</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>FedNL</td>
       <td>+0.939</td>
       <td>+0.196</td>
       <td>+0.081</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td colspan="4" style="text-align:center;"><strong>Solving Time (seconds)</strong></td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>CLARABEL</td>
       <td>19.24</td>
       <td>10.83</td>
       <td>2.50</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>ECOS</td>
       <td>22.22</td>
       <td>8.02</td>
       <td>2.55</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>ECOS-BB</td>
       <td>22.00</td>
       <td>8.00</td>
       <td>2.12</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>SCS</td>
       <td>31.14</td>
       <td>19.36</td>
       <td>4.57</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>MOSEK</td>
       <td>16.90</td>
       <td>9.59</td>
       <td>3.55</td>
     </tr>
-    <tr style="background-color: #CCFFCC;border-style:solid;">
+    <tr style="background-color:#CCFFCC;border: 1px solid black;">
       <td>FedNL-LS/RandK[k=8d]</td>
       <td>4.35</td>
       <td>0.34</td>
       <td>0.12</td>
     </tr>
-    <tr style="background-color: #CCFFCC;border-style:solid;">
+    <tr style="background-color: #CCFFCC;border: 1px solid black;">
       <td>FedNL-LS/RandSeqK[k=8d]</td>
       <td>3.34</td>
       <td>0.29</td>
       <td>0.06</td>
     </tr>
-    <tr style="background-color: #CCFFCC;border-style:solid;">
+    <tr style="background-color: #CCFFCC;border: 1px solid black;">
       <td>FedNL-LS/TopK[k=8d]</td>
       <td>4.49</td>
       <td>0.46</td>
       <td>0.10</td>
     </tr>
-    <tr style="background-color: #CCFFCC;border-style:solid;">
+    <tr style="background-color: #CCFFCC;border: 1px solid black;">
       <td>FedNL-LS/TopLEK[k=8d]</td>
       <td>4.79</td>
       <td>0.34</td>
       <td>0.61</td>
     </tr>
-    <tr style="background-color: #CCFFCC;border-style:solid;">
+    <tr style="background-color: #CCFFCC;border: 1px solid black;">
       <td>FedNL-LS/Natural</td>
       <td>3.13</td>
       <td>0.17</td>
       <td>0.08</td>
     </tr>
-    <tr style="background-color: #CCFFCC;border-style:solid;">
+    <tr style="background-color: #CCFFCC;border: 1px solid black;">
       <td>FedNL-LS/Identical</td>
       <td>0.63</td>
       <td>0.09</td>
@@ -198,7 +198,7 @@ Our implementation outperforms solvers from [Apache Spark](https://spark.apache.
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
   <caption>Table 3: Multi-node setting, n=50 clients, 1 master, |∇f(x<sup>last</sup>)|≈ 10<sup>-9</sup>, FP64, 1 CPU core/node.</caption>
   <thead>
-    <tr>
+    <tr style="border: 1px solid black;">
       <th>Solution</th>
       <th>W8A <br> d=301, n<sub>i</sub>=994</th>
       <th>A9A <br> d=124, n<sub>i</sub>=651</th>
@@ -206,31 +206,31 @@ Our implementation outperforms solvers from [Apache Spark](https://spark.apache.
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td colspan="4" style="text-align:center;"><strong>Initialization Time (seconds)</strong></td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>Ray</td>
       <td colspan="3" style="text-align:center;">+52.0</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>Spark</td>
       <td colspan="3" style="text-align:center;">+25.82</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>FedNL</td>
       <td colspan="3" style="text-align:center;">+1.1</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td colspan="4" style="text-align:center;"><strong>Solving Time (seconds)</strong></td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>Ray</td>
       <td>116.17</td>
       <td>28.13</td>
       <td>11.54</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>Spark</td>
       <td>36.65</td>
       <td>33.59</td>
