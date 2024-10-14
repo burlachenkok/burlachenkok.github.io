@@ -13,7 +13,7 @@ Existing work on Federated Newton Learning (FedNL) by **[Mher Safaryan](https://
 
 # Links
 
-- **The arXiv preprint**: [Unlocking FedNL: Self-Contained Compute-Optimized Implementation](https://arxiv.org/abs/2410.08760)
+- **The arXiv preprint**: [https://arxiv.org/abs/2410.08760](https://arxiv.org/abs/2410.08760)
 - **Podcast** generated via [Google NotebookLM](https://notebooklm.google/) in an entertaining format:
     - **Online**: [Listen here](https://www.podbean.com/eas/pb-zs34b-16d2942)
     - **Offline**: [Download here](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3)
