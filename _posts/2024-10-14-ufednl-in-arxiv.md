@@ -29,49 +29,49 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 <table style="border-style: solid; width: 100%; border-collapse:collapse; border:1px solid">
   <caption>Table 1: Single-node simulation, n=142, FedNL(B), r=1000, λ=0.001, α - option 2, FP64, 24 cores@3.3 GHz.</caption>
   <thead>
-    <tr>
+    <tr style="border: 1px solid black;">
       <th>Client Compression</th>
       <th>$$\|\nabla f(x^{last})\|$$</th>
       <th>Total Time (seconds)</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">1. RandK[K=8d] (We)</td>
       <td>3 &#215; 10<sup>-18</sup></td>
       <td>18.84</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>2. RandK[k=8d] (Base)</td>
       <td>3 &#215; 10<sup>-18</sup></td>
       <td>17,510.00</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">3. TopK[K=8d] (We)</td>
       <td>2.80 &#215; 10<sup>-18</sup></td>
       <td>18.72</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td>4. TopK[k=8d] (Base)</td>
       <td>2.80 &#215; 10<sup>-18</sup></td>
       <td>19,770.00</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">5. RandSeqK[K=8d] (We)</td>
       <td>3.19 &#215; 10<sup>-18</sup></td>
       <td>16.70</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">6. TopLEK[K=8d] (We)</td>
       <td>3.45 &#215; 10<sup>-18</sup></td>
       <td>18.48</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">7. Natural (We)</td>
       <td>3.10 &#215; 10<sup>-18</sup></td>
       <td>27.02</td>
     </tr>
-    <tr>
+    <tr style="border: 1px solid black;">
       <td style="background-color: #CCFFCC;">8. Ident (We)</td>
       <td>2.46 &#215; 10<sup>-18</sup></td>
       <td>24.12</td>
@@ -100,9 +100,9 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
   <thead>
     <tr style="border: 1px solid black;">
       <th>Solver</th>
-      <th>W8A <br> $$d=301$$, $$n_i=350$$</th>
-      <th>A9A <br> $$d=124$$, $$n_i=229$$</th>
-      <th>Phishing <br> $$d=69$$, $$n_i=77$$</th>
+      <th>W8A <br> $$d=301,n_i=350$$</th>
+      <th>A9A <br> $$d=124,n_i=229$$</th>
+      <th>Phishing <br> $$d=69,n_i=77$$</th>
     </tr>
   </thead>
   <tbody>
@@ -200,9 +200,9 @@ Our implementation outperforms solvers from [Apache Spark](https://spark.apache.
   <thead>
     <tr style="border: 1px solid black;">
       <th>Solution</th>
-      <th>W8A <br> $$d=301$$, $$n_i=994$$</th>
-      <th>A9A <br> $$d=124$$, $$n_i=651$$</th>
-      <th>Phishing <br> $$d=69$$, $$n_i=221$$</th>
+      <th>W8A <br> $$d=301,n_i=994$$</th>
+      <th>A9A <br> $$d=124,n_i=651$$</th>
+      <th>Phishing <br> $$d=69,n_i=221$$</th>
     </tr>
   </thead>
   <tbody>
@@ -292,6 +292,7 @@ Much like the bonus levels in video games, for example, as in [Crash Bandicoot](
 * (d) Perseverance (*Avoid traps and navigate carefully in the bonus level with a limited visible environment*)
 
 ---
+<div style="text-align:center">
 
 <table style="text-align:center;">
 <tr>
@@ -299,3 +300,5 @@ Much like the bonus levels in video games, for example, as in [Crash Bandicoot](
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="155px" src="https://burlachenkok.github.io/materials/crash-bandicoot-web.jpg"/> </td>
 </tr>
 </table>
+
+</div>
