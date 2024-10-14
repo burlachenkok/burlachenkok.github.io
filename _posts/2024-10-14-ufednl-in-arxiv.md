@@ -33,9 +33,9 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
   <caption>Table 1: Single-node simulation, n=142, FedNL(B), r=1000, λ=0.001, α - option 2, FP64, 24 cores@3.3 GHz.</caption>
   <thead>
     <tr style="border: 1px solid black;">
-      <th>Client Compression</th>
-      <th>$$\|\nabla f(x^{last})\|$$</th>
-      <th>Total Time (seconds)</th>
+      <th style="border: 1px solid black;">Client Compression</th>
+      <th style="border: 1px solid black;">$$\|\nabla f(x^{last})\|$$</th>
+      <th style="border: 1px solid black;">Total Time (seconds)</th>
     </tr>
   </thead>
   <tbody>
@@ -90,7 +90,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 - Buildable with MSVC (minimum 19.30), GNU GCC/G++ (minimum 11.4), LLVM CLANG (minimum 10.0)
 - Tested on various CPU architectures (AMD64/x86_64, ARM v7, ARM64 v8, PowerPC PPC64LE, RISC-V 64, IBM Z Series)
 - Explicit (optional) utilization of processor supplementary instruction sets: SSE2, AVX2, AVX-512, ARM Neon
-- Modular design for handling complexity and ensuring code quality with a catalog of tools
+- Modular design for handling complexity and ensuring code quality
 - Support for creating oracles for optimization problems using NVIDIA CUDA (Compute Capability 7.0 to 9.0)
 - Implementation can be utilized as native OS executable binaries, dynamic libraries, static libraries, and extension modules for languages supported by [SWIG](https://www.swig.org/).
 
@@ -102,10 +102,10 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
   <caption>Table 2: Single-node simulation, n=142, FedNL-LS (B), FP64, 24 cores@3.3 GHz.</caption>
   <thead>
     <tr style="border: 1px solid black;">
-      <th>Solver</th>
-      <th>W8A <br> $$d=301,n_i=350$$</th>
-      <th>A9A <br> $$d=124,n_i=229$$</th>
-      <th>Phishing <br> $$d=69,n_i=77$$</th>
+      <th style="border: 1px solid black;">Solver</th>
+      <th style="border: 1px solid black;">W8A <br> $$d=301,n_i=350$$</th>
+      <th style="border: 1px solid black;">A9A <br> $$d=124,n_i=229$$</th>
+      <th style="border: 1px solid black;">Phishing <br> $$d=69,n_i=77$$</th>
     </tr>
   </thead>
   <tbody>
@@ -202,10 +202,10 @@ Our implementation outperforms solvers from [Apache Spark](https://spark.apache.
   <caption>Table 3: Multi-node setting, n=50 clients, 1 master, FP64, 1 CPU core/node.</caption>
   <thead>
     <tr style="border: 1px solid black;">
-      <th>Solution</th>
-      <th>W8A <br> $$d=301,n_i=994$$</th>
-      <th>A9A <br> $$d=124,n_i=651$$</th>
-      <th>Phishing <br> $$d=69,n_i=221$$</th>
+      <th style="border: 1px solid black;">Solution</th>
+      <th style="border: 1px solid black;">W8A <br> $$d=301,n_i=994$$</th>
+      <th style="border: 1px solid black;">A9A <br> $$d=124,n_i=651$$</th>
+      <th style="border: 1px solid black;">Phishing <br> $$d=69,n_i=221$$</th>
     </tr>
   </thead>
   <tbody>
