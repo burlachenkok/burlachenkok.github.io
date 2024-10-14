@@ -18,7 +18,7 @@ In the presented research, **[Konstantin Burlachenko](https://burlachenkok.githu
 # Links
 
 - **The arXiv preprint**: [https://arxiv.org/abs/2410.08760](https://arxiv.org/abs/2410.08760)
-- **Podcast** generated via [NotebookLM](https://notebooklm.google/) in an entertaining format: [(i) Listen online here](https://www.podbean.com/eas/pb-zs34b-16d2942) and [(ii) Download offline here](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3).
+- **Podcast** generated via [NotebookLM](https://notebooklm.google/) in an entertaining format: [(i) online](https://www.podbean.com/eas/pb-zs34b-16d2942) and [(ii) offline](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3).
 
 
 # Abstract
