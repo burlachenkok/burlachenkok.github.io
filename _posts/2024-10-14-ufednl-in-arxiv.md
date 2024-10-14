@@ -292,7 +292,6 @@ Much like the bonus levels in the video game [Crash Bandicoot](https://en.m.wiki
 * (d) Perseverance (*Avoid traps and navigate carefully in the bonus level with a limited visible environment*)
 
 ---
-<div style="text-align:center">
 
 <table style="text-align:center;">
 <tr>
@@ -300,5 +299,3 @@ Much like the bonus levels in the video game [Crash Bandicoot](https://en.m.wiki
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="155px" src="https://burlachenkok.github.io/materials/crash-bandicoot-web.jpg"/> </td>
 </tr>
 </table>
-
-</div>
