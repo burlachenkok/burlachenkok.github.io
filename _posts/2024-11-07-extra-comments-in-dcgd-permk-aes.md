@@ -25,9 +25,7 @@ In the present post, I'd like to share some additional comments on our work, whi
 
 # Challenging the Status Quo on the un-applicability of Classical Ciphers for FL
 
-Our work opens up new possibilities for applying **Classical Cryptography** to **Federated Learning (FL)** and challenges existing claims about its limitations. 
-
-These claims have been stated by various scientists and researchers, including:
+Our work opens up new possibilities for applying **Classical Cryptography** to **Federated Learning (FL)** and challenges existing claims about its limitations made by various scientists:
 
 * **[ G.Kaissis, M. Makowski, D.Rückert, R.Braren: Secure, privacy-preserving, and federated machine learning in medical imaging, Nature Machine Intelligence, 2020.](https://www.nature.com/articles/s42256-020-0186-1)**
     > "Since only certain mathematical operations, such as addition and multiplication, are homomorphic, the application of HE to neural networks requires the operations defined within the algorithm to conform to these limitations and thus standard encryption algorithms like the advanced encryption standard (AES) cannot be used..."
