@@ -27,7 +27,7 @@ Links to our paper and recorded video with presentation:
 ---
 
 I was glad to work with my peers and hope for further cooperation with them [Abdulmajeed Alrowith](https://www.linkedin.com/in/aalrowithi?originalSubdomain=sa), 
-[Fahad Ali Albalawi](https://www.linkedin.com/in/fahad-albalawi-49b55759/), Prof. [Peter Richtárik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/).
+[Fahad Ali Albalawi](https://www.linkedin.com/in/fahad-albalawi-49b55759/), Prof. [Peter RichtÃ¡rik](https://richtarik.org/) from [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/).
 
 Traditional AI methodologies necessitate centralized data collection, which becomes impractical when problems with network communication, data privacy, or storage capacity arise. 
 Federated Learning (<span style="color:rgb(122,76,24)">FL</span>) offers a paradigm that empowers distributed AI model training without collecting raw data. 
@@ -45,16 +45,16 @@ We provide an Appendix for our work that includes additional details about our f
 What is important our work opens a new possibility for applying Classical Cryptography to <span style="color:rgb(122,76,24)">FL</span> and challenges existing claims about its limitations 
 which have been stated by serious scientists in various venues:
 
-* At Nature by [G.Kaissis, M. Makowski, D.Rückert, R.Braren: Secure, privacy-preserving, and federated machine learning in medical imaging. Nature Machine Intelligence, 2020.](https://www.nature.com/articles/s42256-020-0186-1)
+* At Nature by [G.Kaissis, M. Makowski, D.RÃ¼ckert, R.Braren: Secure, privacy-preserving, and federated machine learning in medical imaging. Nature Machine Intelligence, 2020.](https://www.nature.com/articles/s42256-020-0186-1)
 
-> ..Since only certain mathematical operations, such as addition and multiplication, are homomorphic, the application of HE to neural networks
-requires the operations defined within the algorithm to conform to these limitations and thus standard encryption algorithms like the advanced encryption standard (AES) cannot be used...
+> *..Since only certain mathematical operations, such as addition and multiplication, are homomorphic, the application of HE to neural networks
+requires the operations defined within the algorithm to conform to these limitations and thus standard encryption algorithms like the advanced encryption standard (AES) cannot be used...*
 
 
 * At SIAM by [Kristin E. Lauter: Private Artificial Intelligence: Machine Learning on Encrypted Data, 2022.](https://www.siam.org/publications/siam-news/articles/private-artificial-intelligence-machine-learning-on-encrypted-data) stated that
 
 > ..One way to protect privacy is to lock down sensitive information by encrypting data before it is used for training or prediction. 
-However, traditional encryption schemes do not allow for any computation on encrypted data. We therefore need a new kind of encryption that maintains the data’s structure so that meaningful computation is possible...
+However, traditional encryption schemes do not allow for any computation on encrypted data. We therefore need a new kind of encryption that maintains the dataâ€™s structure so that meaningful computation is possible...
 
 * At Cybersecurity by [Pan Y. et al: FedSHE privacy-preserving and efficient federated learning with adaptive segmented CKKS homomorphic encryption, 2024] 
 
