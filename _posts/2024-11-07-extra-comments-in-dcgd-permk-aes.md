@@ -56,7 +56,7 @@ requires the operations defined within the algorithm to conform to these limitat
 > *..One way to protect privacy is to lock down sensitive information by encrypting data before it is used for training or prediction. 
 However, traditional encryption schemes do not allow for any computation on encrypted data. We therefore need a new kind of encryption that maintains the data’s structure so that meaningful computation is possible...*
 
-* At Cybersecurity by [Pan Y. et al: FedSHE privacy-preserving and efficient federated learning with adaptive segmented CKKS homomorphic encryption, 2024] 
+* At Cybersecurity by [Pan Y. et al: FedSHE privacy-preserving and efficient federated learning with adaptive segmented CKKS homomorphic encryption, 2024](https://cybersecurity.springeropen.com/articles/10.1186/s42400-024-00232-w)
 
 > *...Traditional encryption schemes such as AES and DES necessitate decryption of ciphertext before performing computations, rendering them unsuitable for FL...*
 
