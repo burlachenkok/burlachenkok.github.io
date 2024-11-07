@@ -12,7 +12,16 @@ Homomorphic encryption has been a highly discussed topic in recent research, par
 
 The result of our discovery is the work, titled **"Federated Learning is Better with Non-Homomorphic Encryption,"** which was accepted as part of the technical program for the [4th International Workshop on Distributed Machine Learning (DistributedML 2023)](https://distributedml.org/), co-located with [ACM CoNext](https://co-next.org/) on **8th December 2023**. 
 
-Details and Abstraxt of our work are available here: [https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/](https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/)
+* Details and Abstraxt of our work are available here: [https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/](https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/)
+
+Links to our paper and recorded video with presentation:
+
+* [https://dl.acm.org/doi/10.1145/3630048.3630182](https://dl.acm.org/doi/10.1145/3630048.3630182) - the official publication.
+
+* [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074) - a bit extended version of the official publication.
+
+* [https://www.youtube.com/watch?v=c0xkiP3cRyY](https://www.youtube.com/watch?v=c0xkiP3cRyY) - the recorded video of the presentation.
+
 
 In the present post, I'd like to share some additional comments on our work, which I hope will inspire further research on the subject of non-homomorphic encryption in Federated Learning.
 
