@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Extra Comments on the paper Federated Learning is Better with Non-Homomorphic Encryption
-published: false
+published: true
 ---
 
 Extra Comments on the paper Federated Learning is Better with Non-Homomorphic Encryption *Published on 05 December 2023*
 
 ---
 
-Homomorphic encryption has been a highly discussed topic in recent research, particularly regarding its potential use in privacy-preserving Federated Learning (FL). In collaboration with my great peers, [Abdulmajeed Alrowith](https://www.linkedin.com/in/aalrowithi?originalSubdomain=sa), [Fahad Ali Albalawi](https://www.linkedin.com/in/fahad-albalawi-49b55759/), and Prof. [Peter Richtárik](https://richtarik.org/) we explored an intriguing connection between **discrete math cryptographic primitives** and **continuous optimization**.
+Homomorphic encryption has been a highly discussed topic in recent research, particularly regarding its potential use in privacy-preserving Federated Learning (FL). In collaboration with my great peers, [Abdulmajeed Alrowith](https://www.linkedin.com/in/aalrowithi?originalSubdomain=sa), [Fahad Ali Albalawi](https://www.linkedin.com/in/fahad-albalawi-49b55759/), and Prof. [Peter RichtÃ¡rik](https://richtarik.org/) we explored an intriguing connection between **discrete math cryptographic primitives** and **continuous optimization**.
 
 Our work, titled **"Federated Learning is Better with Non-Homomorphic Encryption,"** was accepted as part of the technical program for the [4th International Workshop on Distributed Machine Learning (DistributedML 2023)](https://distributedml.org/), which was co-located with [CoNext](https://co-next.org/) on **8th December 2023**. 
 
@@ -39,11 +39,11 @@ Our work opens up new possibilities for applying **Classical Cryptography** to *
 
 These claims have been stated by various scientists and researchers, including:
 
-* **[ G.Kaissis, M. Makowski, D.Rückert, R.Braren: Secure, privacy-preserving, and federated machine learning in medical imaging, Nature Machine Intelligence, 2020.](https://www.nature.com/articles/s42256-020-0186-1)**
+* **[ G.Kaissis, M. Makowski, D.RÃ¼ckert, R.Braren: Secure, privacy-preserving, and federated machine learning in medical imaging, Nature Machine Intelligence, 2020.](https://www.nature.com/articles/s42256-020-0186-1)**
     > "Since only certain mathematical operations, such as addition and multiplication, are homomorphic, the application of HE to neural networks requires the operations defined within the algorithm to conform to these limitations and thus standard encryption algorithms like the advanced encryption standard (AES) cannot be used..."
 
 * **[Kristin E. Lauter: Private Artificial Intelligence: Machine Learning on Encrypted Data, SIAM, 2022.](https://www.siam.org/publications/siam-news/articles/private-artificial-intelligence-machine-learning-on-encrypted-data)**
-    > "One way to protect privacy is to lock down sensitive information by encrypting data before it is used for training or prediction. However, traditional encryption schemes do not allow for any computation on encrypted data. We therefore need a new kind of encryption that maintains the data’s structure so that meaningful computation is possible..."
+    > "One way to protect privacy is to lock down sensitive information by encrypting data before it is used for training or prediction. However, traditional encryption schemes do not allow for any computation on encrypted data. We therefore need a new kind of encryption that maintains the dataâ€™s structure so that meaningful computation is possible..."
 
 * **[ Pan Y. et al: FedSHE privacy-preserving and efficient federated learning with adaptive segmented CKKS homomorphic encryption, Cybersecurity, 2024.](https://cybersecurity.springeropen.com/articles/10.1186/s42400-024-00232-w)**
     > "Traditional encryption schemes such as AES and DES necessitate decryption of ciphertext before performing computations, rendering them unsuitable for FL..."
