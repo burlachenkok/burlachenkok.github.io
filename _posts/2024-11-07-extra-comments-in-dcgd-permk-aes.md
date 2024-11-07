@@ -10,11 +10,7 @@ Extra Comments on the paper Federated Learning is Better with Non-Homomorphic En
 
 Homomorphic encryption has been a highly discussed topic in recent research, particularly regarding its potential use in privacy-preserving Federated Learning (FL). In collaboration with my peers, [Abdulmajeed Alrowith](https://www.linkedin.com/in/aalrowithi?originalSubdomain=sa), [Fahad Ali Albalawi](https://www.linkedin.com/in/fahad-albalawi-49b55759/), and Prof. [Peter Richtárik](https://richtarik.org/) we explored an intriguing connection between **discrete math cryptographic primitives** and **continuous optimization primitives**.
 
-The result of our discovery is the work, titled **"Federated Learning is Better with Non-Homomorphic Encryption,"** which was accepted as part of the technical program for the [4th International Workshop on Distributed Machine Learning (DistributedML 2023)](https://distributedml.org/), co-located with [ACM CoNext](https://co-next.org/) on **8th December 2023**. 
-
-* Details and Abstraxt of our work are available here: [https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/](https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/)
-
-Links to our paper and recorded video with presentation:
+The result of our discovery is the work, titled **"Federated Learning is Better with Non-Homomorphic Encryption,"** which was accepted as part of the technical program for the [4th International Workshop on Distributed Machine Learning (DistributedML 2023)](https://distributedml.org/), co-located with [ACM CoNext](https://co-next.org/) on **8th December 2023**.
 
 * [https://dl.acm.org/doi/10.1145/3630048.3630182](https://dl.acm.org/doi/10.1145/3630048.3630182) - the official publication.
 
@@ -47,7 +43,7 @@ These claims have been stated by various scientists and researchers, including:
 
 ---
 
-# About Appendix in the Paper
+# Comments About Appendix of the Paper
 
 Our paper includes an Appendix with additional details about our framework:
 
