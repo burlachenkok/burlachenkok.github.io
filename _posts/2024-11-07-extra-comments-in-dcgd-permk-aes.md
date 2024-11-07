@@ -18,7 +18,7 @@ In the present post, I'd like to share some additional comments on our work, whi
 
 ---
 
-# Extra Comment A: Challenging the Status Quo on the un-applicability of classical Ciphers for FL
+# Challenging the Status Quo on the un-applicability of Classical Ciphers for FL
 
 Our work opens up new possibilities for applying **Classical Cryptography** to **Federated Learning (FL)** and challenges existing claims about its limitations. 
 
@@ -38,7 +38,7 @@ These claims have been stated by various scientists and researchers, including:
 
 ---
 
-## Extra Comment B: About Appendix
+# About Appendix in the Paper
 
 Our paper includes an Appendix with additional details about our framework:
 
