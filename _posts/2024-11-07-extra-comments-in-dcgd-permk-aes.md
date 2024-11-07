@@ -53,15 +53,15 @@ requires the operations defined within the algorithm to conform to these limitat
 
 * At SIAM by [Kristin E. Lauter: Private Artificial Intelligence: Machine Learning on Encrypted Data, 2022.](https://www.siam.org/publications/siam-news/articles/private-artificial-intelligence-machine-learning-on-encrypted-data) stated that
 
-> ..One way to protect privacy is to lock down sensitive information by encrypting data before it is used for training or prediction. 
-However, traditional encryption schemes do not allow for any computation on encrypted data. We therefore need a new kind of encryption that maintains the data’s structure so that meaningful computation is possible...
+> *..One way to protect privacy is to lock down sensitive information by encrypting data before it is used for training or prediction. 
+However, traditional encryption schemes do not allow for any computation on encrypted data. We therefore need a new kind of encryption that maintains the data’s structure so that meaningful computation is possible...*
 
 * At Cybersecurity by [Pan Y. et al: FedSHE privacy-preserving and efficient federated learning with adaptive segmented CKKS homomorphic encryption, 2024] 
 
-> ...Traditional encryption schemes such as AES and DES necessitate decryption of ciphertext before performing computations, rendering them unsuitable for FL...
+> *...Traditional encryption schemes such as AES and DES necessitate decryption of ciphertext before performing computations, rendering them unsuitable for FL...*
 
 
-* arXiv preprint [N.Jain, A.Cherukuri: Revisiting Fully Homomorphic Encryption Schemes, 2023.](https://arxiv.org/abs/2305.05904)
+* arXiv preprint from School of Information Technology and Engineering (SITE) Vellore Institute of Technology [N.Jain, A.Cherukuri: Revisiting Fully Homomorphic Encryption Schemes, 2023.](https://arxiv.org/abs/2305.05904)
 
-> ..Encryption methods like RSA, AES, and DES are not homomorphic, meaning that they require the data to be decrypted before any computation can be performed. 
-This makes it challenging to use these encryption methods in situations where data privacy is a critical concern, such as cloud computing and data analytics.
+> *..Encryption methods like RSA, AES, and DES are not homomorphic, meaning that they require the data to be decrypted before any computation can be performed. 
+This makes it challenging to use these encryption methods in situations where data privacy is a critical concern, such as cloud computing and data analytics...*
