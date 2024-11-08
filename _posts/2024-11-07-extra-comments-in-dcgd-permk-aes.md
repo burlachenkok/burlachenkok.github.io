@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Extra Comments on the Paper Federated Learning is Better with Non-Homomorphic Encryption
-published: true
+published: false
 ---
 
 Extra Comments on the paper Federated Learning is Better with Non-Homomorphic Encryption *Published on 05 December 2023*
 
 ---
 
-Homomorphic Encryption has been a highly discussed topic in recent research, particularly regarding its potential use in privacy-preserving Federated Learning (FL). With my peers, [Abdulmajeed Alrowith](https://www.linkedin.com/in/aalrowithi?originalSubdomain=sa), [Fahad Ali Albalawi](https://www.linkedin.com/in/fahad-albalawi-49b55759/) (Saudi Data and AI Authority) and Prof. [Peter Richtárik](https://richtarik.org/) (from King Abdullah University of Science and Technology) we have discovered an intriguing connection between **discrete math cryptographic primitives** and **continuous optimization primitives**.
+Homomorphic Encryption has been a highly discussed topic in recent research, particularly regarding its potential use in privacy-preserving Federated Learning (FL). With my peers, [Abdulmajeed Alrowith](https://www.linkedin.com/in/aalrowithi?originalSubdomain=sa), [Fahad Ali Albalawi](https://www.linkedin.com/in/fahad-albalawi-49b55759/) (Saudi Data and AI Authority) and Prof. [Peter Richtárik](https://richtarik.org/) (from King Abdullah University of Science and Technology) we have discovered an intriguing way to not use  between **discrete math cryptographic primitives** and **continuous optimization primitives**.
 
 The result of our discovery is the work, titled **"Federated Learning is Better with Non-Homomorphic Encryption,"** which was accepted as part of the technical program for the [4th International Workshop on Distributed Machine Learning (DistributedML 2023)](https://distributedml.org/), co-located with [ACM CoNext](https://co-next.org/) on **8th December 2023**.
 
