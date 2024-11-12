@@ -21,7 +21,7 @@ It turns out that his algorithmic tools and methodologies have broader applicabi
 * Cryptography (see [Link-3](https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/))
 
 
-Konstantin aims for either significant practical improvements over status-quo DeFacto solutions or bringing new perspectives on theoretical optimal algorithms.
+Konstantin aims for either significant practical improvements over status quo solutions or bringing new perspectives on theoretical optimal algorithms.
 
 
 ## Conferences
