@@ -18,9 +18,9 @@ Between 2015 and 2019, Konstantin participated in the [Non-Degree Option Program
 Konstantin's current research centers on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/). 
 His work leverages algorithmic tools and methodologies with broader applicability beyond Federated Learning, covering areas such as:
 
-* *Large Language Models* ([link-1](https://burlachenkok.github.io/pv-tuning-neurips/))
-* *Distributed Systems* ([link-2](https://burlachenkok.github.io/ufednl-in-arxiv/))
-* *Cryptography* ([link-3](https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/))
+* Large Language Models ([link-1](https://burlachenkok.github.io/pv-tuning-neurips/))
+* Distributed Systems ([link-2](https://burlachenkok.github.io/ufednl-in-arxiv/))
+* Cryptography ([link-3](https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/))
 
 
 In each project, Konstantin aims for either significant practical improvements over existing solutions or bring new perspectives on optimal algorithms.
