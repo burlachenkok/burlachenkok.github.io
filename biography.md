@@ -13,8 +13,8 @@ He earned his M.S. degree in Computer Science and Control Systems from [Bauman M
 
 ## Research Focus
 
-Konstantin's current research centers on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/). 
-It turns out that his algorithmic tools and methodologies have a broader applicability beyond Federated Learning, covering areas such as:
+Konstantin's current research centers on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/).
+It turns out that his algorithmic tools and methodologies have broader applicability beyond Federated Learning, covering areas such as:
 
 * Large Language Models (see [Link-1](https://burlachenkok.github.io/pv-tuning-neurips/))
 * Distributed Systems (see [Link-2](https://burlachenkok.github.io/ufednl-in-arxiv/))
