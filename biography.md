@@ -4,7 +4,7 @@ title: Biography
 permalink: /biography/
 ---
 
-Konstantin Burlachenko is a fourth-year Computer Science Ph.D. candidate and a member of [Professor Peter Richtárik's](https://richtarik.org/) Optimization and Machine Learning Lab which is a part of the [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai) at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) led by [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/).
+Konstantin Burlachenko is a fifth-year Computer Science Ph.D. candidate and a member of [Professor Peter Richtárik's](https://richtarik.org/) Optimization and Machine Learning Lab which is a part of the [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai) at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) led by [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/).
 
 He obtained an M.S. degree in Computer Science and Control Systems from the [Bauman Moscow State University](http://bmstu.ru/) in 2009. After his graduation, he worked as a Senior Engineer for [Acronis](https://www.acronis.com/),[Yandex](https://en.wikipedia.org/wiki/Yandex),[NVIDIA](https://developer.nvidia.com/), and as a Principal Engineer for [HUAWEI](https://huawei.ru/).
 
