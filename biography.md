@@ -14,14 +14,14 @@ He earned his M.S. degree in Computer Science and Control Systems from [Bauman M
 ## Research Focus
 
 Konstantin's current research centers on Distributed Stochastic Optimization and [Federated Learning](https://research.google/pubs/pub45648/). 
-His work leverages algorithmic tools and methodologies with broader applicability beyond Federated Learning, covering areas such as:
+It turns out that his algorithmic tools and methodologies have a broader applicability beyond Federated Learning, covering areas such as:
 
-* Large Language Models ([Link-1](https://burlachenkok.github.io/pv-tuning-neurips/))
-* Distributed Systems ([Link-2](https://burlachenkok.github.io/ufednl-in-arxiv/))
-* Cryptography ([Link-3](https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/))
+* Large Language Models (see [Link-1](https://burlachenkok.github.io/pv-tuning-neurips/))
+* Distributed Systems (see [Link-2](https://burlachenkok.github.io/ufednl-in-arxiv/))
+* Cryptography (see [Link-3](https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/))
 
 
-In each project, Konstantin aims for either significant practical improvements over existing solutions or bring new perspectives on optimal algorithms.
+In each project, Konstantin aims for either significant practical improvements over existing solutions or to bring new perspectives on optimal algorithms.
 
 
 ## Conferences
