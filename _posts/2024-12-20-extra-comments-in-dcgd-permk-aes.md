@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Extra Comments on the Paper Federated Learning is Better with Non-Homomorphic Encryption
+title: Extra Comments on the Paper "[Federated Learning is Better with Non-Homomorphic Encryption](https://arxiv.org/abs/2312.02074)"
 published: true
 ---
 
-Extra Comments on the paper Federated Learning is Better with Non-Homomorphic Encryption *Published on 05 December 2023*
+Extra Comments on the paper "[Federated Learning is Better with Non-Homomorphic Encryption](https://arxiv.org/abs/2312.02074)" *Published on 05 December 2023*
 
 ---
 
