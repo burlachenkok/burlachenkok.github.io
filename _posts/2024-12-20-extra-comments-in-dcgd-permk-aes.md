@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extra Comments on the Paper Federated Learning is Better with Non-Homomorphic Encryption
+title: Additional Insights on - Federated Learning is Better with Non-Homomorphic Encryption
 published: true
 ---
 
