@@ -45,9 +45,10 @@ Our work opens up new possibilities for applying **Classical Cryptography** to *
 
 # Comments About Appendix of the Paper
 
-Our paper includes an Appendix with additional details about our framework:
+Our paper includes an Appendix providing additional details about our framework, including:
 
-* The impact of the optimization problem's dimension
-* Overlapping communication and computation during model training
-* Deployment options of our framework in various network topologies
-* Connections and influence of the work to other aspects of end-to-end DL training
+* The effect of the optimization problem's dimensionality.
+* Techniques for overlapping communication and computation during model training.
+* Deployment strategies for our framework across various network topologies.
+* The framework's connections to and influence on other aspects of end-to-end deep learning training.
+
