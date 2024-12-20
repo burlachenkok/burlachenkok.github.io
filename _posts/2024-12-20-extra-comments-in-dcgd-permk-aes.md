@@ -4,7 +4,7 @@ title: Additional Insights on - Federated Learning is Better with Non-Homomorphi
 published: true
 ---
 
-Extra Comments on the paper "[Federated Learning is Better with Non-Homomorphic Encryption](https://arxiv.org/abs/2312.02074)" *Published on 05 December 2023*
+Additional Insights on the paper "[Federated Learning is Better with Non-Homomorphic Encryption](https://arxiv.org/abs/2312.02074)" *Published on 05 December 2023*
 
 ---
 
