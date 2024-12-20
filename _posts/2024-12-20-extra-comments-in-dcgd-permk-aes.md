@@ -45,7 +45,7 @@ Our work opens up new possibilities for applying **Classical Cryptography** to *
 
 # Comments About Appendix of the Paper
 
-Our paper includes an Appendix providing additional details about our framework, including:
+Our paper includes an Appendix providing additional details, including:
 
 * The effect of the optimization problem's dimensionality.
 * Techniques for overlapping communication and computation during model training.
