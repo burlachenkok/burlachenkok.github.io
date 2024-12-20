@@ -55,3 +55,15 @@ Our paper includes an Appendix providing additional details, including:
 * Techniques for overlapping communication and computation during model training.
 * Deployment strategies for our framework across various network topologies.
 * The framework's connections to and influence on other aspects of end-to-end deep learning training.
+
+
+---
+
+<table style="text-align:center;">
+<tr>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/materials/SDAIA-Logo-2.svg"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/acm-logo.svg"/> </td>
+</tr>
+</table>
+
