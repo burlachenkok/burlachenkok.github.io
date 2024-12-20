@@ -19,7 +19,8 @@ In the presented research, **[Konstantin Burlachenko](https://burlachenkok.githu
 
 - **The arXiv preprint**: [https://arxiv.org/abs/2410.08760](https://arxiv.org/abs/2410.08760)
 - **Podcast** generated via [NotebookLM](https://notebooklm.google/) in an entertaining format: [(i) online](https://www.podbean.com/eas/pb-zs34b-16d2942) and [(ii) offline](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3).
-
+- **The arXiv preprint in KAUST Library repository**: [https://repository.kaust.edu.sa/items/2ac30675-eb6f-4980-a489-70abe79e888e](https://repository.kaust.edu.sa/items/2ac30675-eb6f-4980-a489-70abe79e888e)
+                
 
 # Abstract
 
