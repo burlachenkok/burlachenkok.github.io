@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extra Comments on the Paper Federated Learning is Better with Non-Homomorphic Encryption
-published: false
+published: true
 ---
 
 Extra Comments on the paper Federated Learning is Better with Non-Homomorphic Encryption *Published on 05 December 2023*
