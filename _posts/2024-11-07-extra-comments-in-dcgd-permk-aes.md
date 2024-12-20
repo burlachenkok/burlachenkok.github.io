@@ -12,11 +12,11 @@ Homomorphic Encryption has been a highly discussed topic in recent research, par
 
 The result of our discovery is the work, titled **"Federated Learning is Better with Non-Homomorphic Encryption,"** which was accepted as part of the technical program for the [4th International Workshop on Distributed Machine Learning (DistributedML 2023)](https://distributedml.org/), co-located with [ACM CoNext](https://co-next.org/) on **8th December 2023**.
 
-With the same security level our work practically outperforms CKKS in terms of communicated information from client to master and from master to client by factor 500x.
+With the same security level our work practically outperforms Cheon-Kim-Kim-Song(CKKS schema) in terms of communicated information from client to master and from master to client by factor **x500**.
 
 * [https://dl.acm.org/doi/10.1145/3630048.3630182](https://dl.acm.org/doi/10.1145/3630048.3630182) - the official publication.
 
-* [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074) - a bit extended version of the official publication.
+* [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074) - a bit extended version of the official publication available in arXiv.
 
 * [https://www.youtube.com/watch?v=c0xkiP3cRyY](https://www.youtube.com/watch?v=c0xkiP3cRyY) - the recorded video of the presentation.
 
