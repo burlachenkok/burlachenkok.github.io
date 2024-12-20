@@ -19,11 +19,11 @@ The result of our discovery is the work, titled **"Federated Learning is Better 
 
 With the same security level our work practically outperforms Cheon-Kim-Kim-Song([CKKS schema](https://eprint.iacr.org/2016/421.pdf)) in terms of communicated information from client to master and from master to client by factor **x500**.
 
-* [https://dl.acm.org/doi/10.1145/3630048.3630182](https://dl.acm.org/doi/10.1145/3630048.3630182) - the official publication.
+* [https://dl.acm.org/doi/10.1145/3630048.3630182](https://dl.acm.org/doi/10.1145/3630048.3630182) - the official publication
 
-* [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074) - a bit extended version of the official publication.
+* [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074) - a bit extended version of the official publication
 
-* [https://www.youtube.com/watch?v=c0xkiP3cRyY](https://www.youtube.com/watch?v=c0xkiP3cRyY) - the recorded presentation.
+* [https://www.youtube.com/watch?v=c0xkiP3cRyY](https://www.youtube.com/watch?v=c0xkiP3cRyY) - the recorded presentation
 
 
 ---
@@ -51,10 +51,10 @@ Our work opens up new possibilities for applying **Classical Cryptography** to *
 
 Our paper includes an Appendix providing additional details, including:
 
-* The effect of the optimization problem's dimensionality.
-* Techniques for overlapping communication and computation during model training.
-* Deployment strategies for our framework across various network topologies.
-* The framework's connections to and influence on other aspects of end-to-end deep learning training.
+* The effect of the optimization problem's dimensionality
+* Techniques for overlapping communication and computation during model training
+* Deployment strategies for our framework across various network topologies
+* The framework's connections to and influence on other aspects of end-to-end deep learning training
 
 
 ---
