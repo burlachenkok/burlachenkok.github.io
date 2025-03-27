@@ -63,7 +63,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 
 # Federated Learning is Better with Non-Homomorphic Encryption
 
-## PermK/AES Abstract
+## FL with Non-Homomorphic Encryption Abstract
 
 Traditional AI methodologies necessitate centralized data collection, which becomes impractical when facing problems with network communication, data privacy, or storage capacity. 
 Federated Learning (<span style="color:rgb(122,76,24)">FL</span>) offers a paradigm that empowers distributed AI model training without collecting raw data. There are different choices for providing privacy during <span style="color:rgb(122,76,24)">FL</span> training. One of the popular methodologies is employing Homomorphic Encryption (<span style="color:rgb(122,76,24)">HE</span>) - a breakthrough in privacy-preserving computation from Cryptography. However, these methods have a serious price in the form of extra computation and memory footprint.
@@ -71,7 +71,7 @@ To resolve these issues, we propose an innovative framework that synergizes perm
 Our framework offers a way to replace <span style="color:rgb(122,76,24)">HE</span> with cheaper Classical Cryptography primitives to provide security for the training process. It fosters asynchronous communication and provides flexible deployment options in various communication topologies. Our work opens a new possibility for applying Classical Cryptography to <span style="color:rgb(122,76,24)">FL</span> and challenges existing claims about its limitations which has been done in previous works.
 
 
-## PermK/AES Links
+## ## FL with Non-Homomorphic Encryption Links
 
 - **The arXiv preprint**: [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074)
 - **The arXiv preprint in KAUST Library repository**: [https://repository.kaust.edu.sa/items/e36d4766-a879-4ea4-94eb-6c969eadbebc](https://repository.kaust.edu.sa/items/e36d4766-a879-4ea4-94eb-6c969eadbebc)
