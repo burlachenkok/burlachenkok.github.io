@@ -8,7 +8,7 @@ On making BurTorch, uFedNL, and FL with Non-HE open-source.
 
 ---
 
-Collaboration is key to advancing these fields, and we are excited to open these three projects for future work with researchers, developers, and organizations eager to push the boundaries of innovation. 
+We are excited to open the following  three research projects for future work with researchers, developers, and organizations eager to push the boundaries of innovation. 
 
 1. [https://github.com/burlachenkok/burtorch](https://github.com/burlachenkok/burtorch)
 2. [https://github.com/burlachenkok/ufednl](https://github.com/burlachenkok/ufednl)
