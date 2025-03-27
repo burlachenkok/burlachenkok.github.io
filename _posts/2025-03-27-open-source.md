@@ -1,10 +1,10 @@
 ---
 layout: post
-title: On making three projects open source - BurTorch, uFedNL, and PermK/AES
+title: On Making Three Projects Open-Source
 published: true
 ---
 
-On making several projects open source - BurTorch, uFedNL, and PermK/AES.
+On making BurTorch, uFedNL, and PermK/AES open-source.
 
 ---
 
@@ -48,11 +48,11 @@ BurTorch achieves up to a x20 speedup and reduces memory up to x80 compared to [
 # Unlocking FedNL: Self-Contained Compute-Optimized Implementation
 
 
-## Unlocking FedNL Links Abstract
+## uFedNL Abstract
 
 Federated Learning (FL) is an emerging paradigm that enables intelligent agents to collaboratively train Machine Learning (ML) models in a distributed manner, eliminating the need for sharing their local data. The recent work ([arXiv:2106.02969](https://arxiv.org/abs/2106.02969)) introduces a family of Federated Newton Learn (FedNL) algorithms, marking a significant step toward applying second-order methods to FL and large-scale optimization. However, the reference FedNL prototype exhibits three serious practical drawbacks: (i) It requires 4.8 hours to launch a single experiment in a sever-grade workstation; (ii) The prototype only simulates a multi-node setting; (iii) Prototype integration into resource-constrained applications is challenging. To bridge the gap between theory and practice, we present a self-contained implementation of FedNL, FedNL-LS, and FedNL-PP for single-node and multi-node settings. Our work resolves the aforementioned issues and reduces the wall clock time by x1000. With this FedNL outperforms alternatives for training logistic regression in a single-node - CVXPY ([arXiv:1603.00943](https://arxiv.org/abs/1603.00943)), and in a multi-node - Apache Spark ([arXiv:1505.06807](https://arxiv.org/abs/1505.06807)), Ray/Scikit-Learn ([arXiv:1712.05889](http://arxiv.org/abs/1712.05889)). Finally, we propose two practical-orientated compressors for FedNL - adaptive TopLEK and cache-aware RandSeqK, which fulfill the theory of FedNL.
 
-## Unlocking FedNL Links
+## uFedNL Links
 
 - **The arXiv preprint**: [https://arxiv.org/abs/2410.08760](https://arxiv.org/abs/2410.08760)
 - **The arXiv preprint in KAUST Library repository**: [https://repository.kaust.edu.sa/items/2ac30675-eb6f-4980-a489-70abe79e888e](https://repository.kaust.edu.sa/items/2ac30675-eb6f-4980-a489-70abe79e888e)
@@ -63,16 +63,15 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 
 # Federated Learning is Better with Non-Homomorphic Encryption
 
-## Abstract
+## PermK/AES Abstract
 
 Traditional AI methodologies necessitate centralized data collection, which becomes impractical when facing problems with network communication, data privacy, or storage capacity. 
 Federated Learning (<span style="color:rgb(122,76,24)">FL</span>) offers a paradigm that empowers distributed AI model training without collecting raw data. There are different choices for providing privacy during <span style="color:rgb(122,76,24)">FL</span> training. One of the popular methodologies is employing Homomorphic Encryption (<span style="color:rgb(122,76,24)">HE</span>) - a breakthrough in privacy-preserving computation from Cryptography. However, these methods have a serious price in the form of extra computation and memory footprint.
 To resolve these issues, we propose an innovative framework that synergizes permutation-based compressors with Classical Cryptography, even though employing Classical Cryptography was assumed to be impossible in the past in the context of <span style="color:rgb(122,76,24)">FL</span>.
-Our framework offers a way to replace <span style="color:rgb(122,76,24)">HE</span> with cheaper Classical Cryptography primitives to provide security for the training process. It fosters asynchronous communication and provides flexible deployment options in various communication topologies.
+Our framework offers a way to replace <span style="color:rgb(122,76,24)">HE</span> with cheaper Classical Cryptography primitives to provide security for the training process. It fosters asynchronous communication and provides flexible deployment options in various communication topologies. Our work opens a new possibility for applying Classical Cryptography to <span style="color:rgb(122,76,24)">FL</span> and challenges existing claims about its limitations which has been done in previous works.
 
-Our work opens a new possibility for applying Classical Cryptography to <span style="color:rgb(122,76,24)">FL</span> and challenges existing claims about its limitations which has been done in works such as [ G.Kaissis, M. Makowski, D.Rückert, R.Braren: Secure, privacy-preserving, and federated machine learning in medical imaging, Nature Machine Intelligence, 2020.](https://www.nature.com/articles/s42256-020-0186-1), [Kristin E. Lauter: Private Artificial Intelligence: Machine Learning on Encrypted Data, SIAM, 2022.](https://www.siam.org/publications/siam-news/articles/private-artificial-intelligence-machine-learning-on-encrypted-data), [N. Jain, A. Cherukuri: Revisiting Fully Homomorphic Encryption Schemes, 2023.](https://arxiv.org/abs/2305.05904), [ Pan Y. et al: FedSHE privacy-preserving and efficient federated learning with adaptive segmented CKKS homomorphic encryption, Cybersecurity, 2024.](https://cybersecurity.springeropen.com/articles/10.1186/s42400-024-00232-w).
 
-## DCGD/PermK/AES Links
+## PermK/AES Links
 
 - **The arXiv preprint**: [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074)
 - **The arXiv preprint in KAUST Library repository**: [https://repository.kaust.edu.sa/items/e36d4766-a879-4ea4-94eb-6c969eadbebc](https://repository.kaust.edu.sa/items/e36d4766-a879-4ea4-94eb-6c969eadbebc)
