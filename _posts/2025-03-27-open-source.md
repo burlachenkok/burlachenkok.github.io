@@ -8,7 +8,7 @@ On making BurTorch, uFedNL, and PermK/AES open-source.
 
 ---
 
-I am excited to announce that several of my projects are now open-sourced. Collaboration is key to advancing the fields, and we are open to future work with researchers, developers, and organizations who are interested in pushing the boundaries. Whether it is improving this implementation, contributing new ideas, or creating applications on top of these projects.  We welcome your involvement! Feel free to reach out, open an issue, or submit a pull request on GitHub.
+Collaboration is key to advancing the fields, and we have opened three projects to future work with researchers, developers, and organizations who are interested in pushing the boundaries. Whether it is improving this implementation, contributing new ideas, or creating applications on top of these projects.  We welcome your involvement! Feel free to reach out, open an issue, or submit a pull request on GitHub.
 
 Below is a brief overview of each project from now on available in GitHub:
 
