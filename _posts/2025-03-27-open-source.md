@@ -84,6 +84,11 @@ Our work opens a new possibility for applying Classical Cryptography to <span st
     > "Traditional encryption schemes such as AES and DES necessitate decryption of ciphertext before performing computations, rendering them unsuitable for FL..."
 
 
+## DCGD/PermK/AES Links
+
+- **The arXiv preprint**: [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074)
+- **The arXiv preprint in KAUST Library repository**: [https://repository.kaust.edu.sa/items/e36d4766-a879-4ea4-94eb-6c969eadbebc](https://repository.kaust.edu.sa/items/e36d4766-a879-4ea4-94eb-6c969eadbebc)
+
 ---
 
 <center>
