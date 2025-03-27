@@ -37,6 +37,7 @@ BurTorch achieves up to a x20 speedup and reduces memory up to x80 compared to [
     - (i) online: [https://www.podbean.com/eas/pb-en4mf-184b9bf](https://www.podbean.com/eas/pb-en4mf-184b9bf)
     - (ii) offline: [https://burlachenkok.github.io/podcasts/burtorch-generated-interview.mp3](https://burlachenkok.github.io/podcasts/burtorch-generated-interview.mp3)
 - **The arXiv preprint in KAUST Library repository**: [https://repository.kaust.edu.sa/bitstreams/0997f91f-441a-4f16-9003-3e33e729134e/download](https://repository.kaust.edu.sa/bitstreams/0997f91f-441a-4f16-9003-3e33e729134e/download)
+- **The GitHub repository**: [https://github.com/burlachenkok/burtorch](https://github.com/burlachenkok/burtorch)
 
 ---
 
@@ -54,7 +55,7 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
      - (i) online [https://www.podbean.com/eas/pb-zs34b-16d2942](https://www.podbean.com/eas/pb-zs34b-16d2942) 
      - (ii) offline [(https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3).
 - **The arXiv preprint in KAUST Library repository**: [https://repository.kaust.edu.sa/items/2ac30675-eb6f-4980-a489-70abe79e888e](https://repository.kaust.edu.sa/items/2ac30675-eb6f-4980-a489-70abe79e888e)
-
+- **The GitHub repository**: [https://github.com/burlachenkok/ufednl](https://github.com/burlachenkok/ufednl)
 
 
 ---
@@ -88,6 +89,7 @@ Our work opens a new possibility for applying Classical Cryptography to <span st
 
 - **The arXiv preprint**: [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074)
 - **The arXiv preprint in KAUST Library repository**: [https://repository.kaust.edu.sa/items/e36d4766-a879-4ea4-94eb-6c969eadbebc](https://repository.kaust.edu.sa/items/e36d4766-a879-4ea4-94eb-6c969eadbebc)
+- **The GitHub repository**: [https://github.com/burlachenkok/fl-with-nonhe](https://github.com/burlachenkok/fl-with-nonhe)
 
 ---
 
