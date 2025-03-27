@@ -1,18 +1,20 @@
 ---
 layout: post
-title: On making several projects opensource - BurTorch, uFedNL, and PermK/AES
+title: On making three projects open source - BurTorch, uFedNL, and PermK/AES
 published: true
 ---
 
-On making several projects opensource - BurTorch, uFedNL, and PermK/AES.
+On making several projects open source - BurTorch, uFedNL, and PermK/AES.
 
 ---
 
-I am excited to announce that several of my projects are now open-sourced. 
+I am excited to announce that several of my projects are now open-sourced. Collaboration is key to advancing the fields, and we are open to future work with researchers, developers, and organizations who are interested in pushing the boundaries. Whether it is improving this implementation, contributing new ideas, or creating applications on top of these projects.  We welcome your involvement! Feel free to reach out, open an issue, or submit a pull request on GitHub.
 
-We have decided to share these projects with the community, hoping to drive collaboration, foster innovation. Below, there is a brief overview of each project.
+Below is a brief overview of each project from now on available in GitHub:
 
-
+- [https://github.com/burlachenkok/burtorch](https://github.com/burlachenkok/burtorch)
+- [https://github.com/burlachenkok/ufednl](https://github.com/burlachenkok/ufednl)
+- [https://github.com/burlachenkok/fl-with-nonhe](https://github.com/burlachenkok/fl-with-nonhe)
 
 ---
 
@@ -48,7 +50,7 @@ BurTorch achieves up to a x20 speedup and reduces memory up to x80 compared to [
 
 ## Unlocking FedNL Links Abstract
 
-Federated Learning (FL) is an emerging paradigm that enables intelligent agents to collaboratively train Machine Learning (ML) models in a distributed manner, eliminating the need for sharing their local data. The recent work ([arXiv:2106.02969](https://arxiv.org/abs/2106.02969)) introduces a family of Federated Newton Learn (FedNL) algorithms, marking a significant step towards applying second-order methods to FL and large-scale optimization. However, the reference FedNL prototype exhibits three serious practical drawbacks: (i) It requires 4.8 hours to launch a single experiment in a sever-grade workstation; (ii) The prototype only simulates multi-node setting; (iii) Prototype integration into resource-constrained applications is challenging. To bridge the gap between theory and practice, we present a self-contained implementation of FedNL, FedNL-LS, and FedNL-PP for single-node and multi-node settings. Our work resolves the aforementioned issues and reduces the wall clock time by x1000. With this FedNL outperforms alternatives for training logistic regression in a single-node - CVXPY ([arXiv:1603.00943](https://arxiv.org/abs/1603.00943)), and in a multi-node - Apache Spark ([arXiv:1505.06807](https://arxiv.org/abs/1505.06807)), Ray/Scikit-Learn ([arXiv:1712.05889](http://arxiv.org/abs/1712.05889)). Finally, we propose two practical-orientated compressors for FedNL - adaptive TopLEK and cache-aware RandSeqK, which fulfill the theory of FedNL.
+Federated Learning (FL) is an emerging paradigm that enables intelligent agents to collaboratively train Machine Learning (ML) models in a distributed manner, eliminating the need for sharing their local data. The recent work ([arXiv:2106.02969](https://arxiv.org/abs/2106.02969)) introduces a family of Federated Newton Learn (FedNL) algorithms, marking a significant step toward applying second-order methods to FL and large-scale optimization. However, the reference FedNL prototype exhibits three serious practical drawbacks: (i) It requires 4.8 hours to launch a single experiment in a sever-grade workstation; (ii) The prototype only simulates a multi-node setting; (iii) Prototype integration into resource-constrained applications is challenging. To bridge the gap between theory and practice, we present a self-contained implementation of FedNL, FedNL-LS, and FedNL-PP for single-node and multi-node settings. Our work resolves the aforementioned issues and reduces the wall clock time by x1000. With this FedNL outperforms alternatives for training logistic regression in a single-node - CVXPY ([arXiv:1603.00943](https://arxiv.org/abs/1603.00943)), and in a multi-node - Apache Spark ([arXiv:1505.06807](https://arxiv.org/abs/1505.06807)), Ray/Scikit-Learn ([arXiv:1712.05889](http://arxiv.org/abs/1712.05889)). Finally, we propose two practical-orientated compressors for FedNL - adaptive TopLEK and cache-aware RandSeqK, which fulfill the theory of FedNL.
 
 ## Unlocking FedNL Links
 
