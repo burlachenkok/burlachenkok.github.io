@@ -79,16 +79,10 @@ Our work opens a new possibility for applying Classical Cryptography to <span st
 
 ---
 
+<center>
 <table style="text-align:center;">
 <tr>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/images/burtorch-logo-1-med.png"/> </td> 
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/ufednl-med.png"/> </td>
+<td style="padding:30px;text-align:center;vertical-align:middle;"> <img height="115px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
 </tr>
 </table>
-
-<table style="text-align:center;">
-<tr>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="80px" src="https://burlachenkok.github.io/images/burtorch-logo-1-med.png"/> </td> 
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/ufednl-med.png"/> </td>
-</tr>
-</table>
+</center>
