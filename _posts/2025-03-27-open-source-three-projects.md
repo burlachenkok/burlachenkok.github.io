@@ -10,13 +10,14 @@ On making BurTorch, uFedNL, and FL with Non-HE open-source.
 
 Collaboration is key to advancing these fields, and we are excited to open these three projects for future work with researchers, developers, and organizations eager to push the boundaries of innovation. 
 
-Whether it is improving the existing implementations, contributing new ideas, or building applications on top of these projects, we welcome your involvement! 
-
-Feel free to reach out, open an issue, or submit a pull request on GitHub.
-
 1. [https://github.com/burlachenkok/burtorch](https://github.com/burlachenkok/burtorch)
 2. [https://github.com/burlachenkok/ufednl](https://github.com/burlachenkok/ufednl)
 3. [https://github.com/burlachenkok/fl-with-nonhe](https://github.com/burlachenkok/fl-with-nonhe)
+
+
+We welcome your involvement, whether you are improving the existing implementations, contributing new ideas, or building applications on top of these projects. 
+
+You can contact the original authors, open an issue, or submit a pull request on GitHub.
 
 ---
 
