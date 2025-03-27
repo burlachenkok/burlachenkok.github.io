@@ -13,6 +13,10 @@ I am excited to announce that several of my projects are now open-sourced.
 We have decided to share these projects with the community, hoping to drive collaboration, foster innovation. Below, there is a brief overview of each project.
 
 
+
+---
+
+
 # BurTorch: Revisiting Training from First Principles by Coupling Autodiff, Math Optimization, and Systems
 
 ## BurTorch Abstract 
@@ -33,11 +37,9 @@ BurTorch achieves up to a x20 speedup and reduces memory up to x80 compared to [
 ## BurTorch Links
 
 - **The arXiv preprint**: [https://arxiv.org/abs/2503.13795](https://arxiv.org/abs/2503.13795)
-- **Podcast** generated via [NotebookLM](https://notebooklm.google/) in an entertaining format:
-    - (i) online: [https://www.podbean.com/eas/pb-en4mf-184b9bf](https://www.podbean.com/eas/pb-en4mf-184b9bf)
-    - (ii) offline: [https://burlachenkok.github.io/podcasts/burtorch-generated-interview.mp3](https://burlachenkok.github.io/podcasts/burtorch-generated-interview.mp3)
 - **The arXiv preprint in KAUST Library repository**: [https://repository.kaust.edu.sa/bitstreams/0997f91f-441a-4f16-9003-3e33e729134e/download](https://repository.kaust.edu.sa/bitstreams/0997f91f-441a-4f16-9003-3e33e729134e/download)
 - **The GitHub repository**: [https://github.com/burlachenkok/burtorch](https://github.com/burlachenkok/burtorch)
+- **Relative posts**: [https://burlachenkok.github.io/burtorch/](https://burlachenkok.github.io/burtorch/)
 
 ---
 
@@ -51,12 +53,9 @@ Federated Learning (FL) is an emerging paradigm that enables intelligent agents 
 ## Unlocking FedNL Links
 
 - **The arXiv preprint**: [https://arxiv.org/abs/2410.08760](https://arxiv.org/abs/2410.08760)
-- **Podcast** generated via [NotebookLM](https://notebooklm.google/) in an entertaining format: 
-     - (i) online [https://www.podbean.com/eas/pb-zs34b-16d2942](https://www.podbean.com/eas/pb-zs34b-16d2942) 
-     - (ii) offline [(https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3](https://burlachenkok.github.io/podcasts/u-fednl-before-rebuttal.mp3).
 - **The arXiv preprint in KAUST Library repository**: [https://repository.kaust.edu.sa/items/2ac30675-eb6f-4980-a489-70abe79e888e](https://repository.kaust.edu.sa/items/2ac30675-eb6f-4980-a489-70abe79e888e)
 - **The GitHub repository**: [https://github.com/burlachenkok/ufednl](https://github.com/burlachenkok/ufednl)
-
+- **Relative posts**: [https://burlachenkok.github.io/ufednl-in-arxiv/](https://burlachenkok.github.io/ufednl-in-arxiv/)
 
 ---
 
@@ -90,6 +89,7 @@ Our work opens a new possibility for applying Classical Cryptography to <span st
 - **The arXiv preprint**: [https://arxiv.org/abs/2312.02074](https://arxiv.org/abs/2312.02074)
 - **The arXiv preprint in KAUST Library repository**: [https://repository.kaust.edu.sa/items/e36d4766-a879-4ea4-94eb-6c969eadbebc](https://repository.kaust.edu.sa/items/e36d4766-a879-4ea4-94eb-6c969eadbebc)
 - **The GitHub repository**: [https://github.com/burlachenkok/fl-with-nonhe](https://github.com/burlachenkok/fl-with-nonhe)
+- **Relative posts**: [https://burlachenkok.github.io/add-insights-in-dcgd-permk-aes/](https://burlachenkok.github.io/add-insights-in-dcgd-permk-aes/), [https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/](https://burlachenkok.github.io/FL-Privacy-From-Compressor-Accepted-on-DML2023/)
 
 ---
 
