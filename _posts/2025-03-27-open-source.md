@@ -4,7 +4,7 @@ title: On Making Three Projects Open-Source
 published: true
 ---
 
-On making BurTorch, uFedNL, and PermK/AES open-source.
+On making BurTorch, uFedNL, and FL with Non-HE open-source.
 
 ---
 
