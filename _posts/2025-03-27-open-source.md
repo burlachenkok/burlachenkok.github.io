@@ -84,6 +84,7 @@ Our framework offers a way to replace <span style="color:rgb(122,76,24)">HE</spa
 <table style="text-align:center;">
 <tr>
 <td style="padding:30px;text-align:center;vertical-align:middle;"> <img height="115px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td>
+<td style="padding:30px;text-align:center;vertical-align:middle;"> <img height="115px" src="https://burlachenkok.github.io/materials/osi-logo.svg"/> </td>
 </tr>
 </table>
 </center>
