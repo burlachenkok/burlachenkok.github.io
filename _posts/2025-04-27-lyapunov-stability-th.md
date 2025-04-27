@@ -74,7 +74,7 @@ $$
 \frac{dx}{dt} = f(x), \quad x(0) = x_0.
 $$
 
-If the set $I = \left\{ x : \langle \nabla V(x), f(x) \rangle = 0 \right\}$ is empty except for $$x(t)=0$$ then
+If the set $$I = \left\{ x : \langle \nabla V(x), f(x) \rangle = 0 \right\}$$ is empty except for $$x(t)=0$$ then
 
 $$
 \lim_{t \to \infty} x(t) = 0.
