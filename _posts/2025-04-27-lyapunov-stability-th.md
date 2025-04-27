@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Note on Two Theorems On Lyapunov Stability
+title: Note on Two Theorems on Lyapunov Stability Theory
 published: true
 ---
 
