@@ -10,15 +10,15 @@ The material below is based on Prof. Eric Feron's Non-Linear Control class.
 
 ## Stability
 
-**Asymptotic Stability**. The $x(t)$ is asymptotic stable if $\lim_{t \to \infty} x(t) = 0.$
+**Asymptotic Stability**. The $$x(t)$$ is asymptotic stable if $$\lim_{t \to \infty} x(t) = 0.$$
 
-**Exponential Stability.** The $x(t)$ is exponential stable if $\|x(t)\| \le c\cdot \exp(-\alpha t)\|x_0\|.$
+**Exponential Stability.** The $$x(t)$$ is exponential stable if $$\|x(t)\| \le c\cdot \exp(-\alpha t)\|x_0\|.$$
 
 ## Lyapunov Function
 
-Assume that we can define a function $V(x): \mathbb{R}^d \to \mathbb{R}^+$, and this function is sufficiently smooth.
+Assume that we can define a function $$V(x): \mathbb{R}^d \to \mathbb{R}^+$$, and this function is sufficiently smooth.
 
-Next, $V(x) = 0$ if and only if $x = 0$. Finally, $V(x)$ is radially unbounded in the sense that for all $M \in \mathbb{R}$, there exists $R \in \mathbb{R}$ such that
+Next, $$V(x) = 0$$ if and only if $$x = 0$$. Finally, $$V(x)$$ is radially unbounded in the sense that for all $$M \in \mathbb{R}$$, there exists $$R \in \mathbb{R}$$ such that
 
 $$
 \|x\|^2 \geq R^2 \implies V(x) \geq M.
@@ -73,10 +73,10 @@ $$
 If the largest invariant subset of the set
 
 $$
-I = \left\{ x : \langle \nabla V(x), f(x) \rangle = 0 \right\}
+I = \left\{ x : \langle \nabla V(x), f(x) \rangle = 0 \right\} = \left\{ x = 0 \right\},
 $$
 
-contains only \( x = 0 \), then
+then
 
 $$
 \lim_{t \to \infty} x(t) = 0.
