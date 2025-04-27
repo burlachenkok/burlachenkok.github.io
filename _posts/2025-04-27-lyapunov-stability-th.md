@@ -19,9 +19,7 @@ I was glad to gain insights from Prof. Eric Feron's Non-Linear Control course, w
 
 ## Lyapunov Function
 
-Assume that we can define a function $$V(x): \mathbb{R}^d \to \mathbb{R}^+$$, and this function is continuously differentiable.
-
-Next, $$V(x) = 0$$ if and only if $$x = 0$$. Finally, $$V(x)$$ is radially unbounded in the sense that for all $$M \in \mathbb{R}$$, there exists $$R \in \mathbb{R}$$ such that
+Assume that we can define a function $$V(x): \mathbb{R}^d \to \mathbb{R}^+$$, and this function is continuously differentiable. Next, $$V(x) = 0$$ if and only if $$x = 0$$. Finally, $$V(x)$$ is radially unbounded in the sense that for all $$M \in \mathbb{R}$$, there exists $$R \in \mathbb{R}$$ such that
 
 $$
 \|x\|^2 \geq R^2 \implies V(x) \geq M.
