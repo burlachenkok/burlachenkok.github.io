@@ -4,7 +4,8 @@ title: Biography
 permalink: /biography/
 ---
 
-Konstantin Burlachenko is a systems-oriented machine learning researcher specializing in scalable optimization and high-performance scientific software. His works bridges theoretical algorithm design with practical, compute-efficient implementations for federated and distributed learning.
+Konstantin Burlachenko is a systems-oriented researcher specializing in scalable and high-performance scientific software. His works bridges theoretical algorithm design with practical, compute-efficient implementations.
+
 
 He earned M.S. degree in Computer Science and Control Systems from [Bauman Moscow State University](http://bmstu.ru/) in 2009. After graduation, he worked as a Senior Engineer for [Acronis](https://www.acronis.com/), [Yandex](https://en.wikipedia.org/wiki/Yandex), and [NVIDIA](https://developer.nvidia.com/), later serving as a Principal Engineer at [HUAWEI](https://huawei.ru/).
 
