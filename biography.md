@@ -44,7 +44,7 @@ His work has been presented at leading venues, including:
 * Grand Challenge Project Proposal Grant Shaheen III CPU, 2024 ([KAUST Shaheen III](https://www.kaust.edu.sa/en/news/kaust-s-shaheen-iii-confirmed-as-the-middle-east-s-most-powerful-supercomputer)) 
 * Co-secured a 4-year RDIA grant, 2025 ([RDIA](https://rdia.gov.sa/en/))
 
-He also holds the title of Candidate Master of Sport in Chess, awarded by the International Chess Federation (FIDE).
+He also holds the title of Candidate Master of Sport in Chess, awarded by the International Chess Federation ([FIDE](https://www.fide.com/)).
 
 ## Additional Interests
 
