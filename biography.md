@@ -15,7 +15,7 @@ Between 2015 and 2019, he completed the [Non-Degree Option Program](https://onli
 
 In 2020, Konstantin re-entered academia to deepen his scientific expertise, explore research in rigorous detail, and pursue a Ph.D. in Computer Science.
 
-* **2020 –- 2025**: Member of [Peter Richtárik's](https://richtarik.org/) Optimization and Machine Learning Lab, part of the [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai), led by [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/).
+* **2020 – 2025**: Member of [Peter Richtárik's](https://richtarik.org/) Optimization and Machine Learning Lab, part of the [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai), led by [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/).
 * **2021**: Offered for a Internship in AI and Systems Co-Design at [META, USA](https://www.meta.com).
 * **2024**: Interned with the Private Federated Learning ML Team at [Apple, UK](https://www.apple.com/).
 * **2025**: Defended Ph.D. dissertation *"Optimization Methods and Software for Federated Learning,"* before a committee of global leaders in optimization, systems, HPC, control, and AI: [Peter Richtárik](https://richtarik.org/), [Stephen Boyd](https://stanford.edu/~boyd/), [Nic Lane](https://www.cst.cam.ac.uk/people/ndl32), [David Keyes](https://en.wikipedia.org/wiki/David_E._Keyes), [Eric Feron](https://en.wikipedia.org/wiki/Eric_Feron), and [Suhaib Fahmy](https://cemse.kaust.edu.sa/profiles/suhaib-fahmy).
