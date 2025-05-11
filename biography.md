@@ -6,7 +6,7 @@ permalink: /biography/
 
 Konstantin Burlachenko is a systems-oriented machine learning researcher specializing in scalable optimization and high-performance scientific software. His works bridges theoretical algorithm design with practical, compute-efficient implementations for federated and distributed learning.
 
-Konstantin earned his M.S. degree in Computer Science and Control Systems from [Bauman Moscow State University](http://bmstu.ru/) in 2009. After graduation, he worked as a Senior Engineer for [Acronis](https://www.acronis.com/), [Yandex](https://en.wikipedia.org/wiki/Yandex), and [NVIDIA](https://developer.nvidia.com/), later serving as a Principal Engineer at [HUAWEI](https://huawei.ru/).
+He earned M.S. degree in Computer Science and Control Systems from [Bauman Moscow State University](http://bmstu.ru/) in 2009. After graduation, he worked as a Senior Engineer for [Acronis](https://www.acronis.com/), [Yandex](https://en.wikipedia.org/wiki/Yandex), and [NVIDIA](https://developer.nvidia.com/), later serving as a Principal Engineer at [HUAWEI](https://huawei.ru/).
 
 Between 2015 and 2019, he completed the [Non-Degree Option Program](https://online.stanford.edu/non-degree-option-program) at [Stanford University](https://www.stanford.edu/), earning two graduate certificates:
 * [Data, Models and Optimization Graduate Certificate](https://online.stanford.edu/programs/data-models-and-optimization-graduate-certificate)
