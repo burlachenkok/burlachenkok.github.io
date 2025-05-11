@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Konstantin Burlachenko
+title: Konstantin Burlachenko, PhD
 permalink: /home
 published: true
 ---
