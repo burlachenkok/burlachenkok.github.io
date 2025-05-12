@@ -14,7 +14,7 @@ From 2015 to 2019, he completed the [Non-Degree Option Program](https://online.s
 * [Data, Models, and Optimization](https://online.stanford.edu/programs/data-models-and-optimization-graduate-certificate)
 * [Artificial Intelligence](https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate)
 
-In 2020, Konstantin returned to academia to deepen his scientific expertise, conduct rigorous research, and pursue a Ph.D. in Computer Science.
+In 2020, Konstantin returned to academia to deepen his scientific expertise, conduct rigorous research, and pursue a Ph.D. in Computer Science at [KAUST](https://www.kaust.edu.sa/).
 
 * **2020–2025**: Member of [Peter Richtárik's](https://richtarik.org/) Optimization and Machine Learning Lab, part of the [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai) led by [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/).
 * **2021**: Offered an AI and Systems Co-Design internship at [Meta, USA](https://www.meta.com).
