@@ -4,7 +4,7 @@ title: PhD Defense with a World-Class Committee
 published: true
 ---
 
-Ph.D. Dissertation Defense – May 8, 2025
+Ph.D. Dissertation Defense in Computer Science "Optimization Methods and Software for Federated Learning" (May 8, 2025).
 
 ---
 
