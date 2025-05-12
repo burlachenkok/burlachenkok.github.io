@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Information
+title: Contact
 permalink: /contact
 published: true
 ---
@@ -13,7 +13,7 @@ th, td {
 </style>
 
 --- |
-**Name (t):** Konstantin Burlachenko, PhD |
+**Name:** Konstantin Burlachenko, PhD |
 **Website:** [https://burlachenkok.github.io](https://burlachenkok.github.io) |
 **Email:** [burlachenkok@gmail.com](mailto:burlachenkok@gmail.com) |
 **LinkedIn:** [https://www.linkedin.com/in/burlachenkok](https://www.linkedin.com/in/burlachenkok) |
