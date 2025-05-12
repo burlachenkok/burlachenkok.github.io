@@ -12,7 +12,7 @@ If you're thinking seriously about it, the answer might seem like *no*.
 
 **But on 08 May 2025, it happened...**
 
-That year, Konstantin Burlachenko defended his Ph.D. in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/).
+Konstantin Burlachenko defended his Ph.D. in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/).
 
 His doctoral research pushed the boundaries of Federated Learning, focusing on scalable optimization algorithms and high-performance software solutions. His work bridged the gap between deep mathematical rigor and the practical demands of real-world system implementations and articulated how these elements can be connected in several ways.
 
