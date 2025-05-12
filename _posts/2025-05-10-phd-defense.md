@@ -4,13 +4,9 @@ title: PhD Defense with a World-Class Committee
 published: true
 ---
 
-Is it possible to gather six world-renowned scientists and pioneers in one room?
-
-If you're thinking seriously about it, the answer might seem like *no*. 
+Ph.D. Dissertation Defense – May 8, 2025
 
 ---
-
-**But on 08 May 2025, it happened...**
 
 Konstantin Burlachenko defended his Ph.D. in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/).
 
