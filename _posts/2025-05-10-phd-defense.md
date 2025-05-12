@@ -18,9 +18,9 @@ His doctoral research pushed the boundaries of Federated Learning, focusing on s
 
 His work bridged the gap between deep mathematical rigor and the practical demands of real-world system implementations and emphasized that these elements should not be considered in isolation.
 
-The dissertation, titled *"Optimization Methods and Software for Federated Learning,"* was defended before a distinguished committee of global experts. It marked an event at the intersection of theory and practice in distributed machine learning.
+The dissertation, titled [*"Optimization Methods and Software for Federated Learning"*](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/05/08/optimization-methods-and-software-federated) was defended before a distinguished committee of global experts. It marked an event at the intersection of theory and practice in distributed machine learning.
 
-The esteemed dissertation committee included:
+The dissertation committee included:
 
 - **[Peter Richtarik](https://richtarik.org/)** - Professor at KAUST, Konstantin's advisor, and one of the pioneers of Federated Learning. His contributions to randomized and distributed optimization methods are foundational and have shaped the future of the field.
 - **[Stephen Boyd](https://stanford.edu/~boyd/)** - Professor at Stanford University, a giant in convex optimization, control systems, and applied mathematics. His groundbreaking works continue to influence entire generations of engineers and mathematicians.
