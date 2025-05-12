@@ -4,7 +4,7 @@ title: PhD Defense with a World-Class Committee
 published: true
 ---
 
-*Is it possible to gather six world-renowned scientists and pioneers in one room?*
+Is it possible to gather six world-renowned scientists and pioneers in one room?
 
 If you're thinking seriously about it, the answer might seem like *no*. 
 
