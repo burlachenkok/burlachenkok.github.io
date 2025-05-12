@@ -4,11 +4,9 @@ title: PhD Defense with a World-Class Committee
 published: true
 ---
 
-**Is it possible to gather six world-renowned scientists and pioneers in their fields in one room?**
+*Is it possible to gather six world-renowned scientists and pioneers in their fields in one room?*
 
-If you're thinking seriously about it, the answer might seem like *no*.
-
-After all, very few governments, no matter how powerful, could successfully unite six pioneers from diverse scientific disciplines - especially when these pioneers are actively reshaping the landscapes of their fields.
+If you're thinking seriously about it, the answer might seem like *no*. After all, very few governments, no matter how powerful, could successfully unite six pioneers from diverse scientific disciplines - especially when these pioneers are actively reshaping the landscapes of their fields.
 
 ---
 
