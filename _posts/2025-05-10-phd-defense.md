@@ -35,5 +35,6 @@ In this moment, the brightest minds from different corners of science converged,
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/stanford-wordmark.svg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/cambridge-logo.svg"/> </td>
 </tr>
 </table>
