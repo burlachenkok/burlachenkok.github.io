@@ -22,10 +22,10 @@ The dissertation committee included:
 
 - **[Peter Richtarik](https://richtarik.org/)** - Professor at KAUST, Konstantin's advisor, and one of the pioneers of Federated Learning. His contributions to randomized and distributed optimization methods are foundational and have shaped the future of the field.
 - **[Stephen Boyd](https://stanford.edu/~boyd/)** - Professor at Stanford University, a giant in convex optimization, control systems, and applied mathematics. His groundbreaking works continue to influence entire generations of engineers and applied mathematicians.
-- **[Nic Lane](https://www.cst.cam.ac.uk/people/ndl32)** - Professor at the University of Cambridge, a leading voice in embedded machine learning and resource-efficient AI. His efforts to make Federated Learning practical and deployable pave the way for its real-world applications.
-- **[David Keyes](https://www.kaust.edu.sa/en/about/administration/office-of-the-president/senior-associate-president)** - Director of the Extreme Computing Research Center at KAUST, a pioneer in high-performance computing, parallel algorithms, and numerical analysis, pushing the limits of computational power.
 - **[Suhaib Fahmy](https://accl.kaust.edu.sa/)** - Professor at KAUST, a specialist in reconfigurable computing, systems architecture, and hardware-software co-design, helping to build the future of compute-efficient solutions at KAUST.
 - **[Eric Feron](https://ats.kaust.edu.sa/)** - Professor at KAUST, an expert in control theory and autonomous aerospace systems, known for transforming our thoughts about intelligent systems and control theory.
+- **[David Keyes](https://www.kaust.edu.sa/en/about/administration/office-of-the-president/senior-associate-president)** - Director of the Extreme Computing Research Center at KAUST, a pioneer in high-performance computing, parallel algorithms, and numerical analysis, pushing the limits of computational power.
+- **[Nic Lane](https://www.cst.cam.ac.uk/people/ndl32)** - Professor at the University of Cambridge, a leading voice in embedded machine learning and resource-efficient AI. His efforts to make Federated Learning practical and deployable pave the way for its real-world applications.
 
 In this moment, the brightest minds from different corners of science and the world converged, and Konstantin made his mark on the scientific world.
 
