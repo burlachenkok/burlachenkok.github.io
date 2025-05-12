@@ -6,13 +6,13 @@ published: true
 
 *Is it possible to gather six world-renowned scientists and pioneers in one room?*
 
-If you're thinking seriously about it, the answer might seem like *no*. After all, very few governments, no matter how powerful, could successfully unite six pioneers from diverse scientific disciplines - especially when these pioneers are actively reshaping the landscapes of their fields.
+If you're thinking seriously about it, the answer might seem like *no*. 
 
 ---
 
 **But on 08 May 2025, it happened...**
 
-That year, Konstantin Burlachenko defended his Ph.D. in Computer Science at King Abdullah University of Science and Technology (KAUST).
+That year, Konstantin Burlachenko defended his Ph.D. in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/).
 
 His doctoral research pushed the boundaries of Federated Learning, focusing on scalable optimization algorithms and high-performance software solutions.
 
@@ -33,8 +33,8 @@ In this moment, the brightest minds from different corners of science and the wo
 
 <table style="text-align:center;">
 <tr>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="100px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/stanford-wordmark.svg"/> </td>
-<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="85px" src="https://burlachenkok.github.io/materials/cambridge-logo.svg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="200px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="45px" src="https://burlachenkok.github.io/materials/stanford-wordmark.svg"/> </td>
+<td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="285px" src="https://burlachenkok.github.io/materials/cambridge-logo.svg"/> </td>
 </tr>
 </table>
