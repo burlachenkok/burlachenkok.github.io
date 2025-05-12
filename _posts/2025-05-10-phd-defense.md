@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhD Defense of Konstantin Burlachenko with a World-Class Committee
+title: PhD Defense with a World-Class Committee
 published: true
 ---
 
