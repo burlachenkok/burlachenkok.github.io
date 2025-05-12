@@ -14,7 +14,7 @@ If you're thinking seriously about it, the answer might seem like *no*.
 
 That year, Konstantin Burlachenko defended his Ph.D. in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/).
 
-His doctoral research pushed the boundaries of Federated Learning, focusing on scalable optimization algorithms and high-performance software solutions. His works bridged the gap between deep mathematical rigor and the practical demands of real-world system implementations and emphasized that these elements should not be considered in isolation.
+His doctoral research pushed the boundaries of Federated Learning, focusing on scalable optimization algorithms and high-performance software solutions. His work bridged the gap between deep mathematical rigor and the practical demands of real-world system implementations and articulated how these elements can be connected in several ways.
 
 The dissertation, titled [*"Optimization Methods and Software for Federated Learning"*](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/05/08/optimization-methods-and-software-federated) was defended before a distinguished committee of global experts. It marked an event at the intersection of theory and practice in distributed machine learning.
 
