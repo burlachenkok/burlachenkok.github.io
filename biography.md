@@ -38,7 +38,7 @@ His research has been presented at leading venues, including:
 * Grant from the Saudi Authority for Data and Artificial Intelligence, 2022 ([SDAIA](https://sdaia.gov.sa/ar/default.aspx))
 * AMD Radeon Instinct MI50 from AMD Inc., 2022 ([AMD](https://www.amd.com/))
 * Dean’s List Award, 2023 ([KAUST](https://www.kaust.edu.sa/en/))
-* Grand Challenge Project Proposal Grant (Shaheen III CPU), 2024 ([KAUST Shaheen III](https://www.kaust.edu.sa/en/news/kaust-s-shaheen-iii-confirmed-as-the-middle-east-s-most-powerful-supercomputer)) 
+* Grand Challenge Project Proposal Grant (Shaheen III CPU), 2024 ([Shaheen III](https://www.kaust.edu.sa/en/news/kaust-s-shaheen-iii-confirmed-as-the-middle-east-s-most-powerful-supercomputer)) 
 * Co-secured a 4-year RDIA grant, 2025 ([RDIA](https://rdia.gov.sa/en/))
 
 He also holds the title of Candidate Master of Sport in Chess, awarded by the International Chess Federation ([FIDE](https://www.fide.com/)).
