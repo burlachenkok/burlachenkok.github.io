@@ -13,7 +13,7 @@ th, td {
 </style>
 
 --- |
-**Name:** Konstantin Burlachenko
+**Name:** Konstantin Burlachenko |
 **Website:** [https://burlachenkok.github.io](https://burlachenkok.github.io) |
 **Email:** [burlachenkok@gmail.com](mailto:burlachenkok@gmail.com) |
 **LinkedIn:** [https://www.linkedin.com/in/burlachenkok](https://www.linkedin.com/in/burlachenkok) |
