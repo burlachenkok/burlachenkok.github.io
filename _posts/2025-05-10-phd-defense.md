@@ -8,7 +8,9 @@ Ph.D. Dissertation Defense in Computer Science titled [*"Optimization Methods an
 
 ---
 
-On May 8, 2025, Konstantin Burlachenko defended his Ph.D. in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/). The full text dissertation "Optimization Methods and Software for Federated Learning" has been archived in the KAUST Repository at [http://hdl.handle.net/10754/704085](http://hdl.handle.net/10754/704085).
+On May 8, 2025, Konstantin Burlachenko defended his Ph.D. in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/). 
+
+The full text of the dissertation “Optimization Methods and Software for Federated Learning” has been archived in the KAUST Repository at [http://hdl.handle.net/10754/704085](http://hdl.handle.net/10754/704085).
 
 The dissertation [*"Optimization Methods and Software for Federated Learning"*](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/05/08/optimization-methods-and-software-federated) identifies five key challenges in Federated Learning (FL), including data and device heterogeneity, communication issues, privacy concerns, and software implementations. More broadly, this work serves as a guide for researchers navigating the complexities of translating theoretical methods into efficient real-world implementations, while also offering insights into the reverse process of adapting practical implementation aspects back into theoretical algorithm design.
 
