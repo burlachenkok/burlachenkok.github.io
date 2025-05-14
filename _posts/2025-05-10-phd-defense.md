@@ -8,9 +8,9 @@ Ph.D. Dissertation Defense in Computer Science titled [*"Optimization Methods an
 
 ---
 
-Konstantin Burlachenko defended his Ph.D. in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/).
+On May 8, 2025, Konstantin Burlachenko defended his Ph.D. in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/). The full text dissertation "Optimization Methods and Software for Federated Learning" has been archived in the KAUST Repository at [http://hdl.handle.net/10754/704085](http://hdl.handle.net/10754/704085).
 
-This dissertation [*"Optimization Methods and Software for Federated Learning"*](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/05/08/optimization-methods-and-software-federated) identifies five key challenges in Federated Learning (FL), including data and device heterogeneity, communication issues, privacy concerns, and software implementations. More broadly, this work serves as a guide for researchers navigating the complexities of translating theoretical methods into efficient real-world implementations, while also offering insights into the reverse process of adapting practical implementation aspects back into theoretical algorithm design.
+The dissertation [*"Optimization Methods and Software for Federated Learning"*](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/05/08/optimization-methods-and-software-federated) identifies five key challenges in Federated Learning (FL), including data and device heterogeneity, communication issues, privacy concerns, and software implementations. More broadly, this work serves as a guide for researchers navigating the complexities of translating theoretical methods into efficient real-world implementations, while also offering insights into the reverse process of adapting practical implementation aspects back into theoretical algorithm design.
 
 The dissertation, titled [*"Optimization Methods and Software for Federated Learning"*](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/05/08/optimization-methods-and-software-federated) was defended before a distinguished committee of global experts:
 
@@ -20,8 +20,6 @@ The dissertation, titled [*"Optimization Methods and Software for Federated Lear
 - **[Eric Feron](https://ats.kaust.edu.sa/)** - Professor at KAUST, an expert in control theory and autonomous aerospace systems, known for transforming our thoughts about intelligent systems and control theory.
 - **[David Keyes](https://www.kaust.edu.sa/en/about/administration/office-of-the-president/senior-associate-president)** - Professor at KAUST, Director of the Extreme Computing Research Center at KAUST, a pioneer in high-performance computing, parallel algorithms, and numerical analysis, pushing the limits of computational power.
 - **[Nic Lane](https://www.cst.cam.ac.uk/people/ndl32)** - Professor at the University of Cambridge, a leading voice in embedded machine learning and resource-efficient AI. His efforts to make Federated Learning practical and deployable pave the way for its real-world applications.
-
-In this moment, the brightest minds from different corners of science and the world converged, and Konstantin made his mark on the scientific world.
 
 <table style="text-align:center;">
 <tr>
