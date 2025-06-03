@@ -22,5 +22,3 @@ th, td {
 **Stack Overflow:** [https://stackoverflow.com/users/1154447/konstantin-burlachenko](https://stackoverflow.com/users/1154447/konstantin-burlachenko) |
 **GitHub:** [https://github.com/burlachenkok](https://github.com/burlachenkok) |
 **X (Twitter):** [https://x.com/burlachekok](https://x.com/burlachekok) |
-**Phone (Saudi Arabia):** +966 0565695517 |
-**Phone (Russia):** +7 926 470 01 93 |
