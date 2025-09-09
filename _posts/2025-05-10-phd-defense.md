@@ -23,6 +23,14 @@ The dissertation, titled [*"Optimization Methods and Software for Federated Lear
 - **[David Keyes](https://www.kaust.edu.sa/en/about/administration/office-of-the-president/senior-associate-president)** - Professor at KAUST, Director of the Extreme Computing Research Center at KAUST, a pioneer in high-performance computing, parallel algorithms, and numerical analysis, pushing the limits of computational power.
 - **[Nic Lane](https://www.cst.cam.ac.uk/people/ndl32)** - Professor at the University of Cambridge, a leading voice in embedded machine learning and resource-efficient AI. His efforts to make Federated Learning practical and deployable pave the way for its real-world applications.
 
+---
+
+Materials:
+
+- Dissertation in the KAUST Repository: [https://repository.kaust.edu.sa/items/0f69f111-0e97-463e-97be-5911bd3d4022](https://repository.kaust.edu.sa/items/0f69f111-0e97-463e-97be-5911bd3d4022)
+- Presentation slides: [https://burlachenkok.github.io/materials/08MAY_PhD_defense_kburlachenko_kaust.pdf](https://burlachenkok.github.io/materials/08MAY_PhD_defense_kburlachenko_kaust.pdf)
+
+
 <table style="text-align:center;">
 <tr>
 <td style="padding:15px;text-align:center;vertical-align:middle;"> <img height="200px" src="https://burlachenkok.github.io/materials/KAUST-logo.svg"/> </td> 
